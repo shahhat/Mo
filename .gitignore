@@ -1,0 +1,5 @@
+work/
+raw/
+refs/
+*.part
+__pycache__/

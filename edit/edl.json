@@ -1,0 +1,9 @@
+{
+ "_comment": "EDL skeleton on the measured grid of the shared track (see analysis/beat_grid_WHyDL7lN57g.json). Shots are placeholders until the raw frames can be viewed; 'in'/'out' are source seconds, 'accents' are the timeline accents cuts and sweep peaks must land on (tolerance 1 frame at 29.97).",
+ "fps": "30000/1001", "width": 3840, "height": 2160, "bitrate_mbps": 40,
+ "music": {"file": "refs/ref_WHyDL7lN57g.m4a", "start": 0.0, "fade_in": 0.0, "fade_out": 2.5, "lufs": -14, "tp": -1},
+ "accents": [0.116, 1.579, 4.087, 7.663, 10.403, 12.214, 14.025, 14.954, 16.765, 20.387, 23.127, 24.938, 27.214, 28.235, 29.489, 34.946, 38.127, 40.403, 42.214, 44.048, 46.765, 48.576],
+ "shots": [],
+ "end_card": {"file": null, "dur": 0.0},
+ "tail_black": 0.0
+}
