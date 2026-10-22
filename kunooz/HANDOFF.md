@@ -55,7 +55,7 @@ Run this in a **local** Claude desktop session (the built-in browser pane, alrea
    - Create (or Duplicate 45547 and then clear everything piece-specific) with: internal reference = `code`;
      name in the same pattern as 45547; description = `description_ar (sheet)` exactly as written in the sheet;
      main image = `main_image`; extra media = `extra_images` in that order; same category / type / tags / website settings as 45547;
-     attachments of the same kind 45547 has (if 45547 carries the film, the 20 pieces have none, so skip it).
+     attachments of the same kind 45547 has (if 45547 carries the film, the 22 pieces have none, so skip it).
    - Price: leave empty / same "on request" handling as 45547 unless the owner gives prices. Do not invent numbers.
 3. Rows with a `sheet_note` need the owner's eye before publishing:
    - ROS-K-004: SAiM stamp on the minaret base; the owner confirmed in the description session that this stamp = "خراطة المبدع صايم".
