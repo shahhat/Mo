@@ -66,8 +66,7 @@ else:
 
 # 3. images + entries
 new = {}
-for code in sorted(meta):
-    if code.startswith("_"): continue
+for code in sorted(k for k in meta if not k.startswith("_")):
     picks = sel.get(code) or []
     imgs = []
     for k, pk in enumerate(picks, 1):
@@ -110,6 +109,10 @@ for p in pieces:
     out_list.append(p)
 if not inserted: out_list.extend(new[c] for c in sorted(new))
 C["pieces"] = out_list
+for cid, total in meta.get("_cat_totals", {}).items():
+    for c in C["cats"]:
+        if c["id"] == cid and c["total"] != total:
+            print(f"category {cid}: total {c['total']} -> {total}"); c["total"] = total
 
 # 5. mirror every other asset the catalog references
 for p in out_list:
