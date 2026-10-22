@@ -1,0 +1,9 @@
+{
+ "redirects": [
+  {
+   "source": "/k/:code",
+   "destination": "/#/p/:code",
+   "permanent": false
+  }
+ ]
+}

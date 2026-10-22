@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0c0c">
+<title>كتالوج المسابيح — نموذج تجريبي</title>
+<style>
+@font-face{font-family:"Plex";src:url(font/IBMPlexSansArabic-Regular.ttf);font-weight:400;font-display:swap}
+@font-face{font-family:"Plex";src:url(font/IBMPlexSansArabic-Medium.ttf);font-weight:500;font-display:swap}
+@font-face{font-family:"Plex";src:url(font/IBMPlexSansArabic-Bold.ttf);font-weight:700;font-display:swap}
+@font-face{font-family:"Amiri";src:url(font/Amiri-Bold.ttf);font-weight:700;font-display:swap}
+:root{
+  --bg:#0b0c0c; --surface:#141615; --surface2:#1b1e1d; --line:#2a2e2c;
+  --text:#f3efe6; --muted:#a3a59d; --gold:#d6ab6c; --teal:#16a498; --teal-ink:#04211e;
+  --r:14px; --pad:16px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Plex",system-ui,"Segoe UI",Tahoma,sans-serif;
+  font-size:16px;line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer}
+img,video{display:block;max-width:100%}
+.ltr{direction:ltr;unicode-bidi:isolate}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:6px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 var(--pad)}
+
+/* header */
+.top{position:sticky;top:0;z-index:20;background:rgba(11,12,12,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:12px;height:64px}
+.brand{display:flex;align-items:center;gap:10px;min-width:0}
+.brand img{height:46px;width:auto}
+.brand b{font-family:"Amiri",serif;font-size:21px;line-height:1.1;color:var(--gold);display:block}
+.brand span{font-size:12.5px;color:var(--muted);display:block;line-height:1.3}
+.demo{margin-inline-start:auto;font-size:12px;color:var(--gold);border:1px solid rgba(214,171,108,.45);
+  padding:3px 10px;border-radius:99px;white-space:nowrap}
+
+/* home */
+.hero{padding:26px 0 8px}
+.hero h1{font-family:"Amiri",serif;font-size:34px;line-height:1.25;margin:0 0 6px;color:var(--text)}
+.hero p{margin:0;color:var(--muted);font-size:15.5px;max-width:34em}
+.search{margin:18px 0 6px;position:relative}
+.search input{width:100%;height:48px;border-radius:12px;border:1px solid var(--line);background:var(--surface);
+  color:var(--text);font:inherit;padding:0 44px 0 14px}
+.search input::placeholder{color:#7d8079}
+.search svg{position:absolute;inset-inline-start:14px;top:14px;width:20px;height:20px;stroke:var(--muted)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px var(--pad) 14px;margin:0 calc(var(--pad)*-1);scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;height:40px;padding:0 14px;border-radius:99px;border:1px solid var(--line);background:transparent;
+  font-size:14.5px;display:flex;align-items:center;gap:7px;white-space:nowrap}
+.chip small{font-size:12px;color:var(--muted)}
+.chip[aria-pressed=true]{background:var(--gold);border-color:var(--gold);color:#1a1307;font-weight:700}
+.chip[aria-pressed=true] small{color:#4b3a1c}
+.count{font-size:13.5px;color:var(--muted);margin:2px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+@media(min-width:680px){.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}}
+@media(min-width:960px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:block;
+  transition:border-color .15s, transform .15s}
+.card:hover{border-color:rgba(214,171,108,.6)}
+.card .ph{position:relative;aspect-ratio:1/1;background:#000}
+.card .ph img{width:100%;height:100%;object-fit:cover}
+.badge{position:absolute;inset-inline-start:8px;bottom:8px;background:rgba(0,0,0,.72);color:#fff;font-size:12px;
+  padding:3px 9px;border-radius:99px;display:flex;align-items:center;gap:5px;border:1px solid rgba(255,255,255,.18)}
+.badge i{width:0;height:0;border-style:solid;border-width:4.5px 0 4.5px 7px;border-color:transparent transparent transparent var(--gold)}
+.card .tx{padding:10px 12px 12px}
+.card .nm{font-weight:500;font-size:15px;line-height:1.45}
+.code{font-family:ui-monospace,Consolas,monospace;font-size:13px;color:var(--gold);letter-spacing:.02em}
+.more{border:1px dashed #3a3f3c;border-radius:var(--r);padding:16px;display:flex;flex-direction:column;justify-content:center;
+  min-height:150px;color:var(--muted);font-size:14.5px;line-height:1.6}
+.more b{color:var(--text);font-weight:500;display:block;margin-bottom:2px}
+.empty{border:1px dashed #3a3f3c;border-radius:var(--r);padding:34px 18px;text-align:center;color:var(--muted)}
+.empty b{display:block;color:var(--text);font-family:"Amiri",serif;font-size:22px;margin-bottom:4px}
+footer.wrap{margin:38px auto 0;border-top:1px solid var(--line);padding:18px var(--pad) 34px;color:var(--muted);font-size:13.5px;line-height:1.8}
+footer b{color:var(--text);font-weight:500}
+
+/* piece */
+.back{display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:14.5px;padding:14px 0 10px}
+.piece{display:grid;grid-template-columns:minmax(0,1fr);gap:22px}
+.gal,.info{min-width:0}
+@media(min-width:860px){.piece{grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:34px;align-items:start}}
+.stage{background:#000;border-radius:var(--r);overflow:hidden;border:1px solid var(--line);aspect-ratio:1/1;position:relative}
+.stage img{width:100%;height:100%;object-fit:contain}
+.stage .n{position:absolute;left:50%;transform:translateX(-50%);bottom:10px;background:rgba(0,0,0,.65);font-size:12px;padding:2px 9px;border-radius:99px}
+.thumbs{display:flex;gap:8px;margin-top:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
+.thumbs::-webkit-scrollbar{display:none}
+.thumbs button{flex:none;width:62px;height:62px;border-radius:10px;overflow:hidden;border:2px solid transparent;padding:0;background:#000}
+.thumbs button[aria-current=true]{border-color:var(--gold)}
+.thumbs img{width:100%;height:100%;object-fit:cover}
+.info h1{font-family:"Amiri",serif;font-size:30px;line-height:1.3;margin:0 0 4px}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+.pill{border:1px solid var(--line);border-radius:99px;padding:2px 11px;font-size:13px;color:var(--muted)}
+.pill.c{border-color:rgba(214,171,108,.5)}
+.lead{color:#d9d5cb;margin:0 0 16px}
+.cta{display:grid;grid-template-columns:1fr auto;gap:10px}
+.btn{height:52px;border-radius:12px;border:1px solid var(--line);background:var(--surface);display:flex;align-items:center;
+  justify-content:center;gap:9px;padding:0 16px;font-weight:500;font-size:15.5px}
+.btn.wa{background:var(--teal);border-color:var(--teal);color:#fff;font-weight:700}
+.btn svg{width:21px;height:21px;flex:none}
+.price{margin-top:10px;font-size:14.5px;color:var(--muted)}
+.price b{color:var(--text);font-weight:500}
+h2{font-family:"Amiri",serif;font-size:22px;margin:28px 0 10px;color:var(--gold)}
+.film{border-radius:var(--r);overflow:hidden;border:1px solid var(--line);background:#000}
+.film video{width:100%;aspect-ratio:16/9;background:#000}
+.cap{font-size:13px;color:var(--muted);margin-top:6px}
+.nofilm{border:1px dashed #3a3f3c;border-radius:var(--r);padding:18px;color:var(--muted);font-size:14.5px}
+table{width:100%;border-collapse:collapse;font-size:15px}
+td{padding:10px 0;border-bottom:1px solid var(--line);vertical-align:top}
+td:first-child{color:var(--muted);width:7.5em}
+td.pend{color:#7d8079;font-size:13.5px}
+td.pend span{border-bottom:1px dotted #5a5f5b;padding-bottom:1px}
+
+/* display card */
+.label{background:#fbf8f1;color:#17130c;border-radius:12px;padding:16px;display:grid;grid-template-columns:1fr 124px;gap:14px;align-items:center}
+.label .lb{font-family:"Amiri",serif;font-size:14px;color:#0a6f66;line-height:1.2}
+.label .ln{font-family:"Amiri",serif;font-size:22px;line-height:1.3;margin:2px 0 4px}
+.label .lc{font-family:ui-monospace,Consolas,monospace;font-size:14px;font-weight:700}
+.label .ls{font-size:12px;color:#5d5547;margin-top:8px;line-height:1.5}
+.label .qr{width:124px;height:124px}
+.label .qr svg{width:100%;height:100%;display:block}
+.hint{font-size:13.5px;color:var(--muted);margin-top:8px}
+.linkbtn{background:none;border:0;padding:0;color:var(--gold);text-decoration:underline;text-underline-offset:3px;font-size:13.5px}
+.pn{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:28px}
+.pn a{border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:13.5px;color:var(--muted);min-width:0}
+.pn a b{display:block;color:var(--text);font-weight:500;font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pn a:last-child{text-align:left}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:#f3efe6;color:#111;padding:8px 16px;border-radius:99px;
+  font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s;z-index:50}
+.toast.on{opacity:1}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media print{
+  body{background:#fff}
+  .top,.back,.gal,.info>*:not(.printable),footer,.pn,.hint,h2{display:none!important}
+  .piece{display:block}.label{border:1px solid #999;max-width:9cm}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="#/" aria-label="الكنوز الإسلامية — الصفحة الرئيسية">
+    <img src="img/logo.png" alt="">
+    <div><b>الكنوز الإسلامية</b><span>كتالوج المسابيح</span></div>
+  </a>
+  <span class="demo">نموذج تجريبي</span>
+</div></header>
+
+<main class="wrap" id="app"></main>
+
+<footer class="wrap">
+  <b>هذا نموذج تجريبي غير مكتمل.</b> يعرض جزءًا من المسابيح ليبيّن شكل الكتالوج وطريقة عمله؛ بقية القطع والأقسام تُضاف في النسخة الكاملة.
+  الحقول المنقّطة تُستكمل من سجلات المتجر، وزر واتساب في النموذج يفتح رقمًا تجريبيًا.<br>
+  إعداد وتنفيذ: <b>جايرو ميديا</b> · <span class="ltr">@gyro.media</span>
+</footer>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="qrcode.min.js"></script>
+<script src="data.js"></script>
+<script>
+(function(){
+  // رقم واتساب تجريبي (جايرو ميديا) — يُستبدل برقم المتجر في النسخة الكاملة
+  var WA = "96555555249";
+  var C = window.CATALOG, app = document.getElementById("app");
+  var byCode = {}; C.pieces.forEach(function(p){ byCode[p.code] = p; });
+  var catName = {}; C.cats.forEach(function(c){ catName[c.id] = c.name; });
+  var AR = "٠١٢٣٤٥٦٧٨٩";
+  function ar(n){ return String(n).replace(/\d/g, function(d){ return AR[d]; }); }
+  function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+  var hosted = /^https?:$/.test(location.protocol);
+  function pieceUrl(code){ return location.origin + "/k/" + encodeURIComponent(code); }
+  function waLink(p){
+    var t = "السلام عليكم، أستفسر عن القطعة " + p.code + " — " + p.name + (hosted ? "\n" + pieceUrl(p.code) : "");
+    return "https://wa.me/" + WA + "?text=" + encodeURIComponent(t);
+  }
+  function qrSvg(text){
+    var q = qrcode(0, "M"); q.addData(text); q.make();
+    return q.createSvgTag({cellSize: 4, margin: 0, scalable: true});
+  }
+  function toast(m){ var t = document.getElementById("toast"); t.textContent = m; t.classList.add("on"); setTimeout(function(){ t.classList.remove("on"); }, 1800); }
+  var ICON_WA = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 1.8a8.2 8.2 0 1 1-4.2 15.3l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 0 1 12 3.8Zm-3.3 4c-.2 0-.5 0-.7.3-.3.3-1 1-1 2.300 0 1.400 1 2.700 1.200 2.900.1.2 2 3.100 4.900 4.300 2.400 1 2.900.8 3.400.7.500 0 1.700-.7 1.900-1.300.2-.700.2-1.200.2-1.300-.1-.2-.3-.2-.6-.4l-2-1c-.3-.1-.5-.1-.7.2l-.9 1.100c-.2.2-.3.2-.6.1-.300-.2-1.200-.500-2.300-1.400-.900-.800-1.400-1.700-1.600-2-.2-.300 0-.500.1-.600l.4-.500.3-.5c.1-.2 0-.4 0-.5l-.9-2.200c-.2-.5-.4-.5-.6-.5h-.5Z"/></svg>';
+  var ICON_SHARE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3m0 0L8 7m4-4 4 4M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>';
+
+  function card(p){
+    return '<a class="card" href="#/p/' + encodeURIComponent(p.code) + '">' +
+      '<div class="ph"><img loading="lazy" src="' + p.thumb + '" alt="' + esc(p.name) + ' ' + p.code + '">' +
+      (p.film ? '<span class="badge"><i></i>فيلم</span>' : '') + '</div>' +
+      '<div class="tx"><div class="nm">' + esc(p.name) + '</div><div class="code ltr">' + p.code + '</div></div></a>';
+  }
+
+  function home(cat, q){
+    cat = cat || "all"; q = (q || "").trim();
+    var list = C.pieces.filter(function(p){
+      if (cat !== "all" && p.cat !== cat) return false;
+      if (!q) return true;
+      var hay = (p.code + " " + p.name + " " + catName[p.cat]).toLowerCase();
+      return hay.indexOf(q.toLowerCase()) >= 0;
+    });
+    var chips = '<button class="chip" data-cat="all" aria-pressed="' + (cat === "all") + '">الكل <small>' + ar(C.pieces.length) + '</small></button>' +
+      C.cats.map(function(c){
+        var n = C.pieces.filter(function(p){ return p.cat === c.id; }).length;
+        return '<button class="chip" data-cat="' + c.id + '" aria-pressed="' + (cat === c.id) + '">' + esc(c.name) +
+          ' <small>' + (c.soon ? "قريبًا" : ar(n)) + '</small></button>';
+      }).join("");
+    var cur = C.cats.filter(function(c){ return c.id === cat; })[0];
+    var grand = C.cats.reduce(function(s, c){ return s + c.total; }, 0);
+    var total = cur ? cur.total : grand, rest = total - list.length;
+    var body;
+    if (cur && cur.soon) {
+      body = '<div class="empty"><b>' + esc(cur.name) + '</b>' + ar(cur.total) + ' قطعة تُضاف في النسخة الكاملة من الكتالوج.</div>';
+    } else if (!list.length) {
+      body = '<div class="empty"><b>لا نتيجة</b>جرّب كود القطعة كاملًا، مثل <span class="ltr">ROS-K-005</span>.</div>';
+    } else {
+      body = '<div class="grid">' + list.map(card).join("") +
+        (q || rest <= 0 ? "" : '<div class="more"><b>+ ' + ar(rest) + ' قطعة أخرى</b>' + (cur ? "بقية مسابيح «" + esc(cur.name) + "» تُضاف في النسخة الكاملة." : "بقية المسابيح بأنواعها الستة تُضاف في النسخة الكاملة.") + '</div>') +
+        '</div>';
+    }
+    app.innerHTML =
+      '<section class="hero"><h1>كتالوج المسابيح</h1><p>كل قطعة بكودها وصورها وفيلمها — والاستفسار عنها بلمسة واحدة.</p></section>' +
+      '<div class="search"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.500-3.500"/></svg>' +
+      '<input id="q" type="search" inputmode="search" autocomplete="off" placeholder="ابحث بالكود أو النوع" aria-label="ابحث بالكود أو النوع" value="' + esc(q) + '"></div>' +
+      '<div class="chips" role="group" aria-label="أنواع المسابيح">' + chips + '</div>' +
+      '<div class="count">' + (cur && cur.soon ? "" : q ? "نتائج البحث: " + ar(list.length) : "المعروض في النموذج: " + ar(list.length) + " من أصل " + ar(total) + " قطعة") + '</div>' + body;
+    Array.prototype.forEach.call(app.querySelectorAll(".chip"), function(b){
+      b.onclick = function(){ location.hash = b.dataset.cat === "all" ? "#/" : "#/c/" + b.dataset.cat; };
+    });
+    var inp = document.getElementById("q");
+    inp.oninput = function(){ var v = inp.value; home(cat, v); var n = document.getElementById("q"); n.focus(); n.setSelectionRange(v.length, v.length); };
+  }
+
+  function piece(code){
+    var p = byCode[code];
+    if (!p) { location.hash = "#/"; return; }
+    var i = C.pieces.indexOf(p), prev = C.pieces[(i - 1 + C.pieces.length) % C.pieces.length], next = C.pieces[(i + 1) % C.pieces.length];
+    var rows = p.specs.map(function(s){ return "<tr><td>" + esc(s.k) + "</td><td>" + esc(s.v) + "</td></tr>"; }).join("") +
+      p.pending.map(function(k){ return '<tr><td>' + esc(k) + '</td><td class="pend"><span>يُستكمل من سجلات المتجر</span></td></tr>'; }).join("");
+    // الرمز يفتح صفحة القطعة. قبل رفع الكتالوج على رابط لا توجد صفحة تُفتح، فيفتح واتساب بكود القطعة
+    var qrTarget = hosted ? pieceUrl(p.code) : "https://wa.me/" + WA + "?text=" + encodeURIComponent(p.code);
+    app.innerHTML =
+      '<a class="back" href="#/c/' + p.cat + '">→ ' + esc(catName[p.cat]) + '</a>' +
+      '<div class="piece"><div class="gal">' +
+        '<div class="stage"><img id="main" src="' + p.imgs[0].src + '" alt="' + esc(p.name) + ' ' + p.code + '">' +
+        (p.imgs.length > 1 ? '<span class="n" id="cnt">' + ar(1) + ' / ' + ar(p.imgs.length) + '</span>' : '') + '</div>' +
+        (p.imgs.length > 1 ? '<div class="thumbs">' + p.imgs.map(function(im, k){
+          return '<button data-k="' + k + '" aria-current="' + (k === 0) + '" aria-label="الصورة ' + ar(k + 1) + '"><img loading="lazy" src="' + im.src + '" alt=""></button>'; }).join("") + '</div>' : '') +
+      '</div><div class="info">' +
+        '<h1>' + esc(p.name) + '</h1>' +
+        '<div class="meta"><span class="pill c code ltr">' + p.code + '</span><span class="pill">' + esc(catName[p.cat]) + '</span></div>' +
+        (p.lead ? '<p class="lead">' + esc(p.lead) + '</p>' : '') +
+        '<div class="cta"><a class="btn wa" target="_blank" rel="noopener" href="' + waLink(p) + '">' + ICON_WA + 'استفسر عن القطعة</a>' +
+        '<button class="btn" id="share" aria-label="مشاركة القطعة">' + ICON_SHARE + 'مشاركة</button></div>' +
+        '<div class="price">السعر: <b>عند الطلب</b></div>' +
+        '<h2>فيلم القطعة</h2>' +
+        (p.film ? '<div class="film"><video controls playsinline preload="none" poster="' + p.film.poster + '" src="' + p.film.src + '"></video></div>' +
+                  '<div class="cap">' + ar(Math.round(p.film.dur)) + ' ثانية · من إنتاج جايرو ميديا</div>'
+                : '<div class="nofilm">فيلم هذه القطعة يُضاف في النسخة الكاملة.</div>') +
+        '<h2>بيانات القطعة</h2><table>' + rows + '</table>' +
+        '<h2>بطاقة العرض</h2>' +
+        '<div class="label printable"><div><div class="lb">الكنوز الإسلامية</div><div class="ln">' + esc(p.name) + '</div>' +
+        '<div class="lc ltr">' + p.code + '</div><div class="ls">امسح الرمز لمشاهدة فيلم القطعة وتفاصيلها</div></div>' +
+        '<div class="qr" role="img" aria-label="رمز القطعة ' + p.code + '">' + qrSvg(qrTarget) + '</div></div>' +
+        '<div class="hint">تُطبع وتوضع بجانب القطعة في المعرض والمتجر: من يمسح الرمز تفتح له هذه الصفحة نفسها. ' +
+        '<button class="linkbtn" id="print">طباعة البطاقة</button></div>' +
+        '<div class="pn"><a href="#/p/' + encodeURIComponent(prev.code) + '">السابقة<b class="ltr">' + prev.code + '</b></a>' +
+        '<a href="#/p/' + encodeURIComponent(next.code) + '">التالية<b class="ltr">' + next.code + '</b></a></div>' +
+      '</div></div>';
+    Array.prototype.forEach.call(app.querySelectorAll(".thumbs button"), function(b){
+      b.onclick = function(){
+        var k = +b.dataset.k;
+        document.getElementById("main").src = p.imgs[k].src;
+        document.getElementById("cnt").textContent = ar(k + 1) + " / " + ar(p.imgs.length);
+        Array.prototype.forEach.call(app.querySelectorAll(".thumbs button"), function(x){ x.setAttribute("aria-current", x === b); });
+      };
+    });
+    document.getElementById("share").onclick = function(){
+      var url = hosted ? pieceUrl(p.code) : location.href, title = p.name + " — " + p.code;
+      if (navigator.share) { navigator.share({title: title, url: url}).catch(function(){}); return; }
+      if (navigator.clipboard) { navigator.clipboard.writeText(url).then(function(){ toast("نُسخ رابط القطعة"); }, function(){ toast(url); }); }
+      else toast(url);
+    };
+    document.getElementById("print").onclick = function(){ window.print(); };
+  }
+
+  function route(){
+    var h = location.hash.replace(/^#\/?/, ""), m;
+    if ((m = h.match(/^p\/(.+)$/))) piece(decodeURIComponent(m[1]));
+    else if ((m = h.match(/^c\/(.+)$/))) home(m[1]);
+    else home("all");
+    window.scrollTo(0, 0);
+  }
+  window.addEventListener("hashchange", route);
+  route();
+})();
+</script>
+</body>
+</html>
