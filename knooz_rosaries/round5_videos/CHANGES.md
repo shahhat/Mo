@@ -54,8 +54,6 @@ See `data/video_sheet_renames.json` for the old and new values. Phase 09 previou
 Phase 10 and 11 held ROS-1/ROS-2/ROS-4.
 
 ## Not linked (needs the owner)
-- Phase 04 A007 «مسباح كهرمان هندي شجري نادر جدا»: closest catalog piece is ROS-Amb-G-033 (same 3-bead شاهد and bead
-  look), but the tassel differs and the owner's text says «هندي», not German. No folder was created; awaiting confirmation.
 - Phase 09 rows 8–11 (Brown to-Yellow; Green «خراطة المبدع عبدالعزيز كرم»; Maroon Sprkl-Crcls; Orange to-glow-Yellow)
   have **no video file** in the folder (Phase 09 has only "First edit" files for 6 rosaries). Not touched.
 - v09 «Broush (Rosary) - Draft»: a graduated strand with a screw clasp and no شاهد (necklace, not a rosary). Not linked.
@@ -65,3 +63,15 @@ Phase 10 and 11 held ROS-1/ROS-2/ROS-4.
 - Folder colours (green #16a765, red #f83a22) are a per-user Drive setting of the connected account
   (islamic.treasures.kw@gmail.com).
 - The copies use extra Drive storage: 17 videos, about 1.8 GB (10 into green folders + 7 into red folders).
+
+## Follow-up (owner's answers)
+- **A007 is a separate piece, not ROS-Amb-G-033** → new red folder **ROS-KS-151** in ROS-KS (opaque butterscotch beads,
+  and the owner's text says «كهرمان هندي شجري», not German; the category choice is flagged in the note). Video copied as
+  ROS-KS-151-video.mp4, plus a 150 px frame still (sha256 verified). Added as ROS-KS sheet row 152 (no. 151), and set as
+  Item Name in the video sheet (Phase 04 E3).
+- **ROS-021 and ROS-057 rewritten as فاتوران**, as approved by the owner:
+  - 021 now names German raw (منجم) dark-veined faturan, the exceptional size, and the 22k gold set.
+  - 057 now names German raw faturan turned by غالب.
+  - «انتيك/متحفي» are still not used.
+  - The «الخامة غير مؤكدة» note was replaced with the source of the material.
+  - Old and new text are in `data/followup.json`.
