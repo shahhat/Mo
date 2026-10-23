@@ -1,0 +1,350 @@
+{
+ "date": "2026-10-23",
+ "how": "Owner's signed-in Odoo session in the desktop built-in browser (JSON-RPC from the page, no API key). Files staged temporarily on kunooz-catalog.vercel.app/print with CORS, then removed.",
+ "owner_decisions": {
+  "description_ecommerce": "sheet paragraph verbatim + catalog specs list + code/price-on-request line + WhatsApp + catalog link (same frame as 005)",
+  "images": "main = -1, all extra photos in csv order (not only square)",
+  "stock": "qty 1 per piece via inventory adjustment (WH/Stock), allow_out_of_stock_order = false; Abu Ali fixes any piece that is more than one",
+  "price": "0, owner/Abu Ali fills later"
+ },
+ "same_as_45547": "name, default_code = barcode = code, categ 36, public categ 3 Amber, consu+storable, POS on, no taxes, unpublished, description_sale = subtitle, certificate A5 + display card 90x48 + label 101.6x63.5 as PDF attachments (product.document), chatter note",
+ "differences_from_45547": [
+  "no film: certificate/card text says 'صور القطعة' instead of 'فيلم'",
+  "subtitle = craftsman if known (ROS-K-004) else the bead-shape spec",
+  "allow_out_of_stock_order false and qty 1 (005: true, qty 0 after the POS sale)"
+ ],
+ "verified": "all 22: barcode=code, qty 1, out-of-stock selling off, unpublished, Amber, extra images as csv, 3 product.document, description shown on /shop page",
+ "catalog": "kunooz/site deployed to kunooz-catalog (prod) 2026-10-23; /k/ROS-K-001..023 all 307 -> /#/p/<code>",
+ "pieces": [
+  {
+   "code": "ROS-K-001",
+   "product_template_id": 45549,
+   "product_product_id": 45402,
+   "attachments": {
+    "certificate": 15563,
+    "display_card": 15564,
+    "label": 15565
+   },
+   "stock_quant": 2982,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-001-45549",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-001"
+  },
+  {
+   "code": "ROS-K-002",
+   "product_template_id": 45550,
+   "product_product_id": 45403,
+   "attachments": {
+    "certificate": 15596,
+    "display_card": 15597,
+    "label": 15598
+   },
+   "stock_quant": 2984,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-002-45550",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-002"
+  },
+  {
+   "code": "ROS-K-003",
+   "product_template_id": 45551,
+   "product_product_id": 45404,
+   "attachments": {
+    "certificate": 15629,
+    "display_card": 15630,
+    "label": 15631
+   },
+   "stock_quant": 2986,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-003-45551",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-003"
+  },
+  {
+   "code": "ROS-K-004",
+   "product_template_id": 45552,
+   "product_product_id": 45405,
+   "attachments": {
+    "certificate": 15662,
+    "display_card": 15663,
+    "label": 15664
+   },
+   "stock_quant": 2988,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-004-45552",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-004"
+  },
+  {
+   "code": "ROS-K-006",
+   "product_template_id": 45553,
+   "product_product_id": 45406,
+   "attachments": {
+    "certificate": 15695,
+    "display_card": 15696,
+    "label": 15697
+   },
+   "stock_quant": 2990,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-006-45553",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-006"
+  },
+  {
+   "code": "ROS-K-007",
+   "product_template_id": 45554,
+   "product_product_id": 45407,
+   "attachments": {
+    "certificate": 15728,
+    "display_card": 15729,
+    "label": 15730
+   },
+   "stock_quant": 2992,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-007-45554",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-007"
+  },
+  {
+   "code": "ROS-K-008",
+   "product_template_id": 45555,
+   "product_product_id": 45408,
+   "attachments": {
+    "certificate": 15761,
+    "display_card": 15762,
+    "label": 15763
+   },
+   "stock_quant": 2994,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-008-45555",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-008"
+  },
+  {
+   "code": "ROS-K-009",
+   "product_template_id": 45556,
+   "product_product_id": 45409,
+   "attachments": {
+    "certificate": 15794,
+    "display_card": 15795,
+    "label": 15796
+   },
+   "stock_quant": 2996,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-009-45556",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-009"
+  },
+  {
+   "code": "ROS-K-010",
+   "product_template_id": 45557,
+   "product_product_id": 45410,
+   "attachments": {
+    "certificate": 15817,
+    "display_card": 15818,
+    "label": 15819
+   },
+   "stock_quant": 2998,
+   "qty_on_hand": 1,
+   "extra_images": 3,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-010-45557",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-010"
+  },
+  {
+   "code": "ROS-K-011",
+   "product_template_id": 45558,
+   "product_product_id": 45411,
+   "attachments": {
+    "certificate": 15850,
+    "display_card": 15851,
+    "label": 15852
+   },
+   "stock_quant": 3000,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-011-45558",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-011"
+  },
+  {
+   "code": "ROS-K-012",
+   "product_template_id": 45559,
+   "product_product_id": 45412,
+   "attachments": {
+    "certificate": 15878,
+    "display_card": 15879,
+    "label": 15880
+   },
+   "stock_quant": 3002,
+   "qty_on_hand": 1,
+   "extra_images": 4,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-012-45559",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-012"
+  },
+  {
+   "code": "ROS-K-013",
+   "product_template_id": 45560,
+   "product_product_id": 45413,
+   "attachments": {
+    "certificate": 15911,
+    "display_card": 15912,
+    "label": 15913
+   },
+   "stock_quant": 3004,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-013-45560",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-013"
+  },
+  {
+   "code": "ROS-K-014",
+   "product_template_id": 45561,
+   "product_product_id": 45414,
+   "attachments": {
+    "certificate": 15934,
+    "display_card": 15935,
+    "label": 15936
+   },
+   "stock_quant": 3006,
+   "qty_on_hand": 1,
+   "extra_images": 3,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-014-45561",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-014"
+  },
+  {
+   "code": "ROS-K-015",
+   "product_template_id": 45562,
+   "product_product_id": 45415,
+   "attachments": {
+    "certificate": 15952,
+    "display_card": 15953,
+    "label": 15954
+   },
+   "stock_quant": 3008,
+   "qty_on_hand": 1,
+   "extra_images": 2,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-015-45562",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-015"
+  },
+  {
+   "code": "ROS-K-016",
+   "product_template_id": 45563,
+   "product_product_id": 45416,
+   "attachments": {
+    "certificate": 15965,
+    "display_card": 15966,
+    "label": 15967
+   },
+   "stock_quant": 3010,
+   "qty_on_hand": 1,
+   "extra_images": 1,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-016-45563",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-016"
+  },
+  {
+   "code": "ROS-K-017",
+   "product_template_id": 45564,
+   "product_product_id": 45417,
+   "attachments": {
+    "certificate": 15998,
+    "display_card": 15999,
+    "label": 16000
+   },
+   "stock_quant": 3012,
+   "qty_on_hand": 1,
+   "extra_images": 5,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-017-45564",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-017"
+  },
+  {
+   "code": "ROS-K-018",
+   "product_template_id": 45565,
+   "product_product_id": 45418,
+   "attachments": {
+    "certificate": 16021,
+    "display_card": 16022,
+    "label": 16023
+   },
+   "stock_quant": 3014,
+   "qty_on_hand": 1,
+   "extra_images": 3,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-018-45565",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-018"
+  },
+  {
+   "code": "ROS-K-019",
+   "product_template_id": 45566,
+   "product_product_id": 45419,
+   "attachments": {
+    "certificate": 16039,
+    "display_card": 16040,
+    "label": 16041
+   },
+   "stock_quant": 3016,
+   "qty_on_hand": 1,
+   "extra_images": 2,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-019-45566",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-019"
+  },
+  {
+   "code": "ROS-K-020",
+   "product_template_id": 45567,
+   "product_product_id": 45420,
+   "attachments": {
+    "certificate": 16062,
+    "display_card": 16063,
+    "label": 16064
+   },
+   "stock_quant": 3018,
+   "qty_on_hand": 1,
+   "extra_images": 3,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-020-45567",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-020"
+  },
+  {
+   "code": "ROS-K-021",
+   "product_template_id": 45568,
+   "product_product_id": 45421,
+   "attachments": {
+    "certificate": 16080,
+    "display_card": 16081,
+    "label": 16082
+   },
+   "stock_quant": 3020,
+   "qty_on_hand": 1,
+   "extra_images": 2,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-021-45568",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-021"
+  },
+  {
+   "code": "ROS-K-022",
+   "product_template_id": 45569,
+   "product_product_id": 45422,
+   "attachments": {
+    "certificate": 16093,
+    "display_card": 16094,
+    "label": 16095
+   },
+   "stock_quant": 3022,
+   "qty_on_hand": 1,
+   "extra_images": 1,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-022-45569",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-022"
+  },
+  {
+   "code": "ROS-K-023",
+   "product_template_id": 45570,
+   "product_product_id": 45423,
+   "attachments": {
+    "certificate": 16101,
+    "display_card": 16102,
+    "label": 16103
+   },
+   "stock_quant": 3024,
+   "qty_on_hand": 1,
+   "extra_images": 0,
+   "shop_url": "https://islamic-treasures.odoo.com/shop/ros-k-023-45570",
+   "catalog_url": "https://kunooz-catalog.vercel.app/k/ROS-K-023"
+  }
+ ]
+}
