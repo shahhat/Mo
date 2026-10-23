@@ -51,3 +51,16 @@ ROS-065 (cream carved swirl beads with pink stones) · ROS-066 (split from ROS-0
 - Confirm ROS-012 / ROS-066 are two rosaries, and whether ROS-059 = ROS-024.
 - Staging folder «_من الجهاز - ROS مسابح (للمقارنة)» now holds only knooz_compare.ps1, _manifest.csv and the duplicate
   «JPEG image.jpg» → can be deleted on approval.
+
+## Follow-up (owner: «تمام كمّل»)
+- Last loose photos filed:
+  - DSC_4814, DSC_4818 (ROS root, 8 Oct 2025) → ROS-005-10, -11: same orange-red speckled beads and red cord as
+    ROS-005 (ROS-021 is darker with finer speckles; ROS-048 has no speckles and a green cord; ROS-047 is yellow-orange).
+  - DSC_8084 (ROS-KS root) → ROS-KS-105-6: same frame as 105-4, wider crop.
+- Trashed (recoverable 30 days): the empty folder «فارغ - يمكن حذفه (كان ROS-Amb-G-068)» and the staging folder
+  (it held only knooz_compare.ps1, _manifest.csv and the duplicate «JPEG image.jpg»; script + manifest are in round4/).
+- Notes updated: ROS row 5 (ROS-005), ROS-KS row 105 (ROS-KS-105).
+- Drive now: 364 piece folders (K 23, KS 150, S 9, B 37, Amb-G 79, ROS 66), no loose photos in any category; the only
+  non-piece folder is «كهرمان وانتيكات» (the necklace moved out of Amb-G in round 2).
+- Still open: DSC_7079 (→ ROS-031-8 once uploaded, straight into the ROS-031 folder); owner to confirm ROS-012 ≠ ROS-066
+  and whether ROS-059 = ROS-024.
