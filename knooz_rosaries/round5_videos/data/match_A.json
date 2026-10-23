@@ -1,0 +1,23 @@
+[
+ {"key":"v02","code":"NEW","confidence":"low","category_if_new":"ROS-Amb-G",
+  "evidence":"Smooth glossy orange/butterscotch oval beads (~45) with a few cream streaks, two small spacer beads, 3-bead imame separated by orange amber rings, red silk knobs, gold braided cord with Turk's-head knot, single amber end bead with gold scalloped caps on a gold hook. Video title: 'Indian tree amber, very rare'. No catalog piece has this tassel; checked ROS-Amb-G-040 (gold cord but crusty elongated freckled beads, long waisted imame, gold ball end - different), -043, -079/-053/-054/-038 (3-bead imame + red knob but gold chains, cream-veined beads), -056/-059/-074/-076, ROS-KS-094/-140/-063/-030. Closest is ROS-Amb-G-033 (same smooth cognac oval beads, 3-bead imame with amber rondelles under a red knob) but its tassel is 3 enamel-capped drops on sequin chains and its beads look redder and crazed; cannot confirm.",
+  "alternatives":["ROS-Amb-G-033","ROS-Amb-G-079"]},
+ {"key":"v03","code":"ROS-KS-082","confidence":"high","category_if_new":"",
+  "evidence":"Round saturated-yellow beads with bright white streaks, flat rondelle spacers, gourd imame with double collar rings and small ringed top piece, red twisted-cord tail with small round beads, a small ringed gourd piece that has the same brown blemish on its top bulb, and ringed finial end piece - all match KS-082-3/-4.",
+  "alternatives":[]},
+ {"key":"v04","code":"ROS-KS-019","confidence":"high","category_if_new":"",
+  "evidence":"Gourd imame inlaid with silver-coloured dots, gold woven knot caps around a gold wire cage holding a cream amber bead, four olive-gold twisted cords each with an orange/yellow amber bead and dark knotted end, cream + orange rondelle spacers and a ringed spacer piece - identical to KS-019-1/-3 (description: gourd imame with two silver dots). Not KS-024 (conical imame, no cage, no amber beads on cords).",
+  "alternatives":[]},
+ {"key":"v08","code":"ROS-KS-106","confidence":"high","category_if_new":"",
+  "evidence":"Three cords olive/gold, salmon-orange and green with gold-thread caps, woven sleeve in gold/green/salmon, cream gourd imame with collar rings, round cream-yellow beads with white waves incl. one with an orange-red inclusion, rondelle spacers - matches KS-106-1/-2. Not KS-033 (only green cords, conical imame, crackle-net beads).",
+  "alternatives":[]},
+ {"key":"v09","code":"NEW","confidence":"medium","category_if_new":"ROS-Amb-G",
+  "evidence":"Not a standard rosary: ~30 graduated olive/barrel beads in mixed butterscotch-yellow, orange and cognac-red German-style amber, NO imame, joined by two barrel amber end pieces with a black metal screw clasp (looks like a graduated necklace/strand). Nothing like it in ROS-Amb-G, ROS-KS, ROS or other galleries (checked Amb-G-002/-027/-037 multi-colour pieces - all have imame and tassel).",
+  "alternatives":[]},
+ {"key":"v19","code":"ROS-K-005","confidence":"high","category_if_new":"",
+  "evidence":"Clear lemon Dominican amber round beads, long ringed minaret imame, red cord tail with small beads and ringed gourd end piece; catalog photos K-005-7 and K-005-8 are the same arrangements as video frames (same shoot). Title 'Saim' matches K-005 description.",
+  "alternatives":["ROS-K-006"]},
+ {"key":"v20","code":"ROS-KS-002","confidence":"high","category_if_new":"",
+  "evidence":"Large round yellow beads marbled with white and clear honey patches, carved white-veined imame with red knot, gold chain with amber bead, engraved gold coin and two filigree drops - catalog photos KS-002-1/-2/-4 are the same set-ups as video frames.",
+  "alternatives":[]}
+]

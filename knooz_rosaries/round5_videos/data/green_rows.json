@@ -1,0 +1,74 @@
+{
+ "ROS-Amb-G-037": {
+  "sheet": "ROS-Amb-G",
+  "row": 38,
+  "notes": "تظهر في الصورة #2 خرزتان بهما تقشّر أو كسر سطحي واضح — للمراجعة قبل النشر",
+  "hdr7": "Notes"
+ },
+ "ROS-Amb-G-038": {
+  "sheet": "ROS-Amb-G",
+  "row": 39,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-Amb-G-053": {
+  "sheet": "ROS-Amb-G",
+  "row": 54,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-Amb-G-062": {
+  "sheet": "ROS-Amb-G",
+  "row": 63,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-K-005": {
+  "sheet": "ROS-K",
+  "row": 6,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-KS-002": {
+  "sheet": "ROS-KS",
+  "row": 3,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-KS-019": {
+  "sheet": "ROS-KS",
+  "row": 20,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-KS-082": {
+  "sheet": "ROS-KS",
+  "row": 83,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-KS-106": {
+  "sheet": "ROS-KS",
+  "row": 107,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-B-004": {
+  "sheet": "ROS-B",
+  "row": 5,
+  "notes": null,
+  "hdr7": "Notes"
+ },
+ "ROS-021": {
+  "sheet": "ROS",
+  "row": 22,
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت منمّش محتمل) — يلزم تأكيد قبل النشر؛ أغلب الصور مقرّبة والصورتان #16 و#17 تُظهران المسباح كاملاً؛ أطراف الشرّابة عُقد سلكية مخرّمة لا عملات",
+  "hdr7": "Notes"
+ },
+ "ROS-057": {
+  "sheet": "ROS",
+  "row": 58,
+  "notes": "الخامة غير مؤكدة (فاتوران محتمل) — يلزم تأكيد قبل النشر؛ أُضيفت ١٠ صور مقرّبة من جلسة ٣٠ يناير ٢٠٢٦ (الصور 10–19) لتطابق الشاهد والخامة؛ الصورة التي كانت ROS-057-10 نُقلت إلى ROS-056 (تُظهر خرز ROS-056)",
+  "hdr7": "Notes"
+ }
+}

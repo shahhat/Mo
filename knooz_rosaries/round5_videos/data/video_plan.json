@@ -1,0 +1,34 @@
+{
+ "new": {
+  "ROS-Amb-G-080": "1Q7z1wuxQy-1VZwOkpkJ-KCqhEr5ereP3",
+  "ROS-Amb-G-081": "1Ec9b0NtWpat4mny1tf6z7m175mT8j4f8",
+  "ROS-Amb-G-082": "1_OTaBKA-mhrbVawz1Fod1lC4iJsn7rCx",
+  "ROS-Amb-G-083": "1ouD16uAhmhD49ECqodtw1EZ-t8wGV7q3",
+  "ROS-Amb-G-084": "1WYen1VeWwNFSqSDRYND7zQTRgwRlcqg2",
+  "ROS-Amb-G-085": "16VBxBW7DyzMHkWyGHWTEDeDXb2VtpfE0",
+  "ROS-Amb-G-086": "1lzdBoDGvdfAJa63ioXIe7bvJKSB_sjF-"
+ },
+ "match": {
+  "v01": "ROS-Amb-G-062",
+  "v06": "ROS-Amb-G-053",
+  "v03": "ROS-KS-082",
+  "v04": "ROS-KS-019",
+  "v08": "ROS-KS-106",
+  "v13": "ROS-021",
+  "v14": "ROS-057",
+  "v17": "ROS-B-004",
+  "v19": "ROS-K-005",
+  "v20": "ROS-KS-002",
+  "v10": "ROS-Amb-G-080",
+  "v12": "ROS-Amb-G-081",
+  "v11": "ROS-Amb-G-082",
+  "v15": "ROS-Amb-G-083",
+  "v16": "ROS-Amb-G-084",
+  "v18": "ROS-Amb-G-085",
+  "v21": "ROS-Amb-G-086"
+ },
+ "existing_shortcut": {
+  "v00": "ROS-Amb-G-038",
+  "v05": "ROS-Amb-G-037"
+ }
+}
