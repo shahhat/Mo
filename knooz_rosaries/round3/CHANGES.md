@@ -24,3 +24,11 @@
 - Still loose: ROS: DSC_4814, DSC_4818, DSC_7023; ROS-KS: DSC_8084, DSC_8098, DSC_8122.
 - New code ROS-KS-150 (folder created in كهرب صاك): the rosary seen only in loose photos DSC_8098 / DSC_8122
   → ROS-KS-150-1 / -2; row 151 added to the ROS-KS sheet. Only DSC_8084 (a wider crop of ROS-KS-105-4) stays loose there.
+
+## Price column + local-folder comparison (prep)
+- All 6 sheets: new column F «Price» (empty, for Abu Ali); Notes moved to column G. Row layout is now
+  [no., IMAGES, Description, Item Name, Item Category, Price, Notes].
+- Upload folder created for the owner's local folder «ROS- مسابح» (collect- NOV 25):
+  «_من الجهاز - ROS مسابح (للمقارنة)» (id 14JQrbkoYfO7ke8VFJzoaNvUIeeG68pNI) inside the rosaries root.
+  Plan once uploaded: match every local photo to Drive by EXIF shot time + camera frame number (tools/meta_fetch.py,
+  tools/loose_match2.py), list what is missing on Drive, file it into existing pieces or new codes, add rows.
