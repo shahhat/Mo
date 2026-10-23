@@ -22,3 +22,5 @@
 - The 11 close-ups DSC_1603…1648 (30 Jan 2026) matched ROS-057 (same gourd شاهد with double collar, same speckled
   material with white flecks) → added as ROS-057-10 … 20.
 - Still loose: ROS: DSC_4814, DSC_4818, DSC_7023; ROS-KS: DSC_8084, DSC_8098, DSC_8122.
+- New code ROS-KS-150 (folder created in كهرب صاك): the rosary seen only in loose photos DSC_8098 / DSC_8122
+  → ROS-KS-150-1 / -2; row 151 added to the ROS-KS sheet. Only DSC_8084 (a wider crop of ROS-KS-105-4) stays loose there.
