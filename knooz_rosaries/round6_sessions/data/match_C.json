@@ -1,0 +1,52 @@
+[
+  {
+    "key": "S81-GOLD",
+    "code": "NEW",
+    "confidence": "medium",
+    "category_if_new": "ROS-K",
+    "hero_photo": 1,
+    "evidence": "This is a different rosary from S81-S2: the same maker, style and material, but a shorter strand (about 51 beads against 99) with GOLD-tone braided caps and gold collars on the carved cylinder bead (S81-S2 has silver caps). The gold version appears in DSC_4146, DSC_4976 and DSC_5144-5147, before and after the 99-bead shots, so both rosaries existed at the same time; it is not a restring. Its photo 1 also turns up misfiled as S81-S2 photo 1 (DSC_4976, blue background). Material: black under front light, dark olive-green and translucent when backlit, with a fine particulate matrix, glitter specks and orange/green disc-like stress flashes. This fits dark heat-treated or pressed Baltic amber sold as 'black/green amber'. It is not black coral/يسر (no growth rings) and not kuk (not opaque or woody). Bakelite or resin cannot be fully excluded, so the material is uncertain: ROS-K by analogy with ROS-K-010 (black-looking, transparent when lit), ROS-KS or ROS if experts disagree. Checked against ROS-K-010 (cherry-red when backlit, different شاهد and tassel), ROS-002 and ROS-018 (pointed horn/coral-like olives on a blue cord), ROS-030 (inlaid) and all ROS-KS, ROS-S and ROS-B: no match.",
+    "alternatives": ["ROS-K-010 (rejected: cherry-red transmission, different fittings)"],
+    "visual": "About 51 polished black oval beads that turn dark olive-green and translucent when backlit, with two thin black disc spacers. A black شاهد with stacked rings (cap, bell, double ring, tapered body, ring, oval base) sits on a silver-grey braided cord with gold-tone woven caps, carrying 4 small black ovals, a carved black cylinder bead with gold collars, and a ringed black end bead."
+  },
+  {
+    "key": "S81-S2",
+    "code": "NEW",
+    "confidence": "medium",
+    "category_if_new": "ROS-K",
+    "hero_photo": 4,
+    "evidence": "Same material and design family as S81-GOLD but a separate rosary: a long 99-bead strand with a small black imame divider inside the strand and disc spacers, SILVER-tone woven caps, and a carved cylinder bead without gold collars (photos 2-6). IMPORTANT: photo 1 (DSC_4976, blue background) shows the gold-capped ~51-bead rosary and belongs to S81-GOLD, not here. The backlit macros 7-11 (DSC_5135-5142) were shot just before the S81-GOLD sequence (5144+) and most likely show this 99-bead rosary, but the macros cannot prove it. Material is the same as S81-GOLD (dark olive translucent, particulate, stress flashes): probably heat-treated/pressed 'black/green' amber, uncertain. No catalog match in ROS, ROS-K, ROS-KS, ROS-S or ROS-B (ROS-002, ROS-018 and ROS-K-010 checked and rejected).",
+    "alternatives": ["ROS-K-010 (rejected)", "S81-GOLD (sister piece, different bead count and metal)"],
+    "visual": "A long 99-bead strand of polished black ovals that glow dark olive-green when backlit, with a small black divider imame and black disc spacers. A black ringed شاهد with a reddish-brown top cylinder hangs on a silver-grey braided cord with silver-tone woven caps, 4 small ovals, a carved black cylinder bead and a ringed black end bead."
+  },
+  {
+    "key": "S82-1",
+    "code": "ROS-Amb-G-086",
+    "confidence": "high",
+    "category_if_new": "",
+    "hero_photo": 1,
+    "evidence": "This is ROS-Amb-G-086 (video v21 «كهرمان ألماني (منمش) مثالي»). The شاهد matches exactly: top knob, ring, vase body, two rings, round base, in yellower butterscotch (DSC_5584 vs v21 frame 05). The spacers are the same double-barrel type (short rounded half, translucent ring, longer speckled barrel; DSC_5596 vs frame 04). Fittings and tassel match too: three gold cords with woven bell caps tipped red, a gold knot-collar and a red knot. Frame 02 even shows the same S-layout with the 2 spacers in the same positions as DSC_5564. Round orange beads with red speckles (منمّش), about 45 plus 2 spacers.",
+    "alternatives": [],
+    "visual": ""
+  },
+  {
+    "key": "S82-2",
+    "code": "NEW",
+    "confidence": "high",
+    "category_if_new": "ROS-Amb-G",
+    "hero_photo": 1,
+    "evidence": "This is not ROS-Amb-G-086 (different شاهد and a chain tassel instead of 3 gold cords) and not ROS-Amb-G-080..083 (brown barrels / green-orange / yellow / honey ovals, frames v10, v11, v12, v15). Whole ROS-Amb-G gallery checked: closest was ROS-Amb-G-029 (similar gourd-and-ring شاهد, but smooth unspeckled egg-yolk oblate beads with small dark cognac spacer beads), and also 014, 015, 030, 041 and 051 (different beads, spacers or metal شاهد). No orange speckled piece in ROS-KS. German speckled amber.",
+    "alternatives": ["ROS-Amb-G-029 (rejected: unspeckled beads, cognac spacers)"],
+    "visual": "Round orange German amber beads with red-orange speckles and cream mottling (منمّش), about 45-50, with two smaller pale-yellow beads as markers. A gourd-shaped amber شاهد (small knob, waisted body, one ring, round base) with a red knot, and a gold-tone tassel of figaro chains ending in bullet-shaped caps plus a fine-chain brush tassel. Opaque to semi-translucent."
+  },
+  {
+    "key": "S82-3",
+    "code": "NEW",
+    "confidence": "high",
+    "category_if_new": "ROS-Amb-G",
+    "hero_photo": 2,
+    "evidence": "This is not ROS-Amb-G-086 (different شاهد and spacers, single gold cord loop) and not ROS-Amb-G-080..083. Closest catalog piece is ROS-Amb-G-030, which also has round orange speckled beads and a 3-tier knob-ring-round-ring-round شاهد. But 030 has only about 37-40 beads, ribbed silver ball spacers and a red cord, while S82-3 has about 55 beads, amber double-gourd spacers and a gold braided cord with green bead ends. Bead count and spacers differ, so it is a different rosary. No match in ROS-Amb-G or ROS-KS.",
+    "alternatives": ["ROS-Amb-G-030 (rejected: ~37-40 beads, silver ball spacers)"],
+    "visual": "About 55 round orange German amber beads, strongly speckled and mottled with cream and red-orange (منمّش), with two amber double-gourd spacers (round, ring, round). A 3-tier amber شاهد (knob, ring, round body, ring, round base) under a red knot, and a single gold braided cord loop with gold knot fittings ending in small green (jade-like) beads. Semi-opaque."
+  }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "key": "S79-11",
+  "code": "NEW",
+  "confidence": "high",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 2,
+  "evidence": "Freckled (منمش) orange German-amber look. Not ROS-Amb-G-086 (same freckled material but its شاهد is a barrel+ring+gourd and its tassel is braided gold cord; here the شاهد is a long straight cone with a metal cap and the beads are more oval/orange). Not G-029 (smooth butter beads, gourd شاهد, brown spacers), G-004 (red barrel beads; only the gold knot-tassel style is similar), KS-030/KS-063. Material could arguably be ROS-KS; German freckled look favours Amb-G.",
+  "alternatives": [
+   "ROS-Amb-G-086 (rejected: different شاهد/tassel)",
+   "ROS-Amb-G-029 (rejected)"
+  ],
+  "visual": "About 45 opaque, slightly oval-round orange beads mottled with red-orange freckles, with 4 thin disc markers. Long tapered cone شاهد in the same material with a pale metal cap and a collar ring; tassel of three gold-tone woven chains with gold filigree balls, Turkish-knot gold-wire ends and red silk knots."
+ },
+ {
+  "key": "S79-12",
+  "code": "NEW",
+  "confidence": "high",
+  "category_if_new": "ROS-KS",
+  "hero_photo": 4,
+  "evidence": "Egg-yolk butterscotch with white/tan marbling = KS family. Compared imame shape against every round yellow KS piece with a carved gourd شاهد: KS-113 (dome cap with one thick ring, short body, big bulb), KS-099 (short vase body), KS-034 (long cone), KS-022/KS-004 (different شاهد and silver chain): all differ. Not ROS-Amb-G-084 (olive-green-yellow, lens spacers).",
+  "alternatives": [
+   "ROS-KS-113 (rejected: different شاهد proportions/rings)",
+   "ROS-KS-099 (rejected)"
+  ],
+  "visual": "About 45 round, opaque butter/egg-yolk yellow beads with creamy-white and tan marbled veins, plus 4 disc markers. Carved vase-gourd شاهد (double-ringed top, long waisted body, ring, bulb) with a red silk knot; tassel of flat gold-tone mesh chains with gold sunburst discs and one large matching amber ball."
+ },
+ {
+  "key": "S79-13",
+  "code": "NEW",
+  "confidence": "high",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 2,
+  "evidence": "Red-orange beads with yellow-cream swirls (German multi-colour look). No catalog piece combines round swirled red-orange beads, a tall long-necked gourd شاهد and a fan of gold chains with amber drops. Checked G-086, G-041/051/039, G-029/030, KS-019/026/037/086/102, ROS-048/039/037. Material is probably German amber; an older phenolic is not fully excluded.",
+  "alternatives": [
+   "ROS-048 (rejected: uniform translucent red-orange)",
+   "ROS-Amb-G-086 (rejected)"
+  ],
+  "visual": "About 45 round, opaque beads in red-orange with bold yellow-cream swirls and patches, with small yellow disc markers. Tall long-necked gourd شاهد (ring above bulb); red knot and a round amber bead, then a gold cap with a fan of about 6 fine gold chains ending in small yellow amber drops."
+ },
+ {
+  "key": "S79-14",
+  "code": "NEW",
+  "confidence": "high",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 3,
+  "evidence": "Distinct from S79-15 and S79-16: its شاهد bottom piece has a bold cream streak, visible in 4 photos, and its knot thread is green. Catalog red-orange long strands G-005 (pale ring discs, cognac/cherry gradient), G-012 (smaller and rounder شاهد, about 57 larger beads), G-060 (cognac-patched شاهد) all differ, and none has this green/red cord. Material: German (pressed) amber vs faturan is not 100% certain.",
+  "alternatives": [
+   "ROS-Amb-G-012 (rejected)",
+   "ROS-Amb-G-005 (rejected)",
+   "ROS-Amb-G-060 (rejected)"
+  ],
+  "visual": "Long strand of about 66 glossy red-orange, semi-translucent oval beads with occasional cream streaks. 3-piece barrel شاهد with two ring spacers (lowest piece cream-streaked); green twisted cord with red macramé sleeve and 3 ends, each with an oval bead and a green wool pompom."
+ },
+ {
+  "key": "S79-15",
+  "code": "NEW",
+  "confidence": "high",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 4,
+  "evidence": "Plain 3-barrel شاهد with double-ridged rings; top piece nearly as wide as the middle. Differs from S79-14 (cream-streaked bottom piece) and S79-16 (cracked middle piece, narrower top). Not G-060 (red/black cord but cognac-patched شاهد and darker beads), G-012 or G-005. Material: German (pressed) amber vs faturan is not 100% certain.",
+  "alternatives": [
+   "ROS-Amb-G-060 (rejected)",
+   "ROS-Amb-G-012 (rejected)"
+  ],
+  "visual": "Long strand of about 66 red-orange, semi-translucent oval beads. Plain 3-piece barrel شاهد with double-ridged ring spacers; red twisted cord with red macramé, small green thread bands and 3 ends, each with oval amber bead(s) and a red pompom."
+ },
+ {
+  "key": "S79-16",
+  "code": "NEW",
+  "confidence": "medium",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 4,
+  "evidence": "Same cord style as S79-14 but a different شاهد: middle piece has a clear internal crack/inclusion, the bottom piece is plain, and the knot thread is red. Closest catalog piece is G-012 (also a plain red-orange 3-piece شاهد), but G-012's bottom piece is rounder, its beads larger with more cream clouds, and the count is about 57 vs about 65 here; G-012's photos never show such a crack. Medium only because of that G-012 resemblance. Material: German (pressed) amber vs faturan is not 100% certain.",
+  "alternatives": [
+   "ROS-Amb-G-012 (closest lookalike, judged different)",
+   "S79-14 (sister piece, different شاهد)"
+  ],
+  "visual": "Long strand of about 66 red-orange oval beads, several with cream agate-like swirls, semi-translucent. Plain 3-piece barrel شاهد with ring spacers (middle piece cracked); green twisted cord with red macramé sleeve and 3 ends, each with an oval bead and a green pompom."
+ },
+ {
+  "key": "S79-17",
+  "code": "NEW",
+  "confidence": "medium",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 3,
+  "evidence": "Red-orange/butterscotch beads with strong yellow-cream patches; small top شاهد piece and thin translucent-orange rings. Compared شاهد with G-069/070/071/072/074/076/010/009/011: G-070/072/010/069 have pale cream rings, G-071 has equal-width barrels, G-074/076/009 are slimmer. Not KS-151 (uniform caramel beads). Distinct from S79-18. Medium because several German long strands look alike.",
+  "alternatives": [
+   "ROS-Amb-G-071 (rejected)",
+   "ROS-Amb-G-070 (rejected)",
+   "ROS-Amb-G-010 (rejected)"
+  ],
+  "visual": "Long strand of about 66 opaque orange/butterscotch oval beads heavily patched with yellow-cream (German multi-colour). 3-piece شاهد with thin orange rings; red cord with green-wrapped sections ending in one oval bead and a red pompom."
+ },
+ {
+  "key": "S79-18",
+  "code": "NEW",
+  "confidence": "medium",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 5,
+  "evidence": "Chunky rounded 3-piece شاهد with pale cream ring discs; top piece egg-shaped and larger than the middle. Closest are G-072 (top piece smaller than the middle, flat-ended barrel, cream oval patch) and G-069 (smooth plain middle piece); both judged different. Not G-070/071/074/076/005/KS-151. Distinct from S79-17. Medium for the same lookalike reason.",
+  "alternatives": [
+   "ROS-Amb-G-072 (closest, rejected on شاهد proportions)",
+   "ROS-Amb-G-069 (rejected)"
+  ],
+  "visual": "Long strand of about 66 opaque butterscotch-orange oval beads with yellow-cream swirls. Rounded 3-piece شاهد with pale cream ring discs; triple red cord with dark-brown macramé and 3 ends, each with an oval bead and a red pompom."
+ },
+ {
+  "key": "S79-19",
+  "code": "NEW",
+  "confidence": "high",
+  "category_if_new": "ROS-Amb-G",
+  "hero_photo": 4,
+  "evidence": "Unique one-piece long vase شاهد (ring and bulb base, small pitted spot on the neck) and mixed cherry beads; clearly different from S79-14/15/16 (3-piece barrel شاهد). Not G-026 (irregular round beads, barrel شاهد), G-005 (3-barrel شاهد with pale rings), G-028 (short), ROS-053/054. Material: German amber vs faturan is not 100% certain.",
+  "alternatives": [
+   "ROS-Amb-G-005 (rejected)",
+   "ROS-Amb-G-026 (rejected)"
+  ],
+  "visual": "Long strand of about 66 red-orange, semi-translucent oval beads mixed with several darker cherry/maroon beads and a few cream-swirled ones. One-piece long vase-shaped شاهد with a ring above a bulb base; maroon silk cord with gold bands and three maroon silk tassels."
+ }
+]
