@@ -43,6 +43,10 @@ pending rows: عدد الخرز، قطر الخرزة، الوزن، المنش�
 
 ## 2. Odoo (islamic-treasures.odoo.com, Odoo 19.0 Enterprise) via API key, in a cloud session
 
+> **Update 2026-10-23 (owner):** this part runs in a **local** Claude desktop session using the built-in browser, already signed in to Odoo.
+> Do **not** use the API or the network secret. Steps 2.1–2.3 below stay the same, done through the Odoo web UI.
+
+
 Owner's decision (2026-10-22): a cloud session enters the 22 pieces through the Odoo API with an API key the owner created.
 Owner's rules, verbatim intent: every piece gets exactly what ROS-K-005 got yesterday (certificate, cards/labels, barcode,
 description shown on the website). **Do not take decisions alone: if something cannot be reproduced exactly, stop and give the
