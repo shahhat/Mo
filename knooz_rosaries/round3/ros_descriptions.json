@@ -1,0 +1,387 @@
+{
+ "ROS-003": {
+  "code": "ROS-003",
+  "hero": 1,
+  "description": "مسباح طويل رفيع الذوق بخرز بيضاوي أبيض ناصع تلامسه عروق كريمية وعسلية خفيفة، يرتفع شاهده المنحوت بأطواق مسنّنة كالتاج، وتزيّن تمليكته قطعة على هيئة هلال.",
+  "notes": "الخامة غير مؤكدة (عاج أو عظم محتمل) — يلزم تأكيد قبل النشر، ومراعاة أنظمة تداول العاج إن ثبت",
+  "visual": "Long strand of white oval beads with cream/honey veining; tall carved imame with serrated crown-like collars; crescent charm and carved end piece on the tassel cord; white twisted cord."
+ },
+ "ROS-004": {
+  "code": "ROS-004",
+  "hero": 5,
+  "description": "من نوادر المسابيح، خرز كروي بلون أحمر عنابي عميق تتلألأ في أعماقه ذرات لامعة، بشاهد قاروري بحلقات داكنة على حبل ذهبي اللون تتدلى منه ثلاث عملات.",
+  "notes": "الخامة غير مؤكدة من الصور (فاتوران/مادة مرشوشة محتملة) — يلزم تأكيد قبل النشر؛ الصور الكاملة تُظهر الحبل ذهبي اللون لا أحمر فصُحّح الوصف؛ يشبه ROS-016 في الحبل والعملات لكنه قطعة مختلفة",
+  "visual": "Round deep wine-red beads with glittering red flecks; vase-shaped imame with dark rings; gold-coloured braided cord, red knot, three gold-coloured coins; dark disc spacers."
+ },
+ "ROS-005": {
+  "code": "ROS-005",
+  "hero": 3,
+  "description": "مسباح بديع بخرز مدوّر بلون برتقالي محمرّ متّقد تنتشر فيه نقاط داكنة كالنمش، يعلوه شاهد طويل بطوق منحوت كالبتلات، وتمليكة منحوتة من الخامة نفسها على خيط أحمر.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت منمّش محتمل) — يلزم تأكيد قبل النشر؛ الصور من جلستي تصوير للقطعة نفسها (خلفية سوداء وبيضاء)",
+  "visual": "Large round opaque orange-red beads with dark speckles; long imame with carved petal collar; red cord with small beads and carved end piece; small disc spacers."
+ },
+ "ROS-006": {
+  "code": "ROS-006",
+  "hero": 2,
+  "description": "مسباح فاخر بخرز برميلي أحمر كرزي عميق صقيل تشفّ أطرافه حين يعبرها الضوء، بشاهد متدرّج من الخامة نفسها وشرّابة فضية اللون تتدلى منها عملات تحت كرات منسوجة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Cherry-red barrel beads, translucent at edges; short gourd imame; silver-coloured tassel of three braided chains with woven knot balls and three coins."
+ },
+ "ROS-007": {
+  "code": "ROS-007",
+  "hero": 3,
+  "description": "بخراطة المبدع صايم، مسباح نفيس بخرز مدوّر ممتلئ يتوهّج ببرتقالي شفيف يكشف مسار الثقب، وشاهد ناقوسي الهيئة على حبل أخضر تتبعه تمليكة من الخامة نفسها.",
+  "notes": "الخامة غير مؤكدة (فاتوران أو عقيق برتقالي محتمل) — يلزم تأكيد قبل النشر؛ قرص معدني عند قاعدة الشاهد مختوم باسم صايم (الصورة #5)؛ يشبه ROS-011 لكنه قطعة مختلفة (حبل أخضر وشاهد ناقوسي)",
+  "visual": "Translucent orange round beads, drill channel visible; bell-shaped imame; green braided cord with small beads and end piece; darker red disc spacers; metal disc stamped SAIM (photo 5)."
+ },
+ "ROS-008": {
+  "code": "ROS-008",
+  "hero": 4,
+  "description": "يتألق هذا المسباح الرفيع بخرز كروي مصقول أحمر داكن يميل إلى الكرزي تتخلله فواصل من الخامة نفسها، بشاهد على هيئة قارورة وشرّابة فضية اللون مضفورة بثلاثة فروع.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي أو كهرمان محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Longer strand of dark cherry round beads with small gourd-shaped spacers of the same material; vase-shaped imame; red knot; silver-coloured woven tassel, three branches with red bead tips."
+ },
+ "ROS-009": {
+  "code": "ROS-009",
+  "hero": 4,
+  "description": "من نوادر المسابيح، خرز مضلّع متعدد الأوجه بأحمر كرزي داكن شفيف تنكسر على أسطحه أشعة الضوء، بشاهد أملس من الخامة نفسها وشرّابة فضية اللون بخمسة فروع.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Faceted dark cherry translucent beads; smooth vase imame; two black disc spacers; silver-coloured tassel with five braided chains ending in woven balls."
+ },
+ "ROS-010": {
+  "code": "ROS-010",
+  "hero": 2,
+  "description": "خرز مدوّر صقيل يتدرّج بين الكونياكي الداكن والعسلي البرتقالي، تتموّج في أعماقه ظلال دافئة حين يعبره الضوء، في مسباح مميز بشاهد رشيق وكركوشة خضراء معقودة.",
+  "notes": "الخامة غير مؤكدة (كهرمان كونياكي أو فاتوران محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Round beads from dark cognac to honey-orange with swirls; slim vase imame; green knotted silk tassel with red accents; green thread."
+ },
+ "ROS-011": {
+  "code": "ROS-011",
+  "hero": 4,
+  "description": "كجمرة هادئة يتوهّج هذا المسباح النادر بلون برتقالي شفيف، خرزه مدوّر ممتلئ يبدو مضاءً من داخله، يعلوه شاهد مخروطي مدرّج بحلقات على خيط أحمر.",
+  "notes": "الخامة غير مؤكدة (فاتوران أو عقيق برتقالي محتمل) — يلزم تأكيد قبل النشر؛ يشبه ROS-007 في الخامة والأسلوب لكنه قطعة مختلفة (خيط أحمر وشاهد مخروطي)",
+  "visual": "Translucent orange round beads; stepped conical imame with rings; red cord with small beads and bulb end piece; orange disc spacers."
+ },
+ "ROS-012": {
+  "code": "ROS-012",
+  "hero": 3,
+  "description": "من نفائس المسابيح، خرز برميلي مدوّر الحواف بلون أحمر كرزي تتّقد في أعماقه تحت الضوء تموّجات انسيابية كألسنة اللهب، بشاهد مخصّر بحلقة وحبل ذهبي اللون مضفور.",
+  "notes": "الخامة غير مؤكدة (فاتوران محتمل، فالتموجات الداخلية من سماته) — يلزم تأكيد قبل النشر؛ الصورة #5 نسخة مكررة من الصورة #2 (الملف نفسه)",
+  "visual": "Rounded-barrel cherry beads; backlit close-ups show flame-like swirls; waisted vase imame with ring; red knot; gold-coloured braided cord. Photo 5 duplicates photo 2."
+ },
+ "ROS-013": {
+  "code": "ROS-013",
+  "hero": 2,
+  "description": "مسباح أنيق بخرز زيتوني ممتلئ بلون بيج عسلي دافئ، تُبرز لمعته الناعمة حلقات دقيقة متتابعة، يعلوه شاهد طويل يفصله طوق رفيع، وتمليكة من الخامة نفسها.",
+  "notes": "الخامة غير مؤكدة: تبدو خشباً طبيعياً مصقولاً — يلزم تأكيد قبل النشر؛ بقعة خضراء صغيرة على إحدى الخرزات (الصورة #1) تستحق الفحص",
+  "visual": "Pointed olive beads, warm beige with fine concentric grain rings; very long slim imame with ring collar; brown cord with small olive beads and end piece; small green spot on one bead."
+ },
+ "ROS-014": {
+  "code": "ROS-014",
+  "hero": 1,
+  "description": "مسباح لافت بخرز برميلي عريض بلون أحمر كرزي تسري في أعماقه عروق متموّجة، تتخلله فاصلتان فضيتا اللون مضفورتان، وتختمه شرّابة فضية اللون بأربعة فروع تنتهي بعُقد منسوجة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Wide cherry-red barrel beads with inner swirls when backlit; gourd imame with groove; two woven silver-coloured spacer beads; silver-coloured tassel, four branches ending in knot rosettes."
+ },
+ "ROS-015": {
+  "code": "ROS-015",
+  "hero": 1,
+  "description": "مسباح جدير بالاقتناء بخرز برميلي ممتلئ بأحمر كرزي دافئ صقيل، بشاهد يطوّقه حزّ رفيع، وشرّابة ذهبية اللون مجدولة تنتهي بميدالية مخرّمة من أسلاك متشابكة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Cherry-red barrel beads; gourd imame with groove; dark red knot; gold-coloured braided tassel ending in a single openwork interlaced-wire medallion."
+ },
+ "ROS-016": {
+  "code": "ROS-016",
+  "hero": 2,
+  "description": "مسباح أخّاذ بخرز كروي بأحمر كرزي داكن يكاد يلامس السواد ويشفّ عن وهج خافت، تتخلله فواصل سوداء، على حبل ذهبي اللون تتدلى منه ثلاث عملات.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي داكن محتمل) — يلزم تأكيد قبل النشر؛ يشبه ROS-004 في الحبل والعملات لكن خرزه بلا ذرات لامعة — قطعة مختلفة",
+  "visual": "Round near-black cherry beads with faint red glow, no glitter; vase imame with rings; black disc spacers; gold-coloured braided cord with three gold-coloured coins."
+ },
+ "ROS-017": {
+  "code": "ROS-017",
+  "hero": 1,
+  "description": "تتمازج درجات البني الدافئ بمسحات كراميلية فاتحة كالرخام في خرز هذا المسباح الزيتوني الصقيل، يعلوه شاهد طويل نحيل وتمليكة من الخامة نفسها على خيط بني.",
+  "notes": "الخامة غير مؤكدة (كوك أو خشب محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Glossy olive beads, brown marbled with caramel/cream and tiny pale flecks; long slim imame; brown cord with small olive beads, bell piece and end piece."
+ },
+ "ROS-018": {
+  "code": "ROS-018",
+  "hero": 1,
+  "description": "مسباح نادر بخرز زيتوني بني داكن مائل إلى السواد تسري فيه ألياف دقيقة وظلال عسلية، بشاهد طويل تطوّقه حلقات فاتحة على خيط أزرق سماوي.",
+  "notes": "الخامة غير مؤكدة (قرن محتمل لظهور الألياف) — يلزم تأكيد قبل النشر",
+  "visual": "Dark brown to blackish olive beads with fibrous grain and honey tones; long imame with light brown rings; light blue cord with small beads and end piece."
+ },
+ "ROS-019": {
+  "code": "ROS-019",
+  "hero": 3,
+  "description": "من نوادر المسابيح، خرز مدوّر برتقالي محمرّ تنساب فيه غيوم داكنة، بشاهد مموّج كاللهب على خيط أخضر وحبل ذهبي اللون مجدول تختمه كرة منسوجة.",
+  "notes": "الخامة غير مؤكدة (عقيق أو فاتوران/كهرمان محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Round red-orange semi-translucent beads with dark cloudy veining; vase imame with flame-like swirls; green thread and knot; gold-coloured braided cord ending in a woven ball with red bead."
+ },
+ "ROS-020": {
+  "code": "ROS-020",
+  "hero": 4,
+  "description": "قطعة بديعة بخرز كروي أحمر برتقالي منحوت على هيئة وردة، وشاهد أسطواني محفور بنقش متشابك، وحبل أحمر بأطواق فضية اللون تتدلى منه ميدالية معقودة مخرّمة.",
+  "notes": "الخامة غير مؤكدة (مرجان منحوت محتمل، وقد تكون مادة مصبوبة) — يلزم تأكيد قبل النشر",
+  "visual": "Round red-orange beads carved as roses; cylindrical imame with crosshatch carving; carved disc spacers; red twisted cord with silver-coloured sleeves, gold-coloured ball and knotted cord medallion."
+ },
+ "ROS-021": {
+  "code": "ROS-021",
+  "hero": 16,
+  "description": "بحمرة كرزية منمّشة بذرات داكنة دقيقة يتّقد خرز هذا المسباح الكروي بلون ناري حين يعبره الضوء، بشاهد كمثري الهيئة وشرّابة ذهبية اللون بثلاث عُقد مخرّمة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت منمّش محتمل) — يلزم تأكيد قبل النشر؛ أغلب الصور مقرّبة والصورتان #16 و#17 تُظهران المسباح كاملاً؛ أطراف الشرّابة عُقد سلكية مخرّمة لا عملات",
+  "visual": "Round cherry beads densely speckled with dark specks, glowing fiery red backlit; vase imame; gold-coloured tassel with three branches ending in openwork wire knots (not coins)."
+ },
+ "ROS-022": {
+  "code": "ROS-022",
+  "hero": 1,
+  "description": "قطعة بمستوى متحفي، خرز بيضاوي أبيض كريمي منحوت بزهور بارزة يتوسط كلاً منها فص أحمر داكن، وشاهد طويل مضلّع منحوت بالزخارف نفسها على خيط أبيض.",
+  "notes": "الخامة غير مؤكدة (عاج أو عظم محتمل) — يلزم تأكيد قبل النشر، ومراعاة أنظمة تداول العاج إن ثبت؛ نوع الفصوص الحمراء غير محدد",
+  "visual": "Long strand of cream oval beads carved with raised flowers, each centred with an inset dark red stone; long fluted imame with the same carving; flower-carved tassel beads; white cord."
+ },
+ "ROS-023": {
+  "code": "ROS-023",
+  "hero": 2,
+  "description": "مسباح نادر بخرز كروي تتمازج فيه درجات الكريمي والعسلي مع عروق داكنة شبه شفافة، فلا تتشابه خرزتان. شاهد طويل بلون عاجي، وتمليكة بخرزات فاتحة على خيط برتقالي.",
+  "notes": "الخامة غير مؤكدة (قرن محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Long strand of round cream/honey beads with dark grey-brown streaks, semi-translucent (horn look); long ivory-toned shahid, pale tamlika beads, orange cord."
+ },
+ "ROS-024": {
+  "code": "ROS-024",
+  "hero": 1,
+  "description": "قطعة لافتة بخرز كروي داكن تغطيه دوائر متداخلة ونقاط مطعّمة فضية اللون. فواصل كمثرية بالزخرفة نفسها تحيط بها حلقات سوداء، وشاهد طويل مزخرف، وكركوشة سوداء بأطواق ذهبية اللون.",
+  "notes": "الخامة غير مؤكدة (كوك أو قرن مطعّم بالفضة محتمل) — يلزم تأكيد قبل النشر؛ لا توجد صورة تُظهر المسباح كاملاً",
+  "visual": "Black/dark-brown round beads inlaid with silver-coloured concentric circles and dots; pear-shaped inlaid spacers with black rings, long inlaid shahid, black tassel with gold-coloured bands. Close-ups only."
+ },
+ "ROS-025": {
+  "code": "ROS-025",
+  "hero": 1,
+  "description": "مسباح أنيق بخرز بيضاوي ممتلئ بلون فيروزي صافٍ، تسري فيه عروق داكنة دقيقة كنسيج العنكبوت. فواصل قرصية رفيعة، وشاهد طويل بحلقات بارزة، وتمليكة زرقاء على خيط رمادي.",
+  "notes": "الخامة غير مؤكدة (فيروز مُعاد التكوين أو حجر/راتنج مصبوغ محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Turquoise-blue oval beads with dark spider-web matrix veins; thin disc spacers, long shahid with raised rings, blue tamlika on grey wire cord."
+ },
+ "ROS-026": {
+  "code": "ROS-026",
+  "hero": 5,
+  "description": "من نوادر المسابيح، خرز بيضاوي مصقول بلون كستنائي دافئ تظهر فيه عروق دقيقة. شاهد طويل منحوت بحلقات متتالية، وتمليكة تنتهي بكبوس أفتح لوناً على خيط رملي.",
+  "notes": "الخامة غير مؤكدة (كوك أو خشب محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Glossy chestnut-brown irregular oval beads (kuk/wood look); long shahid carved with stacked rings, lighter honey-brown end piece, beige twisted cord."
+ },
+ "ROS-027": {
+  "code": "ROS-027",
+  "hero": 2,
+  "description": "خرز زيتوني شبه شفاف بلون برتقالي مشرق، تنساب في داخله خطوط أدكن كأنها ألسنة لهب. شاهد طويل بالطابع نفسه وفواصل صغيرة، وتمليكة تنتهي بكبوس زيتوني على خيط أحمر.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Semi-translucent bright orange pointed-olive beads with darker flow streaks; long matching shahid, small spacers, olive end piece, red cord."
+ },
+ "ROS-028": {
+  "code": "ROS-028",
+  "hero": 1,
+  "description": "قطعة بديعة الحفر، خرز كروي منحوت بزخارف زهرية بارزة على أرضية منقّطة دقيقة. شاهد طويل محفور بزهور داخل إطارات هندسية، وفواصل وتمليكة منحوتة على خيط أبيض مجدول.",
+  "notes": "الخامة غير مؤكدة (خشب أو كوك منحوت محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Caramel-brown round beads carved with raised five-petal flowers on a stippled ground; shahid carved with flowers in geometric frames, carved gourd spacers and tamlika, white twisted cord."
+ },
+ "ROS-029": {
+  "code": "ROS-029",
+  "hero": 1,
+  "description": "من نوادر المسابيح، خرز كروي يتقابل فيه الكونياكي الداكن الشفاف مع بقع كريمية معتمة، فتنفرد كل خرزة بنقشها. شاهد قصير داكن وكركوشة عنابية تتخللها خيوط كريمية.",
+  "notes": "الخامة غير مؤكدة (كهرمان طبيعي داكن بمناطق كريمية معتمة محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Round beads mixing dark cognac/near-black translucent zones with opaque cream patches, each unique; short dark shahid, long maroon tassel with cream threads and gold-coloured bands."
+ },
+ "ROS-030": {
+  "code": "ROS-030",
+  "hero": 1,
+  "description": "مسباح فريد بخرز زيتوني داكن دقيق التنقيط، يطوّق كلَّ خرزة شريط من مربعات لؤلؤية البريق. شاهد أسود وفواصل قرصية، وكراكيش بالأسود والعنابي والكريمي بأغطية فضية اللون.",
+  "notes": "الخامة غير مؤكدة (كوك أو خامة داكنة مسامية محتمل، والتطعيم يبدو صدفاً) — يلزم تأكيد قبل النشر",
+  "visual": "Dark finely-pored olive beads each banded with an inlaid strip of iridescent mother-of-pearl-like lozenges; black shahid, black disc spacers, black/maroon/cream tassels with silver-coloured caps."
+ },
+ "ROS-031": {
+  "code": "ROS-031",
+  "hero": 2,
+  "description": "من نفائس المسابيح، خرز بيضاوي بلون كريمي عاجي تتموّج فيه عروق عسلية رقيقة. شاهد بحلقات متحركة، وفواصل وتمليكة مرصّعة بفصوص زرقاء داكنة، على خيط أبيض.",
+  "notes": "الخامة غير مؤكدة (عاج أو عظم أو بديل صناعي محتمل) — يلزم تأكيد قبل النشر؛ نوع الفصوص الزرقاء غير معروف",
+  "visual": "Ivory-cream oval beads with honey-yellow grain; shahid with loose rings, shahid/spacers/tamlika set with dark-blue faceted stones in metal bezels, white cord."
+ },
+ "ROS-032": {
+  "code": "ROS-032",
+  "hero": 2,
+  "description": "مسباح بديع بخرز كروي بلون أحمر برتقالي دافئ تتخلله لمسات بيضاء. شاهد من اللون نفسه تتدلى منه شرّابة سلاسل ذهبية اللون بكرات مطوّقة بأغطية حمراء وخضراء.",
+  "notes": "الخامة غير مؤكدة (مرجان محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Long strand of coral-orange round beads with white patches; short matching shahid, gold-coloured chain tassel with coral-coloured balls in red/green enamel-look caps, disc and gourd spacers."
+ },
+ "ROS-033": {
+  "code": "ROS-033",
+  "hero": 1,
+  "description": "من نوادر المسابيح، خرز برميلي بلون أحمر كرزي عميق ولمعان زجاجي تتمايل فيه ظلال أدكن. شاهد من اللون نفسه، وشرّابة منسوجة فضية اللون تتدلى منها عقد زخرفية مجدولة.",
+  "notes": "صورة واحدة فقط؛ الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Deep cherry/burgundy cushion-barrel beads; matching shahid, silver-coloured woven tassel with three knotwork pendants. Single photo."
+ },
+ "ROS-034": {
+  "code": "ROS-034",
+  "hero": 1,
+  "description": "خرز برميلي بلون أحمر كرزي شبه شفاف يتوهّج كلما نفذ إليه الضوء. شاهد متدرّج تطوّقه حلقات داكنة، وشرّابة منسوجة فضية اللون تنتهي بكرات مجدولة برؤوس حمراء.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Cherry-red barrel beads; stepped shahid with dark inlaid rings, silver-coloured woven tassel ending in woven knobs with small red tips, red cord. Different tassel from ROS-033."
+ },
+ "ROS-035": {
+  "code": "ROS-035",
+  "hero": 3,
+  "description": "قطعة أنيقة بخرز برميلي بلون أحمر عنابي عميق على خيط أخضر لافت. شاهد بحزوز دائرية، وشرّابة سلاسل فضية اللون بقمع مخرّم وخرزتين حمراوين وأهداب معدنية دقيقة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Dark cherry barrel beads on green cord; grooved shahid, silver-coloured chain tassel with filigree cone, two red beads in caps and fine-chain fringes."
+ },
+ "ROS-036": {
+  "code": "ROS-036",
+  "hero": 5,
+  "description": "مسباح رائق بخرز كروي شفاف بلون كونياكي يميل إلى الحمرة، يعبره الضوء فتتوهّج أعماقه. فواصل رقيقة وخيط أحمر، وشاهد مخروط بطوق يستقر على قرص معدني صغير.",
+  "notes": "الخامة غير مؤكدة (كهرمان أو فاتوران شفاف أو راتنج محتمل) — يلزم تأكيد قبل النشر؛ على القرص المعدني عند قاعدة الشاهد ختم «FAREES» والكلمة العليا غير مقروءة — لم يُذكر أي اسم في الوصف بانتظار تأكيد المالك",
+  "visual": "Long strand of clear cognac-red round beads; thin disc and small barrel spacers, tapered shahid with collar on a small stamped metal disc (FAREES), red cord."
+ },
+ "ROS-037": {
+  "code": "ROS-037",
+  "hero": 2,
+  "description": "مسباح مميز بخرز كروي برتقالي شبه شفاف بلمعة حليبية ناعمة. شاهد مدرّج بأطواق متتالية يستقر على قرص معدني صغير، وتمليكة تنتهي بكبوس بيضاوي على خيط أخضر.",
+  "notes": "الخامة غير مؤكدة (فاتوران محتمل) — يلزم تأكيد قبل النشر؛ على القرص المعدني عند قاعدة الشاهد ختم «RMZN» وتحته «FAREES» — لم يُذكر أي اسم في الوصف بانتظار تأكيد المالك؛ القرص نفسه يظهر في ROS-036",
+  "visual": "Milky semi-translucent orange round beads; stepped pagoda-like shahid on small metal disc stamped RMZN/FAREES, gourd spacer and oval end piece, green twisted cord."
+ },
+ "ROS-038": {
+  "code": "ROS-038",
+  "hero": 3,
+  "description": "خرز تفاحي شفاف بلون أحمر ياقوتي صافٍ يتلألأ كالزجاج في مسباح طويل. شاهد نحيل وفواصل صغيرة من اللون نفسه، وتمليكة تنتهي بكبوس على خيط أحمر.",
+  "notes": "الخامة غير مؤكدة (فاتوران/راتنج أو زجاج محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Long strand of glass-clear ruby-red flattened-round beads; slim shahid, small spool spacers, end piece, red cord."
+ },
+ "ROS-039": {
+  "code": "ROS-039",
+  "hero": 1,
+  "description": "مسباح جدير بالاقتناء، خرز كروي ممتلئ بلون برتقالي شبه شفاف تسري فيه غيوم أدكن. شاهد قرعي مزدوج الانتفاخ، وتمليكة على خيط مجدول بالأخضر والبرتقالي.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Large semi-translucent orange round beads with darker cloudy swirls; double-bulb gourd shahid, tamlika with disc spacers on green/orange braided cord."
+ },
+ "ROS-040": {
+  "code": "ROS-040",
+  "hero": 2,
+  "description": "مسباح فاخر بخرز مدوّر بلون أحمر كرزي دافئ تتماوج فيه ظلال أعمق. شاهد قرعي بحزّ دائري، وشرّابة منسوجة ذهبية اللون تنتهي بكرتين مجدولتين برؤوس حمراء صغيرة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/بكلايت كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Cherry-red round beads; gourd-shaped shahid with groove, gold-coloured woven tassel with two woven knobs tipped red, red cord."
+ },
+ "ROS-041": {
+  "code": "ROS-041",
+  "hero": 1,
+  "description": "من نوادر المسابيح، خرز كروي مقطّع الأوجه بلون أحمر كرزي عميق تتخلله فواصل مخرّمة ذهبية اللون. شاهد بطرفين مقطّعين، وشرّابة من سلاسل ذهبية اللون تتدلى منها عملات.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Faceted round cherry-red beads, gold-tone filigree ball spacers + 2 red disc spacers; imame with faceted top/bottom and plain ringed middle; gold-tone filigree top with small heart charm and 3 chains ending in coins."
+ },
+ "ROS-042": {
+  "code": "ROS-042",
+  "hero": 1,
+  "description": "مسباح أنيق بخرز برميلي بلون أحمر عنابي داكن، تظهر في بعض حبّاته بقع سوداء متفرقة. شاهد قرعي بحلقة، وحبل ذهبي اللون مجدول ينتهي بعقدة دائرية مضفورة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان مضغوط محتمل) — يلزم تأكيد قبل النشر؛ بقع سوداء في عدة خرزات",
+  "visual": "Dark cherry barrel beads, several with black spots/inclusions (clear in #4); gourd imame with ring; gold-tone braided cord ending in a woven round knot medallion; red thread."
+ },
+ "ROS-043": {
+  "code": "ROS-043",
+  "hero": 2,
+  "description": "مسباح لافت بخرز زيتوني ممتلئ بلون برتقالي تسري فيه غيوم أدكن، على خيط أخضر. شاهد مخروط بحلقة، وشرّابة من أسلاك فضية اللون مجدولة تحمل خرزتين وعقدة مضفورة.",
+  "notes": "الخامة غير مؤكدة (كهرمان/فاتوران محتمل) — يلزم تأكيد قبل النشر؛ قطعة عسلية شفافة مضلّعة فوق الشاهد تبدو من خامة مختلفة",
+  "visual": "Large olive orange beads with darker cloudy swirls, 2 thin orange disc spacers, green thread; gourd imame with ring and a small honey ribbed piece above; silver-tone woven wire cord with ribbed bead, olive bead and knot medallion."
+ },
+ "ROS-044": {
+  "code": "ROS-044",
+  "hero": 1,
+  "description": "مسباح نفيس بخرز برميلي مدوّر بلون أحمر كرزي شفاف، تتخلله فواصل ذهبية اللون. شاهد بحلقة بارزة، وحبل ذهبي اللون ينتهي بكبوس أحمر وخرزات برتقالية دقيقة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Rounded barrel translucent cherry beads with soft internal swirls, small gold-tone spacers; gourd imame with ring, red knot; gold-tone cord ending in a red cap bead with a cluster of tiny orange beads."
+ },
+ "ROS-045": {
+  "code": "ROS-045",
+  "hero": 1,
+  "description": "مسباح نادر بخرز ممتلئ مدبّب الطرفين بلون أصفر زبدي، تتماوج فيه خيوط لهبية تدكن عند الثقوب. شاهد مزهري بحلقة، وشرّابة من أسلاك فضية اللون مجدولة بعقدة مضفورة.",
+  "notes": "الخامة غير مؤكدة (كهرمان صاك/فاتوران محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Plump lemon-shaped (pointed at holes) butter-yellow semi-opaque beads with flame-like swirls darkening to brown at the holes; vase imame with ring, red knot; silver-tone woven wire cord with knot medallion."
+ },
+ "ROS-046": {
+  "code": "ROS-046",
+  "hero": 3,
+  "description": "مسباح زاهٍ بخرز بيضاوي بلون أحمر كرزي رائق تسري فيه تموّجات خفيفة، تتخلله فواصل حمراء رقيقة. شاهد قرعي، وعقدة مضفورة فضية اللون تتدلى منها كركوشة حمراء طويلة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان كرزي محتمل) — يلزم تأكيد قبل النشر؛ خط داخلي في إحدى الخرزات (صورة ٧) — يُتحقق هل هو تموّج أم شعرة",
+  "visual": "Oval translucent cherry-red beads with faint swirls, thin red disc spacers; gourd imame with ring; silver-tone knot medallion on silver-tone cord with long red thread tassel. #7 shows an internal line in one bead."
+ },
+ "ROS-047": {
+  "code": "ROS-047",
+  "hero": 1,
+  "description": "قطعة جديرة بالاقتناء بخرز كروي كبير بلون برتقالي محّي، تكشف الإضاءة في أعماقه نقاطاً دقيقة أدكن. شاهد ممتلئ بحلقات تتبعه تمليكة طويلة من قطع مخروطة صغيرة.",
+  "notes": "الخامة غير مؤكدة (كهرمان مضغوط/فاتوران محتمل) — يلزم تأكيد قبل النشر؛ منظوم على خيط أبيض مؤقت بلا شرّابة — قد يكون عقداً أو مسباحاً بتمليكة طويلة، يُراجع قبل النشر",
+  "visual": "Large round egg-yolk orange semi-opaque beads; backlight (#5, #8) shows dense fine dark speckles; gourd imame pieces with rings and a long section of small turned rondelles/discs; loosely strung on plain white string, no tassel."
+ },
+ "ROS-048": {
+  "code": "ROS-048",
+  "hero": 2,
+  "description": "من نوادر المسابيح، خرز كروي بلون برتقالي محمرّ، يكشف الضوء في أعماقه تموّجات انسيابية رقيقة. شاهد مزهري طويل على خيط أخضر، وحبل ذهبي اللون تتدلى منه خرزات حمراء.",
+  "notes": "الخامة غير مؤكدة (فاتوران/عقيق محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Round orange-red semi-translucent beads; backlit #8 shows flowing swirl lines; tall vase imame with ring and ribbed top; green thread; gold-tone cord with red barrel bead and two small round red end beads."
+ },
+ "ROS-049": {
+  "code": "ROS-049",
+  "hero": 3,
+  "description": "مسباح بديع بخرز مدوّر بلون برتقالي كراميلي شفاف تسري فيه خيوط دخانية داكنة. شاهد بحلقة تعلوه عقدة حمراء، وشرّابة من سلاسل ذهبية اللون بكرات مخرّمة تنتهي بعملات.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Round, slightly pointed caramel-orange translucent beads with dark smoky wisps; short gourd imame with ring, textured red knot; gold-tone filigree cone and 3 chains with filigree balls ending in coins."
+ },
+ "ROS-050": {
+  "code": "ROS-050",
+  "hero": 1,
+  "description": "مسباح رفيع بخرز برميلي مدوّر بلون أحمر عنابي شفاف يتراءى الخيط من خلاله. شاهد قرعي بحلقة، وشرّابة من حبال ذهبية اللون متعددة تنتهي بخرزات حمراء دقيقة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Rounded barrel deep cherry/garnet translucent beads (thread visible through bead in #6); gourd imame with ring; multi-strand gold-tone cord tassel, each strand with gold-tone cap and tiny red bead."
+ },
+ "ROS-051": {
+  "code": "ROS-051",
+  "hero": 2,
+  "description": "خرز تفاحي ممتلئ بلون برتقالي متوهج تتخلله عروق دخانية داكنة، تفصله فواصل رقيقة من اللون نفسه. شاهد مزهري بحلقة على حبل أخضر مجدول، بتمليكة وكركوشة خضراء.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Flattened round (rondelle) glowing orange beads with dark smoky streaks, thin orange disc spacers; vase imame with ring; green twisted cord with orange rondelles, faceted piece, cap bead and green thread tassel."
+ },
+ "ROS-052": {
+  "code": "ROS-052",
+  "hero": 1,
+  "description": "مسباح فاخر بخرز برميلي ممتلئ بلون عنابي داكن، تتخلله فواصل ذهبية اللون منقوشة. شاهد طويل بحلقات متتالية تعلوه عقدة حمراء، وحبل مجدول ذهبي اللون يتفرع إلى أطراف صغيرة.",
+  "notes": "الخامة غير مؤكدة (فاتوران/كهرمان كرزي محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Full barrel deep wine-red beads with rounded edges, two engraved gold-tone oval spacers; tall three-tier imame with rings, dark-red knot; gold-tone braided cord splitting into three strands with gold-tone caps."
+ },
+ "ROS-053": {
+  "code": "ROS-053",
+  "hero": 1,
+  "description": "مسباح رشيق بخرز زيتوني طويل بلون عسلي كراميلي شفاف، تتماوج فيه عروق بنية داكنة. شاهد ممشوق متدرّج الحلقات، وحبل فضي اللون ينتهي بوردة حمراء منحوتة.",
+  "notes": "الخامة غير مؤكدة (عقيق/كهرمان/فاتوران محتمل) — يلزم تأكيد قبل النشر؛ خامة الوردة الحمراء المنحوتة غير مؤكدة",
+  "visual": "Long olive honey-caramel translucent beads with dark brown flowing bands, small disc spacers; slender tiered imame; white/silver-tone braided cord with gold-tone woven caps, an olive bead and a carved red rose bead."
+ },
+ "ROS-054": {
+  "code": "ROS-054",
+  "hero": 2,
+  "description": "مسباح طويل بخرز كروي صغير بلون أحمر داكن شفاف تسري فيه عروق أدكن، تفصله فواصل ذهبية اللون. شاهد مخروطي طويل، وشرّابة من سلاسل ذهبية اللون تنتهي بكرات صغيرة.",
+  "notes": "الخامة غير مؤكدة (عقيق/كهرمان محتمل) — يلزم تأكيد قبل النشر؛ مسباح طويل كثير الخرز (لم يُعدّ)",
+  "visual": "Long multi-bead rosary of small round dark-red translucent beads with darker banding; gold-tone disc spacers; long tapered imame with ring; gold-tone 3-chain tassel with balls and small fringe."
+ },
+ "ROS-055": {
+  "code": "ROS-055",
+  "hero": 2,
+  "description": "من نفائس المسابيح، خرز زيتوني بلون أحمر عنابي منمّش بنقاط داكنة دقيقة. شاهد طويل نحيل، وتمليكة من خرزات زيتونية صغيرة على خيط أحمر تنتهي بكبوس مخروط.",
+  "notes": "الخامة غير مؤكدة (فاتوران محتمل) — يلزم تأكيد قبل النشر؛ خدوش استعمال سطحية دقيقة في الصور المقرّبة",
+  "visual": "Olive burgundy-red beads with fine dark speckles (#4-#6), thin spacers; very long slender imame; red thread with small olive beads and a turned spindle end piece. 2025 + 2026 shots match."
+ },
+ "ROS-056": {
+  "code": "ROS-056",
+  "hero": 3,
+  "description": "قطعة مميزة بخرز برميلي مدوّر بلون أحمر طوبي معتم ترصّعه نقاط داكنة دقيقة. شاهد بحلقات على خيط أخضر، وشرّابة فضية اللون بأغطية مخرّمة ودلّاية ورقية الشكل.",
+  "notes": "الخامة غير مؤكدة (فاتوران مرشوش محتمل) — يلزم تأكيد قبل النشر؛ خدوش استعمال سطحية دقيقة في الصور المقرّبة",
+  "visual": "Rounded barrel opaque brick-red beads with fine dark speckles, red disc spacers; cylindrical ringed imame, green thread; silver-tone tassel with filigree-capped red beads, fringe and leaf-shaped pendant. 2025 + 2026 shots match."
+ },
+ "ROS-057": {
+  "code": "ROS-057",
+  "hero": 1,
+  "description": "خرز برميلي بلون أحمر خمري داكن تنتشر فيه نقاط دقيقة أدكن، يعلوه شاهد قرعي بحلقة وعقدة حمراء. حبل ذهبي اللون مجدول ينتهي بكبوس من اللون نفسه.",
+  "notes": "الخامة غير مؤكدة (فاتوران محتمل) — يلزم تأكيد قبل النشر",
+  "visual": "Barrel deep wine-red beads with fine dark speckles (#4, #5, #9); gourd imame with ring, red knot; gold-tone braided cord ending in a red cap bead with gold-tone end. 2025 + 2026 shots match."
+ }
+}

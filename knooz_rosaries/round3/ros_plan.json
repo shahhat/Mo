@@ -1,0 +1,2916 @@
+{
+ "plan": {
+  "ROS-001": {
+   "folder_id": "1mUTWGXKX5LAGncE4Pl40-jYU4kJpq_rI",
+   "new": false,
+   "photos": [
+    {
+     "id": "183_tF-A0nj2Vfbm3NaaPF7KWteNveCWk",
+     "n": 1,
+     "old": "ROS-001-1",
+     "dto": "2026:01:30 15:41:04"
+    },
+    {
+     "id": "1z3F73_Kbb_thOqB6C34ZGnGzfFNZdsel",
+     "n": 2,
+     "old": "ROS-001-2",
+     "dto": "2026:01:30 15:43:23"
+    },
+    {
+     "id": "1serwO9VLU1RjfFfR_ULf1884AdC92zpj",
+     "n": 3,
+     "old": "ROS-001-3",
+     "dto": "2026:01:30 15:44:02"
+    },
+    {
+     "id": "1enI6zppdnPUOj8HmrL3c-yuWYBqS_gOY",
+     "n": 4,
+     "old": "ROS-001-4",
+     "dto": "2026:01:30 15:44:25"
+    },
+    {
+     "id": "11V-RjUEY1pVTP9B8j8QuxrDQK8twVeue",
+     "n": 5,
+     "old": "ROS-001-5",
+     "dto": "2026:01:30 15:45:18"
+    },
+    {
+     "id": "1c99fcSnt-D6Jlis1jAYwQtrflXZF7WMp",
+     "n": 6,
+     "old": "ROS-001-6",
+     "dto": "2026:01:30 15:45:45"
+    },
+    {
+     "id": "1g_EXOzH9HVcbxep9dwSGbDYAh8NsXlaD",
+     "n": 7,
+     "old": "ROS-001-7",
+     "dto": "2026:01:30 15:46:57"
+    },
+    {
+     "id": "1lcEoYDVdRfOsJyC6l4ruPibEeSW8PBon",
+     "n": 8,
+     "old": "ROS-001-8",
+     "dto": "2026:01:30 15:47:05"
+    },
+    {
+     "id": "1cbuM8m76GeC8qjPDv0SxYNa1t-lVzjTN",
+     "n": 9,
+     "old": "ROS-001-9",
+     "dto": "2026:01:30 15:47:42"
+    },
+    {
+     "id": "1-678k-IXyLtMclkA19iYQ0KznUC8VT3K",
+     "n": 10,
+     "old": "ROS-001-10",
+     "dto": "2026:01:30 15:48:07"
+    }
+   ]
+  },
+  "ROS-002": {
+   "folder_id": "1zIH20UXUZnAEvhgeznWPdvQapQuJLvLJ",
+   "new": false,
+   "photos": [
+    {
+     "id": "1jlgUBJn4ODPQaDWenuA4vceJ3RxMM7Od",
+     "n": 1,
+     "old": "ROS-002-1",
+     "dto": "2026:01:30 15:57:45"
+    },
+    {
+     "id": "1mrZutvgjFxgKVNfmFuwaY4tlJboQIMvT",
+     "n": 2,
+     "old": "ROS-002-2",
+     "dto": "2026:01:30 16:02:52"
+    },
+    {
+     "id": "1wT2B3JUQ2Fw7AaK3K3VwXKS9_FVwP4Sq",
+     "n": 3,
+     "old": "ROS-002-3",
+     "dto": "2026:01:30 16:03:13"
+    },
+    {
+     "id": "1G6xpbeIJZBP_kyzquaF_OjEJVTjovTCi",
+     "n": 4,
+     "old": "ROS-002-4",
+     "dto": "2026:01:30 16:04:13"
+    },
+    {
+     "id": "1HF3h59qObeKBu8nhXnLtqk992OXSxF0H",
+     "n": 5,
+     "old": "ROS-002-5",
+     "dto": "2026:01:30 16:04:52"
+    },
+    {
+     "id": "1eGoBh1fKTn2iIVr6Keb3zGxnk9h1oId4",
+     "n": 6,
+     "old": "ROS-002-6",
+     "dto": "2026:01:30 16:06:19"
+    },
+    {
+     "id": "1gLuaPpt3Yyw3MGVCWLpFLyRRBK53u5AR",
+     "n": 7,
+     "old": "ROS-002-7",
+     "dto": "2026:01:30 16:06:57"
+    },
+    {
+     "id": "16WI2NuvAatVtjdZq0EamVsPhsysn7218",
+     "n": 8,
+     "old": "ROS-002-8",
+     "dto": "2026:01:30 16:07:26"
+    },
+    {
+     "id": "1bRhDXmwN2uplPi5ZqIZhwvRShhNtgupv",
+     "n": 9,
+     "old": "ROS-002-9",
+     "dto": "2026:01:30 16:08:11"
+    },
+    {
+     "id": "1uiu6X4dXfVkKw1wsP-G3h5lTL6NMGnvC",
+     "n": 10,
+     "old": "ROS-002-10",
+     "dto": "2026:01:30 16:08:36"
+    },
+    {
+     "id": "10F1b4vCV_zrn5hSHZeITGCFTS63_cn2N",
+     "n": 11,
+     "old": "ROS-002-11",
+     "dto": "2026:01:30 16:09:01"
+    },
+    {
+     "id": "1l7npj-JGnPcY9CGUl_QS8QeNO4gBrm9b",
+     "n": 12,
+     "old": "ROS-002-12",
+     "dto": "2026:01:30 16:10:01"
+    }
+   ]
+  },
+  "ROS-003": {
+   "folder_id": "1g5_7Z2qlO_3_tCyZPJmuGEeXlX2kPQED",
+   "new": false,
+   "photos": [
+    {
+     "id": "1mo-ayrrtFV4HKx1iooGDm4sNn_qvj8qG",
+     "n": 1,
+     "old": "ROS-003-1",
+     "dto": "2022:03:21 01:17:30"
+    },
+    {
+     "id": "13FDIf3UiPv8NFztqZzXd7b788m2A8FJv",
+     "n": 2,
+     "old": "DSC_1234 copy.jpg",
+     "dto": "2022:03:21 01:19:26"
+    },
+    {
+     "id": "1IMCyYwm2ixASY_SIFN-y6OgitPEOzlM5",
+     "n": 3,
+     "old": "DSC_1240 copy.jpg",
+     "dto": "2022:03:21 01:20:41"
+    },
+    {
+     "id": "1Zef8r9to5wlNBzn1nVlkFYbeurknPLWF",
+     "n": 4,
+     "old": "DSC_1245 copy.jpg",
+     "dto": "2022:03:21 01:23:53"
+    },
+    {
+     "id": "1EyQ7_v463HRD4qMYqxt-QgxdlpWLhKRJ",
+     "n": 5,
+     "old": "DSC_1250 copy.jpg",
+     "dto": "2022:03:21 01:24:23"
+    }
+   ]
+  },
+  "ROS-004": {
+   "folder_id": "1VCCoPaGxUtoBPVZm0IBzVBy0mtPNmc1f",
+   "new": false,
+   "photos": [
+    {
+     "id": "1e10N0Zhj6tydJhGS2Fxdg52TKsOrfD87",
+     "n": 1,
+     "old": "ROS-004-1",
+     "dto": "2026:02:20 15:43:40"
+    },
+    {
+     "id": "1OwV6vDivPKuKfBlzx6KAIEcs2aaWow0y",
+     "n": 2,
+     "old": "ROS-004-2",
+     "dto": "2026:02:20 15:46:36"
+    },
+    {
+     "id": "1zcGSmSzsy6u8p6Xk02McEaoqttXijszm",
+     "n": 3,
+     "old": "DSC_2136 copy.jpg",
+     "dto": "2026:02:20 15:16:35"
+    },
+    {
+     "id": "1eB_SpKk_dXBFrfvJxpJuop8bW9NzJCHE",
+     "n": 4,
+     "old": "DSC_2141 copy.jpg",
+     "dto": "2026:02:20 15:22:52"
+    },
+    {
+     "id": "1ls7sTZ2U8BkydYtAZ0Y-t12kVd4rWCeX",
+     "n": 5,
+     "old": "DSC_2142 copy.jpg",
+     "dto": "2026:02:20 15:23:53"
+    },
+    {
+     "id": "1KL73el0rI4IIQe-4PpYBOoOHMC6EPbDu",
+     "n": 6,
+     "old": "DSC_2183 copy.jpg",
+     "dto": "2026:02:20 16:01:34"
+    }
+   ]
+  },
+  "ROS-005": {
+   "folder_id": "1frzlKqzPkJWixCwnTwBmOcKrDbZtAOIO",
+   "new": false,
+   "photos": [
+    {
+     "id": "1T67qNLbvGHK0EOAfYfvNZ90RoEbKOTYm",
+     "n": 1,
+     "old": "ROS-005-1",
+     "dto": "2026:02:20 16:39:00"
+    },
+    {
+     "id": "1Xd7AliyeecsDIRPdhLjqhORYBejvL54J",
+     "n": 2,
+     "old": "DSC_1728 copy.jpg",
+     "dto": "2025:09:05 16:18:41"
+    },
+    {
+     "id": "1DrAGUBY8ztFU3m95eraqhpmXaQndRvtT",
+     "n": 3,
+     "old": "DSC_1730 copy.jpg",
+     "dto": "2025:09:05 16:20:30"
+    },
+    {
+     "id": "17_TKi5NxmFowSYnJsFKnXT7MLFgvAYU0",
+     "n": 4,
+     "old": "DSC_1732 copy.jpg",
+     "dto": "2025:09:05 16:21:16"
+    },
+    {
+     "id": "1dPHRFDOSwNqqSd8gMbn4rXVY7ysS7GcO",
+     "n": 5,
+     "old": "DSC_1734 copy.jpg",
+     "dto": "2025:09:05 16:22:02"
+    },
+    {
+     "id": "1wkyWO51A25RT8khaduQoftWhV6xcpw2m",
+     "n": 6,
+     "old": "DSC_1735 copy.jpg",
+     "dto": "2025:09:05 16:22:34"
+    },
+    {
+     "id": "1eYRseL-jvsuTry3zsnSsDayi07YGOsU1",
+     "n": 7,
+     "old": "DSC_1739 copy.jpg",
+     "dto": "2025:09:05 16:22:54"
+    },
+    {
+     "id": "1hh2SXTm_WJYUFbE-P5rBIG2jWQFOdaKp",
+     "n": 8,
+     "old": "DSC_2269 copy.jpg",
+     "dto": "2026:02:20 16:37:21"
+    },
+    {
+     "id": "1Ebnmcl3boLGPXQaEYYKictWGZgTzOTwG",
+     "n": 9,
+     "old": "DSC_2271 copy.jpg",
+     "dto": "2026:02:20 16:38:27"
+    }
+   ]
+  },
+  "ROS-006": {
+   "folder_id": "1wQc5JY29bnhDOx-WpCCzpjroNCtlTxT_",
+   "new": false,
+   "photos": [
+    {
+     "id": "15w8pIDNnD7-ff57RdqgUaPsHs9DI45NN",
+     "n": 1,
+     "old": "ROS-006-1",
+     "dto": "2024:06:07 16:41:23"
+    },
+    {
+     "id": "1YdI-Ul8TtBJwKdcvHo0y2EqPuZ9fEuQl",
+     "n": 2,
+     "old": "DSC_2836 copy.jpg",
+     "dto": "2024:06:07 16:31:49"
+    },
+    {
+     "id": "1JZjZxjaCPCqxutqx2d3gAB7dz20Sd9F2",
+     "n": 3,
+     "old": "DSC_2843 copy.jpg",
+     "dto": "2024:06:07 16:33:49"
+    },
+    {
+     "id": "1sxWF8BSDvqv8kpvxex7VCqZc3GQoawEk",
+     "n": 4,
+     "old": "DSC_2849-copy.jpg",
+     "dto": "2024:06:07 16:34:45"
+    },
+    {
+     "id": "133NTzATXdg9VFFTzuPuaTA-1_VP22yAc",
+     "n": 5,
+     "old": "DSC_2851 copy.jpg",
+     "dto": "2024:06:07 16:35:50"
+    },
+    {
+     "id": "1-7CBcYxZEZ9p-BoNzaa9uwndTw96o7X6",
+     "n": 6,
+     "old": "DSC_2855 copy.jpg",
+     "dto": "2024:06:07 16:37:05"
+    }
+   ]
+  },
+  "ROS-007": {
+   "folder_id": "1AAUrg7nJ2AxLLz5rlUl57D4CothvjG4e",
+   "new": false,
+   "photos": [
+    {
+     "id": "15zfF1aiUioaela4DqrWW30xdXs5Xx72u",
+     "n": 1,
+     "old": "ROS-007-1",
+     "dto": "2024:06:07 17:26:18"
+    },
+    {
+     "id": "19DIGBjxQ6bPcPTfcyXXCelWfP4GPDw6G",
+     "n": 2,
+     "old": "DSC_2966.jpg",
+     "dto": "2024:06:07 17:21:54"
+    },
+    {
+     "id": "1Bh7B1d4Kqf627Kd2npYwgd7js4H-uQ18",
+     "n": 3,
+     "old": "DSC_2972.jpg",
+     "dto": "2024:06:07 17:24:06"
+    },
+    {
+     "id": "165yWw_0Re9dmtwA7be33R1cKB5vvTkyQ",
+     "n": 4,
+     "old": "DSC_2974.jpg",
+     "dto": "2024:06:07 17:26:02"
+    },
+    {
+     "id": "1ldqqqUUD3KM6ETwYXdjl8XsqsD8pJfU9",
+     "n": 5,
+     "old": "DSC_2983.JPG",
+     "dto": "2024:06:07 17:28:47"
+    }
+   ]
+  },
+  "ROS-008": {
+   "folder_id": "14TsJbG-rb4bf_ei3AghGlrmupoUGxGnL",
+   "new": false,
+   "photos": [
+    {
+     "id": "1wH8Q6r12gHZnnaCgOyUyd1avkJ_s28xN",
+     "n": 1,
+     "old": "ROS-008-1",
+     "dto": "2025:09:17 20:20:08"
+    },
+    {
+     "id": "1lbA_AZExApprAp1hTElrUaoYlq0Q0EsB",
+     "n": 2,
+     "old": "DSC_3644 copy.jpg",
+     "dto": "2025:09:17 20:19:16"
+    },
+    {
+     "id": "1Bk9YoEkP3biaOiisrtjS18M1ZzTFdnqQ",
+     "n": 3,
+     "old": "DSC_3662 copy.jpg",
+     "dto": "2025:09:17 20:25:43"
+    },
+    {
+     "id": "1ONcqVKfKI18ggIzLE-P0hrqQ7FM2N6SD",
+     "n": 4,
+     "old": "DSC_3666 copy.jpg",
+     "dto": "2025:09:17 20:26:42"
+    },
+    {
+     "id": "1kPCGFfBgv_BzYrJ5aTk18Hle2xt_STZH",
+     "n": 5,
+     "old": "DSC_3667 copy.jpg",
+     "dto": "2025:09:17 20:27:04"
+    },
+    {
+     "id": "1yFIIwJoJ7bmeNiUbh9dF9fSkL-QfVZWx",
+     "n": 6,
+     "old": "DSC_3673 copy.jpg",
+     "dto": "2025:09:17 20:28:34"
+    },
+    {
+     "id": "1fjqP-BtZL3DuyST5A2FEdGPjK9bQVtDM",
+     "n": 7,
+     "old": "DSC_3675 copy.jpg",
+     "dto": "2025:09:17 20:28:55"
+    },
+    {
+     "id": "1dGZmlmaMj5XojRbDuWPNcntPx5qASkK7",
+     "n": 8,
+     "old": "DSC_3676 copy.jpg",
+     "dto": "2025:09:17 20:29:17"
+    },
+    {
+     "id": "1dlwzqadFFteQ1CuIWbh2IIauqHvZP1LZ",
+     "n": 9,
+     "old": "DSC_3678 copy.jpg",
+     "dto": "2025:09:17 20:30:07"
+    }
+   ]
+  },
+  "ROS-009": {
+   "folder_id": "1p-UUW6iCr0b1RAqWmXpD7nRE_Bt3GcLH",
+   "new": false,
+   "photos": [
+    {
+     "id": "1IlLQYkjy13MOE-JUvmPOkq1OlePHjMGK",
+     "n": 1,
+     "old": "ROS-009-1",
+     "dto": "2025:09:20 16:21:15"
+    },
+    {
+     "id": "1z22QRW0HdsAzVSe4tWHZjQ7kdO408m-q",
+     "n": 2,
+     "old": "DSC_3853 copy.jpg",
+     "dto": "2025:09:20 16:09:21"
+    },
+    {
+     "id": "1PsxMaxng76aEi9TXU8HL8vLeUVrWxrGY",
+     "n": 3,
+     "old": "DSC_3856 copy.jpg",
+     "dto": "2025:09:20 16:10:59"
+    },
+    {
+     "id": "1LKnZoL5Mev8DHjhaNYQt_f2St1fhcu_f",
+     "n": 4,
+     "old": "DSC_3849 copy.jpg",
+     "dto": "2025:09:20 16:16:02"
+    },
+    {
+     "id": "1cp0v8vVOGlfAQjWDZtkW3WeIhjWqcVKO",
+     "n": 5,
+     "old": "DSC_3868 copy.jpg",
+     "dto": "2025:09:20 16:16:16"
+    },
+    {
+     "id": "1601GdDx9UcgX6avTkXsYkJibBjrB7gyz",
+     "n": 6,
+     "old": "DSC_3869 copy.jpg",
+     "dto": "2025:09:20 16:16:24"
+    },
+    {
+     "id": "1y-Aiww5BMZJjUOMNZ26PxzwCm1a8MHJC",
+     "n": 7,
+     "old": "DSC_3850 copy.jpg",
+     "dto": "2025:09:20 16:22:41"
+    }
+   ]
+  },
+  "ROS-010": {
+   "folder_id": "1h0apfSo0rCKh-wPpw_BquMeEqXQEnIb6",
+   "new": false,
+   "photos": [
+    {
+     "id": "1vxr_LvCijYdGmz9MTFImVsl9xErWCfp_",
+     "n": 1,
+     "old": "ROS-010-1",
+     "dto": "2025:10:08 19:34:16"
+    },
+    {
+     "id": "1jtveZZsVyoSkTC24DuuUd_SWbi4tfGq2",
+     "n": 2,
+     "old": "DSC_5131 copy.jpg",
+     "dto": "2025:10:08 19:21:17"
+    },
+    {
+     "id": "18brJK4ReQ02pp5P3LESWbEsrcTszVQjc",
+     "n": 3,
+     "old": "DSC_5140 copy.jpg",
+     "dto": "2025:10:08 19:23:25"
+    },
+    {
+     "id": "1gX8mVqdDQL9tA2x8d6n9Z0RA1sEmQGZZ",
+     "n": 4,
+     "old": "DSC_5142 copy.jpg",
+     "dto": "2025:10:08 19:23:47"
+    },
+    {
+     "id": "1oJ0HCBf7WsSGwRCowh6Weo7eFNIQmIyn",
+     "n": 5,
+     "old": "DSC_5144 copy.jpg",
+     "dto": "2025:10:08 19:24:21"
+    },
+    {
+     "id": "1FwwXi31LXhUepngUGmMuaRTlPQRNyunI",
+     "n": 6,
+     "old": "DSC_5150 copy.jpg",
+     "dto": "2025:10:08 19:25:05"
+    },
+    {
+     "id": "1iT-voDwmAWyl0hhWm_7fnpAtUgvJV3Nq",
+     "n": 7,
+     "old": "DSC_5156 copy.jpg",
+     "dto": "2025:10:08 19:26:50"
+    },
+    {
+     "id": "1Xb_M0bVy_xiXfT9mtexwvcQT1U4RHAgB",
+     "n": 8,
+     "old": "DSC_5164 copy.jpg",
+     "dto": "2025:10:08 19:30:25"
+    },
+    {
+     "id": "1lu0vmfsEriQPkWc7cvY5esNru0LX1i4h",
+     "n": 9,
+     "old": "DSC_5188 copy.jpg",
+     "dto": "2025:10:08 19:40:35"
+    }
+   ]
+  },
+  "ROS-011": {
+   "folder_id": "1tid1_v26S84vLYpCji6BZ_CrgUojV-AQ",
+   "new": false,
+   "photos": [
+    {
+     "id": "1kUt9dItp4E6RvrVo8cBseFrrjc13UTfi",
+     "n": 1,
+     "old": "ROS-011-1",
+     "dto": "2023:10:13 17:21:17"
+    },
+    {
+     "id": "14pUByAe7Pnb8DQxLxHCARU_gFys8wxLJ",
+     "n": 2,
+     "old": "DSC_6172 copy.jpg",
+     "dto": "2023:10:13 17:19:15"
+    },
+    {
+     "id": "1b2_eZdY4EoepWicgEQ4PXACZoT6L2rCY",
+     "n": 3,
+     "old": "DSC_6175 copy.jpg",
+     "dto": "2023:10:13 17:20:10"
+    },
+    {
+     "id": "1R94bjMKezyG_vYpiA7TCGHsDA1I7rgzB",
+     "n": 4,
+     "old": "DSC_6179 copy.jpg",
+     "dto": "2023:10:13 17:20:56"
+    }
+   ]
+  },
+  "ROS-012": {
+   "folder_id": "1jv1JOv1Van7ldKV0HLuONMaML6_YNCki",
+   "new": false,
+   "photos": [
+    {
+     "id": "1NqLdR58MSjb3tCTUfVd45TCiXz1LTpBp",
+     "n": 1,
+     "old": "ROS-012-1",
+     "dto": "2025:11:17 18:45:10"
+    },
+    {
+     "id": "1OYwBipR_kkIrFXS36PE6yFsKqy6dcDxR",
+     "n": 2,
+     "old": "ROS-012-2",
+     "dto": "2025:11:17 18:45:56"
+    },
+    {
+     "id": "1qLm_uOq7pjdZXFtzTn64-gjAyhpVo73L",
+     "n": 3,
+     "old": "DSC_6744 copy.jpg",
+     "dto": "2025:11:17 17:19:52"
+    },
+    {
+     "id": "1Q9Q-myCBmAIfhjJ6MIRhxc8vQ_zVL9vd",
+     "n": 4,
+     "old": "DSC_6751 copy.jpg",
+     "dto": "2025:11:17 17:22:30"
+    },
+    {
+     "id": "1p6O6PAPl8L6O87Y4oaaQVrN04VFcQ5DU",
+     "n": 5,
+     "old": "DSC_6922 copy.jpg",
+     "dto": "2025:11:17 18:45:56"
+    }
+   ]
+  },
+  "ROS-013": {
+   "folder_id": "11fRp2EF-ryQ5TRXxB-kQkMrWDdan9STH",
+   "new": false,
+   "photos": [
+    {
+     "id": "1-XfDMheqe_KrTDaVzJeByO33dq_AazvD",
+     "n": 1,
+     "old": "ROS-013-1",
+     "dto": "2021:08:21 17:58:05"
+    },
+    {
+     "id": "1CehF1Lk0heGxU9SW6N4K4RNAxgrf3f0c",
+     "n": 2,
+     "old": "DSC_8769.JPG",
+     "dto": "2021:08:21 18:05:34"
+    },
+    {
+     "id": "1YApFIMMonjf5XOSnEzikcz8f7v_3jiMS",
+     "n": 3,
+     "old": "DSC_8773.JPG",
+     "dto": "2021:08:21 18:07:01"
+    },
+    {
+     "id": "1_RL6MOY0EZzVebl-eUl4OdP71e1BZv2T",
+     "n": 4,
+     "old": "DSC_8775..jpg",
+     "dto": "2021:08:21 18:07:35"
+    },
+    {
+     "id": "1r1Fqd-QRAs945Ge1rcEObUw4LqNlvXMJ",
+     "n": 5,
+     "old": "DSC_8775.JPG",
+     "dto": "2021:08:21 18:07:35"
+    },
+    {
+     "id": "1ywi-l9DtQnVI1Rv6ooTNGrN-nR3KxPyM",
+     "n": 6,
+     "old": "DSC_8777.JPG",
+     "dto": "2021:08:21 18:09:16"
+    }
+   ]
+  },
+  "ROS-014": {
+   "folder_id": "1rOjsPQ4lihU2qpaAJbG-bsO-ZZ8jVsTN",
+   "new": false,
+   "photos": [
+    {
+     "id": "1Ytaz2SDZltBYvmHQoMEsz9AKPYJFPmQv",
+     "n": 1,
+     "old": "DSC_0511 copy.jpg",
+     "dto": "2026:01:23 16:48:31"
+    },
+    {
+     "id": "17ic2Ss4oPwvKTDSkicIoILZX5_Wj6k5H",
+     "n": 2,
+     "old": "DSC_0515 copy.jpg",
+     "dto": "2026:01:23 16:50:22"
+    },
+    {
+     "id": "1YuAKZEjQvzk71nX5hS8R_SZR2kj8aMKs",
+     "n": 3,
+     "old": "DSC_0520 copy.jpg",
+     "dto": "2026:01:23 16:51:10"
+    },
+    {
+     "id": "1cGNylz-D367qLwRzT0G6fcXpEyR3-1HC",
+     "n": 4,
+     "old": "DSC_0521 copy.jpg",
+     "dto": "2026:01:23 16:51:30"
+    },
+    {
+     "id": "1vQjn-yjZW4V0rMwpUfQBlJ5K9Rb4zotx",
+     "n": 5,
+     "old": "DSC_0524 copy.jpg",
+     "dto": "2026:01:23 16:52:13"
+    },
+    {
+     "id": "1DXM1wyg2theXPPXsJD_W4CZNin0X5Z34",
+     "n": 6,
+     "old": "DSC_0525 copy.jpg",
+     "dto": "2026:01:23 16:53:28"
+    },
+    {
+     "id": "1EL_U5dCCsT_668kpLtTnQVKF3TLlQ2Bv",
+     "n": 7,
+     "old": "DSC_0531 copy.jpg",
+     "dto": "2026:01:23 16:55:01"
+    },
+    {
+     "id": "1GoZAwkD8peQsNZ25euA9g6oCvcAjREUF",
+     "n": 8,
+     "old": "DSC_0541 copy.jpg",
+     "dto": "2026:01:23 16:58:40"
+    },
+    {
+     "id": "1EJWvRafAH8cU3rFoL-Wt7kHAYNwS5ysU",
+     "n": 9,
+     "old": "DSC_0542 copy.jpg",
+     "dto": "2026:01:23 16:58:48"
+    },
+    {
+     "id": "19GC--M9FmgEghsNMy99BaJl0wdzSL7kP",
+     "n": 10,
+     "old": "DSC_0548 copy.jpg",
+     "dto": "2026:01:23 17:01:19"
+    },
+    {
+     "id": "1GZXkVMcQEqYkt7D81wkyv6vyP2P3jx4S",
+     "n": 11,
+     "old": "DSC_0549 copy.jpg",
+     "dto": "2026:01:23 17:01:25"
+    },
+    {
+     "id": "17aGMMJdpKGDdma_P228DE9IVTb2QeUuo",
+     "n": 12,
+     "old": "DSC_0555 copy.jpg",
+     "dto": "2026:01:23 17:02:18"
+    }
+   ]
+  },
+  "ROS-015": {
+   "folder_id": "1B1yqjmfjSVvj5PgrVMIfu84YS4oLA04S",
+   "new": false,
+   "photos": [
+    {
+     "id": "1zXTTIJzeOjaPwHzQuDn7-PtOOODWCpdE",
+     "n": 1,
+     "old": "DSC_1083 copy.jpg",
+     "dto": "2026:01:30 15:26:17"
+    },
+    {
+     "id": "1ycxrNFklG503b84H1fyIcmL1wDF0BWCz",
+     "n": 2,
+     "old": "DSC_1091 copy.jpg",
+     "dto": "2026:01:30 15:30:14"
+    },
+    {
+     "id": "1WEa7aRD5gWFJ3IJPbCYlZwiyECKiajns",
+     "n": 3,
+     "old": "DSC_1097 copy.jpg",
+     "dto": "2026:01:30 15:31:20"
+    },
+    {
+     "id": "1U6ByOBT5GkRhAPRL6jlm82McDprQOAQ4",
+     "n": 4,
+     "old": "DSC_1106 copy.jpg",
+     "dto": "2026:01:30 15:33:12"
+    },
+    {
+     "id": "1Ee-hCFOxH2sVj9UIo7YExp3VO0qzq8A-",
+     "n": 5,
+     "old": "DSC_1110 copy.jpg",
+     "dto": "2026:01:30 15:34:04"
+    },
+    {
+     "id": "1kjatoqZWoPGow_KfUuauSqLkjiazITWj",
+     "n": 6,
+     "old": "DSC_1113 copy.jpg",
+     "dto": "2026:01:30 15:35:35"
+    },
+    {
+     "id": "1vcn0Wv0nqJOmrwwA3NYt2QIYWmUXnxGq",
+     "n": 7,
+     "old": "DSC_1117 copy.jpg",
+     "dto": "2026:01:30 15:37:14"
+    },
+    {
+     "id": "1RnQs4VMnfHMIbzgLXVsgkMUPM2308SrO",
+     "n": 8,
+     "old": "DSC_1123 copy.jpg",
+     "dto": "2026:01:30 15:37:56"
+    },
+    {
+     "id": "1WNcRETY8ShDODj3Wu054oClvXAQBcwnI",
+     "n": 9,
+     "old": "DSC_1125 copy.jpg",
+     "dto": "2026:01:30 15:38:42"
+    }
+   ]
+  },
+  "ROS-016": {
+   "folder_id": "1FDmlTp5sRs27v3Stwiy0chKLKZ_hyQ1J",
+   "new": false,
+   "photos": [
+    {
+     "id": "1AZX9SV0sISAVafSmlvLAFerWC5LquBHk",
+     "n": 1,
+     "old": "DSC_1258 copy.jpg",
+     "dto": "2026:01:30 16:30:49"
+    },
+    {
+     "id": "1-LIEiW8CFFokCbcvSBG7wmfe6Vqx_ZeT",
+     "n": 2,
+     "old": "DSC_1265 copy.jpg",
+     "dto": "2026:01:30 16:32:26"
+    },
+    {
+     "id": "1GnPAXm9NkF4UTe-RhrbWvHslIBnyTJH1",
+     "n": 3,
+     "old": "DSC_1278 copy.jpg",
+     "dto": "2026:01:30 16:36:43"
+    },
+    {
+     "id": "1sFIQ21Ra8Tws5_JRtDpZFuechd4K9iT1",
+     "n": 4,
+     "old": "DSC_1283 copy.jpg",
+     "dto": "2026:01:30 16:37:40"
+    },
+    {
+     "id": "1w8PSQkWIoIDteF0EAmB_9L6SCiCJqBcM",
+     "n": 5,
+     "old": "DSC_1293 copy.jpg",
+     "dto": "2026:01:30 16:38:36"
+    }
+   ]
+  },
+  "ROS-017": {
+   "folder_id": "1hz53Psc-O7d6LmYYKczj3_jeG6L4KOlM",
+   "new": false,
+   "photos": [
+    {
+     "id": "1q6vUbh6VjFrPXpZKwukOLR31qe4U7y8C",
+     "n": 1,
+     "old": "DSC_1286 copy.jpg",
+     "dto": "2022:03:21 01:39:38"
+    },
+    {
+     "id": "1c9_e1N1bIuIzDqjPBi3nab6B9JA4PTxw",
+     "n": 2,
+     "old": "DSC_1291 copy.jpg",
+     "dto": "2022:03:21 01:42:01"
+    },
+    {
+     "id": "1ZuhsPyjQaPmmq9TvEb6mjV-XTxMRLeKy",
+     "n": 3,
+     "old": "DSC_1299 copy.jpg",
+     "dto": "2022:03:21 01:43:10"
+    },
+    {
+     "id": "19utpil8DUZ_96eki1P8JnKGJjeT_lYeB",
+     "n": 4,
+     "old": "DSC_1304 copy.jpg",
+     "dto": "2022:03:21 01:44:36"
+    },
+    {
+     "id": "1CZcDy1V-ugKcnxb3wCFJhPlrVaBHmMm3",
+     "n": 5,
+     "old": "DSC_1310 copy.jpg",
+     "dto": "2022:03:21 01:46:49"
+    },
+    {
+     "id": "1Cscv6HyHePtp8dIabf2uaJPGxmc5sdj1",
+     "n": 6,
+     "old": "DSC_1314 copy.jpg",
+     "dto": "2022:03:21 01:48:33"
+    }
+   ]
+  },
+  "ROS-018": {
+   "folder_id": "1s6kdZK46mtxF8Dvk7NqlDSrK2rmvcJCo",
+   "new": false,
+   "photos": [
+    {
+     "id": "1P5ctIpZy_js4O-6Dg6Q1-P7NYJxcVR2D",
+     "n": 1,
+     "old": "DSC_1416 copy.jpg",
+     "dto": "2026:01:30 17:45:22"
+    },
+    {
+     "id": "1W8M90aRNUjRJAeGy_PoCQuwaulqpLbJ7",
+     "n": 2,
+     "old": "DSC_1426 copy.jpg",
+     "dto": "2026:01:30 17:48:17"
+    },
+    {
+     "id": "1cCJLba8sgSAQRM11ikeZQHY1pit6Hi_V",
+     "n": 3,
+     "old": "DSC_1428 copy.jpg",
+     "dto": "2026:01:30 17:49:49"
+    },
+    {
+     "id": "1zpkUynn52DVnBS348fyB0BTgNMOhXYJd",
+     "n": 4,
+     "old": "DSC_1434 copy.jpg",
+     "dto": "2026:01:30 17:50:21"
+    },
+    {
+     "id": "1ZVjdknXo8GEpEg2tshjVUmtj5lSS84BE",
+     "n": 5,
+     "old": "DSC_1441 copy.jpg",
+     "dto": "2026:01:30 17:51:58"
+    },
+    {
+     "id": "1vsdlYwFMAgsyXDL2HVu2aFwloGHGAdMo",
+     "n": 6,
+     "old": "DSC_1445 copy.jpg",
+     "dto": "2026:01:30 17:53:04"
+    },
+    {
+     "id": "1RJ6Xw0gFvL7rGSNricsCcdoNl_NX6EMK",
+     "n": 7,
+     "old": "DSC_1450 copy.jpg",
+     "dto": "2026:01:30 17:55:18"
+    },
+    {
+     "id": "1x6RfRpipBwWAK_ViMaYMYfsWWj_PBJdp",
+     "n": 8,
+     "old": "DSC_1462 copy.jpg",
+     "dto": "2026:01:30 17:57:51"
+    }
+   ]
+  },
+  "ROS-019": {
+   "folder_id": "1d2zslsJ-FvnaA7bFdQCVKG8Ze5YdiM_H",
+   "new": false,
+   "photos": [
+    {
+     "id": "1WjmmR8RrRCHGO-g05FZwB012BRDMJSwN",
+     "n": 1,
+     "old": "DSC_1763 copy.jpg",
+     "dto": "2025:09:05 16:33:56"
+    },
+    {
+     "id": "1wzOYCz-ZCe-LkcFiPruuwZxVGGCRlYgZ",
+     "n": 2,
+     "old": "DSC_1765 copy.jpg",
+     "dto": "2025:09:05 16:33:56"
+    },
+    {
+     "id": "1rW0weED-UNleKo88yuFn30c-1GvBpM1P",
+     "n": 3,
+     "old": "DSC_1764 copy.jpg",
+     "dto": "2025:09:05 16:35:11"
+    },
+    {
+     "id": "1ehO3STrBI7_aT_u3Jnj2I5q4QYpsIxbM",
+     "n": 4,
+     "old": "DSC_1777 copy.jpg",
+     "dto": "2025:09:05 16:37:32"
+    },
+    {
+     "id": "1FhkYGtrfQITqgyXwxwjwq9lckhuBZ9Md",
+     "n": 5,
+     "old": "DSC_1778 copy.jpg",
+     "dto": "2025:09:05 16:37:49"
+    }
+   ]
+  },
+  "ROS-020": {
+   "folder_id": "1oWZ3UQqM0djtzUavFXKCKmqB5gqJeyXT",
+   "new": false,
+   "photos": [
+    {
+     "id": "1_4NHVOJ4yFP_T1hFJxrJC4Uu1u66YjCw",
+     "n": 1,
+     "old": "DSC_2680 copy.jpg",
+     "dto": "2024:06:07 15:24:37"
+    },
+    {
+     "id": "1meyrr6GuulNxBEGQOHrNIMSQqyM07D4x",
+     "n": 2,
+     "old": "DSC_2682 copy.jpg",
+     "dto": "2024:06:07 15:26:05"
+    },
+    {
+     "id": "1EAzIID5O_dRpCFyc9y0Q3GEEjKU0P-g0",
+     "n": 3,
+     "old": "DSC_2687 copy.jpg",
+     "dto": "2024:06:07 15:28:13"
+    },
+    {
+     "id": "1b-vcQUIfdtXlv7Iaxg2ijpEHqaUnG_15",
+     "n": 4,
+     "old": "DSC_2688 copy.jpg",
+     "dto": "2024:06:07 15:29:03"
+    },
+    {
+     "id": "1ARW5Avn2TjaFjLPrDs4BeOuQ7Ps2aqhL",
+     "n": 5,
+     "old": "DSC_2691 copy.jpg",
+     "dto": "2024:06:07 15:29:56"
+    },
+    {
+     "id": "16q30WPcCtP9Kkvn8xpMOtBQiYoK1-Es6",
+     "n": 6,
+     "old": "DSC_2694 copy.jpg",
+     "dto": "2024:06:07 15:31:23"
+    },
+    {
+     "id": "1vRUrHNjtNjQrYewWra-p-Jw_0IHSmXD8",
+     "n": 7,
+     "old": "DSC_2697 copy.jpg",
+     "dto": "2024:06:07 15:32:00"
+    }
+   ]
+  },
+  "ROS-021": {
+   "folder_id": "14r8HJc48BEJlCuMtORvsue1UG1Qog-AL",
+   "new": false,
+   "photos": [
+    {
+     "id": "1QX56vvpLQThMAI3hdI7iCwbh0jVlFUt-",
+     "n": 1,
+     "old": "DSC_1306 copy.jpg",
+     "dto": "2026:01:30 16:51:33"
+    },
+    {
+     "id": "1m68_t3TtUvyjzZ7rwHrwyFmc1JavyQh7",
+     "n": 2,
+     "old": "DSC_1312 copy.jpg",
+     "dto": "2026:01:30 16:52:39"
+    },
+    {
+     "id": "1aO63CRnZfAC6VWioZENfbCRsFqDFi8fn",
+     "n": 3,
+     "old": "DSC_1313 copy.jpg",
+     "dto": "2026:01:30 16:54:33"
+    },
+    {
+     "id": "1LCj50aDAvxh5yw73kUCIc6_z7q4LADTS",
+     "n": 4,
+     "old": "DSC_1316 copy.jpg",
+     "dto": "2026:01:30 16:54:57"
+    },
+    {
+     "id": "1j0I53Rg9wzzkJSY5jFQPvxbpejlngTUL",
+     "n": 5,
+     "old": "DSC_1321 copy.jpg",
+     "dto": "2026:01:30 16:56:34"
+    },
+    {
+     "id": "1PW0pazEh3KpaF07HXq2ciYousUPRRk5q",
+     "n": 6,
+     "old": "DSC_1322 copy.jpg",
+     "dto": "2026:01:30 16:58:36"
+    },
+    {
+     "id": "12u6e4NQSRB45vFhsAkGfAcZVFfcF-Sfj",
+     "n": 7,
+     "old": "DSC_1330 copy.jpg",
+     "dto": "2026:01:30 17:00:46"
+    },
+    {
+     "id": "1C0ymi2ll7LJBvo0I3eeQ_r82cks09tKH",
+     "n": 8,
+     "old": "DSC_1331 copy.jpg",
+     "dto": "2026:01:30 17:01:42"
+    },
+    {
+     "id": "18t_iMn5D2nVXq3xBk6A28T3SPL95vx4B",
+     "n": 9,
+     "old": "DSC_1336 copy.jpg",
+     "dto": "2026:01:30 17:09:14"
+    },
+    {
+     "id": "1wXHLH3ATnfkiunRk6kpz-GHZLg9G8GAV",
+     "n": 10,
+     "old": "DSC_1340 copy.jpg",
+     "dto": "2026:01:30 17:11:25"
+    },
+    {
+     "id": "108pn3goXzvTek67s9-AP_nE-NI05B86C",
+     "n": 11,
+     "old": "DSC_1362 copy.jpg",
+     "dto": "2026:01:30 17:21:11"
+    },
+    {
+     "id": "19_NLP5A6BYFoxau-NFHY4zfVbwlWxH-Q",
+     "n": 12,
+     "old": "DSC_1372 copy.jpg",
+     "dto": "2026:01:30 17:24:35"
+    },
+    {
+     "id": "1I2tXoJfDwKVWHEntqBjDaj6gVRT_ejb9",
+     "n": 13,
+     "old": "DSC_1377 copy.jpg",
+     "dto": "2026:01:30 17:25:54"
+    },
+    {
+     "id": "1r0cOjpXtbvh1QqwH3426-_dAq--4koW4",
+     "n": 14,
+     "old": "DSC_1400 copy.jpg",
+     "dto": "2026:01:30 17:33:11"
+    },
+    {
+     "id": "1__ntDBXzE7GOWfP6r4nC5OQcwGiyP4rI",
+     "n": 15,
+     "old": "DSC_1402 copy.jpg",
+     "dto": "2026:01:30 17:33:54"
+    },
+    {
+     "id": "1OmsgMp7YGXCkqO6Rlak1ESTYWv1D7Qdq",
+     "n": 16,
+     "old": "DSC_1470 copy.jpg",
+     "dto": "2026:01:30 18:00:36"
+    },
+    {
+     "id": "1M0qTEipwg3vCSUF3L7kn5_MEbe-wR_Ir",
+     "n": 17,
+     "old": "DSC_1472 copy.jpg",
+     "dto": "2026:01:30 18:02:57"
+    },
+    {
+     "id": "1g9fa6l6nIWRb8XTnEgOv0kvS0zSd3fPP",
+     "n": 18,
+     "old": "DSC_1474 copy.jpg",
+     "dto": "2026:01:30 18:03:38"
+    },
+    {
+     "id": "1IpFUyyOdmhHIIBfw4CYgbRZT9GcVH7By",
+     "n": 19,
+     "old": "DSC_1479 copy.jpg",
+     "dto": "2026:01:30 18:07:08"
+    },
+    {
+     "id": "1ZfVg9FnrnUrFBGguNMjpnb9EkTHBKv-f",
+     "n": 20,
+     "old": "DSC_1483 copy.jpg",
+     "dto": "2026:01:30 18:08:06"
+    },
+    {
+     "id": "1c15-cQ0qt36w2LMdepYhiBcOLSFoak2E",
+     "n": 21,
+     "old": "DSC_1486 copy.jpg",
+     "dto": "2026:01:30 18:08:48"
+    },
+    {
+     "id": "1v5Z6Wof6uo8dKDg5BTi7NQaSz6Y-jaR2",
+     "n": 22,
+     "old": "DSC_1494 copy.jpg",
+     "dto": "2026:01:30 18:10:58"
+    },
+    {
+     "id": "1guw4-VuKsFcyh3SSaCYrUB4DyIXCftpg",
+     "n": 23,
+     "old": "DSC_1497 copy.jpg",
+     "dto": "2026:01:30 18:11:20"
+    },
+    {
+     "id": "1pdCdQq8u6Qxv2aIGnG7CTzbtY7eJIcag",
+     "n": 24,
+     "old": "DSC_1506 copy.jpg",
+     "dto": "2026:01:30 18:12:45"
+    },
+    {
+     "id": "1UzvJIYLWweCcuNmch5g2eZ19xsgLFVOW",
+     "n": 25,
+     "old": "DSC_1512 copy.jpg",
+     "dto": "2026:01:30 18:14:22"
+    },
+    {
+     "id": "1tnBRTYWbYrU211c_-wPArwk2HdDb7e1b",
+     "n": 26,
+     "old": "DSC_1535 copy.jpg",
+     "dto": "2026:01:30 18:21:35"
+    },
+    {
+     "id": "1MXEqL0Xun_j56eY0Gm63udrEOkWsoozw",
+     "n": 27,
+     "old": "DSC_1568 copy.jpg",
+     "dto": "2026:01:30 18:33:25"
+    },
+    {
+     "id": "1AtJrXiM22pm0R6ntVPsxV3vR2VR3ZJqm",
+     "n": 28,
+     "old": "DSC_1573 copy.jpg",
+     "dto": "2026:01:30 18:34:02"
+    }
+   ]
+  },
+  "ROS-022": {
+   "folder_id": "1OhtmyMt1giEEQNOy7d8EFnvqx1HrUuTD",
+   "new": false,
+   "photos": [
+    {
+     "id": "1ApyTUUB7ikG9TB9HbaJmC9ofadYYtz6h",
+     "n": 1,
+     "old": "jj (96).jpg",
+     "dto": "2022:04:10 15:36:18"
+    },
+    {
+     "id": "1smtVSzngZzukily0G9VK_hRZ2DEOXwWS",
+     "n": 2,
+     "old": "jj (97).jpg",
+     "dto": "2022:04:10 15:37:00"
+    },
+    {
+     "id": "1_OzqHYbVPLE2lNbAwa1fSnagCuN0GkgZ",
+     "n": 3,
+     "old": "jj (98).jpg",
+     "dto": "2022:04:10 15:37:49"
+    },
+    {
+     "id": "1WYvn3NBJPI6fNstDzhpcBqgljeiKJQY7",
+     "n": 4,
+     "old": "jj (99).jpg",
+     "dto": "2022:04:10 15:38:51"
+    },
+    {
+     "id": "1AN_tQ8QfF6Y-iITcUYUVpLjk_Mtsg6wU",
+     "n": 5,
+     "old": "jj (100).jpg",
+     "dto": "2022:04:10 15:40:37"
+    }
+   ]
+  },
+  "ROS-023": {
+   "folder_id": "1MYe15VQ52fNNx3vwZ6tucdkKrWn2svEK",
+   "new": true,
+   "photos": [
+    {
+     "id": "17YkPz9iYNxxP4eRhRs-mj8ocsT05FVd1",
+     "n": 1,
+     "old": "DSC_2450.jpg",
+     "dto": "2021:05:08 00:21:53"
+    },
+    {
+     "id": "1LafbVaQ9VApD5mLe2TUJITIMQC9YZPbw",
+     "n": 2,
+     "old": "DSC_2454.jpg",
+     "dto": "2021:05:08 00:25:25"
+    },
+    {
+     "id": "1fODwUMDt44vuhzY0kTgekDSotz_NIKms",
+     "n": 3,
+     "old": "DSC_2462.jpg",
+     "dto": "2021:05:08 00:28:50"
+    }
+   ]
+  },
+  "ROS-024": {
+   "folder_id": "1Uq22xk-wzIlZ6ZqzIaTxj24MF3wFn2Mh",
+   "new": true,
+   "photos": [
+    {
+     "id": "1FXccTG8C04GrKhwPDWlqK6jyjdUMnUSL",
+     "n": 1,
+     "old": "DSC_3704.jpg",
+     "dto": "2021:05:17 20:19:25"
+    },
+    {
+     "id": "1qCnN65eoNXhXoz_APZ3ixxUwaOJtHwfH",
+     "n": 2,
+     "old": "DSC_3712.jpg",
+     "dto": "2021:05:17 20:23:57"
+    },
+    {
+     "id": "1SQR33I_axf0AQk9pS6qq9hfB3eOSYx6P",
+     "n": 3,
+     "old": "DSC_3714.jpg",
+     "dto": "2021:05:17 20:24:17"
+    },
+    {
+     "id": "1DlYDeFx_VyoqCQ1MtMfvJJorG_sx9PYk",
+     "n": 4,
+     "old": "DSC_3718.jpg",
+     "dto": "2021:05:17 20:26:44"
+    }
+   ]
+  },
+  "ROS-025": {
+   "folder_id": "19KhN8NEtaxZ6wq2V-ejV3ptigAZsPunN",
+   "new": true,
+   "photos": [
+    {
+     "id": "1afytgtn7ZSbLseZ1NGaDOOd3QSIVsXw_",
+     "n": 1,
+     "old": "DSC_4916.jpg",
+     "dto": "2021:06:11 20:52:28"
+    },
+    {
+     "id": "1d94ekK2oXzujBafywGylOu3uRH9lPVj3",
+     "n": 2,
+     "old": "DSC_4925.jpg",
+     "dto": "2021:06:11 20:55:35"
+    },
+    {
+     "id": "1uslGl7Pq3AHP0IrwlVJmZ3_Cojo_SkAV",
+     "n": 3,
+     "old": "DSC_4934.jpg",
+     "dto": "2021:06:11 20:58:04"
+    }
+   ]
+  },
+  "ROS-026": {
+   "folder_id": "1DaieXMiN1x7ShUfIjQR6fZomIZgvigpG",
+   "new": true,
+   "photos": [
+    {
+     "id": "1YGX3oQ0Ql_cZYL-z8z6FY7UatmMU5C50",
+     "n": 1,
+     "old": "DSC_4955.jpg",
+     "dto": "2021:06:11 21:07:04"
+    },
+    {
+     "id": "1jkWRuv32icBb3HqED-ZmOsV84mx1n-sX",
+     "n": 2,
+     "old": "DSC_4961.jpg",
+     "dto": "2021:06:11 21:09:02"
+    },
+    {
+     "id": "1YuuQfshLG7p8qcUmWPfiu5_ZQmmkdVwW",
+     "n": 3,
+     "old": "DSC_4967.jpg",
+     "dto": "2021:06:11 21:10:06"
+    },
+    {
+     "id": "1Jcf6k-DEvT-mzMweLMs3Wa5qv-IKImm7",
+     "n": 4,
+     "old": "DSC_4970.jpg",
+     "dto": "2021:06:11 21:11:20"
+    },
+    {
+     "id": "1PXrwM_HGwEw6bi81zk7cES8Xsi6Gfr7N",
+     "n": 5,
+     "old": "DSC_4972.jpg",
+     "dto": "2021:06:11 21:12:41"
+    }
+   ]
+  },
+  "ROS-027": {
+   "folder_id": "1oRFN7vkkWgPp_p4298YppZRd-13to6lt",
+   "new": true,
+   "photos": [
+    {
+     "id": "1un8sHc3wWgDg7KZ0cWD_YdyUcc4Uh7l6",
+     "n": 1,
+     "old": "DSC_4981.jpg",
+     "dto": "2021:06:11 21:16:28"
+    },
+    {
+     "id": "15U5HJkc5n3kOlf9UawrkSM6OL1v2ml8x",
+     "n": 2,
+     "old": "DSC_4992.jpg",
+     "dto": "2021:06:11 21:19:55"
+    },
+    {
+     "id": "1unnU9x9r_XF8AegCfiZbR7IKwJoGamTk",
+     "n": 3,
+     "old": "DSC_4996.jpg",
+     "dto": "2021:06:11 21:21:23"
+    },
+    {
+     "id": "1KSLDYL1N8xdKhlhn998vi7nBPTzdV4mw",
+     "n": 4,
+     "old": "DSC_5009.jpg",
+     "dto": "2021:06:11 21:29:36"
+    }
+   ]
+  },
+  "ROS-028": {
+   "folder_id": "1jnoLZx-Ea0wlqc3LISFlefAj5sCNzeru",
+   "new": true,
+   "photos": [
+    {
+     "id": "168ZXX-LlK9KONl60wDyGGwG-g-LRQE0a",
+     "n": 1,
+     "old": "DSC_5986.jpg",
+     "dto": "2021:12:22 23:27:07"
+    },
+    {
+     "id": "141ZkMwOu0X5W1iWkT3AmqxG5oGxuX30h",
+     "n": 2,
+     "old": "DSC_5989.jpg",
+     "dto": "2021:12:22 23:28:01"
+    },
+    {
+     "id": "1PZPjGFX5NvA0YsRfQqI2FCnDjQsXcSnN",
+     "n": 3,
+     "old": "DSC_5990.jpg",
+     "dto": "2021:12:22 23:28:14"
+    },
+    {
+     "id": "1hZjYNtloqkJZuG9QigAQBSUlS108TWJT",
+     "n": 4,
+     "old": "DSC_5992.jpg",
+     "dto": "2021:12:22 23:28:36"
+    },
+    {
+     "id": "1BQheWGO8nwaX6MgRw3CWjOUfGeEtgbWO",
+     "n": 5,
+     "old": "DSC_5994.jpg",
+     "dto": "2021:12:22 23:28:54"
+    },
+    {
+     "id": "1mYgjf14xVXb6PvMl0VHzA8WkKusnWzui",
+     "n": 6,
+     "old": "DSC_5996.jpg",
+     "dto": "2021:12:22 23:29:04"
+    },
+    {
+     "id": "1pxyuQ0VUf9i03TVLbZsREzsdJMSlKlsB",
+     "n": 7,
+     "old": "DSC_5998.jpg",
+     "dto": "2021:12:22 23:29:21"
+    },
+    {
+     "id": "1OHfgzyLAtUcbDFcp1AxlCOG5uTKTHc_-",
+     "n": 8,
+     "old": "DSC_6000.jpg",
+     "dto": "2021:12:22 23:29:40"
+    }
+   ]
+  },
+  "ROS-029": {
+   "folder_id": "1Gc-eJmh2SvR094NJKK5Nfzpumu61KXh7",
+   "new": true,
+   "photos": [
+    {
+     "id": "1ul7Z5IPGo0SI0PyFoPvWP3SDWpLUYxwk",
+     "n": 1,
+     "old": "DSC_6008.jpg",
+     "dto": "2021:12:22 23:33:22"
+    },
+    {
+     "id": "1dbPIUCW_yz3gmPCzUF97q1CJ5KOTFOHF",
+     "n": 2,
+     "old": "DSC_6009.jpg",
+     "dto": "2021:12:22 23:34:02"
+    },
+    {
+     "id": "16P1vGW7SD9sw42B5rWEZYi1oHpI1zoGu",
+     "n": 3,
+     "old": "DSC_6011.jpg",
+     "dto": "2021:12:22 23:34:45"
+    },
+    {
+     "id": "16HZl6qTUzbQN-G0ypqhLTNxdRSSuwVB5",
+     "n": 4,
+     "old": "DSC_6013.jpg",
+     "dto": "2021:12:22 23:34:58"
+    },
+    {
+     "id": "1wTUQfN1pA-PhbgFpP73CrZtj62nPlIuz",
+     "n": 5,
+     "old": "DSC_6014.jpg",
+     "dto": "2021:12:22 23:35:10"
+    },
+    {
+     "id": "1DjYwJDIwM5nAFvi-9EuKv5Jugzow6slo",
+     "n": 6,
+     "old": "DSC_6015.jpg",
+     "dto": "2021:12:22 23:35:18"
+    },
+    {
+     "id": "1xcw6vhknauoUG8u1VUxCRnBqA2qfHM1G",
+     "n": 7,
+     "old": "DSC_6016.jpg",
+     "dto": "2021:12:22 23:35:31"
+    },
+    {
+     "id": "1-BeSb4hOwRjFaqpi33UKLmpHWpgESmZp",
+     "n": 8,
+     "old": "DSC_6018.jpg",
+     "dto": "2021:12:22 23:35:50"
+    },
+    {
+     "id": "1Dab-ZBun_pipEyYeEQwuA4d4LCOzXsnk",
+     "n": 9,
+     "old": "DSC_6021.jpg",
+     "dto": "2021:12:22 23:36:38"
+    },
+    {
+     "id": "10frErY9Rse6Il8LJYKHUvUrbCZXEP6Os",
+     "n": 10,
+     "old": "DSC_6022.jpg",
+     "dto": "2021:12:22 23:36:44"
+    },
+    {
+     "id": "17boXE0F4jD-1B8uPU5ldQIDNs83SpsS0",
+     "n": 11,
+     "old": "DSC_6024.jpg",
+     "dto": "2021:12:22 23:37:04"
+    },
+    {
+     "id": "1Mje7U-93aFwSrANK8cDh3fQSapEQ34nU",
+     "n": 12,
+     "old": "DSC_6026.jpg",
+     "dto": "2021:12:22 23:37:18"
+    },
+    {
+     "id": "1cOkqLaBO9CLvqwhdIt9tmrMQ1LGnyZ63",
+     "n": 13,
+     "old": "DSC_6030.jpg",
+     "dto": "2021:12:22 23:38:40"
+    }
+   ]
+  },
+  "ROS-030": {
+   "folder_id": "1n9KqC62CreSq6x-V0DDz6MVzYIZ99kYc",
+   "new": true,
+   "photos": [
+    {
+     "id": "12PnFSB41m6ItX20BWpr1Hpir6b8_TUdT",
+     "n": 1,
+     "old": "DSC_6072.jpg",
+     "dto": "2021:12:22 23:50:30"
+    },
+    {
+     "id": "1mf8b__e1LsEbaT6tUDF2mnXm0M84CUvn",
+     "n": 2,
+     "old": "DSC_6083.jpg",
+     "dto": "2021:12:22 23:55:14"
+    },
+    {
+     "id": "10ooBLXGjSKayv7CtNlYWIja8avszYCoj",
+     "n": 3,
+     "old": "DSC_6086.jpg",
+     "dto": "2021:12:22 23:56:38"
+    },
+    {
+     "id": "1Z9spWHzBpWmchRVcakR9wL2FaPlYcI2A",
+     "n": 4,
+     "old": "DSC_6089.jpg",
+     "dto": "2021:12:22 23:57:06"
+    },
+    {
+     "id": "1EOKex5aoJXkEnRsy-l5OQzEK8wer1v6M",
+     "n": 5,
+     "old": "DSC_6092.jpg",
+     "dto": "2021:12:22 23:57:30"
+    }
+   ]
+  },
+  "ROS-031": {
+   "folder_id": "1VjsbNTjsStnCC7MMHExfBeaoGwMwNdWn",
+   "new": true,
+   "photos": [
+    {
+     "id": "1E3TmWrtTeJMtz2oP1jCYFzvPBzzvBKmr",
+     "n": 1,
+     "old": "DSC_7046.jpg",
+     "dto": "2022:09:16 17:16:45"
+    },
+    {
+     "id": "1meps_CuR6iiY9vF3zh0G597jB2c4GA1Q",
+     "n": 2,
+     "old": "DSC_7050.jpg",
+     "dto": "2022:09:16 17:18:16"
+    },
+    {
+     "id": "1AdmA9qksmhioADkOXRmR6WVIyCoZaALb",
+     "n": 3,
+     "old": "DSC_7061.jpg",
+     "dto": "2022:09:16 17:21:12"
+    },
+    {
+     "id": "1aeBmT0IWQCLMAjYHW-MyQxLhtai2Uxa3",
+     "n": 4,
+     "old": "DSC_7070.jpg",
+     "dto": "2022:09:16 17:24:27"
+    },
+    {
+     "id": "1LuhsjHh2fu5dptDyoJKtGzpKdhhVLTVk",
+     "n": 5,
+     "old": "DSC_7080.jpg",
+     "dto": "2022:09:16 17:26:00"
+    }
+   ]
+  },
+  "ROS-032": {
+   "folder_id": "1fVx_HW_3Y1DY3zuIrXQJsg1NCgKhafiI",
+   "new": true,
+   "photos": [
+    {
+     "id": "1anJqBnnEwRa9d7OJZfBqB0t7wVdgiWjy",
+     "n": 1,
+     "old": "DSC_4716.jpg",
+     "dto": "2023:01:27 16:03:35"
+    },
+    {
+     "id": "1Gx7NQt5Hr3x42tqw9TRXJJfb8y6Dslpa",
+     "n": 2,
+     "old": "DSC_4728.jpg",
+     "dto": "2023:01:27 16:14:40"
+    },
+    {
+     "id": "1inGnzNO_35NLtzmMEj-ZkAMqzCts57lY",
+     "n": 3,
+     "old": "DSC_4731.jpg",
+     "dto": "2023:01:27 16:16:47"
+    },
+    {
+     "id": "1MH1anY-PAPFn5TFO5RK-QGPgeHsY_AHJ",
+     "n": 4,
+     "old": "DSC_4736.jpg",
+     "dto": "2023:01:27 16:18:52"
+    },
+    {
+     "id": "1ddpbca3e6w1AzbAwJKtWfXHEtOwSHKkT",
+     "n": 5,
+     "old": "DSC_4739.jpg",
+     "dto": "2023:01:27 16:20:22"
+    },
+    {
+     "id": "1RkntirBx8oJ6z8mybXfmsCiFIYuBruyE",
+     "n": 6,
+     "old": "DSC_4740.jpg",
+     "dto": "2023:01:27 16:21:58"
+    },
+    {
+     "id": "1cjr4K5RsQLqH6HR6BdXxrbgQ9WSA_aTT",
+     "n": 7,
+     "old": "DSC_4750.jpg",
+     "dto": "2023:01:27 16:23:12"
+    }
+   ]
+  },
+  "ROS-033": {
+   "folder_id": "1c_aWL2c8og1j65CblvQdODrK7VO5FCPh",
+   "new": true,
+   "photos": [
+    {
+     "id": "1ynghpNmHSKLt1ZYhfnZ_EoRtReQSp5pK",
+     "n": 1,
+     "old": "DSC_7596.jpg",
+     "dto": "2023:03:03 17:52:06"
+    }
+   ]
+  },
+  "ROS-034": {
+   "folder_id": "17WWu6KQ2PioE83Fk5kuTSbqQfk22QKcM",
+   "new": true,
+   "photos": [
+    {
+     "id": "1aSYqCknl8TWQdhB7_Jyd9ebwzHlMMBB4",
+     "n": 1,
+     "old": "DSC_2724 copy.jpg",
+     "dto": "2024:06:07 15:40:59"
+    },
+    {
+     "id": "19IsihNdfAldibK0l5vS6AfMqvibws8iI",
+     "n": 2,
+     "old": "DSC_2726 copy.jpg",
+     "dto": "2024:06:07 15:43:09"
+    },
+    {
+     "id": "1hA3W_rbUUbFNcc9IbuPVu5MaZ5StozWT",
+     "n": 3,
+     "old": "DSC_2730 .jpg",
+     "dto": "2024:06:07 15:44:23"
+    },
+    {
+     "id": "1QSlj6k96_DmDCVScHe3633kWSWNGKsx4",
+     "n": 4,
+     "old": "DSC_2734 copy.jpg",
+     "dto": "2024:06:07 15:45:39"
+    }
+   ]
+  },
+  "ROS-035": {
+   "folder_id": "1spjD6f7BQ8b-tMLxnI4joJIxP9l7HFxs",
+   "new": true,
+   "photos": [
+    {
+     "id": "1cMdYTHzm-0NPhEwYCnHlIflF6ww4JboA",
+     "n": 1,
+     "old": "DSC_2765 copy.jpg",
+     "dto": "2024:06:07 16:05:08"
+    },
+    {
+     "id": "1r6R0CxBO8HKgQSnzNaGzLcWumlZiRFUx",
+     "n": 2,
+     "old": "DSC_2767 copy.jpg",
+     "dto": "2024:06:07 16:05:32"
+    },
+    {
+     "id": "1KQ05i4Iq__7FDfrbLecjFp-gVmzXwYRG",
+     "n": 3,
+     "old": "DSC_2770 copy.jpg",
+     "dto": "2024:06:07 16:07:52"
+    },
+    {
+     "id": "1ouAw9y6tWNx_YSlwdPJvu8FCxAoJG3y8",
+     "n": 4,
+     "old": "DSC_2772 copy.jpg",
+     "dto": "2024:06:07 16:08:27"
+    },
+    {
+     "id": "19J_G0jvnIFTzoDvqVX2oVvk37hAa-8qr",
+     "n": 5,
+     "old": "DSC_2776 copy.jpg",
+     "dto": "2024:06:07 16:09:17"
+    },
+    {
+     "id": "1TA57VgJgU_97p82nJf1WcwqW2fY8DJaM",
+     "n": 6,
+     "old": "DSC_2766 copy.jpg",
+     "dto": "2024:06:07 16:11:13"
+    },
+    {
+     "id": "1vOVKsCD_zLUHEKhRN3skqG4GtRwtOVH7",
+     "n": 7,
+     "old": "DSC_2781 copy.jpg",
+     "dto": "2024:06:07 16:11:40"
+    },
+    {
+     "id": "16eK_7I1QuisLhUunmXDnhN_zGbyDBNlu",
+     "n": 8,
+     "old": "DSC_2783 copy.jpg",
+     "dto": "2024:06:07 16:11:59"
+    }
+   ]
+  },
+  "ROS-036": {
+   "folder_id": "1BB_bItRQNUUBDX-BaS-6zK861d86NGOf",
+   "new": true,
+   "photos": [
+    {
+     "id": "1WV4oGp3_7kZAlcgcKGeJWEze_JoU_-yQ",
+     "n": 1,
+     "old": "DSC_2803 copy 2.jpg",
+     "dto": "2024:06:07 16:22:43"
+    },
+    {
+     "id": "1oeTv9d4iRrX3QjNE0xAh0FQUDSLPo2p6",
+     "n": 2,
+     "old": "DSC_2805 copy.jpg",
+     "dto": "2024:06:07 16:23:02"
+    },
+    {
+     "id": "1usDiai3s44HXuWN3uXsxTywruOzncuK7",
+     "n": 3,
+     "old": "DSC_2807 copy.jpg",
+     "dto": "2024:06:07 16:23:47"
+    },
+    {
+     "id": "1LKbJEGZoZQ6SQRBKeV_ABx3SG8ZP8qwp",
+     "n": 4,
+     "old": "DSC_2816 copy.jpg",
+     "dto": "2024:06:07 16:25:47"
+    },
+    {
+     "id": "191_aHvIAGL52AcKZvj90iDiBwLiLgejQ",
+     "n": 5,
+     "old": "DSC_2818 copy.jpg",
+     "dto": "2024:06:07 16:26:50"
+    },
+    {
+     "id": "1Y1T6pxrGKc7pS5daEWeNY7Wt7zFAXmEu",
+     "n": 6,
+     "old": "DSC_2822 copy.jpg",
+     "dto": "2024:06:07 16:27:56"
+    },
+    {
+     "id": "1o4mrDYbCXB7LFF1gxzQZPcV92W4CfXcV",
+     "n": 7,
+     "old": "DSC_2824 copy.jpg",
+     "dto": "2024:06:07 16:28:10"
+    },
+    {
+     "id": "13XOsoTxk_c5uGoOVEdEf2kd_ZuythicP",
+     "n": 8,
+     "old": "DSC_2825 copy.jpg",
+     "dto": "2024:06:07 16:28:21"
+    },
+    {
+     "id": "1pOcY8ziqBLHB9HVLyLvrFD6jJOnurrPr",
+     "n": 9,
+     "old": "DSC_2827 copy.jpg",
+     "dto": "2024:06:07 16:28:36"
+    },
+    {
+     "id": "18Su3DPKn8MbmTlE_AzfSCQDPXRKvuaUn",
+     "n": 10,
+     "old": "DSC_2828 copy.jpg",
+     "dto": "2024:06:07 16:28:57"
+    },
+    {
+     "id": "1w0sn8-1fJQrXnG81XLzs3iUHuoorwV0C",
+     "n": 11,
+     "old": "DSC_2829 copy.jpg",
+     "dto": "2024:06:07 16:29:06"
+    },
+    {
+     "id": "1TJ8ZjHMvpvkBUrgWOfPJv8KTiIElZw01",
+     "n": 12,
+     "old": "DSC_2833 copy.jpg",
+     "dto": "2024:06:07 16:30:20"
+    }
+   ]
+  },
+  "ROS-037": {
+   "folder_id": "1SBT8iVWECnlTO3QftMbeLSqx6g3M-Yr5",
+   "new": true,
+   "photos": [
+    {
+     "id": "1Y5wAKKkQLcVBspN_JvkJ2O_5XdNpbZ9o",
+     "n": 1,
+     "old": "DSC_2886 copy.jpg",
+     "dto": "2024:06:07 16:52:03"
+    },
+    {
+     "id": "1k1rahoT6NuKcXmmCGptwKVm2gA_xyh3F",
+     "n": 2,
+     "old": "DSC_2893 copy.jpg",
+     "dto": "2024:06:07 16:54:31"
+    },
+    {
+     "id": "17pOmXkf42hVtqwwdPQbaJ0o1AgrSD1Pd",
+     "n": 3,
+     "old": "DSC_2896 copy.jpg",
+     "dto": "2024:06:07 16:54:53"
+    },
+    {
+     "id": "1aKhnP_rLamrKq5WH-eE9u-udnhknGIe8",
+     "n": 4,
+     "old": "DSC_2899 copy.jpg",
+     "dto": "2024:06:07 16:56:17"
+    },
+    {
+     "id": "1CtVLzDb054bXBZtX4_CAEuSY3PKoe41o",
+     "n": 5,
+     "old": "DSC_2902 copy.jpg",
+     "dto": "2024:06:07 16:57:10"
+    },
+    {
+     "id": "1n2SBnIUJcIDS8yU0otNZxpdsKVDV6iR9",
+     "n": 6,
+     "old": "DSC_2903 copy.jpg",
+     "dto": "2024:06:07 16:57:18"
+    },
+    {
+     "id": "1FKWmMhRFMLfELu89Q-3u7eWb1CaUSE9U",
+     "n": 7,
+     "old": "DSC_2911 copy.jpg",
+     "dto": "2024:06:07 17:00:33"
+    },
+    {
+     "id": "1Ts3VWdY27NsQ3S_kP_sxw4mxxgysMCeu",
+     "n": 8,
+     "old": "DSC_2912 copy.jpg",
+     "dto": "2024:06:07 17:01:15"
+    }
+   ]
+  },
+  "ROS-038": {
+   "folder_id": "1KVEUSzKcBfhIyFtaGijDebK9zRRxHS5C",
+   "new": true,
+   "photos": [
+    {
+     "id": "1HoXytgR53nHE30LoypmlrMax5MnMmPYs",
+     "n": 1,
+     "old": "DSC_2916.jpg",
+     "dto": "2024:06:07 17:03:19"
+    },
+    {
+     "id": "1f_O84ZUCGTDDE-fEI-fd9iae5hjvYSqX",
+     "n": 2,
+     "old": "DSC_2923.jpg",
+     "dto": "2024:06:07 17:05:41"
+    },
+    {
+     "id": "1PRIluSTnmWUo4Qxpi-5MC7VxwBGme5l0",
+     "n": 3,
+     "old": "DSC_2928.jpg",
+     "dto": "2024:06:07 17:07:41"
+    },
+    {
+     "id": "1cSr9JiPSg5XJWrMQFkoUmIN-ZSbX-Ero",
+     "n": 4,
+     "old": "DSC_2939.jpg",
+     "dto": "2024:06:07 17:11:46"
+    },
+    {
+     "id": "1bI0pbeT0qCa5WgrBzC0ISCE00-hdb0KW",
+     "n": 5,
+     "old": "DSC_2949.jpg",
+     "dto": "2024:06:07 17:15:40"
+    }
+   ]
+  },
+  "ROS-039": {
+   "folder_id": "1el1HErpwu9gMEFmnfovKy-b5W73QLUn_",
+   "new": true,
+   "photos": [
+    {
+     "id": "1ygdc4uonSrO5W-ArI0_4GA30tRR8HHBG",
+     "n": 1,
+     "old": "DSC_1746 copy.jpg",
+     "dto": "2025:09:05 16:28:38"
+    },
+    {
+     "id": "1afEf3lWzcIsgKcHIGU3lH6PE5iSlkWGc",
+     "n": 2,
+     "old": "DSC_1750 copy.jpg",
+     "dto": "2025:09:05 16:30:07"
+    },
+    {
+     "id": "1YucT-hrH9RNKRO_EhA3LQPl4VoGVFVdy",
+     "n": 3,
+     "old": "DSC_1754 copy.jpg",
+     "dto": "2025:09:05 16:30:50"
+    },
+    {
+     "id": "1XF3h0SMZbo8Qrz9DCChQbiFkoSq4CE5M",
+     "n": 4,
+     "old": "DSC_1756 copy.jpg",
+     "dto": "2025:09:05 16:31:22"
+    }
+   ]
+  },
+  "ROS-040": {
+   "folder_id": "1XPAioY7t02BJxus8JBc3Jc6Hb7ld9NWg",
+   "new": true,
+   "photos": [
+    {
+     "id": "1pE7FtBx2EBT_bkLmFiX6ksrr9uWrkOAU",
+     "n": 1,
+     "old": "DSC_1823 copy.jpg",
+     "dto": "2025:09:05 17:00:48"
+    },
+    {
+     "id": "1e1XyYw9g1KmBtigPVDmZHWlrXTdup-jl",
+     "n": 2,
+     "old": "DSC_1825 copy.jpg",
+     "dto": "2025:09:05 17:03:12"
+    },
+    {
+     "id": "1V9XZTCMjxqaxCJTAc1LOLc3Ma-ddBSP6",
+     "n": 3,
+     "old": "DSC_1828 copy.jpg",
+     "dto": "2025:09:05 17:04:54"
+    },
+    {
+     "id": "1N9yDpTAbfIlgzhpzCVN8eBUSk6BWdDyi",
+     "n": 4,
+     "old": "DSC_1834 copy.jpg",
+     "dto": "2025:09:05 17:05:55"
+    },
+    {
+     "id": "1S2sk3nhq4Uz-eoQxnCviCxK6vuvE6WFU",
+     "n": 5,
+     "old": "DSC_1835 copy.jpg",
+     "dto": "2025:09:05 17:06:04"
+    }
+   ]
+  },
+  "ROS-041": {
+   "folder_id": "1KOGlckEaNWSMRoqAYXoGvEe9muWoifIU",
+   "new": true,
+   "photos": [
+    {
+     "id": "1lr30-vi9a6gHlIeTuV759aehEL_1vTIg",
+     "n": 1,
+     "old": "DSC_1845 copy.jpg",
+     "dto": "2025:09:05 17:09:19"
+    },
+    {
+     "id": "1etAuATzHz-u00NH9mEvaReU5dx5OW3wf",
+     "n": 2,
+     "old": "DSC_1848 copy.jpg",
+     "dto": "2025:09:05 17:11:39"
+    },
+    {
+     "id": "1-lXV0ah1kOwODxBOUtzRT7-do91h7_Nr",
+     "n": 3,
+     "old": "DSC_1854 copy.jpg",
+     "dto": "2025:09:05 17:13:46"
+    },
+    {
+     "id": "1StVLP7fTt60nCjT5cgXOuCPcro54-Ej1",
+     "n": 4,
+     "old": "DSC_1857 copy.jpg",
+     "dto": "2025:09:05 17:14:59"
+    },
+    {
+     "id": "1pPouxnzpECxEHZiiV62pTQQZZwyYs-s_",
+     "n": 5,
+     "old": "DSC_1862 copy.jpg",
+     "dto": "2025:09:05 17:15:36"
+    },
+    {
+     "id": "1QSP7pG660Au4YcLZoNGtQBSO1a1Tlulk",
+     "n": 6,
+     "old": "DSC_1864 copy.jpg",
+     "dto": "2025:09:05 17:16:43"
+    }
+   ]
+  },
+  "ROS-042": {
+   "folder_id": "1WZ7GSOaysKuDTtOCS-2DteNDvuSdjYMY",
+   "new": true,
+   "photos": [
+    {
+     "id": "1T3SKVff3L916TukJf9v83pNiTVq5-Um-",
+     "n": 1,
+     "old": "DSC_1878 copy.jpg",
+     "dto": "2025:09:05 17:21:01"
+    },
+    {
+     "id": "1QjNYuEgHRslBP5vlkLgfxgFv5xcVqJNL",
+     "n": 2,
+     "old": "DSC_1879 copy.jpg",
+     "dto": "2025:09:05 17:21:55"
+    },
+    {
+     "id": "1rtizSQuZkZ4AXuffbCkXrBqnZm6LO5NA",
+     "n": 3,
+     "old": "DSC_1880 copy.jpg",
+     "dto": "2025:09:05 17:22:44"
+    },
+    {
+     "id": "1Gt1yBBR8hb8G46DGkxE8IctPNxDPCcqC",
+     "n": 4,
+     "old": "DSC_1885 copy.jpg",
+     "dto": "2025:09:05 17:24:58"
+    }
+   ]
+  },
+  "ROS-043": {
+   "folder_id": "1wq_sE0SRnJzZvw1FMueHfeGzjvYCKUmQ",
+   "new": true,
+   "photos": [
+    {
+     "id": "1Y5oCJztv69-EKQB-nt3R6Lmhcf3M9xwD",
+     "n": 1,
+     "old": "DSC_1938 copy.jpg",
+     "dto": "2025:09:05 17:38:21"
+    },
+    {
+     "id": "1YL6embisj_7liKhq-nSxFWJwyquCtD9a",
+     "n": 2,
+     "old": "DSC_1940 copy.jpg",
+     "dto": "2025:09:05 17:39:01"
+    },
+    {
+     "id": "1CKkwhhw-P-xKCHtqLaexbm5-8mbYYpFn",
+     "n": 3,
+     "old": "DSC_1942 copy.jpg",
+     "dto": "2025:09:05 17:39:21"
+    },
+    {
+     "id": "1xK40qTWQLsLCr0t2m6gLWIP0-dTu3BJ5",
+     "n": 4,
+     "old": "DSC_1943 copy.jpg",
+     "dto": "2025:09:05 17:39:46"
+    },
+    {
+     "id": "1y509hFl07TNthDlvvn1WifsXcfKBTuFt",
+     "n": 5,
+     "old": "DSC_1947 copy.jpg",
+     "dto": "2025:09:05 17:40:53"
+    },
+    {
+     "id": "1kmtdQWWH9gQ8mn8rbyoVmnIHf0eeTCHQ",
+     "n": 6,
+     "old": "DSC_1948 copy.jpg",
+     "dto": "2025:09:05 17:41:01"
+    },
+    {
+     "id": "1YyjkjfnohuAacRU1J0bt8j8AjbXQgEcI",
+     "n": 7,
+     "old": "DSC_1949 copy.jpg",
+     "dto": "2025:09:05 17:41:42"
+    },
+    {
+     "id": "1UUIaKRlMJcb2VnEqUOgvdAOAG2AGDzFd",
+     "n": 8,
+     "old": "DSC_1951 copy.jpg",
+     "dto": "2025:09:05 17:42:40"
+    },
+    {
+     "id": "14QFAMKAvE0_6qLBTgIy3yCi8yPdYIuOi",
+     "n": 9,
+     "old": "DSC_1952 copy.jpg",
+     "dto": "2025:09:05 17:42:53"
+    },
+    {
+     "id": "1V8ZVfphW_38BeCdGeMFBioSPUef9kfST",
+     "n": 10,
+     "old": "DSC_1954 copy.jpg",
+     "dto": "2025:09:05 17:43:00"
+    }
+   ]
+  },
+  "ROS-044": {
+   "folder_id": "15G7jtwz4mmdC2qpWkTTMlgXDITthZODh",
+   "new": true,
+   "photos": [
+    {
+     "id": "1snjY0NquLBA1jKD4u5omo3xfA4bIk969",
+     "n": 1,
+     "old": "DSC_1959 copy.jpg",
+     "dto": "2025:09:05 17:49:43"
+    },
+    {
+     "id": "10XWxnigNaRDSmf52R0tl9WnojCAlsNhJ",
+     "n": 2,
+     "old": "DSC_1962 copy.jpg",
+     "dto": "2025:09:05 17:51:57"
+    },
+    {
+     "id": "1od80n7CWJCwMF8MoM7i15lBpgrkWXhcW",
+     "n": 3,
+     "old": "DSC_1964 copy.jpg",
+     "dto": "2025:09:05 17:52:56"
+    },
+    {
+     "id": "1zcvIOdAdifEpPJfREA78Sk8AuxXERkTo",
+     "n": 4,
+     "old": "DSC_1970 copy.jpg",
+     "dto": "2025:09:05 17:53:59"
+    },
+    {
+     "id": "1s00pDk7aSo1d8YKxgzSLmEuK3tzJibxz",
+     "n": 5,
+     "old": "DSC_1973 copy.jpg",
+     "dto": "2025:09:05 17:54:27"
+    }
+   ]
+  },
+  "ROS-045": {
+   "folder_id": "1bZdUC2zpG0cjoXOYNCXy_5OG-7es9y4v",
+   "new": true,
+   "photos": [
+    {
+     "id": "14nMb51BvplS8sV6KoFoEWuqKEHGeIyyz",
+     "n": 1,
+     "old": "DSC_3687 copy.jpg",
+     "dto": "2025:09:17 20:33:39"
+    },
+    {
+     "id": "1vyPNdG24eTAe1vDprsMxgvqrUKv655Ec",
+     "n": 2,
+     "old": "DSC_3700 copy.jpg",
+     "dto": "2025:09:17 20:37:55"
+    },
+    {
+     "id": "1wnevOCg-hQM0wOyLmid4RRZPQGKce7Y-",
+     "n": 3,
+     "old": "DSC_3701 copy.jpg",
+     "dto": "2025:09:17 20:38:04"
+    },
+    {
+     "id": "1RTEnba_12UWVSAT9arFv9L3fmrEg62C6",
+     "n": 4,
+     "old": "DSC_3686 copy.jpg",
+     "dto": "2025:09:17 20:38:35"
+    },
+    {
+     "id": "1704Zty7Nh1akktiVsKT-ljBCqTe0TGli",
+     "n": 5,
+     "old": "DSC_3704 copy.jpg",
+     "dto": "2025:09:17 20:38:55"
+    },
+    {
+     "id": "1PZsx9EzbhNN1ySOForIYu0WsBVCM4IH3",
+     "n": 6,
+     "old": "DSC_3706 copy.jpg",
+     "dto": "2025:09:17 20:39:20"
+    },
+    {
+     "id": "1TkUkHxHWYkI7kffgUh5BSJsu0XAWum9d",
+     "n": 7,
+     "old": "DSC_3710 copy.jpg",
+     "dto": "2025:09:17 20:39:37"
+    },
+    {
+     "id": "1us46_sV0TF2q0Xk63Osj5gbxhhphi38u",
+     "n": 8,
+     "old": "DSC_3711 copy.jpg",
+     "dto": "2025:09:17 20:39:45"
+    }
+   ]
+  },
+  "ROS-046": {
+   "folder_id": "1DmJ7kPuQ5Egl_TPy9qGQ2yq5cy0n7vnJ",
+   "new": true,
+   "photos": [
+    {
+     "id": "14NVPiFh8BW2ndLij3Mt8HvRQqntehtZk",
+     "n": 1,
+     "old": "DSC_3888 copy.jpg",
+     "dto": "2025:09:20 16:24:58"
+    },
+    {
+     "id": "1LHcUizTRibCCsvwoVRpsQndkZdoATp74",
+     "n": 2,
+     "old": "DSC_3903 copy.jpg",
+     "dto": "2025:09:20 16:26:07"
+    },
+    {
+     "id": "1S-uceYwzCLMiuYqe-1_bRS7Ot1Qn4tGR",
+     "n": 3,
+     "old": "DSC_3887 copy.jpg",
+     "dto": "2025:09:20 16:27:26"
+    },
+    {
+     "id": "1f04xXOdD_I6mV6MiNjgB6D0tz5eaiGih",
+     "n": 4,
+     "old": "DSC_3902 copy.jpg",
+     "dto": "2025:09:20 16:29:35"
+    },
+    {
+     "id": "1rhiaYmY7tffg409yuISH4yG4c3mBiRYH",
+     "n": 5,
+     "old": "DSC_3906 copy.jpg",
+     "dto": "2025:09:20 16:30:46"
+    },
+    {
+     "id": "15Rrz-9nskWspqlk3S44rRgBr14coxF3b",
+     "n": 6,
+     "old": "DSC_3907 copy.jpg",
+     "dto": "2025:09:20 16:31:02"
+    },
+    {
+     "id": "1mj3wSoc__7ZbpyHzsYhvZUlmmMXnFZQL",
+     "n": 7,
+     "old": "DSC_3926 copy.jpg",
+     "dto": "2025:09:20 16:37:17"
+    }
+   ]
+  },
+  "ROS-047": {
+   "folder_id": "1r0OXd7LxVfKAEmRabuC9VjJtFrSlhxhU",
+   "new": true,
+   "photos": [
+    {
+     "id": "1ngkWo-B3GmoAfag32wLtW4WsUi24MWr6",
+     "n": 1,
+     "old": "DSC_4825.jpg",
+     "dto": "2025:10:08 17:06:54"
+    },
+    {
+     "id": "1jJN58awlIMDDYl8WvFHA0caoaz_Qc82x",
+     "n": 2,
+     "old": "DSC_4831.jpg",
+     "dto": "2025:10:08 17:09:32"
+    },
+    {
+     "id": "1bw6kV9TE-OspjzB2UpE4dnIgpvmhkfM-",
+     "n": 3,
+     "old": "DSC_4834.jpg",
+     "dto": "2025:10:08 17:11:09"
+    },
+    {
+     "id": "16paxf29elCscW4gQa1DB3bdftKy4INxp",
+     "n": 4,
+     "old": "DSC_4836.jpg",
+     "dto": "2025:10:08 17:12:10"
+    },
+    {
+     "id": "1Ud7CijAH54t8DTju3EuwLOpSRE_yal8O",
+     "n": 5,
+     "old": "DSC_4843.jpg",
+     "dto": "2025:10:08 17:16:06"
+    },
+    {
+     "id": "1LIPEfbLjiJOLlFV3y6kTAq2sIznEEkOe",
+     "n": 6,
+     "old": "DSC_4856.jpg",
+     "dto": "2025:10:08 17:20:26"
+    },
+    {
+     "id": "1sAFngyc38dZhdZVHoEhV9tmPeuNm05RB",
+     "n": 7,
+     "old": "DSC_4863.jpg",
+     "dto": "2025:10:08 17:23:31"
+    },
+    {
+     "id": "1PJBG7oovPK1BpJU3eACRfAX8HqP-QzVL",
+     "n": 8,
+     "old": "DSC_4871.jpg",
+     "dto": "2025:10:08 17:26:56"
+    },
+    {
+     "id": "1GWyZlc5IKYsyiTYuK8grIehHtaszK4-b",
+     "n": 9,
+     "old": "DSC_4873.jpg",
+     "dto": "2025:10:08 17:27:16"
+    },
+    {
+     "id": "1BDCfmyBwez4edhAsfi0H0h39eBCgjarl",
+     "n": 10,
+     "old": "DSC_4883.jpg",
+     "dto": "2025:10:08 17:29:53"
+    }
+   ]
+  },
+  "ROS-048": {
+   "folder_id": "1-TzIAwxofuGAJEUEKfA6XXs9hNueO_fK",
+   "new": true,
+   "photos": [
+    {
+     "id": "1Ok9oiV2gg6srmxhkrWqZvhcp_LonW9-Y",
+     "n": 1,
+     "old": "DSC_4892.jpg",
+     "dto": "2025:10:08 17:32:37"
+    },
+    {
+     "id": "1E6n3sN865qNWs6CunFqjGYwjGf2GJgwN",
+     "n": 2,
+     "old": "DSC_4904.jpg",
+     "dto": "2025:10:08 17:38:35"
+    },
+    {
+     "id": "1578p7-OTl-4W-4afu9H05kSl-bQXVoj0",
+     "n": 3,
+     "old": "DSC_4907.jpg",
+     "dto": "2025:10:08 17:39:44"
+    },
+    {
+     "id": "11AStguajnUm8oufHUgZg2BmnGv6WGPbT",
+     "n": 4,
+     "old": "DSC_4911.jpg",
+     "dto": "2025:10:08 17:40:41"
+    },
+    {
+     "id": "1oTGCXO2UiR8UJ-tF-dv2_rVgaCXYHLXU",
+     "n": 5,
+     "old": "DSC_4913.jpg",
+     "dto": "2025:10:08 17:41:22"
+    },
+    {
+     "id": "1RPqVBhiHkEV83IpMmD8_o_96zhXaOIws",
+     "n": 6,
+     "old": "DSC_4917.jpg",
+     "dto": "2025:10:08 17:42:17"
+    },
+    {
+     "id": "1VP4bCvRkolk1UBTLFP32qOpovUYJdtWN",
+     "n": 7,
+     "old": "DSC_4919.jpg",
+     "dto": "2025:10:08 17:42:40"
+    },
+    {
+     "id": "1mrNL96cKgPOzQyk-fUeZqhYkhokXNPr1",
+     "n": 8,
+     "old": "DSC_4926.jpg",
+     "dto": "2025:10:08 17:45:37"
+    }
+   ]
+  },
+  "ROS-049": {
+   "folder_id": "1Bde0iSiAKdOJDKfuVpbxcPKXJXAAa8Tl",
+   "new": true,
+   "photos": [
+    {
+     "id": "19iB5diVU42v_1ENzKbdPCQCTvJyjnqNF",
+     "n": 1,
+     "old": "DSC_4934 copy.jpg",
+     "dto": "2025:10:08 17:50:57"
+    },
+    {
+     "id": "15IFMk4drpWomwuaj0Uo9X6guBwfDF4aE",
+     "n": 2,
+     "old": "DSC_4949 copy.jpg",
+     "dto": "2025:10:08 17:51:58"
+    },
+    {
+     "id": "1pUtiqjA3QASbT7h2GGznPPib1HYq8CE0",
+     "n": 3,
+     "old": "DSC_4942 copy.jpg",
+     "dto": "2025:10:08 17:54:49"
+    },
+    {
+     "id": "16VdHwzunXvynhhPuIc-_zSufftJaD0WI",
+     "n": 4,
+     "old": "DSC_4945 copy.jpg",
+     "dto": "2025:10:08 17:55:55"
+    },
+    {
+     "id": "1OsTPYM0d_UN-hseHxRUnmj3ST0nVnuS5",
+     "n": 5,
+     "old": "DSC_4948 copy.jpg",
+     "dto": "2025:10:08 17:57:13"
+    },
+    {
+     "id": "1Ef3lO3jnc9XP18dSkryNttLKNwEcGsMN",
+     "n": 6,
+     "old": "DSC_4951 copy.jpg",
+     "dto": "2025:10:08 17:57:34"
+    },
+    {
+     "id": "11GsdiPM8yfZGU2CEvgNaEzaj_iLMRoMJ",
+     "n": 7,
+     "old": "DSC_4952 copy.jpg",
+     "dto": "2025:10:08 17:57:50"
+    },
+    {
+     "id": "1qskCeIzx5YFYJQ0NbLxPyrcYjhoreA0t",
+     "n": 8,
+     "old": "DSC_4953 copy.jpg",
+     "dto": "2025:10:08 17:58:00"
+    },
+    {
+     "id": "1V1h6xgReHrMjEfvz0I4E6nviEwSVytW9",
+     "n": 9,
+     "old": "DSC_4954 copy.jpg",
+     "dto": "2025:10:08 17:58:35"
+    },
+    {
+     "id": "14ptqHYH5TATAE2p6sH5Gfdtt9koSq4m9",
+     "n": 10,
+     "old": "DSC_4955 copy.jpg",
+     "dto": "2025:10:08 17:58:54"
+    },
+    {
+     "id": "1R0-b7bk-EhRnA_1oCtZfsdUXgEFYSJcl",
+     "n": 11,
+     "old": "DSC_4956 copy.jpg",
+     "dto": "2025:10:08 17:59:38"
+    },
+    {
+     "id": "1Dpmjd4eXXRLHuvbsuY5gdB2hQ2z9ZAZm",
+     "n": 12,
+     "old": "DSC_4959 copy.jpg",
+     "dto": "2025:10:08 18:00:13"
+    }
+   ]
+  },
+  "ROS-050": {
+   "folder_id": "1A0b-SnrjMTJkTXSQQfIxQnmWgjIFHK95",
+   "new": true,
+   "photos": [
+    {
+     "id": "1zaYup0aGlhmFTeVym7vBe4-Zn4U5U6qp",
+     "n": 1,
+     "old": "DSC_4972 copy.jpg",
+     "dto": "2025:10:08 18:21:16"
+    },
+    {
+     "id": "1nEUc12O-yfOVmQeygZwxPx0P7_4xcKsm",
+     "n": 2,
+     "old": "DSC_4973 copy.jpg",
+     "dto": "2025:10:08 18:22:18"
+    },
+    {
+     "id": "1rtDYAqq0CI-sBWnmORKvqLUpeK1KVAz-",
+     "n": 3,
+     "old": "DSC_4978 copy.jpg",
+     "dto": "2025:10:08 18:23:24"
+    },
+    {
+     "id": "1v8Yb0OVLrzT8kAtsP4PlpEvz2dc-AUc6",
+     "n": 4,
+     "old": "DSC_4980 copy.jpg",
+     "dto": "2025:10:08 18:24:32"
+    },
+    {
+     "id": "1maD73LcKhzVNnfC2-SF9OB-10ttCuP_i",
+     "n": 5,
+     "old": "DSC_4981 copy.jpg",
+     "dto": "2025:10:08 18:25:09"
+    },
+    {
+     "id": "1JuJeIlw8jnX7N9dt40T_WDQHg9j-7mPK",
+     "n": 6,
+     "old": "DSC_4984 copy.jpg",
+     "dto": "2025:10:08 18:25:39"
+    }
+   ]
+  },
+  "ROS-051": {
+   "folder_id": "1Z0sW0gERICNdsar2r80QBbsyjYGg9ggw",
+   "new": true,
+   "photos": [
+    {
+     "id": "1nzJVgc_oLjloKpkCZFPJiDJHndXIDn07",
+     "n": 1,
+     "old": "DSC_4990 copy.jpg",
+     "dto": "2025:10:08 18:28:18"
+    },
+    {
+     "id": "1WrKzUQOuKexp8YplHNTd2gy7ehtoBnae",
+     "n": 2,
+     "old": "DSC_4995 copy.jpg",
+     "dto": "2025:10:08 18:31:00"
+    },
+    {
+     "id": "1XQlX2EAPyTt5JZRQJjmXxtK23SWj0oNz",
+     "n": 3,
+     "old": "DSC_4998 copy.jpg",
+     "dto": "2025:10:08 18:31:46"
+    },
+    {
+     "id": "1YY7wctwGwYxqe1ZOiUnpmFuU4ladB152",
+     "n": 4,
+     "old": "DSC_5000 copy.jpg",
+     "dto": "2025:10:08 18:32:07"
+    },
+    {
+     "id": "1o8AWJaqMSAqPteH7nSIHEZTOQCCXlLPs",
+     "n": 5,
+     "old": "DSC_5001 copy.jpg",
+     "dto": "2025:10:08 18:32:32"
+    },
+    {
+     "id": "1dZS1rby7U5g3ImPITFjVjXZ16gNUvDpF",
+     "n": 6,
+     "old": "DSC_5002 copy.jpg",
+     "dto": "2025:10:08 18:33:24"
+    },
+    {
+     "id": "1_ONMJzqdDfSSLddfKFaZjmPkcmpSHrDF",
+     "n": 7,
+     "old": "DSC_5004 cop.jpg",
+     "dto": "2025:10:08 18:34:11"
+    },
+    {
+     "id": "14tuvxSgKTh3TC70LkVrKE4QC6Q7cyMWg",
+     "n": 8,
+     "old": "DSC_5007 copy.jpg",
+     "dto": "2025:10:08 18:34:39"
+    },
+    {
+     "id": "1nj91086W8kYOHRB_cNpeRuPCpv80xI5d",
+     "n": 9,
+     "old": "DSC_5008 copy.jpg",
+     "dto": "2025:10:08 18:36:07"
+    },
+    {
+     "id": "1CXY8015dvnbbi9xHwzkhJajiewxFXxHw",
+     "n": 10,
+     "old": "DSC_5011 copy.jpg",
+     "dto": "2025:10:08 18:37:26"
+    }
+   ]
+  },
+  "ROS-052": {
+   "folder_id": "1oTIbuD56XPicKEwKxoP-ChPrxNl6fpGL",
+   "new": true,
+   "photos": [
+    {
+     "id": "1Bc-VDDXAQl4Fs92J7p6b7GBzVVYVVwUk",
+     "n": 1,
+     "old": "DSC_5018 copy.jpg",
+     "dto": "2025:10:08 18:40:30"
+    },
+    {
+     "id": "13eCzSc_-uA-HHxjz3FD7ZVY_s-1sO0Z6",
+     "n": 2,
+     "old": "DSC_5026 copy.jpg",
+     "dto": "2025:10:08 18:42:50"
+    },
+    {
+     "id": "1M2jU280B3H8Zwu7aNlNT_qWnip6JSwCh",
+     "n": 3,
+     "old": "DSC_5028 copy.jpg",
+     "dto": "2025:10:08 18:43:17"
+    },
+    {
+     "id": "1Wl3TVtFjDzGiERmg63SFbdX3b6cyghuX",
+     "n": 4,
+     "old": "DSC_5034 copy.jpg",
+     "dto": "2025:10:08 18:44:10"
+    },
+    {
+     "id": "1Y7iTrkMW2PpxAQXy6l-M36Uuyeg4SAHQ",
+     "n": 5,
+     "old": "DSC_5038 copy.jpg",
+     "dto": "2025:10:08 18:44:44"
+    },
+    {
+     "id": "1OA06VJv4yJoVVOKKQZWEE4yzAFNlGfd_",
+     "n": 6,
+     "old": "DSC_5040 copy.jpg",
+     "dto": "2025:10:08 18:44:58"
+    },
+    {
+     "id": "1yO-m2gpwCO5FCLS5TCNe2RTAL3vfu2yQ",
+     "n": 7,
+     "old": "DSC_5043 copy.jpg",
+     "dto": "2025:10:08 18:45:54"
+    }
+   ]
+  },
+  "ROS-053": {
+   "folder_id": "1PrMrSHwCofItLiIwAQ1IAMBILop4uoyR",
+   "new": true,
+   "photos": [
+    {
+     "id": "15DSLg2PuDKaG3sCe0SLCmLZyLr0dkUGk",
+     "n": 1,
+     "old": "DSC_5052 copy.jpg",
+     "dto": "2025:10:08 18:49:51"
+    },
+    {
+     "id": "1EhKOou4Kpg0MZ79lPneErTg5Zg0H3w4Z",
+     "n": 2,
+     "old": "DSC_5056 copy.jpg",
+     "dto": "2025:10:08 18:51:44"
+    },
+    {
+     "id": "1Wt97XgJXVB524S4qPsnugyzdN6m3Iz_L",
+     "n": 3,
+     "old": "DSC_5059 copy.jpg",
+     "dto": "2025:10:08 18:52:07"
+    },
+    {
+     "id": "1bxNCDV9ms-jT5v5KVvVjAqkwhCguWCg6",
+     "n": 4,
+     "old": "DSC_5064 copy.jpg",
+     "dto": "2025:10:08 18:53:03"
+    },
+    {
+     "id": "1l9lmYA5hCG4tYYyq7N9ZUHiaRYecL9tb",
+     "n": 5,
+     "old": "DSC_5065 copy.jpg",
+     "dto": "2025:10:08 18:53:09"
+    },
+    {
+     "id": "1qxcO5RlWVbHSfLQyu_qBl2ej6UU-Ujx9",
+     "n": 6,
+     "old": "DSC_5070 copy.jpg",
+     "dto": "2025:10:08 18:58:03"
+    },
+    {
+     "id": "1IKlOXCA-_EIDOYTXS87mmiAPmLsAF3q-",
+     "n": 7,
+     "old": "DSC_5074 copy.jpg",
+     "dto": "2025:10:08 18:58:49"
+    }
+   ]
+  },
+  "ROS-054": {
+   "folder_id": "1WF6Ig-NvIJzRBzZoIjw_JaCZ2cKQJgXA",
+   "new": true,
+   "photos": [
+    {
+     "id": "1BNt0F0hrxuOU94wnreeMXWaa8nQ3EZNx",
+     "n": 1,
+     "old": "DSC_5075 copy.jpg",
+     "dto": "2025:10:08 19:02:50"
+    },
+    {
+     "id": "10WdnaKJjnuCOrNl7mGcQTxAIF4UgInTn",
+     "n": 2,
+     "old": "DSC_5083 copy.jpg",
+     "dto": "2025:10:08 19:06:03"
+    },
+    {
+     "id": "1Dtf8EJu5olhikEk-5LSNwUjwN1UW8ZgW",
+     "n": 3,
+     "old": "DSC_5085 copy.jpg",
+     "dto": "2025:10:08 19:06:15"
+    },
+    {
+     "id": "1B8tIuuxXMm5ORkeng_029ZYBbt1kZ8m2",
+     "n": 4,
+     "old": "DSC_5086 copy.jpg",
+     "dto": "2025:10:08 19:06:37"
+    },
+    {
+     "id": "1ex-E4GdR9-Mb9ofxAJEs4XurD3ykFFIV",
+     "n": 5,
+     "old": "DSC_5096 copy.jpg",
+     "dto": "2025:10:08 19:08:33"
+    },
+    {
+     "id": "1Eo2DL8bQiYtuU0gdjpuGd8UohSiwW_nu",
+     "n": 6,
+     "old": "DSC_5102 copy.jpg",
+     "dto": "2025:10:08 19:11:29"
+    },
+    {
+     "id": "1n8ncGW_jcvp5eqMDeQaYblkIxWtaJKHG",
+     "n": 7,
+     "old": "DSC_5103 copy.jpg",
+     "dto": "2025:10:08 19:12:14"
+    },
+    {
+     "id": "1Z2BnLs0CUNMwQQ0GNu6AKssw-AiQ5tU-",
+     "n": 8,
+     "old": "DSC_5105 copy.jpg",
+     "dto": "2025:10:08 19:12:30"
+    },
+    {
+     "id": "1_dwqfw71Pjp9vWOgv48dYpyPMNMeBzV4",
+     "n": 9,
+     "old": "DSC_5112 copy.jpg",
+     "dto": "2025:10:08 19:13:44"
+    }
+   ]
+  },
+  "ROS-055": {
+   "folder_id": "17jDHeNVFOktO8t_aYHvbsu9XSafZP3Go",
+   "new": true,
+   "photos": [
+    {
+     "id": "1r59jVW_l6AylNewNBQHDyHL0ot3SfGBg",
+     "n": 1,
+     "old": "DSC_6934 copy.jpg",
+     "dto": "2025:11:17 18:53:20"
+    },
+    {
+     "id": "1VLHt5cHgWSq8tlTXh5T6RwuhQmSZwfUC",
+     "n": 2,
+     "old": "DSC_6942 copy.jpg",
+     "dto": "2025:11:17 18:56:04"
+    },
+    {
+     "id": "1X_n8pQhp--3VDkSob8LjjPM09ra6d88F",
+     "n": 3,
+     "old": "DSC_6944 copy.jpg",
+     "dto": "2025:11:17 18:59:37"
+    },
+    {
+     "id": "1xa9ZHZ-f8tcS_cdnE1o1xhRgk6JzJboJ",
+     "n": 4,
+     "old": "DSC_6959 copy.jpg",
+     "dto": "2025:11:17 19:05:58"
+    },
+    {
+     "id": "1YFW-QPNxu65HXP9tVDbrIjFtGq_V2-OG",
+     "n": 5,
+     "old": "DSC_6965 copy.jpg",
+     "dto": "2025:11:17 19:09:38"
+    },
+    {
+     "id": "1VeqwaJjmXGOtZ5v0RsSah1VQa0jpQTs4",
+     "n": 6,
+     "old": "DSC_6976 copy.jpg",
+     "dto": "2025:11:17 19:12:41"
+    },
+    {
+     "id": "1DpiPMbZ0M-nNv2jym2Qna2tuDnuuOz9R",
+     "n": 7,
+     "old": "DSC_6943 copy.jpg",
+     "dto": "2025:11:17 19:18:11"
+    },
+    {
+     "id": "1VN1jJT4fjPg7wIEPdRSZFijVbXUR9sK0",
+     "n": 8,
+     "old": "DSC_2237 copy.jpg",
+     "dto": "2026:02:20 16:25:22"
+    }
+   ]
+  },
+  "ROS-056": {
+   "folder_id": "1xYcQNowDpRlkYP2xuM9YCoXuAx4iQ8Xc",
+   "new": true,
+   "photos": [
+    {
+     "id": "1zjTTvWdpUgdEebdI6ViWTvuC1wxl_-qh",
+     "n": 1,
+     "old": "DSC_6989 copy.jpg",
+     "dto": "2025:11:17 19:21:04"
+    },
+    {
+     "id": "1Unio-GQBSk5IZXpRLpEMSOkKFbHvpKCC",
+     "n": 2,
+     "old": "DSC_6995 copy.jpg",
+     "dto": "2025:11:17 19:22:37"
+    },
+    {
+     "id": "1z4LPxzmpIgPpSxsi0SElfTBJmH5RElt1",
+     "n": 3,
+     "old": "DSC_6998 copy.jpg",
+     "dto": "2025:11:17 19:24:41"
+    },
+    {
+     "id": "1xlWRWbLIECLp0wajWB0gDawzNv-Ow7Q0",
+     "n": 4,
+     "old": "DSC_7000 copy.jpg",
+     "dto": "2025:11:17 19:26:28"
+    },
+    {
+     "id": "1EUkJf3rbO0m8luNhH00Dxpm7ZniHwGn8",
+     "n": 5,
+     "old": "DSC_7003 copy.jpg",
+     "dto": "2025:11:17 19:27:28"
+    },
+    {
+     "id": "1RpLwBY1qeJnsy_Bn6uGLGhJH11mx_KR9",
+     "n": 6,
+     "old": "DSC_7006 copy.jpg",
+     "dto": "2025:11:17 19:27:51"
+    },
+    {
+     "id": "1sLoNAxPv6Bm7pxVBqmtkMmMmx4p70QOn",
+     "n": 7,
+     "old": "DSC_7012 copy.jpg",
+     "dto": "2025:11:17 19:28:50"
+    },
+    {
+     "id": "1RE0YIqwUOZoCukufu7Cn5Md188N6Sr25",
+     "n": 8,
+     "old": "DSC_7014 copy.jpg",
+     "dto": "2025:11:17 19:29:10"
+    },
+    {
+     "id": "1KaqRPo5bctXq3ajQCcEGut2tlcjb0lsr",
+     "n": 9,
+     "old": "DSC_7016 copy.jpg",
+     "dto": "2025:11:17 19:29:33"
+    },
+    {
+     "id": "1lEKc1-kZjdfKbkRbJtfNkmVKO1cfgAQA",
+     "n": 10,
+     "old": "DSC_2239 copy.jpg",
+     "dto": "2026:02:20 16:27:09"
+    }
+   ]
+  },
+  "ROS-057": {
+   "folder_id": "1QJo6PaUxwStTAo1cMNfE9w5sX63wtVXb",
+   "new": true,
+   "photos": [
+    {
+     "id": "10CEGqAW47nQgAVm2rbq0T39eEwA5GksL",
+     "n": 1,
+     "old": "DSC_7025 copy.jpg",
+     "dto": "2025:11:17 19:32:27"
+    },
+    {
+     "id": "1ceIZ0xV_vOQ8eKN_a5oxQT4rCqVwRCFT",
+     "n": 2,
+     "old": "DSC_7036 copy.jpg",
+     "dto": "2025:11:17 19:37:18"
+    },
+    {
+     "id": "1GObuBTi2RxVxNCpT0KIYM2_5LTAqgT0m",
+     "n": 3,
+     "old": "DSC_7039 copy.jpg",
+     "dto": "2025:11:17 19:38:28"
+    },
+    {
+     "id": "1UgKeJOvk3ZPt5CSuniO7BJ9bL2lkkOLl",
+     "n": 4,
+     "old": "DSC_7044 copy.jpg",
+     "dto": "2025:11:17 19:39:11"
+    },
+    {
+     "id": "1ZV2HxqlV1dIN1n-eiv0-o2YXGcLI-vAq",
+     "n": 5,
+     "old": "DSC_7055 copy.jpg",
+     "dto": "2025:11:17 19:41:45"
+    },
+    {
+     "id": "1qaYtyt5-0Am3iwHfcpMEJJQpdHAqTBkt",
+     "n": 6,
+     "old": "DSC_2215 copy.jpg",
+     "dto": "2026:02:20 16:14:03"
+    },
+    {
+     "id": "1ssoAUG_bP6ykukpZuY5DF1JNSQqMVMwP",
+     "n": 7,
+     "old": "DSC_2220 copy.jpg",
+     "dto": "2026:02:20 16:18:05"
+    },
+    {
+     "id": "1Hl26asMNKdYUE8MlLER1sumovetP3zAC",
+     "n": 8,
+     "old": "DSC_2225 copy.jpg",
+     "dto": "2026:02:20 16:20:20"
+    },
+    {
+     "id": "1m2T20STJg3snaumW1jUlyZWz4Ceqdzmj",
+     "n": 9,
+     "old": "DSC_2227 copy.jpg",
+     "dto": "2026:02:20 16:20:47"
+    }
+   ]
+  }
+ },
+ "leave": [
+  {
+   "id": "1tbWy-rf9uC5caV9HTwBvJfpz1KMrgLnO",
+   "old": "DSC_2730 .copy.jpg"
+  },
+  {
+   "id": "1fKVQ53RXpx-9DsShm0PCYWlVC5KOXfch",
+   "old": "DSC_4814 copy.jpg"
+  },
+  {
+   "id": "1lR2IebU-WHsFWVsmU7xvsyVriyHjTEQf",
+   "old": "DSC_4818 copy.jpg"
+  },
+  {
+   "id": "1D_kThtWDn0tso_li8BvCw0-ER6bxzeoQ",
+   "old": "DSC_7023 copy.jpg"
+  },
+  {
+   "id": "1SaTXg_u6F1s1zddM_eq-cIwH65LGLMwd",
+   "old": "DSC_1603 copy.jpg"
+  },
+  {
+   "id": "1BrACY9MzIm3w_UQXWiXoIVtAUzjkJCaW",
+   "old": "DSC_1608 copy.jpg"
+  },
+  {
+   "id": "1wHhXDehcYV6I1kJUbjx1ky00QXFvU5NC",
+   "old": "DSC_1614 copy.jpg"
+  },
+  {
+   "id": "1VvgznfrwIhSWQ5CJFsJ22t-A8NHtf4Zu",
+   "old": "DSC_1617 copy.jpg"
+  },
+  {
+   "id": "17zcICsc2Gt-BrgV-NFJcuNXd8buyvjKj",
+   "old": "DSC_1619 copy.jpg"
+  },
+  {
+   "id": "1pvQMndMYpqscotDBgP23lpTolE3Dll2l",
+   "old": "DSC_1620 copy.jpg"
+  },
+  {
+   "id": "1acCtHq17AWvD26axivdwR5tSizN2Ph3Z",
+   "old": "DSC_1623 copy.jpg"
+  },
+  {
+   "id": "1M-4eo2MFsPsTE408YMd9hIQXxxFIQWFP",
+   "old": "DSC_1626 copy.jpg"
+  },
+  {
+   "id": "1aGyB6BNJQ006K873-jiCLjeFyRICLiEE",
+   "old": "DSC_1635 copy.jpg"
+  },
+  {
+   "id": "134WAfOI1iu0to8SnqRFztUYUuzw_ZIPl",
+   "old": "DSC_1640 copy.jpg"
+  },
+  {
+   "id": "11raUVMbPzC454mKhMR8jHDNdFqfUCGOY",
+   "old": "DSC_1648 copy.jpg"
+  }
+ ]
+}
