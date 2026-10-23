@@ -62,5 +62,7 @@ ROS-065 (cream carved swirl beads with pink stones) · ROS-066 (split from ROS-0
 - Notes updated: ROS row 5 (ROS-005), ROS-KS row 105 (ROS-KS-105).
 - Drive now: 364 piece folders (K 23, KS 150, S 9, B 37, Amb-G 79, ROS 66), no loose photos in any category; the only
   non-piece folder is «كهرمان وانتيكات» (the necklace moved out of Amb-G in round 2).
-- Still open: DSC_7079 (→ ROS-031-8 once uploaded, straight into the ROS-031 folder); owner to confirm ROS-012 ≠ ROS-066
+- Still open: owner to confirm ROS-012 ≠ ROS-066
   and whether ROS-059 = ROS-024.
+- DSC_7079 uploaded by the owner into ROS-031 → verified (EXIF 2022:09:16 17:25:54, frame 53935; same cream beads)
+  → renamed ROS-031-8; ROS sheet row 31 notes updated. Every photo from the owner's PC folder is now on Drive.
