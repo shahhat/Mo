@@ -66,3 +66,13 @@ ROS-065 (cream carved swirl beads with pink stones) · ROS-066 (split from ROS-0
   and whether ROS-059 = ROS-024.
 - DSC_7079 uploaded by the owner into ROS-031 → verified (EXIF 2022:09:16 17:25:54, frame 53935; same cream beads)
   → renamed ROS-031-8; ROS sheet row 31 notes updated. Every photo from the owner's PC folder is now on Drive.
+
+## Owner decisions applied
+- ROS-059 = ROS-024 (owner confirmed one piece): the 5 photos of ROS-059 moved into ROS-024 as 024-5 … 024-9; the full
+  view (024-5) is now the sheet image. ROS-024 text corrected to two tassels («وكركوشتان سوداوان») from the full view;
+  notes merged. Empty ROS-059 folder trashed; ROS sheet row for ROS-059 deleted.
+- Renumbered (precedent from round 2: keep the sequence contiguous): ROS-060 … ROS-066 → ROS-059 … ROS-065, folders and
+  all 35 photos; sheet rows 60–66 carry «الكود السابق: …». Mapping: 060→059 (blue-green cylinders), 061→060 (brown olive),
+  062→061 (sandy barrel), 063→062 (cream round), 064→063 (orange-yellow), 065→064 (carved swirl), 066→065 (split from ROS-012).
+- ROS-012 ≠ ROS-065 (old ROS-066) confirmed by the owner; both notes updated.
+- Final ROS category: 65 pieces (ROS-001 … ROS-065), sheet 65 rows; total across all categories 363.
