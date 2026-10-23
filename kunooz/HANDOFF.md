@@ -48,11 +48,13 @@ Owner's rules, verbatim intent: every piece gets exactly what ROS-K-005 got yest
 description shown on the website). **Do not take decisions alone: if something cannot be reproduced exactly, stop and give the
 owner the available options to choose from.**
 
-Access: environment variable `ODOO_API_KEY` (never print it). Odoo 19 JSON-2 API:
+Access: the owner added the API key as a **network secret** (type Bearer, host islamic-treasures.odoo.com, path /json/2/).
+The agent proxy injects `Authorization: bearer <key>` itself: send requests **without** an Authorization header; the key is never
+in the container. Odoo 19 JSON-2 API:
 
 ```
 curl -sS https://islamic-treasures.odoo.com/json/2/<model>/<method> \
-  -H "Authorization: bearer $ODOO_API_KEY" -H "Content-Type: application/json" \
+  -H "Content-Type: application/json" \
   -d '{"ids": [...], "fields": [...]}'          # named arguments of the ORM method
 ```
 
