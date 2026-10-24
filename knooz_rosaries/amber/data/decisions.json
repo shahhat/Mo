@@ -1,0 +1,153 @@
+{
+ "merges": [
+  {
+   "keep": "g1-39",
+   "absorb": [
+    "g2-46"
+   ]
+  }
+ ],
+ "photo_moves": [],
+ "overrides": {
+  "g2-11": {
+   "unsure": false
+  },
+  "g2-12": {
+   "unsure": false
+  },
+  "g1-43": {
+   "category": "ST",
+   "move_note": "كانت في فولدر التحف (AMB-A)؛ نُقلت للأحجار لأنها حجر طبيعي مصقول على قاعدة عرض خشبية."
+  },
+  "g1-08": {
+   "desc_hint": "Column material uncertain (pressed amber or moulded resin): do not call the column carved amber; note it."
+  },
+  "g1-18": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "صورة واحدة مقرّبة لشيلدة صانع «Norddeutsche Bernstein-Industrie … Königsberg» على جلد عنابي، ولا يظهر الشيء الذي تحمله. ليست علبة مباسم A015 (جلدها مختلف).",
+   "unc_question": "الشيلدة دي على أنهي قطعة؟ (أقرب احتمال ساعة الفسيفساء المربعة، لكن ظهرها مش مصوَّر)"
+  },
+  "g1-62": {
+   "unclassified": true,
+   "code_cat": "ST",
+   "unc_suggest": "AMB-ST",
+   "unc_reason": "نحو عشرين قطعة مقطوعة بالمنشار برتقالية شمعية: قد تكون بقايا كهرمان طبيعي، أو كهرماناً مضغوطاً، أو راتنجاً فينولياً (باكاليت).",
+   "unc_question": "الكتل المنشورة دي كهرمان طبيعي ولا مضغوط ولا باكاليت؟ (اختبار الأشعة فوق البنفسجية أو الإبرة الساخنة أو الماء المالح)"
+  },
+  "g2-08": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "الساق والمبسم أحمر كرزي معتم: كهرمان كرزي أو فاتوران؛ ووظيفة الطقم غير واضحة من الصورة الوحيدة.",
+   "unc_question": "الساق والمبسم كهرمان طبيعي ولا فاتوران؟ وإيه استخدام الطقم؟"
+  },
+  "g2-10": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "صورة واحدة لعلبة غليون جلد سوداء مقفولة، لا يظهر ما بداخلها؛ ليست علبة غليون الجلسة الثانية (شكلها مختلف).",
+   "unc_question": "العلبة فيها غليون؟ وهل هي قطعة مستقلة ولا تابعة لغليون تاني؟"
+  },
+  "g2-16": {
+   "unclassified": true,
+   "code_cat": "ST",
+   "unc_suggest": "AMB-ST",
+   "unc_reason": "صورة واحدة لحجر مصقول التُقطت قبل الحجر التالي بتسع دقائق، وقد يكون هو نفس الحجر مصوَّراً وهو نايم.",
+   "unc_question": "هل هو نفس الحجر {NEXT} ولا حجر مستقل؟"
+  },
+  "g2-22": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "صورة مقرّبة فقط لخرز داكن جداً؛ الخامة غير مؤكدة (كهرمان كرزي داكن أو فاتوران/راتنج)، ولا توجد صورة كاملة.",
+   "unc_question": "الخرز ده كهرمان ولا فاتوران؟ وهل العقد له صور كاملة؟"
+  },
+  "g2-27": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "مبسمان بلون كرزي برتقالي معتم في علبة: كهرمان أو فاتوران.",
+   "unc_question": "المبسمين كهرمان طبيعي ولا فاتوران؟"
+  },
+  "g2-37": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "خرز أحمر كرزي شفاف: كهرمان معالج حرارياً أو فاتوران.",
+   "unc_question": "العقد ده كهرمان كرزي ولا فاتوران؟"
+  },
+  "g2-41": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A (مستند)",
+   "unc_reason": "ليست قطعة: قصاصة من كتالوج مزاد تصف غليوناً من الميرشوم والكهرمان منحوتاً عليه حورية، بحلية فضية منقوش عليها ١٩١٤. الغليون نفسه غير موجود في صور الكهرمان.",
+   "unc_question": "القصاصة دي تخص أنهي غليون؟ ولو الغليون عندنا محتاج يتصوّر."
+  },
+  "g4-12": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "خرز كبير على طراز الخرز التجاري الأفريقي القديم، وكثير منه كوبال أو راتنج فينولي.",
+   "unc_question": "الخرز ده كهرمان طبيعي ولا كوبال/راتنج؟"
+  },
+  "g4-17": {
+   "unclassified": true,
+   "code_cat": "A",
+   "unc_suggest": "AMB-A",
+   "unc_reason": "ختم مكتب تظهر بداخله حشرات، والتشقق السطحي مع الحشرات قد يدل على كوبال لا كهرمان.",
+   "unc_question": "الختم كهرمان ولا كوبال؟"
+  }
+ },
+ "video_only": [
+  {
+   "video": "A001",
+   "cat": "A",
+   "still": "stills/A001.jpg",
+   "type_en": "amber mosaic block with a miniature cannon on top and two star orders on the sides",
+   "visual_en": "Tall rectangular block clad in honey and butterscotch amber mosaic tiles; a small metal field cannon mounted on top; two metal star-shaped orders with hammer-and-sickle centres applied to the front and side. Known only from the video and the video-sheet image.",
+   "notes_en": "VIDEO ONLY (no catalog photos). Star orders show the hammer and sickle (Soviet insignia): sensitive-insignia rule applies."
+  },
+  {
+   "video": "A002",
+   "cat": "A",
+   "still": "stills/A002.jpg",
+   "type_en": "hand mirror with carved amber mermaid handle in its fitted box",
+   "visual_en": "Oval hand mirror in a silver-tone frame whose handle is a carved butterscotch amber mermaid with long hair; in a fitted box lined in cream satin, a blue enamel seal inside the lid and a red label on the box. Known only from the video and the video-sheet image.",
+   "notes_en": "VIDEO ONLY. A draft video 'ANTIQUE MERMAID + Logo' shows the same piece; the box label reads SBM."
+  },
+  {
+   "video": "A004",
+   "cat": "A",
+   "still": "stills/A004.jpg",
+   "type_en": "graduated olive-bead amber necklace",
+   "visual_en": "Graduated necklace of olive-shaped opaque beads, egg-yolk yellow with white swirls mixed with orange-cognac beads, strung with red knots and closed by an amber barrel screw clasp. Known only from the video and the video-sheet image.",
+   "notes_en": "VIDEO ONLY. A draft video 'Broush (Rosary) - Draft' shows the same necklace. Not the necklace in the SBM box (AMB-A photos) nor the bolt-ring necklace."
+  },
+  {
+   "video": "A013",
+   "cat": "A",
+   "still": "stills/A013.jpg",
+   "type_en": "hexagonal amber mosaic barometer",
+   "visual_en": "Hexagonal case clad in radiating cognac and honey amber mosaic segments with a raised border, a round silver-tone barometer dial in the centre. Known only from the video and the video-sheet image.",
+   "notes_en": "VIDEO ONLY."
+  },
+  {
+   "video": "A015",
+   "cat": "A",
+   "still": "stills/A015.jpg",
+   "type_en": "fitted case with a collection of amber cigarette-holder mouthpieces",
+   "visual_en": "Crimson leather case lined in white satin with a brown velvet tray holding about sixteen butterscotch and egg-yolk amber mouthpieces of graduated sizes, some with dark metal collars. Known only from the video and the video-sheet image.",
+   "notes_en": "VIDEO ONLY."
+  },
+  {
+   "video": "A020",
+   "cat": "A",
+   "still": "stills/A020.jpg",
+   "type_en": "amber mosaic mantel clock on an amber base",
+   "visual_en": "Rectangular clock faced with butterscotch and honey amber blocks framed by a raised border of rounded amber pieces, square silver dial with Arabic numerals, on a stepped amber-block base. Known only from the video and the video-sheet image.",
+   "notes_en": "VIDEO ONLY. Not the black-based mosaic clock in the photos."
+  }
+ ]
+}

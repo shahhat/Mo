@@ -1,0 +1,774 @@
+[
+ {
+  "code": "AMB-A-002",
+  "folder_id": "1DZ-WnoQBBziGUThgqa0-7E2goMVUYLoH",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "16w0dBxw8W4M4oiG9ndxl36cH7Gsu2fGx",
+    "title": "AMB-A-002-1.jpg",
+    "parentId": "1DZ-WnoQBBziGUThgqa0-7E2goMVUYLoH",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-007",
+  "folder_id": "1Cpjzw7NhVNr97SXdD0REkx3CAnjcIngw",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1IbVlq4B7HBD80oPzG6UrHb4clEUbd7x0",
+    "title": "AMB-A-007-1.jpg",
+    "parentId": "1Cpjzw7NhVNr97SXdD0REkx3CAnjcIngw",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-008",
+  "folder_id": "1_VoKoooS0ShiT0hTFlfOzH-4p6FMNcDR",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1dRaG74IS6OfJX4K0L-v-PUIBawUCVMl1",
+    "title": "AMB-A-008-1.jpg",
+    "parentId": "1_VoKoooS0ShiT0hTFlfOzH-4p6FMNcDR",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [
+   {
+    "id": "1CKZisrCl_29CgJVaCvVOv2PL25gULJ0K",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   }
+  ],
+  "done": true
+ },
+ {
+  "code": "AMB-A-015",
+  "folder_id": "1IDJ5eyBuyAMy7Jhgj6fs_CjwZRQQJaVY",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1-fDgKexCydyOuKgC9nWrPa-3UxVlCAnY",
+    "title": "AMB-A-015-1.jpg",
+    "parentId": "1IDJ5eyBuyAMy7Jhgj6fs_CjwZRQQJaVY",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-020",
+  "folder_id": "1UDoGJEnic3xeNFTWYD4DIp7PQBgWVCfQ",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1fizvUfKaYraDRXta4rVDMIlOOLF2yw9S",
+    "title": "AMB-A-020-1.jpg",
+    "parentId": "1UDoGJEnic3xeNFTWYD4DIp7PQBgWVCfQ",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-029",
+  "folder_id": "15RhJBfrH5KAmeI0t52UdSaopeNfCtu4A",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1ZEgkFObswANemTo_AiAfUEGQwFvM2SBl",
+    "title": "AMB-A-029-1.jpg",
+    "parentId": "15RhJBfrH5KAmeI0t52UdSaopeNfCtu4A",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [
+   {
+    "id": "1Lsjbf9Adv0GEKT5fBQPRBxkGghr3A1bO",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   }
+  ],
+  "done": true
+ },
+ {
+  "code": "AMB-A-031",
+  "folder_id": "1w2EvKIylUsAZ2FEP4fpQOF_zKH5Mqylw",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1R3afquedEy4K5Ko7AlAt8td_q5cDTxV2",
+    "title": "AMB-A-031-1.jpg",
+    "parentId": "1w2EvKIylUsAZ2FEP4fpQOF_zKH5Mqylw",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1PAC1k0KEaWmFG3p4on7k6fsIv77gUlMU",
+    "title": "AMB-A-031-2.jpg",
+    "parentId": "1w2EvKIylUsAZ2FEP4fpQOF_zKH5Mqylw",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1KTMaPMMeQcgmqB_my6l2s9ZaKnun_lh_",
+    "title": "AMB-A-031-3.jpg",
+    "parentId": "1w2EvKIylUsAZ2FEP4fpQOF_zKH5Mqylw",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1r8LIZsjSxT8ciKtuhZYxlIsdRTaUFLNj",
+    "title": "AMB-A-031-4.jpg",
+    "parentId": "1w2EvKIylUsAZ2FEP4fpQOF_zKH5Mqylw",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "116s4cvJkVYZDjNA5faFXXistVY-MfPQ9",
+    "title": "AMB-A-031-5.jpg",
+    "parentId": "1w2EvKIylUsAZ2FEP4fpQOF_zKH5Mqylw",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-036",
+  "folder_id": "14sIOEi1uuUODrNCS7pkqMsU2BMJFmNK_",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1NAnTB3flWpoM9pnPlx3Qx-3FC79ec9lH",
+    "title": "AMB-A-036-1.jpg",
+    "parentId": "14sIOEi1uuUODrNCS7pkqMsU2BMJFmNK_",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1VpnsioK8z_3jrqEd5OY1jonoKnrI2hky",
+    "title": "AMB-A-036-2.jpg",
+    "parentId": "14sIOEi1uuUODrNCS7pkqMsU2BMJFmNK_",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-037",
+  "folder_id": "1O1KDpkFHVVBU2DeHIGb7RpuAqvyxSuYE",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "17RzehXMGADRmQO17qZXHG73OPizFo_ll",
+    "title": "AMB-A-037-1.jpg",
+    "parentId": "1O1KDpkFHVVBU2DeHIGb7RpuAqvyxSuYE",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-044",
+  "folder_id": "1Haz8PaU_xMBHN2Rl440IaG_B3Cz18fVR",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1HE3u7IWAcTc2udpl0Gq22PHK83Pn2OQL",
+    "title": "AMB-A-044-1.jpg",
+    "parentId": "1Haz8PaU_xMBHN2Rl440IaG_B3Cz18fVR",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-051",
+  "folder_id": "1fF1908pjDkJZtBa-YB7yysW7G1sDh_QP",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1EKKRa_qFIJ0vWbd97Kze4A0JdUzm1x04",
+    "title": "AMB-A-051-1.jpg",
+    "parentId": "1fF1908pjDkJZtBa-YB7yysW7G1sDh_QP",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1A0s7QNHEIkL-yua9JEeYdRRTfn_mjgLV",
+    "title": "AMB-A-051-2.jpg",
+    "parentId": "1fF1908pjDkJZtBa-YB7yysW7G1sDh_QP",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "12JYZsxPo7d6uJ912FFGaTj70wqVNy_5B",
+    "title": "AMB-A-051-3.jpg",
+    "parentId": "1fF1908pjDkJZtBa-YB7yysW7G1sDh_QP",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-053",
+  "folder_id": "1IsVLcqcCDDOYvro-WJpiVa24gTFpFyQ1",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1pbzA6HncXWcyDsEvPajCRhd8mKm534MA",
+    "title": "AMB-A-053-1.jpg",
+    "parentId": "1IsVLcqcCDDOYvro-WJpiVa24gTFpFyQ1",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-056",
+  "folder_id": "1p4RA0djJUFGVieGyKwPmC1nerFXOKd6F",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1_9nDotvp5L7Zc_QhMT8fzQU02tEhnLtf",
+    "title": "AMB-A-056-1.jpg",
+    "parentId": "1p4RA0djJUFGVieGyKwPmC1nerFXOKd6F",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "16FmXJiW1Y8ZBANosMqfsaytXlbmrp3j3",
+    "title": "AMB-A-056-2.jpg",
+    "parentId": "1p4RA0djJUFGVieGyKwPmC1nerFXOKd6F",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-066",
+  "folder_id": "1yC6_JhUdFS7l-jdScsPdOehzgFzbGdF9",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1cCLEBTrN-Uhp8FZ3CM0I4_3-tBGx0PPV",
+    "title": "AMB-A-066-1.jpg",
+    "parentId": "1yC6_JhUdFS7l-jdScsPdOehzgFzbGdF9",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-075",
+  "folder_id": "1yk_PjVVWuVQUtawEFdTcb9g-LZ1CvoXg",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "11089bWUA74CRrdTs1uTU-GtWZZr9fXzm",
+    "title": "AMB-A-075-1.jpg",
+    "parentId": "1yk_PjVVWuVQUtawEFdTcb9g-LZ1CvoXg",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1yrPhUJEoL5F_aXMtZiqcTHx9ulHUEbdO",
+    "title": "AMB-A-075-2.jpg",
+    "parentId": "1yk_PjVVWuVQUtawEFdTcb9g-LZ1CvoXg",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-080",
+  "folder_id": "1ImVMw_nGnsNvQNDrcMfbYjsRQ0oW-CIW",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1xMGFmJ1TUIFnX4qtGP2bLCtomnFOHBug",
+    "title": "AMB-A-080-1.jpg",
+    "parentId": "1ImVMw_nGnsNvQNDrcMfbYjsRQ0oW-CIW",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1KprvCm4zJZmayRcrEla9r_mSJkSvVjcS",
+    "title": "AMB-A-080-2.jpg",
+    "parentId": "1ImVMw_nGnsNvQNDrcMfbYjsRQ0oW-CIW",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-082",
+  "folder_id": "1zH142lhgg1fsXL9e19tRjfux15fGYvkM",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1NQWNC1sj-YFRsGX7G7juz31oddpen7s6",
+    "title": "AMB-A-082-1.jpg",
+    "parentId": "1zH142lhgg1fsXL9e19tRjfux15fGYvkM",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1T5LHL87yFQgL9k8fVcErrXK-JuBgZJu2",
+    "title": "AMB-A-082-2.jpg",
+    "parentId": "1zH142lhgg1fsXL9e19tRjfux15fGYvkM",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1-tGlEZzdEcbjfA2u9E3wiOMg43oHe-EU",
+    "title": "AMB-A-082-3.jpg",
+    "parentId": "1zH142lhgg1fsXL9e19tRjfux15fGYvkM",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1Lxx6bd6LeTTWUVUtM8BjOPCG_J3TF9G6",
+    "title": "AMB-A-082-4.jpg",
+    "parentId": "1zH142lhgg1fsXL9e19tRjfux15fGYvkM",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-085",
+  "folder_id": "1mxRqpF_59R13oiuCm1yqmfUeUFVF2woa",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1XpIsDP6n_HIEwbI8KENB1n5WgLpdsd07",
+    "title": "AMB-A-085-1.jpg",
+    "parentId": "1mxRqpF_59R13oiuCm1yqmfUeUFVF2woa",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-090",
+  "folder_id": "1ZglVUvWIuBDY0PXBylfuvwM2IW9VYlzL",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1eiu_HycmKgNCX31ohRJSPQnjmzo5Epge",
+    "title": "AMB-A-090-1.jpg",
+    "parentId": "1ZglVUvWIuBDY0PXBylfuvwM2IW9VYlzL",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1hQylFFmf7_-bzaMuDtnuPgsl1mOigTVA",
+    "title": "AMB-A-090-2.jpg",
+    "parentId": "1ZglVUvWIuBDY0PXBylfuvwM2IW9VYlzL",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-099",
+  "folder_id": "1mpBjUPcBtdWfKe1TOcttZ21nNg0thc5-",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1Oynz6c2W76sxrxUz1H0yBbI7KqD7cKMF",
+    "title": "AMB-A-099-1.jpg",
+    "parentId": "1mpBjUPcBtdWfKe1TOcttZ21nNg0thc5-",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1EWeNfEo3geMQNkIr_cux2Ofy-nwxUHnF",
+    "title": "AMB-A-099-2.jpg",
+    "parentId": "1mpBjUPcBtdWfKe1TOcttZ21nNg0thc5-",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "140HXTX0_tolbMHO8FMQ8KBOVsk-wwtWX",
+    "title": "AMB-A-099-3.jpg",
+    "parentId": "1mpBjUPcBtdWfKe1TOcttZ21nNg0thc5-",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1xadU8ebR_CoYq_pDrnIZ9k7ONM5hoQiT",
+    "title": "AMB-A-099-4.jpg",
+    "parentId": "1mpBjUPcBtdWfKe1TOcttZ21nNg0thc5-",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [
+   {
+    "id": "1UxUV1wwVkD50bpmhsWIGifc4xLWO11QQ",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   }
+  ],
+  "done": true
+ },
+ {
+  "code": "AMB-A-109",
+  "folder_id": "1lX5oE3ldUdM5Qx1dptBVIUsTITnN42I-",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1tFxs42_cRsq0GwuqXarWsMaoZyi5LSjn",
+    "title": "AMB-A-109-1.jpg",
+    "parentId": "1lX5oE3ldUdM5Qx1dptBVIUsTITnN42I-",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-A-116",
+  "folder_id": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1suY--7_QLyg0BBhJ8a3W2gJuhOpiTqUd",
+    "title": "AMB-A-116-1.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1f7Mp9csuZKwDuNPqJJ2ybl40kXmKkeAK",
+    "title": "AMB-A-116-2.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1szKxpk1lpFpVI5Fr-s7M6_cE0GGS6LQz",
+    "title": "AMB-A-116-3.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1CPP02SGwkgq2EpW9rEwS3qhGFoF9OA8w",
+    "title": "AMB-A-116-4.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1UWMbCUOwy163-cnU9X9biEnJEKsLVVK4",
+    "title": "AMB-A-116-5.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1YcgA2jSI2Wck4wqFpb4ilpaEv0tgc-47",
+    "title": "AMB-A-116-6.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "17zEhjSiuv5NBOEzRfVmYtjF4n7q4t5ks",
+    "title": "AMB-A-116-7.jpg",
+    "parentId": "1lrjiy_x125LtNvQShBkPLjODd9gikmWD",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [
+   {
+    "id": "1F_zj47W8piwyjWgyQZpPxj2gvHS-ziWY",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   },
+   {
+    "id": "1R_XiZxON6IJhWClqGkY14euWoB_h5tYJ",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   },
+   {
+    "id": "1aE3avgS5tl-qpIh205kr1CizBoZEp36O",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   },
+   {
+    "id": "1vwwlj6Z6BGFqNG2EIXYZrXCPFHua_cEm",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   },
+   {
+    "id": "1VU6_E3sXlxarK5LFBhz7gsygv4Oh5-Zi",
+    "parentId": "1kV1fZ3LApfZ3mOjTww5JTu57IY-u7O7e",
+    "ok": true
+   }
+  ],
+  "done": true
+ },
+ {
+  "code": "AMB-ST-001",
+  "folder_id": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+  "folder_created": false,
+  "folder_renamed_to": "AMB-ST-001",
+  "photos": [
+   {
+    "id": "1khqyg7qADqTolFUT_ooGde5FV6e73bim",
+    "title": "AMB-ST-001-1.jpg",
+    "parentId": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1lwcvOMvikOfceNxwgizmOy6qvdSRqNEC",
+    "title": "AMB-ST-001-2.jpg",
+    "parentId": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1NNUCUZwunis66RKGPX6T5zAHoQgQRR4K",
+    "title": "AMB-ST-001-3.jpg",
+    "parentId": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "13ZtH3DOCR1EZ7yUjvhvkmuQJLDNd00Ad",
+    "title": "AMB-ST-001-4.jpg",
+    "parentId": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1Qqgnc5DbngLH2mG7t2QS3n2I9uOS0M8d",
+    "title": "AMB-ST-001-5.jpg",
+    "parentId": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1nYwlw1NQW1AxN_FR5cs8MLkBEhlpOb4j",
+    "title": "AMB-ST-001-6.jpg",
+    "parentId": "14XwSChI2KZEohRvYTsHhHAjD4dyRst-5",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-ST-002",
+  "folder_id": "1MLdF61dcupGGhFFLx4VU-_HV7mNCYvLx",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1SbME9755cisxQrjItNKRfje_X91r_xmv",
+    "title": "AMB-ST-002-1.jpg",
+    "parentId": "1MLdF61dcupGGhFFLx4VU-_HV7mNCYvLx",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1kB1_O8d4qapJDr3z-eXcZ_OxU-P3oNYF",
+    "title": "AMB-ST-002-2.jpg",
+    "parentId": "1MLdF61dcupGGhFFLx4VU-_HV7mNCYvLx",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1DS-9cOR0tj844Agn4MCtnubE2HI1Jiya",
+    "title": "AMB-ST-002-3.jpg",
+    "parentId": "1MLdF61dcupGGhFFLx4VU-_HV7mNCYvLx",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-ST-007",
+  "folder_id": "1ZFeEmj0_K3P7AvXnyMtBsNqdCD1YsN1j",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1_qDJ2yx_0z1RIITnXTN-nLXbjFON5yvS",
+    "title": "AMB-ST-007-1.jpg",
+    "parentId": "1ZFeEmj0_K3P7AvXnyMtBsNqdCD1YsN1j",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1KveZAop3IsusF5KQby3m7oIOfQd7tSZk",
+    "title": "AMB-ST-007-2.jpg",
+    "parentId": "1ZFeEmj0_K3P7AvXnyMtBsNqdCD1YsN1j",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1bsh76gXwV4OoU3hCphfQA2gWuXSV3gMd",
+    "title": "AMB-ST-007-3.jpg",
+    "parentId": "1ZFeEmj0_K3P7AvXnyMtBsNqdCD1YsN1j",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "125CKjiWVcKi3UVolYR9Jp4tRe4pTjdkP",
+    "title": "AMB-ST-007-4.jpg",
+    "parentId": "1ZFeEmj0_K3P7AvXnyMtBsNqdCD1YsN1j",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-ST-012",
+  "folder_id": "1YJUFkSm0ORxqZePNz_QQ_DyJFG1JCI1v",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "154zohOpdK2Wxk_jqUhPycwIi4V-wYiEm",
+    "title": "AMB-ST-012-1.jpg",
+    "parentId": "1YJUFkSm0ORxqZePNz_QQ_DyJFG1JCI1v",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ },
+ {
+  "code": "AMB-ST-020",
+  "folder_id": "1eVjQCjdg6vR-ursGCdyfiu7TlpSORU7T",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "1JKorkZqP5Wac2idwukMjX4Ovlv-aDPL9",
+    "title": "AMB-ST-020-1.jpg",
+    "parentId": "1eVjQCjdg6vR-ursGCdyfiu7TlpSORU7T",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1EWamMnW7T8nohwK3NFSMd_DWqYMA3yvv",
+    "title": "AMB-ST-020-2.jpg",
+    "parentId": "1eVjQCjdg6vR-ursGCdyfiu7TlpSORU7T",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1gmRpzJGvTtjN7DFOlvudCHu3LWDLgxhZ",
+    "title": "AMB-ST-020-3.jpg",
+    "parentId": "1eVjQCjdg6vR-ursGCdyfiu7TlpSORU7T",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "173lQPUbxidl6pVG3lndGLKpwmKM1qzq6",
+    "title": "AMB-ST-020-4.jpg",
+    "parentId": "1eVjQCjdg6vR-ursGCdyfiu7TlpSORU7T",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [
+   {
+    "id": "18gju7Ya9GJ4hoGowUNiV_y6vhklQZLV_",
+    "parentId": "1SEv5NssEFdWxkLmTiyufMF97KV7_NURA",
+    "ok": true
+   }
+  ],
+  "done": true
+ },
+ {
+  "code": "AMB-ST-028",
+  "folder_id": "1LoyXxYdG3JQ-xjOPjIYoYAdlzvZRAa1y",
+  "folder_created": true,
+  "photos": [
+   {
+    "id": "14EsDOfDVsj16mB929YCZre3p3LkLITHE",
+    "title": "AMB-ST-028-1.jpg",
+    "parentId": "1LoyXxYdG3JQ-xjOPjIYoYAdlzvZRAa1y",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1IzIeKQhOILm7zsMcFDPfWmXaiJ8a37Mi",
+    "title": "AMB-ST-028-2.jpg",
+    "parentId": "1LoyXxYdG3JQ-xjOPjIYoYAdlzvZRAa1y",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1PwexGT4h0nodp7NUP_1jIeH5Cuf_Wxsb",
+    "title": "AMB-ST-028-3.jpg",
+    "parentId": "1LoyXxYdG3JQ-xjOPjIYoYAdlzvZRAa1y",
+    "ok": true,
+    "error": ""
+   },
+   {
+    "id": "1cHwXyNE-rR7x-aR_fChLg4bnxsHWH5P1",
+    "title": "AMB-ST-028-4.jpg",
+    "parentId": "1LoyXxYdG3JQ-xjOPjIYoYAdlzvZRAa1y",
+    "ok": true,
+    "error": ""
+   }
+  ],
+  "dups": [],
+  "done": true
+ }
+]

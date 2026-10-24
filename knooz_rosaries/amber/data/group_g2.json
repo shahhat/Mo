@@ -1,0 +1,960 @@
+[
+ {
+  "piece": "g2-01",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-003",
+  "category": "DEC",
+  "photos": [
+   128,
+   129,
+   130,
+   131,
+   132,
+   133
+  ],
+  "duplicates": [],
+  "hero": 128,
+  "type_en": "carved toad on lotus leaf, mounted on carved base",
+  "visual_en": "Opaque butterscotch-yellow amber carving of a warty toad sitting on a lotus leaf, with natural brown crust left along the leaf edges; the leaf is raised on a gilt metal post above a second carved amber block (lotus pod) as base.",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: 6 views of one mounted object (toad/leaf and carved base belong together)."
+ },
+ {
+  "piece": "g2-02",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-011",
+  "category": "DEC",
+  "photos": [
+   134,
+   135,
+   137
+  ],
+  "duplicates": [
+   136
+  ],
+  "hero": 134,
+  "type_en": "carved rat with peanut",
+  "visual_en": "Opaque butterscotch amber carving of a rat clutching a large textured peanut shell, its long tail curled along the body.",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: one object. #136 (DUPS \"fd (9) (1).jpg\") is a pixel-identical copy of #135."
+ },
+ {
+  "piece": "g2-03",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-012",
+  "category": "DEC",
+  "photos": [
+   138,
+   139,
+   142
+  ],
+  "duplicates": [
+   140,
+   141,
+   143
+  ],
+  "hero": 138,
+  "type_en": "carved goldfish",
+  "visual_en": "Opaque butterscotch amber goldfish with carved scales and pierced, flowing fins and tail; no base.",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: one object. DUPS #140 and #141 are copies of #139, #143 is a copy of #142 (distance 0). Different object from the translucent goldfish on a base Amb-dec-021 (S31)."
+ },
+ {
+  "piece": "g2-04",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-013",
+  "category": "DEC",
+  "photos": [
+   144
+  ],
+  "duplicates": [],
+  "hero": 144,
+  "type_en": "carved eagle standing on a bear",
+  "visual_en": "Opaque butterscotch amber group of an eagle with half-raised wings standing with its talons on the head of a crouching bear; the single photo is a two-view composite (front and back).",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: one photo, one object."
+ },
+ {
+  "piece": "g2-05",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-014",
+  "category": "DEC",
+  "photos": [
+   145,
+   146,
+   147,
+   148
+  ],
+  "duplicates": [
+   149
+  ],
+  "hero": 146,
+  "type_en": "carved Chinese cabbage with insect",
+  "visual_en": "Opaque butterscotch amber carving of a Chinese cabbage (bok choy) with ruffled, veined leaves and a cricket/katydid resting on top.",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: one object. #149 (DUPS \"fd (18) (1).jpg\") is a copy of #148."
+ },
+ {
+  "piece": "g2-06",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-015",
+  "category": "DEC",
+  "photos": [
+   150
+  ],
+  "duplicates": [],
+  "hero": 150,
+  "type_en": "carved boy with goat",
+  "visual_en": "Opaque butterscotch amber group of a boy holding up a goat by its forelegs, on a base with natural crust edge; the single photo is a two-view composite (front and back).",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: one photo, one object."
+ },
+ {
+  "piece": "g2-07",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   151,
+   152
+  ],
+  "duplicates": [],
+  "hero": 152,
+  "type_en": "polished amber pebble (aged, crazed surface)",
+  "visual_en": "Rounded polished pebble of opaque reddish-orange (cognac-cherry) amber with fine crazing over the whole surface and small patches of rough brown crust at the ends. #151 is a four-view composite of the same stone.",
+  "sessions": [
+   "S12"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST (natural nugget, only polished). The crazing looks like normal ageing/oxidation of old amber. Not found among the S09/S31 pebbles."
+ },
+ {
+  "piece": "g2-08",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   153
+  ],
+  "duplicates": [],
+  "hero": 153,
+  "type_en": "enamelled goblet with amber stem and matching amber mouthpiece (cased set)",
+  "visual_en": "Cobalt-blue enamelled cup with gilt lambrequin/tassel decoration on a turned opaque cherry-red amber stem with carved bone collars and a blue-and-white enamelled foot; beside it a matching amber mouthpiece with cobalt enamel collars, and a brown gilt-tooled leather fitted case behind.",
+  "sessions": [
+   "S13"
+  ],
+  "unsure": true,
+  "notes_en": "Single photo; goblet, mouthpiece and case are shown together as one cased set, so one piece. Material unsure: the opaque cherry-red stem/mouthpiece could be natural cherry amber or old phenolic \"cherry amber\" (faturan). The function of the set is not clear (possibly parts of a smoking set/hookah)."
+ },
+ {
+  "piece": "g2-09",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   154,
+   155
+  ],
+  "duplicates": [],
+  "hero": 154,
+  "type_en": "cased meerschaum pipe with amber mouthpiece",
+  "visual_en": "Long pipe in its fitted case with tan lining: meerschaum bowl carved with a quartered coat of arms (birds and lions, close-up #155), dark wooden stem sections, opaque butterscotch-orange amber mouthpiece and a green silk tassel cord.",
+  "sessions": [
+   "S13"
+  ],
+  "unsure": false,
+  "notes_en": "#155 is a close-up of the bowl seen in #154 (same scratches, same yellow cord)."
+ },
+ {
+  "piece": "g2-10",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   156
+  ],
+  "duplicates": [],
+  "hero": 156,
+  "type_en": "leather pipe case (closed)",
+  "visual_en": "Closed fitted case in black grained leather, shaped like a bent pipe (S-curve), worn at the edges; the contents are not shown.",
+  "sessions": [
+   "S14"
+  ],
+  "unsure": true,
+  "notes_en": "Only the closed case is photographed. It may be the case of a pipe photographed elsewhere (the S02 #12-#14 bent meerschaum pipe also has a black leather case) but this could not be confirmed, so it is kept separate."
+ },
+ {
+  "piece": "g2-11",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   157
+  ],
+  "duplicates": [],
+  "hero": 157,
+  "type_en": "raw amber nugget",
+  "visual_en": "Boxy raw nugget with oxidised orange-red skin, a flat top and several narrow slot-shaped cavities on the front (one long vertical slot and an L-shaped horizontal one); shown on a dark wooden disc stand.",
+  "sessions": [
+   "S15"
+  ],
+  "unsure": true,
+  "notes_en": "K&A item, classified ST. Grouping unsure: #161 (see g2-12) might show this stone instead."
+ },
+ {
+  "piece": "g2-12",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   158,
+   159,
+   161
+  ],
+  "duplicates": [],
+  "hero": 159,
+  "type_en": "raw amber nugget with polished window",
+  "visual_en": "Tall raw nugget with dark brown crust in vertical bands over orange amber, a long dark fissure just below the top, and a small cut window at the top showing pale cream amber with flow lines (close-up #158).",
+  "sessions": [
+   "S15"
+  ],
+  "unsure": true,
+  "notes_en": "K&A item, classified ST. #158 matches the top window of #159 (same pale flow lines and blue-green streaks). #161 (on a tall brass stand) shows a boxy stone with a fissure along the top and dark crust with a large pocket on one half; it fits this stone seen from its broad side, but it could also be #157 (g2-11). Not certain."
+ },
+ {
+  "piece": "g2-13",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   160
+  ],
+  "duplicates": [],
+  "hero": 160,
+  "type_en": "raw amber nugget",
+  "visual_en": "Elongated low raw nugget of translucent orange amber with crackled skin, a deep horizontal fissure along its lower third, a small round hole and dark crust at one end; on a dark wooden disc stand.",
+  "sessions": [
+   "S15"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST. Shape (long and low) does not match the other S15 stones."
+ },
+ {
+  "piece": "g2-14",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   162,
+   163,
+   164,
+   165
+  ],
+  "duplicates": [],
+  "hero": 162,
+  "type_en": "raw amber nugget with polished window",
+  "visual_en": "Large layered raw nugget with thick ochre-brown weathered crust and horizontal growth layers; one side is opened to a polished window of pale cream to yellow opaque amber (#163, close-up #165).",
+  "sessions": [
+   "S15"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST."
+ },
+ {
+  "piece": "g2-15",
+  "mode": "existing_ok",
+  "existing_code": "Amb-S-001",
+  "category": "ST",
+  "photos": [
+   166,
+   167,
+   168,
+   169,
+   170,
+   171
+  ],
+  "duplicates": [],
+  "hero": 166,
+  "type_en": "natural amber nugget fitted with a brooch pin",
+  "visual_en": "Natural nugget with one face polished flat (translucent honey-orange with cloudy zones) and the rest left as ribbed rough crust; a long brass pin fitting with catch is fixed to the polished face.",
+  "sessions": [
+   "S16"
+  ],
+  "unsure": true,
+  "notes_en": "Folder checked: 6 photos of one object (polished face with fitting #166/#167/#169, crust face #168, side and top #170/#171). Category unsure: because of the pin fitting it could be treated as a brooch/mounted piece (A); kept ST as the owner filed it."
+ },
+ {
+  "piece": "g2-16",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   172
+  ],
+  "duplicates": [],
+  "hero": 172,
+  "type_en": "polished natural amber nugget",
+  "visual_en": "Elongated polished nugget of translucent honey-to-cognac amber lying on its side, with dark mossy (dendritic) debris inclusions and rough crust pockets.",
+  "sessions": [
+   "S16"
+  ],
+  "unsure": true,
+  "notes_en": "K&A item, classified ST. Grouping unsure: shot 9 minutes before #173 and may be the same stone as g2-17 seen lying down; not confirmed."
+ },
+ {
+  "piece": "g2-17",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   173,
+   174
+  ],
+  "duplicates": [],
+  "hero": 173,
+  "type_en": "polished natural amber nugget with inclusions",
+  "visual_en": "Upright, roughly triangular polished nugget of transparent cognac amber full of sun-spangle discs, dark debris and crust pockets, crossed by a long straight diagonal crack (close-up #174).",
+  "sessions": [
+   "S16"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST."
+ },
+ {
+  "piece": "g2-18",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   175,
+   176,
+   177
+  ],
+  "duplicates": [],
+  "hero": 176,
+  "type_en": "polished natural amber nugget",
+  "visual_en": "Polished golden-honey translucent nugget with greyish-white crust left in pockets and sparkling inclusions; #175 shows it lying, #176 and #177 upright.",
+  "sessions": [
+   "S16"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST."
+ },
+ {
+  "piece": "g2-19",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   178,
+   179,
+   180
+  ],
+  "duplicates": [],
+  "hero": 178,
+  "type_en": "amber mosaic box",
+  "visual_en": "Rectangular hinged box veneered all over with amber mosaic of hexagonal and irregular tiles in butterscotch, honey and cognac; maroon velvet lining and metal hinge.",
+  "sessions": [
+   "S17"
+  ],
+  "unsure": false,
+  "notes_en": "Not the same as the mosaic boxes in S09/S31."
+ },
+ {
+  "piece": "g2-20",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   181
+  ],
+  "duplicates": [],
+  "hero": 181,
+  "type_en": "amber necklace with silver beads",
+  "visual_en": "Necklace of graduated irregular, faceted cognac amber nuggets alternating with silver beads, with an ornate silver clasp set with a red stone.",
+  "sessions": [
+   "S18"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g2-21",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   182
+  ],
+  "duplicates": [],
+  "hero": 182,
+  "type_en": "amber bead necklace",
+  "visual_en": "Single strand of graduated olive-shaped butterscotch/egg-yolk amber beads with cream marbling, two large beads at the front, gold-tone spring-ring clasp.",
+  "sessions": [
+   "S18"
+  ],
+  "unsure": false,
+  "notes_en": "Different strand from the S21/S24/S25 necklaces."
+ },
+ {
+  "piece": "g2-22",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   183
+  ],
+  "duplicates": [],
+  "hero": 183,
+  "type_en": "dark amber bead strand (close-up only)",
+  "visual_en": "Close-up of smooth oval beads of very dark cherry-brown, almost black, on a white background; the whole strand is not shown.",
+  "sessions": [
+   "S18"
+  ],
+  "unsure": true,
+  "notes_en": "Only a close-up exists. Material unsure (very dark cherry amber or resin/faturan). Not the S25 cherry strand (beads darker and more opaque)."
+ },
+ {
+  "piece": "g2-23",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-016",
+  "category": "DEC",
+  "photos": [
+   184
+  ],
+  "duplicates": [],
+  "hero": 184,
+  "type_en": "carved eagle on rock",
+  "visual_en": "Opaque orange-butterscotch amber carving of an eagle/falcon perched on a rocky outcrop; the single photo is a two-view composite.",
+  "sessions": [
+   "S19"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: one photo, one object."
+ },
+ {
+  "piece": "g2-24",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   185
+  ],
+  "duplicates": [],
+  "hero": 185,
+  "type_en": "bronze moose on amber mosaic base",
+  "visual_en": "Patinated dark bronze/spelter moose standing on a rectangular base veneered with faceted butterscotch-honey amber tiles.",
+  "sessions": [
+   "S20"
+  ],
+  "unsure": false,
+  "notes_en": "Not the same as S05 #36 (golden moose on red carved base) or S31 #390/#391 (moose on cognac mosaic base)."
+ },
+ {
+  "piece": "g2-25",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   186
+  ],
+  "duplicates": [],
+  "hero": 186,
+  "type_en": "amber mosaic ashtray / smoker's stand",
+  "visual_en": "Square stand veneered with butterscotch and cognac amber tiles in a stepped frame, with a silvered metal square tray, an attached matchbox holder and a small cup.",
+  "sessions": [
+   "S20"
+  ],
+  "unsure": false,
+  "notes_en": "Not the ashtray of the S04 #34 desk set."
+ },
+ {
+  "piece": "g2-26",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   187,
+   188
+  ],
+  "duplicates": [],
+  "hero": 187,
+  "type_en": "letter rack with amber base",
+  "visual_en": "Letter rack with three graduated chrome arches on a rectangular base faced with hexagonal tiles of swirled orange amber.",
+  "sessions": [
+   "S20"
+  ],
+  "unsure": true,
+  "notes_en": "Material unsure: the uniform, swirled tiles look like pressed amber (ambroid)."
+ },
+ {
+  "piece": "g2-27",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   190,
+   191
+  ],
+  "duplicates": [
+   189
+  ],
+  "hero": 191,
+  "type_en": "cased pair of amber mouthpieces / cheroot holders",
+  "visual_en": "Long tapering black tooled-leather case (#190, closed) with cream lining holding a pair of opaque cherry-orange amber mouthpieces with bulbous ends and long thin stems.",
+  "sessions": [
+   "S21"
+  ],
+  "unsure": true,
+  "notes_en": "#189 \"DSC_8912 (1).jpg\" is a pixel-identical copy of #190. Material unsure: the opaque cherry-orange colour could be natural amber or faturan."
+ },
+ {
+  "piece": "g2-28",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   192
+  ],
+  "duplicates": [],
+  "hero": 192,
+  "type_en": "cased set of amber pendants (acorns and gnome heads)",
+  "visual_en": "Fitted box with cream silk lining holding seven pendants: faceted transparent cognac amber acorns with natural acorn cups, carved butterscotch gnome heads in acorn caps, and a central butterscotch drop with a small acorn.",
+  "sessions": [
+   "S21"
+  ],
+  "unsure": false,
+  "notes_en": "Shown as a fitted set, so one piece."
+ },
+ {
+  "piece": "g2-29",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   193
+  ],
+  "duplicates": [],
+  "hero": 193,
+  "type_en": "amber bead necklace (short strand)",
+  "visual_en": "Strand of about 35 graduated polished olive beads in egg-yolk, butterscotch and orange with cream swirls on red string, the largest bead in the centre.",
+  "sessions": [
+   "S21"
+  ],
+  "unsure": false,
+  "notes_en": "Different strand from #182 and from the S24/S25 strands."
+ },
+ {
+  "piece": "g2-30",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   194,
+   196,
+   197,
+   198
+  ],
+  "duplicates": [
+   195
+  ],
+  "hero": 194,
+  "type_en": "amber nugget necklace",
+  "visual_en": "Necklace of polished free-form amber nuggets in butterscotch, honey and transparent cognac, graduating to a large butterscotch drop at the front, knotted on yellow cord with a screw clasp.",
+  "sessions": [
+   "S22"
+  ],
+  "unsure": false,
+  "notes_en": "#195 \"jj (60) (1).jpg\" is a copy of #196 (distance 0). #196-#198 are close-ups."
+ },
+ {
+  "piece": "g2-31",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   199,
+   200,
+   201,
+   202,
+   203
+  ],
+  "duplicates": [],
+  "hero": 203,
+  "type_en": "amber flower necklace and bracelet set",
+  "visual_en": "Modern set: flower-cluster pendant of butterscotch and honey amber chips on a multi-strand black cord with dangling amber drops, and a matching flower-cluster bracelet on black cords.",
+  "sessions": [
+   "S22"
+  ],
+  "unsure": false,
+  "notes_en": "Necklace (#199-#201) and bracelet (#202) are shown together in #203, so one set piece."
+ },
+ {
+  "piece": "g2-32",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   204,
+   205,
+   206,
+   207,
+   208
+  ],
+  "duplicates": [],
+  "hero": 204,
+  "type_en": "polished amber slab",
+  "visual_en": "Rectangular cut and polished block of transparent red-cognac amber with a swirling flow structure and dark elongated debris inclusions; photographed on black and backlit on white.",
+  "sessions": [
+   "S23"
+  ],
+  "unsure": true,
+  "notes_en": "A cut block, not made into an object, so it stays ST. Material unsure: the very even swirl pattern could mean pressed/reconstructed amber."
+ },
+ {
+  "piece": "g2-33",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   209,
+   210,
+   211,
+   212,
+   213
+  ],
+  "duplicates": [],
+  "hero": 209,
+  "type_en": "cased amber cigar/cigarette holder",
+  "visual_en": "Long holder with a butterscotch-orange amber mouthpiece with ringed collar, a grey-mottled middle section and a cognac amber end, in its blue-lined fitted case stamped \"JOSEF OSTERMANN\" (#210).",
+  "sessions": [
+   "S23"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g2-34",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   214,
+   215,
+   216
+  ],
+  "duplicates": [],
+  "hero": 214,
+  "type_en": "amber disc stretch bracelet",
+  "visual_en": "Stretch bracelet of flat round polished discs in swirled orange and cognac.",
+  "sessions": [
+   "S23"
+  ],
+  "unsure": true,
+  "notes_en": "Material unsure: the swirled, very uniform colour suggests pressed amber or resin."
+ },
+ {
+  "piece": "g2-35",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   217,
+   218,
+   219,
+   220
+  ],
+  "duplicates": [],
+  "hero": 217,
+  "type_en": "cased meerschaum pipe with amber stem",
+  "visual_en": "Meerschaum pipe with silver bands and a bowl carved with a monogram cartouche on a pierced ground, swirled cognac amber stem, in a burgundy fitted case lined with blue silk printed \"FEINSTE QUALITÄT\".",
+  "sessions": [
+   "S23"
+  ],
+  "unsure": false,
+  "notes_en": "Not the melusine pipe of the clipping #239."
+ },
+ {
+  "piece": "g2-36",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   221,
+   222
+  ],
+  "duplicates": [],
+  "hero": 221,
+  "type_en": "long amber bead necklace",
+  "visual_en": "Long strand of olive-shaped butterscotch/egg-yolk amber beads with heavy cream marbling, including two dark cognac beads; photographed on white.",
+  "sessions": [
+   "S24"
+  ],
+  "unsure": false,
+  "notes_en": "Different strand from the deep-orange one in S25 (g2-38)."
+ },
+ {
+  "piece": "g2-37",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   223,
+   224,
+   225,
+   226,
+   228
+  ],
+  "duplicates": [
+   227
+  ],
+  "hero": 224,
+  "type_en": "cherry-red amber bead necklace",
+  "visual_en": "Strand of oval translucent cherry-red beads with mottled, crackled interiors; photographed on white and on black.",
+  "sessions": [
+   "S25"
+  ],
+  "unsure": true,
+  "notes_en": "#227 \"DSC_6121 (1).jpg\" is a copy of #228. Material unsure: heat-treated cherry amber or faturan (phenolic \"cherry amber\")."
+ },
+ {
+  "piece": "g2-38",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   229,
+   230,
+   231,
+   232
+  ],
+  "duplicates": [],
+  "hero": 230,
+  "type_en": "long amber bead necklace",
+  "visual_en": "Long strand of graduated olive beads in opaque deep orange and butterscotch with a slightly matt surface; photographed on white.",
+  "sessions": [
+   "S25"
+  ],
+  "unsure": false,
+  "notes_en": "Different strand from #221/#222 and #182."
+ },
+ {
+  "piece": "g2-39",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-001",
+  "category": "DEC",
+  "photos": [
+   233,
+   234,
+   235,
+   236,
+   237
+  ],
+  "duplicates": [],
+  "hero": 233,
+  "type_en": "carved figure of a bearded old man",
+  "visual_en": "Opaque orange-butterscotch amber figure of a bearded old man in a hooded coat holding a long-necked gourd/bottle, with a sack on his back; the boots are in a pale grey-white zone.",
+  "sessions": [
+   "S26"
+  ],
+  "unsure": false,
+  "notes_en": "Folder checked: 5 views of one object."
+ },
+ {
+  "piece": "g2-40",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   238
+  ],
+  "duplicates": [],
+  "hero": 238,
+  "type_en": "amber-panelled electric lamp",
+  "visual_en": "Art Deco style chrome-framed square lamp with panels of butterscotch and cognac amber, amber bun feet, a vented chrome top and a white cord with switch.",
+  "sessions": [
+   "S27"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g2-41",
+  "mode": "new",
+  "existing_code": null,
+  "category": "UNSURE",
+  "photos": [
+   239
+  ],
+  "duplicates": [],
+  "hero": 239,
+  "type_en": "auction catalogue clipping (document)",
+  "visual_en": "Paper clipping of auction lot 119, \"A meerschaum and amber pipe\": bowl carved with a seated melusine, banner \"Certavi et Vici O'Byrne\", silver mount inscribed \"To Mr John Humphries 1914 from John Chisholm\", 19 cm, fitted case; with a halftone photo, taped together.",
+  "sessions": [
+   "S27"
+  ],
+  "unsure": true,
+  "notes_en": "A document, not an object. The pipe it describes is not photographed in S12-S30 (and not in S31); attach it to that pipe if it is found elsewhere, otherwise keep it as a supporting document. It is not the S23 pipe (monogram bowl) or the AMB-A-001 pipe."
+ },
+ {
+  "piece": "g2-42",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   241
+  ],
+  "duplicates": [
+   240
+  ],
+  "hero": 241,
+  "type_en": "amber mosaic dish / ashtray",
+  "visual_en": "Round dish faced with concentric rings of radiating butterscotch, honey and cognac amber tiles around a silvered metal centre.",
+  "sessions": [
+   "S27"
+  ],
+  "unsure": false,
+  "notes_en": "#240 \"DSC_8513 (1).jpg\" is a copy of #241. Not the S32 #440/#443 coaster."
+ },
+ {
+  "piece": "g2-43",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   242,
+   243
+  ],
+  "duplicates": [],
+  "hero": 243,
+  "type_en": "Ottoman/Qajar-style chibouk pipe with amber mouthpiece and painted case",
+  "visual_en": "Long pipe with a red clay (tophane) bowl in gilt mounts, green velvet-covered stem with enamelled gilt fittings, chains and a crescent pendant, and an orange amber mouthpiece; #242 also shows its blue painted lid with roses and a bird.",
+  "sessions": [
+   "S27"
+  ],
+  "unsure": false,
+  "notes_en": "Amber is only the mouthpiece; stays A."
+ },
+ {
+  "piece": "g2-44",
+  "mode": "add_to_existing",
+  "existing_code": "AMB-A-001",
+  "category": "A",
+  "photos": [
+   244,
+   245,
+   247,
+   248
+  ],
+  "duplicates": [
+   246
+  ],
+  "hero": 245,
+  "type_en": "meerschaum pipe with gilt mounts and amber stem, in fitted case",
+  "visual_en": "Pale meerschaum pipe with a gilt pierced-lattice gallery and hinged gilt lid with flower boss (hallmarked), engine-turned gilt ferrule and orange amber stem, in a red velvet fitted case (#245) inside a Boulle-marquetry box (#244).",
+  "sessions": [
+   "S28"
+  ],
+  "unsure": true,
+  "notes_en": "Folder AMB-A-001 checked: #246 and #247 are the same frame (#246 \"DSC_3342 (1).jpg\" is the duplicate) and #248 is the same pipe, so the folder holds one object (OK). Loose #245 (pipe in its open velvet case, same pierced gilt gallery and flower-boss mount) and #244 (closed Boulle box shot just before) are added to it. Unsure only because #244 shows the box closed."
+ },
+ {
+  "piece": "g2-45",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   249,
+   250
+  ],
+  "duplicates": [],
+  "hero": 249,
+  "type_en": "amber-knobbed niello silver mouthpiece",
+  "visual_en": "Pear-shaped butterscotch-orange amber knob with cream veining, mounted on an engraved silver tube with niello grape-vine decoration.",
+  "sessions": [
+   "S28"
+  ],
+  "unsure": false,
+  "notes_en": "Function not certain (narghile mouthpiece or handle). Not the S05 #39 filigree holders."
+ },
+ {
+  "piece": "g2-46",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   251,
+   252,
+   258
+  ],
+  "duplicates": [],
+  "hero": 251,
+  "type_en": "polished amber pebble",
+  "visual_en": "Polished butterscotch-yellow pebble with cream marbling, one dark crusty groove running diagonally across a face and rough crust at one end; #258 is a four-view composite.",
+  "sessions": [
+   "S29",
+   "S09"
+  ],
+  "unsure": true,
+  "notes_en": "Probable re-shoot of K&A stone #71-#74 (S09, 2021-08-22, outside my range): same shape, marbling and diagonal crust groove. Merge with that piece if the S09 group agrees; only my own photos are listed here."
+ },
+ {
+  "piece": "g2-47",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   253,
+   254,
+   255,
+   257
+  ],
+  "duplicates": [
+   256
+  ],
+  "hero": 255,
+  "type_en": "polished amber pebble",
+  "visual_en": "Elongated polished pebble of orange and butterscotch amber with pale cream flow patterns and two rows of dark crusty pits and cracks along its length; #253 shows both faces.",
+  "sessions": [
+   "S29"
+  ],
+  "unsure": true,
+  "notes_en": "#256 \"DSC_4496 (1).jpg\" is a copy of #257. #254 (side view) is assigned by shot order and not fully confirmed. Not the S09 #95-#97 pebble."
+ },
+ {
+  "piece": "g2-48",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   259
+  ],
+  "duplicates": [],
+  "hero": 259,
+  "type_en": "table lighter clad in amber",
+  "visual_en": "Gilt-metal flip-top table lighter with the body clad in faceted chunks of cognac and honey amber.",
+  "sessions": [
+   "S30"
+  ],
+  "unsure": false,
+  "notes_en": "Not the S31 #342/#343 lighter."
+ }
+]

@@ -1,0 +1,390 @@
+[
+ {
+  "piece": "g4-01",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   424,
+   425
+  ],
+  "duplicates": [],
+  "hero": 425,
+  "type_en": "amber cigarette holder in fitted leather case",
+  "visual_en": "Straight cigarette/cheroot holder of cloudy cognac-to-butterscotch amber with a rose-gold mouth ring and an applied rococo gold cartouche, in its original maroon leather case lined in cream, the lid lining gilt-stamped 'AMBRE VERITABLE' under a crown. Case leather rubbed and worn.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "#424 case closed, #425 case open; case and holder kept together as one piece."
+ },
+ {
+  "piece": "g4-02",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-029",
+  "category": "DEC",
+  "photos": [
+   426,
+   427,
+   428
+  ],
+  "duplicates": [],
+  "hero": 426,
+  "type_en": "carved amber Gdansk coat-of-arms group with two lion supporters",
+  "visual_en": "Translucent cognac-orange amber carving of two maned lions flanking an oval cartouche engraved with a crown over two crosses between palm branches (the Gdansk/Danzig arms), on a naturalistic base; the back is left smooth. Good condition.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "Existing folder checked: its 3 photos (front, 3/4, back) show this one object. Not the same object as the K&A raw nugget with a carved Gdansk-arms relief '997-1997' in S07 (#46-#50)."
+ },
+ {
+  "piece": "g4-03",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-030",
+  "category": "DEC",
+  "photos": [
+   429,
+   430,
+   433,
+   435,
+   436
+  ],
+  "duplicates": [
+   431,
+   432,
+   434
+  ],
+  "hero": 429,
+  "type_en": "carved amber bear with two cubs",
+  "visual_en": "Opaque egg-yolk/butterscotch amber carving of a mother bear with two cubs on a rocky base, with finely textured fur. The underside is natural amber with a dark crust band, engraved with the carver's signature 'Przemyslaw Kus 2009'.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "Existing folder checked: its 5 photos show one object (#435-#436 are the signed underside). DUPS #431 and #432 are pixel-identical copies of Amb-dec-030-2 (#430); DUPS #434 is a copy of Amb-dec-030-3 (#433)."
+ },
+ {
+  "piece": "g4-04",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   437,
+   439
+  ],
+  "duplicates": [
+   438
+  ],
+  "hero": 437,
+  "type_en": "steel guillotine cigar cutter with amber-segment handle",
+  "visual_en": "Chrome/steel lever-guillotine cigar cutter whose handle is inlaid with five cloudy butterscotch-orange amber segments showing natural inclusions and small chips; light wear on the metal.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "#438 (DSC_9740 copy (1)) is a pixel-identical copy of #439."
+ },
+ {
+  "piece": "g4-05",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   440,
+   441,
+   442,
+   443
+  ],
+  "duplicates": [],
+  "hero": 440,
+  "type_en": "round amber-mosaic coaster/dish with silver insert",
+  "visual_en": "Round dish whose rim is built from radial segments alternating cognac, butterscotch and milky-yellow amber around a tarnished silver(-plated) metal tray, with green felt underneath.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "#440 top, #441 side view, #442 rim close-up, #443 felt underside; all the same dish."
+ },
+ {
+  "piece": "g4-06",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   444,
+   445
+  ],
+  "duplicates": [],
+  "hero": 444,
+  "type_en": "desk clock and thermometer on amber base",
+  "visual_en": "Pair of gilt-brass drum instruments, a 'Europa 7 Jewels' alarm clock and a Celsius thermometer, on a brass bracket fixed to a rectangular base veneered with reddish-cognac amber tiles; mid-20th century.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": true,
+  "notes_en": "#445 is the back view. MATERIAL: the base tiles show swirly flow patterns typical of pressed (reconstructed) amber; verify before describing as natural amber."
+ },
+ {
+  "piece": "g4-07",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   447,
+   448,
+   449,
+   450
+  ],
+  "duplicates": [
+   446
+  ],
+  "hero": 447,
+  "type_en": "amber mosaic box with carved elephant finial",
+  "visual_en": "Small rectangular lidded box built of irregular polished panels of butterscotch, egg-yolk and milky-yellow amber, with amber-bead feet and corner knobs; the lift-off lid is topped by a small carved amber elephant.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "#446 (DSC_9836 copy (1)) is a pixel-identical copy of #447. #448-#449 lid off, #450 underside. The elephant is a lid finial, not one of the DEC figurines."
+ },
+ {
+  "piece": "g4-08",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   451,
+   452,
+   453,
+   454
+  ],
+  "duplicates": [],
+  "hero": 451,
+  "type_en": "set of three pierced raw amber nuggets",
+  "visual_en": "Three natural amber specimens, each pierced with a hole: a large polished egg-yolk orange nugget with leopard-spot weathering pits, a smaller milky-yellow swirled pebble, and a dark-brown crusted elongated piece whose broken edge shows pale opaque amber inside.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": true,
+  "notes_en": "Always shown together (#451, #454), plus close-ups of the yellow (#452) and dark (#453) stones; the photos cannot be split, so kept as one lot. Kept in ST per the owner's filing, but the drilled holes suggest old amulet/bead use: owner may prefer category A, or 3 separate pieces if sold singly."
+ },
+ {
+  "piece": "g4-09",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   455,
+   456,
+   457,
+   459,
+   460,
+   461
+  ],
+  "duplicates": [
+   458
+  ],
+  "hero": 455,
+  "type_en": "silver beaker set with amber cabochons (SBM Konigsberg)",
+  "visual_en": "Stemmed 835 silver beaker set around the bowl with heart-shaped butterscotch amber cabochons in bezels; the foot is engraved 'BILDSUCHFAHRT ... ORTSGR. MARIENBURG 18.6.1939' and the inside is marked 835 and SBM (Staatliche Bernstein-Manufaktur Konigsberg). Tarnished silver.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "#456-#457 cabochon close-ups, #459 hallmarks; #458 (DSC_9923 copy (1)) is a pixel-identical copy of #459. Inscription likely '...DDAC Ortsgr. Marienburg', i.e. a 1939 motoring-event trophy."
+ },
+ {
+  "piece": "g4-10",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   462
+  ],
+  "duplicates": [],
+  "hero": 462,
+  "type_en": "graduated amber bead necklace in original SBM box",
+  "visual_en": "Graduated necklace of olive-shaped butterscotch-to-cognac amber beads, folded in its original brown fabric-covered case whose satin lid lining is printed 'Staatliche Bernstein-Manufaktur' with the SBM logo.",
+  "sessions": [
+   "S32"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo. Compared with the loose bead necklaces in S18 (#182), S24 (#221) and S25 (#229-#232): no convincing match, so not merged."
+ },
+ {
+  "piece": "g4-11",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   464,
+   466,
+   468
+  ],
+  "duplicates": [
+   463,
+   465,
+   467
+  ],
+  "hero": 466,
+  "type_en": "pair of DAF amber stick pins",
+  "visual_en": "Two Third Reich-era stick pins, each a rectangular opaque orange amber plaque mounted with linked silvered DAF cogwheel-swastika and craft emblems; one keeps its blue tag 'GARANTIERT ECHT BERNSTEIN NB J'. Pins slightly corroded.",
+  "sessions": [
+   "S33"
+  ],
+  "unsure": false,
+  "notes_en": "#463, #465 and #467 are pixel-identical '(1)' copies. Kept as one pair because both pins appear together in #466/#468. Compared with the S36 DAF pin lots (plaque shapes, backs): different objects, so no re-shoot merge. Nazi-era insignia (swastika): check marketplace/legal rules before listing."
+ },
+ {
+  "piece": "g4-12",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   469,
+   470,
+   471,
+   472,
+   473,
+   474,
+   475,
+   476,
+   477,
+   478,
+   479,
+   480,
+   481,
+   482
+  ],
+  "duplicates": [],
+  "hero": 469,
+  "type_en": "strand of large old amber beads",
+  "visual_en": "Strand of 11 large barrel- and disc-shaped beads in polished opaque reddish-orange amber with yellow marbling, strung on a green silk cord.",
+  "sessions": [
+   "S34"
+  ],
+  "unsure": true,
+  "notes_en": "#482 (DSC_6651, EXIF time out of sequence) shows the same strand turned around; the rest are bead close-ups. MATERIAL: this 'African/Moroccan trade' bead style is often copal or phenolic-resin imitation; the natural-looking fissures suggest old amber, but this cannot be confirmed from photos."
+ },
+ {
+  "piece": "g4-13",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   483,
+   484,
+   486
+  ],
+  "duplicates": [
+   485
+  ],
+  "hero": 484,
+  "type_en": "rectangular badge with three aircraft on amber plaque",
+  "visual_en": "Rectangular white-metal-framed brooch badge set with an opaque orange amber plaque bearing three silvered aircraft in formation, with a rusted pin and catch on the back; 1930s German donation-badge style.",
+  "sessions": [
+   "S35"
+  ],
+  "unsure": true,
+  "notes_en": "All 4 files share one EXIF frame: #483 is a front+back composite, #484 a front crop, #486 a back crop; #485 (DSC_6775 copy (1)) is a pixel-identical copy of #486. MATERIAL: the plaque has flow striations, so it may be pressed amber."
+ },
+ {
+  "piece": "g4-14",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   487,
+   488,
+   490,
+   491
+  ],
+  "duplicates": [
+   489
+  ],
+  "hero": 488,
+  "type_en": "lot of 5 DAF stick pins on natural amber with NB tags",
+  "visual_en": "Five stick pins, each an irregular polished piece of transparent cognac-to-honey amber (some crackled, with white inclusions) mounted with the linked DAF cogwheel-swastika and craft emblems, and blue shield tags reading 'NATUR-BERNSTEIN NB J' or 'GARANTIERT ECHT BERNSTEIN NB J'.",
+  "sessions": [
+   "S36"
+  ],
+  "unsure": false,
+  "notes_en": "Always photographed together (#487 fan, #488 row, #491 backs, #490 close-up of 3), so kept as one lot; split only if sold singly. #489 is a pixel-identical copy of #490. Nazi-era insignia (swastika): check marketplace/legal rules before listing."
+ },
+ {
+  "piece": "g4-15",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   492,
+   494,
+   495,
+   496
+  ],
+  "duplicates": [
+   493
+  ],
+  "hero": 492,
+  "type_en": "lot of 7 'Luftsport hilft Deutschland' amber badges",
+  "visual_en": "Seven identical round pin badges, each with an aluminium rim lettered 'LUFTSPORT HILFT DEUTSCHLAND' around an opaque orange amber disc bearing a metal glider/bird emblem.",
+  "sessions": [
+   "S36"
+  ],
+  "unsure": true,
+  "notes_en": "Count is 7 in #492, #494 and #496 (backs); #495 is a close-up of one badge. #493 is a pixel-identical copy of #494. MATERIAL: the discs show flow lines typical of pressed amber (Pressbernstein); verify."
+ },
+ {
+  "piece": "g4-16",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   497,
+   498,
+   500
+  ],
+  "duplicates": [
+   499
+  ],
+  "hero": 497,
+  "type_en": "lot of 5 DAF stick pins on opaque amber",
+  "visual_en": "Five untagged stick pins with the linked DAF cogwheel-swastika and craft emblems, mounted on opaque amber pieces: a rectangular plaque, two round discs, an oval and an irregular egg-yolk yellow piece.",
+  "sessions": [
+   "S36"
+  ],
+  "unsure": false,
+  "notes_en": "Always shown together (#497 fronts, #498 backs, #500 close-up of 3), so kept as one lot. #499 is a pixel-identical copy of #500. A different set from the tagged lot #487-#491. Nazi-era insignia (swastika): check marketplace/legal rules before listing."
+ },
+ {
+  "piece": "g4-17",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   502,
+   503,
+   506,
+   508,
+   510,
+   511,
+   512
+  ],
+  "duplicates": [
+   501,
+   504,
+   505,
+   507,
+   509
+  ],
+  "hero": 510,
+  "type_en": "amber desk seal with insect inclusions",
+  "visual_en": "Desk seal with a tall natural-shaped handle of transparent cognac amber containing insect inclusions (a fly and long-legged insects) and surface crazing, on a brass collar and a cut-corner square brass matrix engraved with a cursive monogram.",
+  "sessions": [
+   "S36"
+  ],
+  "unsure": true,
+  "notes_en": "#502, #503 and #510 are different sides of the same seal (same collar and base); #506, #511 and #512 are inclusion macros, #508 the seal face. #501, #504, #505, #507 and #509 are pixel-identical copies. MATERIAL: the crazing plus insects could also indicate copal; confirm amber before describing the inclusions."
+ }
+]

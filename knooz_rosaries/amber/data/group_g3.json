@@ -1,0 +1,860 @@
+[
+ {
+  "piece": "g3-01",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   260
+  ],
+  "duplicates": [],
+  "hero": 260,
+  "type_en": "amber mosaic jewellery box",
+  "visual_en": "Small rectangular hinged box clad in a mosaic of mixed butterscotch, honey and dark-cognac amber tesserae, lined in burgundy velvet. Shown open; good condition.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo. Different box from #261 and #262 (lining, tesserae and construction all differ)."
+ },
+ {
+  "piece": "g3-02",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   261
+  ],
+  "duplicates": [],
+  "hero": 261,
+  "type_en": "amber mosaic jewellery box",
+  "visual_en": "Rectangular hinged box covered in butterscotch-yellow amber mosaic, wooden interior lined in cream suede with a removable inner tray. Shown open.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo; distinct from #260 and #262."
+ },
+ {
+  "piece": "g3-03",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   262
+  ],
+  "duplicates": [],
+  "hero": 262,
+  "type_en": "amber-clad wooden box",
+  "visual_en": "Small rectangular wooden box clad in rough, polished cherry and cognac amber chunks; plain unlined light-wood interior with steel hinges. Shown open.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo; distinct from #260 and #261."
+ },
+ {
+  "piece": "g3-04",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   264,
+   265
+  ],
+  "duplicates": [
+   263
+  ],
+  "hero": 264,
+  "type_en": "amber bead necklace with jewelled filigree clasp",
+  "visual_en": "Necklace of graduated polished cognac-to-cherry amber beads closed by a large two-lobed gilt silver filigree clasp set with red and green stones and monogrammed 'WS' / 'CB'. #265 is a close-up of the clasp.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "#263 (DSC_4341..jpg) is a pixel-identical copy of #264 (DSC_4341.jpg), set aside as duplicate. Clasp in #265 is the same clasp seen in #264."
+ },
+ {
+  "piece": "g3-05",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   266,
+   267,
+   269,
+   270,
+   271
+  ],
+  "duplicates": [
+   268
+  ],
+  "hero": 267,
+  "type_en": "raw amber nugget",
+  "visual_en": "Raw rounded-oval amber nugget with a rough, sandy tan-brown weathered crust crossed by a deep crease; a chipped window shows glossy translucent orange-red amber with a dark streak (close-up #271).",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Continuous run 15:27:00-15:29:10 (frames 78753-78762) between the necklace and the next stone; same crease and window in every view, uniform hue. #268 (DSC_4360 (1).jpg) is a pixel-identical copy of #269 (DSC_4360.jpg)."
+ },
+ {
+  "piece": "g3-06",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   272,
+   273,
+   274,
+   275,
+   276
+  ],
+  "duplicates": [],
+  "hero": 272,
+  "type_en": "polished amber nugget with crust pockets",
+  "visual_en": "Polished, rounded semi-opaque bright orange amber nugget, glossy, with several rough dark-brown crust pockets left in its hollows; one face is almost clean (#273).",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Unbroken run 15:30:02-15:31:25. #273 is the clean side of the same stone (same colour, polish and edge residue, shot 12 s before #274). Not the similar polished butterscotch nugget of S09 (#95-#97): that one is long and flat and its dark patches are polished over."
+ },
+ {
+  "piece": "g3-07",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   278,
+   279,
+   280,
+   281
+  ],
+  "duplicates": [
+   277
+  ],
+  "hero": 280,
+  "type_en": "raw cherry-red amber nugget",
+  "visual_en": "Raw cherry-red amber nugget with a reddish weathered crust flecked with white; a chipped window on one side shows clear deep-red amber (close-up #281).",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Run 15:31:57-15:35:36 just before Amb-dec-017; the small window at lower right in #278/#279 is the window seen face-on in #280/#281. #277 (DSC_4377 (1).jpg) is a pixel-identical copy of #278 (DSC_4377.jpg)."
+ },
+ {
+  "piece": "g3-08",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-017",
+  "category": "DEC",
+  "photos": [
+   282,
+   283
+  ],
+  "duplicates": [],
+  "hero": 282,
+  "type_en": "carved amber insect with rosebud on pebble base",
+  "visual_en": "Carved butterscotch amber insect (beetle/bee) with black wire legs and antennae beside a cherry-amber rosebud with silver leaves, mounted on a polished pale banded butterscotch amber pebble.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (2 photos); no duplicates."
+ },
+ {
+  "piece": "g3-09",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-018",
+  "category": "DEC",
+  "photos": [
+   284,
+   285,
+   288,
+   290,
+   292
+  ],
+  "duplicates": [
+   286,
+   287,
+   289,
+   291,
+   293
+  ],
+  "hero": 284,
+  "type_en": "carved amber rhinoceros figurine",
+  "visual_en": "Butterscotch amber rhinoceros with folded neck skin, two horns and pebbled skin texture, standing on a natural translucent cognac-butterscotch amber slab base.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (5 photos); the 5 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder. #288 looks different only because it is shot from higher up and further forward (top face of the base visible)."
+ },
+ {
+  "piece": "g3-10",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   294,
+   295
+  ],
+  "duplicates": [],
+  "hero": 294,
+  "type_en": "amber mosaic mantel clock",
+  "visual_en": "Art-deco style mantel clock built up from rough-polished cherry, cognac and honey amber nuggets, central tower with a square silver-tone dial (Arabic numerals) flanked by stepped wings on two feet.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Two consecutive front views (15:46-15:47), shot between Amb-dec-018 and Amb-dec-019."
+ },
+ {
+  "piece": "g3-11",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-019",
+  "category": "DEC",
+  "photos": [
+   296,
+   297
+  ],
+  "duplicates": [
+   298
+  ],
+  "hero": 296,
+  "type_en": "carved amber rearing horse figurine",
+  "visual_en": "Egg-yolk/butterscotch amber horse rearing on its hind legs with flowing mane and tail, on a round turned amber base.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (2 photos); the 1 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-12",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-020",
+  "category": "DEC",
+  "photos": [
+   299,
+   300
+  ],
+  "duplicates": [],
+  "hero": 299,
+  "type_en": "carved amber fish figurine",
+  "visual_en": "Fish with a spiny dorsal fin carved in mottled white-yellow and orange amber, set on a natural red-brown amber nugget base.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (2 photos); no duplicates."
+ },
+ {
+  "piece": "g3-13",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-021",
+  "category": "DEC",
+  "photos": [
+   301,
+   303,
+   305
+  ],
+  "duplicates": [
+   302,
+   304,
+   306
+  ],
+  "hero": 301,
+  "type_en": "carved amber goldfish figurine",
+  "visual_en": "Goldfish with finely carved scales in translucent honey-cognac amber with dark inclusions, on a polished butterscotch amber base.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (3 photos); the 3 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-14",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   307,
+   308,
+   309,
+   310
+  ],
+  "duplicates": [],
+  "hero": 307,
+  "type_en": "amber pebble (water-worn)",
+  "visual_en": "Flattish, angular water-worn cherry-red to orange amber pebble with a smooth glossy natural surface, dark pits (incl. a double pit) and fine crazing; shown lying flat (#307-#308) and standing on edge (#309-#310).",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Only object shot between Amb-dec-021 and Amb-dec-022 (15:59-16:01); the pit pattern on the broad face matches between the flat and the upright views. Different from the rounded A009 nugget #334-#337."
+ },
+ {
+  "piece": "g3-15",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-022",
+  "category": "DEC",
+  "photos": [
+   311,
+   313,
+   316,
+   317,
+   320
+  ],
+  "duplicates": [
+   312,
+   314,
+   315,
+   318,
+   319
+  ],
+  "hero": 311,
+  "type_en": "carved amber lion family group",
+  "visual_en": "Group of a roaring maned lion, a reclining lioness and a cub in butterscotch amber on an octagonal polished butterscotch amber plinth.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (5 photos); the 5 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-16",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   321,
+   322,
+   323,
+   324,
+   326,
+   327
+  ],
+  "duplicates": [
+   325
+  ],
+  "hero": 321,
+  "type_en": "raw amber nugget with cut face",
+  "visual_en": "Raw red-brown amber nugget with a fine reddish crust, rounded dimples and one flat cut/polished end face showing orange amber; #327 shows it standing on the cut end.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Unbroken run 16:06:27-16:08:50 after Amb-dec-022; the cut face and dimples recur in every view. #325 (DSC_4537 (1).jpg) is a pixel-identical copy of #326 (DSC_4537.jpg)."
+ },
+ {
+  "piece": "g3-17",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   328,
+   329,
+   330,
+   331,
+   332,
+   333
+  ],
+  "duplicates": [],
+  "hero": 332,
+  "type_en": "raw amber nugget",
+  "visual_en": "Blocky raw amber nugget with an orange crust, grey-white crust patches and a yellowish mottled crust zone on one side; some flatter faces show long grooves (#333).",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Unbroken run 16:09:42-16:12:14 between the cut-face stone and A009; the same grey patches and yellow-mottled underside appear throughout and the colour is uniform (more orange than the cut-face stone #321-#327)."
+ },
+ {
+  "piece": "g3-18",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   334,
+   335,
+   336,
+   337
+  ],
+  "duplicates": [],
+  "hero": 335,
+  "type_en": "raw cherry-red amber nugget",
+  "visual_en": "Rounded, almond-shaped raw cherry-red amber nugget with a fine granular skin, many deep round pits on one side and a glossy orange window along one edge (#336); #337 shows the smooth reverse.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Three files are named A009-1/-2/-3 by the owner (possibly an old code). #337 (DSC_4574) was shot 27 s after A009-3 and shows the same cherry skin and end pits. Not the same stone as the angular pebble #307-#310."
+ },
+ {
+  "piece": "g3-19",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   338,
+   339
+  ],
+  "duplicates": [],
+  "hero": 339,
+  "type_en": "amber parquet mosaic box",
+  "visual_en": "Rectangular hinged box covered in a basket-weave/parquet pattern of butterscotch and egg-yolk amber tiles, wooden interior with steel piano hinge.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "#338 shows it open and staged with loose items (a strand of round amber beads, a silver bracelet with oval amber cabochons and an amber egg/stone with a gold ring); these are not fitted contents and are not otherwise photographed in S31, so they are not counted as part of this piece."
+ },
+ {
+  "piece": "g3-20",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   340,
+   341
+  ],
+  "duplicates": [],
+  "hero": 341,
+  "type_en": "silver-mounted amber mosaic box",
+  "visual_en": "Small rectangular box with silver(-tone) mounts and rope-twist borders; the lid is inset with a geometric mosaic of translucent cognac and butterscotch amber, the sides are clad with rounded amber bars.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "#340 top view and #341 side view of the same box. Not the same as the silver-and-amber box in S00 (#4), which has rosettes on the lid edge."
+ },
+ {
+  "piece": "g3-21",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   342,
+   343
+  ],
+  "duplicates": [],
+  "hero": 343,
+  "type_en": "amber mosaic table lighter",
+  "visual_en": "Rectangular table lighter, body clad in butterscotch and honey amber mosaic, chrome lighter mechanism on top.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Two views of the same lighter. Different from the cherry-chunk lighter in S30 (#259)."
+ },
+ {
+  "piece": "g3-22",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   344,
+   345
+  ],
+  "duplicates": [],
+  "hero": 345,
+  "type_en": "silver and amber link bracelet",
+  "visual_en": "Bracelet of hinged silver(-tone) links alternating rectangular butterscotch-cognac amber plaques held by prongs with a plain silver plaque engraved '14.9.1941 Günter'.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Two views; the engraving and links match."
+ },
+ {
+  "piece": "g3-23",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   346,
+   347
+  ],
+  "duplicates": [],
+  "hero": 346,
+  "type_en": "copper box with amber cabochons",
+  "visual_en": "Copper repousse box on small ball feet; the lid has a radiating sunburst around a square emblem and four round amber cabochons, the sides carry oval butterscotch amber cabochons in punched frames.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "#346 three-quarter view, #347 lid. Different from the engraved metal box in S28 (#244)."
+ },
+ {
+  "piece": "g3-24",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   348,
+   349,
+   350,
+   351,
+   352
+  ],
+  "duplicates": [],
+  "hero": 352,
+  "type_en": "polished amber nugget",
+  "visual_en": "Highly polished, elongated and lumpy egg-yolk/yellow opaque amber nugget covered in dimples, with orange-brown swirling flow patterns and a small grey crust spot.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Unbroken run 16:38:45-16:41:00; same dimples and swirl pattern in all views. No match among the polished nuggets of S09 or S29."
+ },
+ {
+  "piece": "g3-25",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   353,
+   354
+  ],
+  "duplicates": [],
+  "hero": 353,
+  "type_en": "amber bead necklace with raw nuggets",
+  "visual_en": "Necklace of round egg-yolk/butterscotch amber beads interspersed with three raw amber nuggets (two small orange crusted ones and one large dark-brown crusted nugget with gold-tone caps). #354 is a close-up of the large raw nugget.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Close-up #354 shows the same large dark nugget and butterscotch beads as #353."
+ },
+ {
+  "piece": "g3-26",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   355,
+   356,
+   357,
+   358
+  ],
+  "duplicates": [],
+  "hero": 357,
+  "type_en": "fitted case with a collection of amber brooches",
+  "visual_en": "Mahogany-coloured wooden case with a small plaque on the lid and a gilt latch set with an amber cabochon; inside, a navy velvet tray of 12 compartments holds vintage amber brooches (floral, leaf and grape designs), earrings, polished nuggets and a faceted drop pendant. #358 is a close-up of a leaf brooch with a faceted cognac bead.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": true,
+  "notes_en": "#355 closed lid (the latch cabochon peeks out under the lid edge), #356 latch, #357 open case, #358 detail. Treated as one set (case with fitted contents) because it is photographed as a unit; the ~15 items inside could be split into separate pieces if they are sold individually. Some faceted cherry/cognac elements may be pressed amber or glass rather than natural amber."
+ },
+ {
+  "piece": "g3-27",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   359,
+   360,
+   362
+  ],
+  "duplicates": [
+   361
+  ],
+  "hero": 359,
+  "type_en": "amber mosaic desk clock",
+  "visual_en": "Octagonal desk clock clad in cherry and cognac amber mosaic on a rectangular amber-mosaic plinth; gilt bezel, green-gold dial with white Roman-numeral cartouches.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "#361 (DSC_4811 (1).jpg) is a pixel-identical copy of #362 (DSC_4811.jpg)."
+ },
+ {
+  "piece": "g3-28",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-023",
+  "category": "DEC",
+  "photos": [
+   363
+  ],
+  "duplicates": [],
+  "hero": 363,
+  "type_en": "carved transparent amber rearing horse",
+  "visual_en": "Clear transparent cognac amber horse rearing over a carved rocky base.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (1 photo); no duplicates."
+ },
+ {
+  "piece": "g3-29",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-024",
+  "category": "DEC",
+  "photos": [
+   364,
+   366,
+   368,
+   370
+  ],
+  "duplicates": [
+   365,
+   367,
+   369,
+   371
+  ],
+  "hero": 364,
+  "type_en": "carved transparent amber head of a helmeted warrior",
+  "visual_en": "Transparent cognac amber head of a bearded warrior wearing a crested (Corinthian-style) helmet, finely detailed beard.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (4 photos); the 4 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-30",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-025",
+  "category": "DEC",
+  "photos": [
+   372,
+   373,
+   376,
+   377
+  ],
+  "duplicates": [
+   374,
+   375,
+   378
+  ],
+  "hero": 372,
+  "type_en": "carved amber owl figurine",
+  "visual_en": "Standing owl carved in honey-butterscotch semi-opaque amber with detailed feathers and facial disc, on a dark round wooden stand.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (4 photos); the 3 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-31",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   379,
+   380,
+   381,
+   382,
+   383,
+   384
+  ],
+  "duplicates": [],
+  "hero": 379,
+  "type_en": "raw amber nugget with barnacle encrustation",
+  "visual_en": "Raw amber nugget with a brown crust heavily encrusted with small barnacle shells (marine growth); broken windows show opaque orange-yellow amber crossed by a black streak.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Unbroken run 17:40:20-17:41:52 between Amb-dec-025 and the nugget clock; same barnacle crust and black streak (#382/#383) throughout."
+ },
+ {
+  "piece": "g3-32",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   385,
+   386
+  ],
+  "duplicates": [],
+  "hero": 385,
+  "type_en": "clock set in natural amber nugget",
+  "visual_en": "Clock movement with a round brass bezel and cream-gold dial set into a large polished natural amber nugget (cognac and butterscotch with crusty patches), resting on a polished butterscotch nugget base. #386 shows the brass back cover.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Front (#385) and back (#386) of the same clock. Same construction (polished nugget on nugget base) as the thermometer #388-#389; they may be a matching desk pair, but they were photographed separately, so they are kept as separate pieces."
+ },
+ {
+  "piece": "g3-33",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   387
+  ],
+  "duplicates": [],
+  "hero": 387,
+  "type_en": "amber nugget commemorative desk ornament",
+  "visual_en": "Large polished natural amber nugget (butterscotch with cloudy white zones) mounted on a dark wooden plinth with a silver-tone metal '40' and stylised tulip set with a small amber cabochon; engraved metal plaque on the plinth front.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo. Plaque inscription reads approximately 'Stasiūt-Januškevičiai' (anniversary/commemorative piece). Kept in A as a mounted object."
+ },
+ {
+  "piece": "g3-34",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   388,
+   389
+  ],
+  "duplicates": [],
+  "hero": 388,
+  "type_en": "thermometer on amber nugget",
+  "visual_en": "Thermometer with a yellow oval scale in a white frame, mounted on an upright polished natural amber nugget set on a polished amber nugget base; cognac-orange amber with crusty patches.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Front and three-quarter views. Possible matching desk pair with the nugget clock #385-#386 (same nugget-on-nugget construction), but photographed separately."
+ },
+ {
+  "piece": "g3-35",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   390,
+   391
+  ],
+  "duplicates": [],
+  "hero": 390,
+  "type_en": "bronze moose on amber mosaic base",
+  "visual_en": "Patinated bronze figure of a young moose standing on a rectangular base clad in small rectangular tesserae of cognac, butterscotch and dark amber with dark grout lines.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Two views. Different from the bronze moose pieces in S05 (#36, faceted amber block base) and S20 (#185, black moose on faceted amber base). The figure is bronze, not carved amber, so it stays in A."
+ },
+ {
+  "piece": "g3-36",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-026",
+  "category": "DEC",
+  "photos": [
+   392,
+   393,
+   395,
+   397,
+   399,
+   401
+  ],
+  "duplicates": [
+   394,
+   396,
+   398,
+   400
+  ],
+  "hero": 393,
+  "type_en": "carved amber lizard (iguana) figurine",
+  "visual_en": "Crested lizard (iguana/chameleon-like) with a row of dorsal spines and a long tail, carved in semi-translucent butterscotch amber.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (6 photos); the 4 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-37",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-027",
+  "category": "DEC",
+  "photos": [
+   402,
+   405,
+   409,
+   412,
+   413
+  ],
+  "duplicates": [
+   403,
+   404,
+   406,
+   407,
+   408,
+   410,
+   411,
+   414,
+   415
+  ],
+  "hero": 402,
+  "type_en": "carved amber elephant figurine",
+  "visual_en": "Elephant with raised trunk carved in egg-yolk/butterscotch amber with red-brown mottling.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (5 photos); the 9 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ },
+ {
+  "piece": "g3-38",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   416
+  ],
+  "duplicates": [],
+  "hero": 416,
+  "type_en": "bronze horse on amber chip base",
+  "visual_en": "Dark patinated bronze standing horse on a rectangular base made of small cherry-cognac amber chips bonded together.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo. Not the walking bronze horse of S04 (#31), which stands on a polished nugget base with an NBJ tag."
+ },
+ {
+  "piece": "g3-39",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   417
+  ],
+  "duplicates": [],
+  "hero": 417,
+  "type_en": "amber mosaic ashtray",
+  "visual_en": "Round ashtray with a rim of polished cognac and butterscotch amber segments around a black glass/ceramic bowl with metal cigarette rests.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo."
+ },
+ {
+  "piece": "g3-40",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-028",
+  "category": "DEC",
+  "photos": [
+   418,
+   421,
+   423
+  ],
+  "duplicates": [
+   419,
+   420,
+   422
+  ],
+  "hero": 418,
+  "type_en": "carved amber head of a bearded man in a hat",
+  "visual_en": "Head of a bearded man wearing a brimmed hat, carved in semi-translucent cognac-cherry amber with dark inclusions in the hat.",
+  "sessions": [
+   "S31"
+  ],
+  "unsure": false,
+  "notes_en": "Folder holds one object (3 photos); the 3 DUPS files are pixel-identical copies (dupgroups distance 0) of photos in this folder."
+ }
+]

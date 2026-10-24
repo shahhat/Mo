@@ -1,0 +1,1224 @@
+[
+ {
+  "piece": "g1-01",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   1
+  ],
+  "duplicates": [],
+  "hero": 1,
+  "type_en": "amber mosaic table clock (Art Deco)",
+  "visual_en": "Tall triangular body faced with honey and butterscotch amber mosaic and raw-amber edging, round cream dial in a wood-grain bezel at left, two ring openings with suspended amber balls and a small amber pendulum disc; curved brass foot.",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-02",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   2
+  ],
+  "duplicates": [],
+  "hero": 2,
+  "type_en": "amber mosaic memorial block with bronze Immanuel Kant plaque",
+  "visual_en": "Arched block of polished butterscotch/honey amber mosaic with a bronze plaque inscribed \"Immanuel Kant 1724-1804\" and his quotation; the right-hand image shows the rough back of raw amber pieces.",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": "Photo shows front and back side by side, probably a two-view composite of one block (this photographer often does that). If it is in fact a pair of matching blocks (bookends), it is still one piece."
+ },
+ {
+  "piece": "g1-03",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   3
+  ],
+  "duplicates": [],
+  "hero": 3,
+  "type_en": "amber pipe stem / cheroot holder with fitted case",
+  "visual_en": "Long holder: butterscotch amber knob mouthpiece, gilt filigree collar, mottled amber section and dark wooden stem with cork end; shown with an empty navy velvet fitted case (cream silk lining).",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": "The empty fitted case shown with it is treated as its own case."
+ },
+ {
+  "piece": "g1-04",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   4
+  ],
+  "duplicates": [],
+  "hero": 4,
+  "type_en": "amber box with silver-metal hinged lid",
+  "visual_en": "Rectangular box with sides of polished butterscotch/honey amber blocks framed by twisted wire, hinged white-metal lid with a band of rosettes and amber top; brown velvet interior, shown open.",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-05",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   5
+  ],
+  "duplicates": [],
+  "hero": 5,
+  "type_en": "amber mosaic mantel clock",
+  "visual_en": "Rectangular clock faced with honey and butterscotch amber mosaic blocks, square cream \"8 Tag\" dial with silver chapter ring, black base.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-06",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   6
+  ],
+  "duplicates": [],
+  "hero": 6,
+  "type_en": "letter rack with amber mosaic base",
+  "visual_en": "Three graduated arched wooden dividers on a rectangular base of polished honey/butterscotch amber mosaic blocks.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-07",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   8
+  ],
+  "duplicates": [
+   7
+  ],
+  "hero": 8,
+  "type_en": "letter opener with amber mosaic handle",
+  "visual_en": "Wooden blade; handle covered in honey amber mosaic with an inlaid wood panel.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#7 \"DSC_7529 (1).jpg\" is a pixel-identical copy of #8 (dupgroups distance 0)."
+ },
+ {
+  "piece": "g1-08",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   9
+  ],
+  "duplicates": [],
+  "hero": 9,
+  "type_en": "amber candlestick with caryatid column",
+  "visual_en": "Very dark cognac column carved/moulded with a standing caryatid figure between honey amber rings, urn-shaped honey amber sconce with brass pricket, round amber mosaic plate on a pale wooden base.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": true,
+  "notes_en": "Material uncertain for the column: very dark, uniform and crisply detailed, it may be pressed amber or a moulded resin rather than carved natural amber. Rings, sconce and base plate look like natural amber."
+ },
+ {
+  "piece": "g1-09",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-005",
+  "category": "DEC",
+  "photos": [
+   10
+  ],
+  "duplicates": [],
+  "hero": 10,
+  "type_en": "carved hen and chick",
+  "visual_en": "Hen facing a chick, carved in transparent cognac-orange amber with fine feather detail, on a dark cognac base strip.",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": "Checked: folder holds one photo of one object."
+ },
+ {
+  "piece": "g1-10",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   11
+  ],
+  "duplicates": [],
+  "hero": 11,
+  "type_en": "carved meerschaum pipe (eagle) with amber stem",
+  "visual_en": "Meerschaum bowl carved as an eagle perched on a leafy branch; curved butterscotch amber stem.",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-11",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   12,
+   13,
+   14
+  ],
+  "duplicates": [],
+  "hero": 12,
+  "type_en": "meerschaum pipe with monogram, amber stem, fitted case",
+  "visual_en": "Meerschaum pipe with raised carved monogram on the bowl, beaded brown rim collar and butterscotch amber stem; black fitted case with purple lining.",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": "Monogram, rim collar and patina match in all three photos."
+ },
+ {
+  "piece": "g1-12",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   15
+  ],
+  "duplicates": [],
+  "hero": 15,
+  "type_en": "amber mosaic table clock (square)",
+  "visual_en": "Square dial in a chrome bezel set in butterscotch/honey amber mosaic, framed by rounded polished amber blocks, on two amber block feet.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-13",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-006",
+  "category": "DEC",
+  "photos": [
+   16
+  ],
+  "duplicates": [],
+  "hero": 16,
+  "type_en": "carved hen and chick",
+  "visual_en": "Hen with a chick at its side on a shared base, carved in opaque egg-yolk/butterscotch amber.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "Checked: one object. Different carving from Amb-dec-005 (#10) and Amb-dec-009 (#37)."
+ },
+ {
+  "piece": "g1-14",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-007",
+  "category": "DEC",
+  "photos": [
+   17,
+   18
+  ],
+  "duplicates": [],
+  "hero": 18,
+  "type_en": "dragon relief carved in an amber nugget",
+  "visual_en": "Butterscotch nugget carved in relief with a coiled dragon and foliage; the back keeps the natural orange-red crust. #17 adds a top view with a signature.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "#17 and #18 share one EXIF frame but are different edits (hash distance 97), so both are kept. Folder holds one object."
+ },
+ {
+  "piece": "g1-15",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   19,
+   20
+  ],
+  "duplicates": [],
+  "hero": 19,
+  "type_en": "amber cigarette holder with fitted case",
+  "visual_en": "Tapering butterscotch amber holder with honey rings, dark cherry tip and cream bone/ivory end; tan leather fitted case lined in red velvet.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-16",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   21
+  ],
+  "duplicates": [],
+  "hero": 21,
+  "type_en": "meerschaum pipe with amber stem, fitted case",
+  "visual_en": "Plain egg-shaped white meerschaum bowl with curved honey-butterscotch amber stem, in a dark fitted case with red lining.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-17",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-008",
+  "category": "DEC",
+  "photos": [
+   22,
+   25,
+   27
+  ],
+  "duplicates": [
+   23,
+   24,
+   26,
+   28,
+   29
+  ],
+  "hero": 22,
+  "type_en": "carved amber teapot",
+  "visual_en": "Teapot-form carving in butterscotch amber with branch-shaped handle and spout, decorated in high relief with flowering plum branches and birds.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "#23, #24 (=#22), #26 (=#25) and #28, #29 (=#27) in _Duplicates are pixel-identical copies (distance 0). Folder holds one object."
+ },
+ {
+  "piece": "g1-18",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   30
+  ],
+  "duplicates": [],
+  "hero": 30,
+  "type_en": "maker's label detail (Norddeutsche Bernstein-Industrie, Koenigsberg)",
+  "visual_en": "Close-up of a metal plate \"Hergestellt von: Norddeutsche Bernstein-Industrie, Naujoks, Mann & Gedenk, Koenigsberg/Pr. 1 Bernsteinhaus\" on a torn maroon crocodile-embossed leather flap, on a maroon leather surface.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": true,
+  "notes_en": "Detail photo only; the object it belongs to is not identifiable. It is the last frame of S03, 7 min after the last Amb-dec-008 frame, but that modern Chinese-style teapot is an unlikely fit for a 1930s Koenigsberg label. Stylistically the Art Deco amber clock #15 (g1-12) is more plausible, but its back is not shown. None of the cases in my sessions has this leather. Owner should say which object carries this label; then move #30 into that piece."
+ },
+ {
+  "piece": "g1-19",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   31
+  ],
+  "duplicates": [],
+  "hero": 31,
+  "type_en": "bronze horse on amber base",
+  "visual_en": "Bronze horse figurine standing on a polished cognac amber block with crust spots; original paper shield tag (\"...Bernstein NBJ\") tied on.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-20",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   32
+  ],
+  "duplicates": [],
+  "hero": 32,
+  "type_en": "commemorative plaque with amber disc (East Prussia 1938)",
+  "visual_en": "Square gilt-brass plaque engraved \"Ostpreussenfahrt 14.-16.8.1938\" with an outline map of East Prussia; centre set with a round cognac amber disc in a bezel.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-21",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   33
+  ],
+  "duplicates": [],
+  "hero": 33,
+  "type_en": "compact with amber mosaic lid",
+  "visual_en": "Round compact in a gilt rim, lid covered with faceted butterscotch and honey amber mosaic.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "Different object from the compact #102 (g1-53)."
+ },
+ {
+  "piece": "g1-22",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   34
+  ],
+  "duplicates": [],
+  "hero": 34,
+  "type_en": "Art Deco amber mosaic desk set (4 pieces)",
+  "visual_en": "Honey amber mosaic with chrome fittings: inkstand with two inkwells and pen holder, letter rack, ashtray with lighter, rocker blotter.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "Set always shown together. The ashtray and letter rack in S20 (#186-#188) are different objects (checked)."
+ },
+ {
+  "piece": "g1-23",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   35
+  ],
+  "duplicates": [],
+  "hero": 35,
+  "type_en": "amber cigarette holder with snakeskin case",
+  "visual_en": "Tapered butterscotch amber mouthpiece in an ivory/bone barrel with white-metal ring; with its snakeskin-pattern case.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-24",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   36
+  ],
+  "duplicates": [],
+  "hero": 36,
+  "type_en": "bronze elk on amber mosaic plinth",
+  "visual_en": "Bronze elk calf on a rectangular plinth faced with faceted cognac and honey amber mosaic.",
+  "sessions": [
+   "S05"
+  ],
+  "unsure": false,
+  "notes_en": "Not the black elk on a mosaic base in S20 (#185); different cast, patina and plinth (checked)."
+ },
+ {
+  "piece": "g1-25",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-009",
+  "category": "DEC",
+  "photos": [
+   37
+  ],
+  "duplicates": [],
+  "hero": 37,
+  "type_en": "carved rooster and chick",
+  "visual_en": "Low, elongated rooster with a chick, carved in opaque orange amber.",
+  "sessions": [
+   "S05"
+  ],
+  "unsure": false,
+  "notes_en": "Checked: one object."
+ },
+ {
+  "piece": "g1-26",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   38
+  ],
+  "duplicates": [],
+  "hero": 38,
+  "type_en": "cased gilt case with two amber cigarette holders",
+  "visual_en": "Fitted red silk/velvet case (label \"Or sur argent controle\") holding a gilt-silver engraved box (vesta or cigarette case) and two butterscotch amber cigarette holders with gilt cartouche mounts.",
+  "sessions": [
+   "S05"
+  ],
+  "unsure": false,
+  "notes_en": "Set in its fitted case, one piece."
+ },
+ {
+  "piece": "g1-27",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   39
+  ],
+  "duplicates": [],
+  "hero": 39,
+  "type_en": "cased two-part pipe stem with silver filigree and amber ends",
+  "visual_en": "Fitted leather case lined in red velvet holding two long parts with silver filigree and beaded mounts, dark shaft and butterscotch amber knob ends.",
+  "sessions": [
+   "S05"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-28",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   40,
+   41,
+   42
+  ],
+  "duplicates": [],
+  "hero": 42,
+  "type_en": "raw amber nugget with polished window",
+  "visual_en": "Large nugget with thick rust-brown weathered crust; one end polished to a window showing butterscotch amber with red flow lines.",
+  "sessions": [
+   "S05"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST (natural stone)."
+ },
+ {
+  "piece": "g1-29",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   43,
+   44,
+   45
+  ],
+  "duplicates": [],
+  "hero": 43,
+  "type_en": "amber snuff box with gilt mounts",
+  "visual_en": "Oval hinged box in darkened cherry-cognac amber with gilt-metal mounts, carved floral finial on the lid; fine crazing, screws visible inside (#45 open, #44 base).",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-30",
+  "mode": "new",
+  "existing_code": null,
+  "category": "DEC",
+  "photos": [
+   46,
+   48,
+   49,
+   50,
+   51
+  ],
+  "duplicates": [
+   47
+  ],
+  "hero": 46,
+  "type_en": "relief-carved amber nugget (Gdansk coat of arms, 997-1997)",
+  "visual_en": "Raw butterscotch nugget with a recessed carved panel of the Gdansk arms (two lions supporting a crowned shield with two crosses) under the date \"997-1997\"; rest of the stone natural crust (#49 back).",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": true,
+  "notes_en": "K&A item, classified DEC: a relief scene carved into a nugget, filed like Amb-dec-002. #47 \"DSC_9070 (1).JPG\" is a pixel-identical copy of #48 (front+back composite). Unsure only for #51: a low view of a polished, flow-layered face shot 3 frames (36 s) after #50 and filed with it. Probably the base/side of this nugget, but it could be a separate nugget."
+ },
+ {
+  "piece": "g1-31",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   52,
+   53
+  ],
+  "duplicates": [],
+  "hero": 52,
+  "type_en": "cased Pushkin souvenir set: amber plaque with miniature book + cigarette holder",
+  "visual_en": "Polished cognac amber plaque with a miniature amber book inscribed \"A.S. Pushkin\" and an ivory quill, plus a cognac amber cigarette holder with gilt rim; black velvet case with monogrammed pink silk lid.",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": false,
+  "notes_en": "Set in its original case, one piece."
+ },
+ {
+  "piece": "g1-32",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   54
+  ],
+  "duplicates": [],
+  "hero": 54,
+  "type_en": "amber desk seal in jeweller's box",
+  "visual_en": "Pear-shaped cognac/honey amber handle on a round gilt base, in its red pebbled box printed \"Juwelier F. Halder, Wien I, Reitschulg. 4\".",
+  "sessions": [
+   "S08"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-33",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   55,
+   56
+  ],
+  "duplicates": [],
+  "hero": 56,
+  "type_en": "polished amber nugget with miniature amber book",
+  "visual_en": "Polished honey-cognac nugget with mossy dark inclusions, cut flat on top to carry a miniature amber book (dark cherry covers, butterscotch page block, metal clasp).",
+  "sessions": [
+   "S08"
+  ],
+  "unsure": false,
+  "notes_en": "Different object from the Pushkin set #52/#53 and from the cognac nugget #62-#64 (checked)."
+ },
+ {
+  "piece": "g1-34",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   57,
+   58
+  ],
+  "duplicates": [],
+  "hero": 57,
+  "type_en": "set of three amber mosaic lighthouses",
+  "visual_en": "Three lighthouse models of different height and design in honey, cognac and butterscotch amber mosaic on amber bases, with fine wire lightning rods.",
+  "sessions": [
+   "S08"
+  ],
+  "unsure": false,
+  "notes_en": "Always shown together, so treated as one set. Could be split into three pieces if the owner sells them separately."
+ },
+ {
+  "piece": "g1-35",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   60,
+   61
+  ],
+  "duplicates": [
+   59
+  ],
+  "hero": 60,
+  "type_en": "burl-wood box with amber mosaic lid (with amber bracelets)",
+  "visual_en": "Square burl-wood box, lid inset with a honey/butterscotch amber mosaic panel; shown open (#61) with a segment bracelet of honey and butterscotch amber and more butterscotch segments inside.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "#59 \"DSC_9539 (1).JPG\" is a pixel-identical copy of #60. The bracelets are shown as the box contents and may be separate saleable items."
+ },
+ {
+  "piece": "g1-36",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   62,
+   63,
+   64
+  ],
+  "duplicates": [],
+  "hero": 62,
+  "type_en": "polished cognac amber nugget",
+  "visual_en": "Polished translucent cognac-orange nugget with cloudy zones; one end keeps a fractured, crusty surface.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST. Not the crazed nugget in S12 #151/#152 (checked)."
+ },
+ {
+  "piece": "g1-37",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   66
+  ],
+  "duplicates": [
+   65
+  ],
+  "hero": 66,
+  "type_en": "carved amber snuff bottle",
+  "visual_en": "Snuff bottle carved in dark cherry-cognac amber with a brick/basket ground and relief figures (an old sage) on both faces; cabochon stopper. Front and back shown side by side.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "#65 \"DSC_9601. (1).jpg\" is a pixel-identical copy of #66 \"DSC_9601..jpg\"."
+ },
+ {
+  "piece": "g1-38",
+  "mode": "existing_ok",
+  "existing_code": "Amb-dec-010",
+  "category": "DEC",
+  "photos": [
+   67
+  ],
+  "duplicates": [
+   68,
+   69,
+   70
+  ],
+  "hero": 67,
+  "type_en": "carved lizard on rock",
+  "visual_en": "Lizard with black eyes lying on a rock with honeycomb texture, carved in butterscotch amber.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "#68-#70 in _Duplicates are pixel-identical copies of #67 (distance 0). Folder holds one object."
+ },
+ {
+  "piece": "g1-39",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   71,
+   72,
+   73,
+   74
+  ],
+  "duplicates": [],
+  "hero": 72,
+  "type_en": "polished butterscotch amber nugget",
+  "visual_en": "Polished egg-yolk/butterscotch landscape nugget with cream and honey swirls, a dark crust channel across the face and crust along one edge.",
+  "sessions": [
+   "S09",
+   "S29"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST. RE-SHOOT: the same stone is in S29 (Jan 2023, ST loose) as #251 and #252 (identical crust channel and specks); #254 and the 4-view composite #258 are very probably it too. Those photos belong to another group's sessions and should be merged into this piece. #71 is a 3-view composite from the same frame as #72 (distance 110), not a duplicate."
+ },
+ {
+  "piece": "g1-40",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   75
+  ],
+  "duplicates": [],
+  "hero": 75,
+  "type_en": "amber mosaic photo frame",
+  "visual_en": "Rectangular frame faced with honey/butterscotch amber mosaic with a scalloped outer edge; empty, cardboard back visible.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-41",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   76,
+   77,
+   78,
+   79,
+   80
+  ],
+  "duplicates": [],
+  "hero": 78,
+  "type_en": "carved amber face pendant with silver mount",
+  "visual_en": "Butterscotch nugget carved on the front with a human face and wavy hair, natural crusted back (#76); dark oxidised-silver cap mount and chain.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-42",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   81,
+   82
+  ],
+  "duplicates": [],
+  "hero": 81,
+  "type_en": "amber mosaic casket with bead necklace",
+  "visual_en": "Casket on butterscotch ball feet: butterscotch mosaic lid with a cognac cabochon centre, transparent cognac side panels with sun-spangle inclusions; shown open with a necklace of large butterscotch beads.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Necklace shown as contents; may be a separate item."
+ },
+ {
+  "piece": "g1-43",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   83,
+   84
+  ],
+  "duplicates": [],
+  "hero": 83,
+  "type_en": "polished amber nugget on wooden stand",
+  "visual_en": "Polished dark cherry-cognac nugget with an orange rim and pitted, cavernous crust zones, set upright on a rectangular wooden plinth.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": true,
+  "notes_en": "Owner filed it in AMB-A. It is a natural polished nugget simply set on a display plinth, not worked into an object, which matches the AMB-ST definition (and nuggets on stands are filed in ST/K&A elsewhere). Proposed ST; keep A if the owner counts display mounts as artifacts."
+ },
+ {
+  "piece": "g1-44",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   85,
+   86
+  ],
+  "duplicates": [],
+  "hero": 86,
+  "type_en": "amber casket with Art Deco amber jewellery",
+  "visual_en": "Chest-shaped casket of butterscotch/honey amber with silvered frame, hinges and hasp, brown flock lining; shown with its jewellery: carved brooch, pendant in a black/white enamel frame on chain, a pair of clips, a cone pendant and a button.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Box and contents shown together. The jewellery may be sold separately. Different box from #91/#92 and #94 (lining and mosaic differ)."
+ },
+ {
+  "piece": "g1-45",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   87,
+   88
+  ],
+  "duplicates": [],
+  "hero": 87,
+  "type_en": "amber desk seal with monogram",
+  "visual_en": "Polished butterscotch nugget handle with a crust streak, silver filigree collar and octagonal silver matrix engraved with a monogram.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-46",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   89,
+   90
+  ],
+  "duplicates": [],
+  "hero": 90,
+  "type_en": "amber mosaic plaque with carved head of a turbaned man",
+  "visual_en": "Round/oval plaque of radial cognac mosaic with a butterscotch-and-cognac sunburst border and thick cognac edge; applied carved butterscotch head of a bearded man in a turban.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Plaque A. Only close-up and side views; no full view in my sessions. #89 (side view, 1 min before #90) shows the same border and the ribbed turban."
+ },
+ {
+  "piece": "g1-47",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   91,
+   92
+  ],
+  "duplicates": [],
+  "hero": 91,
+  "type_en": "amber mosaic chest box with bead necklace",
+  "visual_en": "Chest box with mosaic of honey, cognac and included amber pieces, silvered hasp and frame, green felt lining; shown open (#92) with a necklace of olive-shaped honey/cognac beads.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Necklace shown as contents. Different from #85/#86 (brown lining) and #94 (different lid/front mosaic)."
+ },
+ {
+  "piece": "g1-48",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   93
+  ],
+  "duplicates": [],
+  "hero": 93,
+  "type_en": "amber mosaic plaque with carved plumed head",
+  "visual_en": "Applied carved butterscotch head with a large plume/foliate headdress on a radial cognac mosaic with a butterscotch block border and cognac edge.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Plaque B. Close-up only. Different plaque from A (#90: different head and border) and C (#98, grid background). A and B may be a pair."
+ },
+ {
+  "piece": "g1-49",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   94
+  ],
+  "duplicates": [],
+  "hero": 94,
+  "type_en": "amber mosaic chest box",
+  "visual_en": "Closed chest box in butterscotch, cognac and pale yellow-green amber block mosaic, silvered hasp, small feet.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-50",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   95,
+   96,
+   97
+  ],
+  "duplicates": [],
+  "hero": 95,
+  "type_en": "polished orange amber nugget",
+  "visual_en": "Polished opaque orange-butterscotch nugget with dark brown mottled zones and small crust pits.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "K&A item, classified ST. Not the orange stones in S31 (#272-#274) or S12 (#151/#152) (checked)."
+ },
+ {
+  "piece": "g1-51",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   98,
+   99,
+   100
+  ],
+  "duplicates": [],
+  "hero": 98,
+  "type_en": "oval amber mosaic plaque with carved bust of a lady",
+  "visual_en": "Oval plaque: applied carved butterscotch bust of an 18th-century lady in profile with towering coiffure, flowers and plume, on a cognac grid mosaic with butterscotch border and cognac edge.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Plaque C."
+ },
+ {
+  "piece": "g1-52",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   101
+  ],
+  "duplicates": [],
+  "hero": 101,
+  "type_en": "round amber relief medallion / box lid",
+  "visual_en": "Round orange-cognac amber disc with a raised rim, carved in relief with an embracing couple under a tree and a figure at each side.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": true,
+  "notes_en": "Material uncertain: the uniform colour and crisp, moulded-looking relief suggest pressed amber. Probably a lid; no other part shown."
+ },
+ {
+  "piece": "g1-53",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   102
+  ],
+  "duplicates": [],
+  "hero": 102,
+  "type_en": "compact with radial amber mosaic lid",
+  "visual_en": "Round compact with gilt frame and hinge, lid inlaid with radial wedges of honey, cognac and butterscotch amber.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Different object from the compact #33 (g1-21)."
+ },
+ {
+  "piece": "g1-54",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   103,
+   104
+  ],
+  "duplicates": [],
+  "hero": 103,
+  "type_en": "amber cigarette holder in Verviers fitted case",
+  "visual_en": "Octagonal faceted butterscotch amber holder with a pale-blue enamel band, no metal rim; black case with cream silk lining, grey plush and green oval label \"Fabrique de pipes ... 16 rue Spintay, Verviers\".",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": true,
+  "notes_en": "#104 (holder standing before a closed black case, shot 5 frames after #103) is grouped here by shot order. The twin holder #106 is identical in design, so #104 could show that one instead."
+ },
+ {
+  "piece": "g1-55",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   105
+  ],
+  "duplicates": [],
+  "hero": 105,
+  "type_en": "amber cigarette holder with gold rim, Naturbernstein case",
+  "visual_en": "Honey amber holder with white cloudy patches, pale-blue/black enamel band and rose-gold rim, in a burgundy leather fitted case stamped \"Naturbernstein\".",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Not one of the three holders in #107 (colour, clouding and band position differ)."
+ },
+ {
+  "piece": "g1-56",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   106
+  ],
+  "duplicates": [],
+  "hero": 106,
+  "type_en": "amber cigarette holder in fitted case (twin of g1-54)",
+  "visual_en": "Octagonal faceted butterscotch amber holder with a pale-blue enamel band, in a black case with tan silk and plush lining.",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Same design as #103 but a different case (tan lining, no label), so a second holder."
+ },
+ {
+  "piece": "g1-57",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   107
+  ],
+  "duplicates": [],
+  "hero": 107,
+  "type_en": "set of three amber cigarette holders",
+  "visual_en": "Three holders with rose-gold rims and pale enamel bands: one cognac-brown, two marbled butterscotch.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "Shown together as a set."
+ },
+ {
+  "piece": "g1-58",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   108
+  ],
+  "duplicates": [],
+  "hero": 108,
+  "type_en": "faceted amber bead necklace",
+  "visual_en": "Graduated faceted oval beads of transparent cognac/cherry amber.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-59",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   109,
+   110
+  ],
+  "duplicates": [],
+  "hero": 109,
+  "type_en": "enamel dish with natural amber rim",
+  "visual_en": "Round dish/ashtray with pink enamel interior splashed with green, yellow and maroon, copper rim, outer wall of natural cognac amber blocks with crust texture.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-60",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   111
+  ],
+  "duplicates": [],
+  "hero": 111,
+  "type_en": "enamel dish with natural amber rim (green)",
+  "visual_en": "Similar dish with green enamel interior with yellow spots; rim of natural cognac amber blocks.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "Close-up only. A second dish, since its enamel is green, not pink. May be a pair with g1-59."
+ },
+ {
+  "piece": "g1-61",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   112,
+   113,
+   114,
+   115
+  ],
+  "duplicates": [],
+  "hero": 112,
+  "type_en": "lot of tumbled amber pebbles",
+  "visual_en": "About 150 small tumbled pebbles, mostly white/bone and butterscotch with some honey pieces and a few raw crusted nuggets; at least one drilled pendant with a metal bail.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "K&A lot, classified ST, one piece (shown together)."
+ },
+ {
+  "piece": "g1-62",
+  "mode": "new",
+  "existing_code": null,
+  "category": "UNSURE",
+  "photos": [
+   116,
+   117,
+   118,
+   119
+  ],
+  "duplicates": [],
+  "hero": 116,
+  "type_en": "lot of sawn orange blocks (amber or resin?)",
+  "visual_en": "About 20 sawn rectangular blocks and bars, opaque waxy orange with saw marks and some white streaks.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": true,
+  "notes_en": "K&A lot. Cannot tell the material: natural butterscotch amber offcuts, pressed amber (ambroid) stock or a phenolic/bakelite-type resin. Needs a test (UV, hot needle, salt water)."
+ },
+ {
+  "piece": "g1-63",
+  "mode": "new",
+  "existing_code": null,
+  "category": "ST",
+  "photos": [
+   120,
+   121,
+   122,
+   123,
+   124,
+   125
+  ],
+  "duplicates": [],
+  "hero": 122,
+  "type_en": "lot of mixed amber nuggets",
+  "visual_en": "About 18 larger stones: polished white and butterscotch landscape stones, polished honey pieces, and raw nuggets with brown weathered crust.",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "K&A lot, classified ST, one piece (shown together)."
+ },
+ {
+  "piece": "g1-64",
+  "mode": "new",
+  "existing_code": null,
+  "category": "A",
+  "photos": [
+   126,
+   127
+  ],
+  "duplicates": [],
+  "hero": 126,
+  "type_en": "hammered brass dish with amber mosaic medallion",
+  "visual_en": "Round hammered brass dish with a central medallion of honey, butterscotch and cognac amber mosaic in a brass bezel.",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ }
+]
