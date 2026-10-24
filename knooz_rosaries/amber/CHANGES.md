@@ -37,7 +37,7 @@ The work covered the steps done for the rosaries:
 | Category | Codes | Pieces | Notes |
 |---|---|---|---|
 | AMB-ST «أحجار الكهرمان» | AMB-ST-001 … 027 (+028, 029 in «غير مصنف») | 27 + 2 | Amb-S-001 renamed **AMB-ST-001** (same folder) |
-| AMB-A «تحف الكهرمان» | AMB-A-001 … 107 (+108 … 116 in «غير مصنف») | 107 + 9 | AMB-A-001 kept; 102–107 are video-only |
+| AMB-A «تحف الكهرمان» | AMB-A-001 … 107, 110, 117, 118 (+108, 109, 111 … 116, 119 in «غير مصنف») | 110 + 9 | AMB-A-001 kept; 102–107 are video-only; 110, 117–119 from round 7 |
 | AMB-DEC «تحفيات منحوته» | Amb-dec-001 … 049 | 49 | owner's codes kept; **Amb-dec-049** = Gdańsk 997–1997 carved nugget (was in «كهرمان وانتيكات») |
 
 - Confirmed pieces are numbered in shooting order with no gaps. The video-only pieces follow, then the «غير مصنف»
@@ -59,13 +59,13 @@ Rule used:
 |---|---|---|
 | AMB-A-108 | close-up of a Königsberg maker's plate (Norddeutsche Bernstein-Industrie) only | which piece carries it? |
 | AMB-A-109 | goblet set: cherry-red stem and mouthpiece | amber or faturan? what is the set? |
-| AMB-A-110 | closed leather pipe case, one photo | separate item or another pipe's case? |
 | AMB-A-111 | very dark bead strand, close-up only | amber or faturan? full photos? |
 | AMB-A-112 | pair of cherry-orange mouthpieces | amber or faturan? |
 | AMB-A-113 | cherry-red bead necklace | cherry amber or faturan? |
 | AMB-A-114 | auction-catalogue clipping (meerschaum and amber pipe, melusine bowl, 1914) | which pipe? |
 | AMB-A-115 | large old "trade" beads | amber or copal/resin? |
 | AMB-A-116 | desk seal with insects | amber or copal? |
+| AMB-A-119 | closed cube box, Russian «Сила Земли – Дар Солнца» (round 7) | what is in it, and is it a separate item? |
 | AMB-ST-028 | lot of sawn orange blocks | natural, pressed or bakelite? |
 | AMB-ST-029 | one photo of a polished stone | same stone as AMB-ST-014? |
 
@@ -110,7 +110,7 @@ Rule used:
 | Sheet | ID | Rows |
 |---|---|---|
 | Knooz (Desc._) Sheet - AMB-ST | 1vskrluZD4bPgjTtLkpXTVFmf6L75j6Y9NdoCg9z_H9Q | 27 |
-| Knooz (Desc._) Sheet - AMB-A | 1mMNM0_EEwvTK8bMLmNG4P3ka3tOmhuW2ixrSO-wmDzg | 107 |
+| Knooz (Desc._) Sheet - AMB-A | 1mMNM0_EEwvTK8bMLmNG4P3ka3tOmhuW2ixrSO-wmDzg | 110 |
 | Knooz (Desc._) Sheet - AMB-DEC | 1jLtyZVTNW9Bc0FB7YQXkJoP_tPHq6Val3SpYxgW1-x0 | 49 |
 | Knooz (Desc._) Sheet - غير مصنف (كهرمان) | 1VpcQmj5mmeG2Jc159xysTBR-_rgRuTikO8nLi63n0OE | 11 (+H «القسم المقترح», I «السؤال لأبو علي») |
 
@@ -140,3 +140,59 @@ Rule used:
 - Re-listed publicly afterwards: 528/528 photos have the right name in the right folder, all 83 duplicates are in
   «_Duplicates», there are no duplicate folders, and no loose photo is left.
 - Full mapping (old name → new name, Drive IDs, texts): `data/amber_catalog.json`.
+
+## Round 7: photos from the owner's PC (collect- NOV 25)
+The owner ran `pc/knooz_compare_amb.ps1` on «الكهرمان -AMB» and uploaded `_missing_on_drive` (see `pc/README.md`).
+
+**Manifest** (`data/round7_pc_manifest.json`): 448 photos on the PC, 0 without EXIF.
+
+| PC folder | On Drive | Missing |
+|---|---|---|
+| أحجار الكهرمان | 116 | 0 |
+| تحف الكهرمان | 231 | 9 |
+| تحفيات منحوته | 83 | 9 |
+
+99 kept Drive carving photos are not on the PC. This is information only; nothing was changed for it.
+
+**The 18 missing photos.** Each was checked by eye against the catalog. The carving photos were also checked by
+hash: the closest distance to any Drive photo was 43, so none is a duplicate. All 18 were moved out of the upload
+folder and renamed (`data/round7_pc_photos.json`).
+
+| Piece | PC files | Result |
+|---|---|---|
+| AMB-A-110 | fd (52), fd (54), fd (55) | Resolved. The «غير مصنف» pipe case holds a briar pipe with an amber stem: same case, same wear. Folder moved to AMB-A with the same code; the old case photo is now AMB-A-110-4. Category «Amber Pipe». Stamp «PRIMA» and «A.S» quoted in Notes (A. Schulz? unconfirmed). |
+| AMB-A-117 (new) | fd (43), fd (44), fd (45) | Silver-tone hinged bracelet with an insect-amber cabochon. Close-ups only. |
+| AMB-A-118 (new) | fd (49), fd (51) | Glass box set: necklace and earrings, tags «Natur Bernstein – GENUINE AMBER». |
+| AMB-A-119 (new, «غير مصنف») | fd (36) | Closed cube box with «Сила Земли – Дар Солнца». Not the AMB-A-109 goblet box. |
+| Amb-dec-010 | DSC_9619 | Amb-dec-010-2 |
+| Amb-dec-017 | DSC_4392 | Amb-dec-017-3 |
+| Amb-dec-020 | DSC_4463 | Amb-dec-020-3 |
+| Amb-dec-023 | DSC_4828, DSC_4841 | Amb-dec-023-2, -3 (the "one photo only" note was removed) |
+| Amb-dec-024 | DSC_4851 | Amb-dec-024-5 |
+| Amb-dec-025 | DSC_4873 | Amb-dec-025-5 |
+| Amb-dec-028 | DSC_5097 | Amb-dec-028-4 |
+| Amb-dec-030 | DSC_9722 copy 2 | Amb-dec-030-6 |
+
+**Sheets**
+- AMB-A: rows 109–111 added (110, 117, 118), with the hero photo as the image.
+- «غير مصنف»: AMB-A-110 removed, AMB-A-119 added, rows renumbered 1–11.
+- AMB-DEC: 8 Notes cells name the added files.
+- Six Notes cells still used internal grouping ids from before the codes existed. They now use the codes:
+  - AMB-ST-010 → AMB-ST-011-3;
+  - AMB-ST-011 → AMB-ST-010;
+  - AMB-ST-014 → AMB-ST-029;
+  - AMB-A-084 → AMB-A-086;
+  - AMB-A-086 → AMB-A-084;
+  - AMB-ST-029 → AMB-ST-014.
+- "#n" in Notes means photo CODE-n. All 528 earlier photos were checked to confirm this.
+
+**Verification**
+- All four sheets were exported as CSV and compared cell by cell with `data/sheet_payload.json`, which now holds
+  the live state: 0 mismatches.
+- The image formulas, text format and 330 px row height of the new rows were read back.
+- Drive was re-walked: 865 entries.
+  - All 19 file operations are at the right path.
+  - 552 photos are named CODE-N inside folder CODE: 528 + 18 + the 6 video stills.
+  - 83 duplicates, 14 videos.
+- The upload folder now holds only `_missing_on_drive/_manifest.csv` and empty sub-folders. The blocked script
+  renamed «_ملغي …» is still there but hidden from the public listing. It can be deleted once the owner approves.

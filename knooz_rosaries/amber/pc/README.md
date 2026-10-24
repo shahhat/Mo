@@ -33,3 +33,7 @@ PC folder: `C:\Users\al-sh\Desktop\جايرو ميديا\الكنوز الإسل
 2. Open that folder in File Explorer, click the address bar, type
    `powershell -ExecutionPolicy Bypass -File .\knooz_compare_amb.ps1` and press Enter.
 3. When it prints «Done», upload the folder `_missing_on_drive` into the upload folder above.
+
+## Result (round 7)
+The owner uploaded `_missing_on_drive`: 18 missing photos, 0 without EXIF. All were filed. See the round 7 section of
+`../CHANGES.md`.
