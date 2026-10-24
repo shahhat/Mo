@@ -36,8 +36,8 @@ The work covered the steps done for the rosaries:
 ## Codes
 | Category | Codes | Pieces | Notes |
 |---|---|---|---|
-| AMB-ST «أحجار الكهرمان» | AMB-ST-001 … 027 (+028, 029 in «غير مصنف») | 27 + 2 | Amb-S-001 renamed **AMB-ST-001** (same folder) |
-| AMB-A «تحف الكهرمان» | AMB-A-001 … 107, 110, 117, 118 (+108, 109, 111 … 116, 119 in «غير مصنف») | 110 + 9 | AMB-A-001 kept; 102–107 are video-only; 110, 117–119 from round 7 |
+| AMB-ST «أحجار الكهرمان» | AMB-ST-001 … 027, 030 (+028, 029 in «غير مصنف») | 28 + 2 | Amb-S-001 renamed **AMB-ST-001** (same folder); 030 = A009 stone, video only (round 8) |
+| AMB-A «تحف الكهرمان» | AMB-A-001 … 107, 110, 117, 118, 120 (+108, 109, 111 … 116, 119 in «غير مصنف») | 111 + 9 | AMB-A-001 kept; 102–107 are video-only; 110, 117–119 from round 7; 120 split from 001 in round 8 |
 | AMB-DEC «تحفيات منحوته» | Amb-dec-001 … 049 | 49 | owner's codes kept; **Amb-dec-049** = Gdańsk 997–1997 carved nugget (was in «كهرمان وانتيكات») |
 
 - Confirmed pieces are numbered in shooting order with no gaps. The video-only pieces follow, then the «غير مصنف»
@@ -196,3 +196,53 @@ folder and renamed (`data/round7_pc_photos.json`).
   - 83 duplicates, 14 videos.
 - The upload folder now holds only `_missing_on_drive/_manifest.csv` and empty sub-folders. The blocked script
   renamed «_ملغي …» is still there but hidden from the public listing. It can be deleted once the owner approves.
+
+## Round 8: full QC + descriptions in Abu Ali's style
+Owner's report: some sheet images had nothing to do with their description, and AMB-A-119 "does not exist". He also
+asked for the descriptions to follow Abu Ali's video-sheet style, and for Abu Ali's own texts to be used as-is with
+spelling fixes only.
+
+**How it was checked**
+- Mechanical: each of the 197 sheet images is the -1 (or chosen) photo inside the folder of its own row code. There
+  were 0 mismatches, so every error was in what the photos show.
+- Visual: five reviewers opened a contact sheet of every photo in every folder, plus the video frames where a video
+  exists (`qc/QC_INSTRUCTIONS.md`, results in `qc/out_b1..b5.json`). The coordinator re-checked every video piece and
+  every serious finding at full resolution.
+
+**Errors found and fixed**
+
+| Piece | Error | Fix |
+|---|---|---|
+| AMB-ST-024 / video A009 | The A009 video was linked by file name only (three photos were named A009). The video shows a different stone: glossy, polished deep red, on a wooden board with a brass plaque. AMB-ST-024 is a matte, pitted stone. Its description had also copied the A009 caption ("special editions of German factories of the last century"). | New code **AMB-ST-030**, a red folder (video only). The video copy was moved there and renamed AMB-ST-030-video.mp4, and a 200 px still was added (sha256-verified). The green colour came off AMB-ST-024. In the video sheet, Phase 04 E5 now reads AMB-ST-030. AMB-ST-024 got a new description and a corrected note. No catalog photo shows the A009 stone (all 29 stones compared). |
+| AMB-A-001 | The folder held two different pipes. The owner's two photos show a brown bowl with a hinged gilt lid. Two photos added in round 1 show a cream bowl with a pierced gilt gallery and an amber stem in a red velvet case, plus a closed inlaid box. | The cream pipe and the box became **AMB-A-120** (AMB-A-120-1/-2). The owner's photos are now AMB-A-001-1/-2. Row 2 has a new image, description, «Pipe» category and notes, and row 112 was added. |
+| AMB-A-084 / 086 | Notes said "photographed separately". Video A014 shows the clock and the thermometer together as one set. | Notes in both rows updated. |
+| AMB-A-117 | The description said one cabochon. The photos show two different stones on two panels. | New description and note. |
+| AMB-A-118 | "A pair of earrings" is not supported: the two drops don't match and no ear fittings are visible. | Description and note corrected. |
+| AMB-A-110 | The mouthpiece material is doubtful (a very even orange) and the collar is gold-tone. | Category «Pipe», and the amber is not named. |
+| AMB-A-083 | Notes said photos #2 and #3 are identical. They are not. | Note fixed. |
+| AMB-A-106 | Notes said about 14 mouthpieces. The full video frame shows 15. | Note fixed. |
+| Amb-dec-003 | The sheet image was a confusing top view. | Sheet image is now Amb-dec-003-5 (side view). |
+| AMB-ST-010 / 011 | Owner-photo AMB-ST-011-3 is more likely ST-011 (crack and banding). | Notes updated (still unconfirmed). |
+
+AMB-A-119 exists: folder «غير مصنف»/AMB-A-119 and row 9 of the «غير مصنف» sheet. It is not in the AMB-A sheet by
+design.
+
+**Descriptions**
+- **Owner texts:** 14 pieces carry Abu Ali's video-sheet text as the Description, with spelling fixes only
+  (`qc/owner_desc.json`): AMB-A-015, 050, 057, 084, 102–107, AMB-ST-030, Amb-dec-007, 008, 049. Their Notes now say
+  so instead of quoting the text again.
+  - Fixes were limited to:
+    - ه→ة, hamzas, punctuation, and «ال RK»→«الـRK»;
+    - «انتاح»→«إنتاج», «اغدانسك»→«غدانسك» and «osterman»→«Ostermann», the last per the case stamp;
+    - in A021, the repeated phrase removed;
+    - in A020, the second «حيث» changed to «والتي».
+  - «الشجري» (A004) was kept as his trade term.
+- **All other pieces (184):** rewritten in his shape:
+  - object noun + «من الكهرمان» + one identifying feature + one appreciative phrase;
+  - 8–22 words, MSA.
+- **What the new descriptions leave out:** no origin, factory, era, rarity or museum claim and no «طبيعي» unless the
+  piece's own source gives it. Where the material is doubtful, «من الكهرمان» is left out. These are checked by
+  `qc/build_r8.py`.
+
+**Verification:** all four sheets were exported and compared cell by cell with `data/sheet_payload.json` (0
+mismatches). The new image formulas, text format and row heights were read back. The Drive tree was re-walked.
