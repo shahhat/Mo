@@ -75,3 +75,34 @@ Owner's request:
 - 55 loose session-80 photos were renamed to the same title as their catalog copy, for example DSC_3436 → ROS-KS-153-1.
 - DSC_4976 was renamed ROS-070-12. It stays inside the folder now called ROS-071, and its name shows it belongs to 070.
 - Nothing was moved or deleted. Non-rosary items keep their names.
+
+## Follow-up: «غير مصنف» holding folder (owner: put what we are not sure about there until Abu Ali confirms)
+- New folder «غير مصنف» (17Oewu_-Bjy-Jg2tOV3wGW-iXEfjry0Dk) in the rosaries root, next to the 6 category folders.
+- New sheet «Knooz (Desc._) Sheet - غير مصنف» (1N57hsplHnvYWQUy3jJkrXw56rbrzkTc8nAV8d1zhPak). It was made by copying the ROS
+  sheet so the formatting matches. Columns A–G are the same as the category sheets. Two columns were added for Abu Ali:
+  H «القسم المقترح» (suggested category) and I «السؤال لأبو علي» (the question to ask).
+- 14 piece folders were MOVED there, together with their photos and videos. They keep their codes, so the video sheet,
+  the raw-session folder names and the file names still match. Their rows were moved from the category sheets to the new
+  sheet and checked cell-for-cell before deletion (`data/unclassified_moved_rows.json`):
+
+  | Code | Why it is here | Suggested |
+  |---|---|---|
+  | ROS-Amb-G-081 | material unconfirmed (orange and green in one bead), and the video text doesn't say German | Amb-G |
+  | ROS-Amb-G-088 | German amber vs old phenolic/faturan | Amb-G or ROS |
+  | ROS-Amb-G-089, 090, 094 | pressed German amber vs faturan | Amb-G or ROS |
+  | ROS-Amb-G-091 | same doubt, and it may be G-012 with a different tassel | Amb-G or ROS |
+  | ROS-Amb-G-092 | possible duplicate of G-071/072 | Amb-G |
+  | ROS-Amb-G-093 | possible duplicate of G-069/072 | Amb-G |
+  | ROS-066 | amber vs faturan/bakelite | ROS-K or ROS |
+  | ROS-067 | clear amber vs faturan | ROS-K or ROS |
+  | ROS-068 | material (probably speckled red faturan) | ROS |
+  | ROS-069 | opaque amber vs faturan/bakelite | ROS-KS or ROS |
+  | ROS-070, 071 | black, olive when backlit; material unknown | ROS-K or ROS |
+
+- After the move, the ROS-Amb-G sheet has 89 pieces (row 90 is ROS-Amb-G-097) and the ROS sheet has 65 (ROS-001 to 065).
+  The no. column keeps code numbers, so the moved codes leave gaps until Abu Ali decides.
+- Kept in their categories (owner's own text says «كهرمان», and only the origin is a judgement call): ROS-Amb-G-084 and its
+  twin 095 (olive), and ROS-KS-151 («كهرمان هندي»). ROS-KS-154 (half clear) also stays: it is amber either way, and the
+  only open question is K vs KS.
+- When Abu Ali answers, a piece either returns to its category with its code unchanged (move the folder back and paste
+  its row back), or gets a new code in another category, in which case the video sheet and raw-session names are updated.
