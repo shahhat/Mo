@@ -455,3 +455,11 @@ video-only).
   - all 198 sheet images sit in their own row's folder;
   - 15 piece videos, 83 duplicates;
   - each of the 7 red folders holds CODE-1..3 and CODE-video.mp4.
+
+**Owner's decisions after round 11** («صحح الاسمين في الشيت وسيب الجملة محذوفة»)
+- AMB-A-050: «Josef Osterman» → «Josef Ostermann» (as on the stamp inside the case).
+- Amb-dec-049: «اغدانسك» → «غدانسك».
+- The Notes of both rows say the name was corrected at the owner's request, and that the video and the video sheet still
+  carry the old spelling. The video sheet itself was not changed.
+- AMB-A-107: the extra clause from the video sheet stays out; the Notes record the owner's decision.
+- Re-checked cell by cell against `data/sheet_payload.json` (= r13): 0 mismatches in 198 rows.
