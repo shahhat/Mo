@@ -367,3 +367,78 @@ Owner's request:
   - 552 photos named CODE-N in their own folder, and every sheet image in its own row's folder;
   - 15 piece folders hold `CODE-video.mp4`;
   - 14 files in «AMB - VID».
+
+## Round 11: video text as the description; Abu Ali style for the rest; 3 frames per video-only piece
+Owner's request:
+- keep the «AMB - VID» copies as they are;
+- for pieces whose video carries Abu Ali's text, the sheet description must be exactly the video's text;
+- bring every other description as close as possible to the same style;
+- for amber pieces with a video and no photos, take 3 different frames from the video, made to look like the
+  photographer's photos (same look, same logo position), and keep their folders red;
+- report the amber count after matching Drive with the PC.
+
+**Video text, read from the video itself** (`videos/video_captions.json`)
+- All 14 amber videos were downloaded and cut into one frame per second; the clock video (A020) was re-read at 4 frames
+  per second because its caption scrolls.
+- The burned-in caption is the source. Only Arabic spelling was fixed (ة/ه, hamzas); no word was added, dropped or
+  reordered. Names are kept as written on the video.
+- Differences between the video and the video sheet:
+
+| Code | Video | What changed in the amber sheet |
+|---|---|---|
+| AMB-A-106 (A015) | «يحمل مقاسات وخامات متنوعه» | was «مقاسات متنوعة وخامات متنوعة» (video-sheet wording) → video wording |
+| AMB-A-107 (A020) | ends at «والتحف من الكهرمان» | the clause «والتي ساهمت في انتشار الكهرمان في جميع دول العالم» (video sheet only) removed |
+| AMB-A-015 (A021) | «مصنع ال (NBJ)», phrase once | brackets kept as on the video (the video sheet repeats «تحفه من الكهرمان») |
+| AMB-A-050 (A003) | «Josef Osterman» | was «Ostermann» → «Osterman» as on the video; Notes say the case stamp reads OSTERMANN |
+| Amb-dec-049 (A017) | «اغدانسك» | was «غدانسك» → «اغدانسك» as on the video; Notes give the usual spelling «غدانسك» |
+| AMB-A-086 (A014) | shared video with AMB-A-084 | now carries the A014 text (same description as AMB-A-084) |
+
+- AMB-A-102, 103, 104, 105, 084, AMB-ST-030, Amb-dec-007 and 008 already matched the video word for word.
+- Amb-dec-003's video has only a title card «من تحف الكهرمان المنحوتة», not a description. Its description was written
+  in the house style and ends with that phrase.
+- AMB-A-057 (Amber Faces) has owner text but no video file; unchanged.
+
+**The other descriptions** (`r11/new_desc_part1.py`, `r11/new_desc_part2.py`, `r11/build_r11.py`)
+- 118 descriptions were tightened toward Abu Ali's pattern, taken from his 14 captions:
+  - noun + evaluative adjective + «من الكهرمان» (e.g. «منحوتة استثنائية من الكهرمان», «ساعة رائعة من الكهرمان»);
+  - one identifying feature;
+  - one of his closing phrases: «تجسد المعنى الحقيقي للحرفية في نقش الكهرمان», «تجسد الذروة في تحويل الكهرمان الخام
+    إلى قطع فنية», «بنقش احترافي», «من نفائس الكهرمان».
+- Abu Ali names makers. Where a maker or name is printed, stamped or engraved on the piece itself, it is now in the
+  description, and the Notes say so:
+  - AMB-A-003 Immanuel Kant;
+  - AMB-A-024 Pushkin;
+  - AMB-A-025 Juwelier F. Halder, Wien;
+  - AMB-A-061 Josef Ostermann;
+  - AMB-A-080 Bydgoszcz;
+  - AMB-A-091 Pfeilring Solingen;
+  - AMB-A-095 SBM;
+  - AMB-A-096 Staatliche Bernstein-Manufaktur;
+  - AMB-A-108 Norddeutsche Bernstein-Industrie;
+  - Amb-dec-030 Przemysław Kuś.
+- Not used without a source: «نادرة», «متحفية», «ألماني/بولندي», a factory or an era. Sensitive marks (1938/1939/1941
+  dates, DAF badges, Soviet emblems) stay out of the descriptions.
+- Total: 124 descriptions changed (6 video texts + 118 restyled); length 5–23 words, average 15.
+
+**3 frames for each video-only piece** (`videos/frames/`)
+- Pieces: AMB-A-102 … 107 and AMB-ST-030 (7 × 3 = 21 images).
+- Frames were picked by eye from the 1-per-second boards: no caption, sharp, three different views per piece (whole
+  piece, angle, detail).
+- `compose.py`:
+  - square crop around the piece; where the piece is wider than the frame height, the canvas is extended from the frame
+    edge and faded to the background;
+  - the video's own watermark painted out;
+  - the photographer's logo, cut from the original photo AMB-A-015-1, at 8.5% of the width, 3.7% from the top and 5%
+    from the side, in the darkest corner (top corners first), as in his photos.
+- Size: 1080 × 1080, the video's full height. The photographer's originals are 2000–4500 px, so these are smaller and
+  softer than real photos.
+- The Drive connector can only upload small files inline, so the 21 images were sent to the owner to upload into
+  «_رفع صور الفيديو (21 صورة)» (1jhv6BSh_2mdK7VlVmmuEsI0FbA-wZMhy) in the amber root. After the upload: move each file
+  into its red folder, replace the 200 px placeholder CODE-1, point the sheet image at CODE-1, and keep the folders red.
+
+**Count after matching Drive with the PC**: 198 pieces = AMB-ST 30 + AMB-A 119 + AMB-DEC 49 (191 photographed, 7
+video-only).
+
+**Verification**
+- The three amber sheets were exported and compared cell by cell with `data/sheet_payload.json` (= r11): 0
+  mismatches in 198 rows.
