@@ -1,0 +1,353 @@
+[
+ {
+  "code": "g2-15",
+  "hero": 283,
+  "description": "خاتم نفيس يحمل حجر عقيق أصفر مستطيل أفقي منقوش بعبارة (بسم الله الرحمن الرحيم) بحروف متشابكة كالشبكة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "تصميم توأم لخاتم JWL-0055 بحجر وتكوين مختلفين (هنا أفقي وهناك عمودي). لا توجد صورة للدمغات.",
+  "inscription": "بسم الله الرحمن الرحيم",
+  "visual": "Landscape rectangular yellow agate, Basmala in a woven grid of tall letters; beaded frame, knurled pyramid-pattern shoulders; silver-tone."
+ },
+ {
+  "code": "g2-16",
+  "hero": 285,
+  "description": "خاتم رائع يحمل حجر عقيق أصفر مستطيل عمودي منقوش بتكوين خطي متشابك قائم، بإطار مخرز وكتفين بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "توأم خاتم JWL-0054 بحجر مختلف. النقش لم يُقرأ. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Portrait rectangular yellow agate with an upright interlaced grid composition (unread); beaded frame, knurled pyramid-pattern shoulders; silver-tone."
+ },
+ {
+  "code": "g2-31",
+  "hero": 369,
+  "description": "خاتم استثنائي يحمل حجر عقيق مخطط بالبني والأبيض منقوش بمشهد لنسر واقف على قاعدة يقابله رجل يتقلد سيفاً، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "خاتم واحد يظهر في ملفي المالك JWL-0056 وJWL-0057. يبدو أثر كسر صغير عند حافة الحجر (الصورة 370). دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Banded brown/white agate intaglio: eagle on a pedestal facing a standing man with a sword at his side holding up an object; fluted bezel and shank; pale gold-tone metal."
+ },
+ {
+  "code": "g3-12",
+  "hero": 478,
+  "description": "خاتم رائع يحمل حجراً أحمر داكناً مستطيلاً منقوشاً بسطرين بخط النستعليق، بإطار مخرز وكتفين بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (أحمر داكن). قراءة جزئية للنقش: «... محمد ... وصل على آل ...» (؟). دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "… محمد … وصل على آل …؟",
+  "visual": "Rectangular dark red stone engraved with two lines of nasta'liq; milgrain bezel, knurled diamond-pattern shoulders; silver-tone."
+ },
+ {
+  "code": "g3-18",
+  "hero": 503,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالي بيضوي منقوش بمتن (ناد علياً مظهر العجائب) كاملاً، بجانبين مخرّمين وكتفين مضلعين، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "ناد عليا مظهر العجائب تجده عونا لك في النوائب كل هم وغم سينجلي بولايتك يا علي يا علي يا علي",
+  "visual": "Horizontal oval carnelian with the full Nad-e Ali in three lines; claw-set milgrain bezel, openwork side galleries, ribbed shoulders; silver-tone."
+ },
+ {
+  "code": "g3-20",
+  "hero": 511,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر بيضوي منقوش بالخط الكوفي بسورة الإخلاص (قل هو الله أحد)، بجانبين مخرّمين وكتفين مضلعين، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس كالختم (قُرئ بعد قلب الصورة). دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "قل هو الله احد الله الصمد لم يلد ولم يولد ولم يكن له كفوا احد",
+  "visual": "Oval red carnelian seal, Surat al-Ikhlas in mirror-cut kufic in three lines; bezel with openwork side galleries, ribbed shoulders; silver-tone."
+ },
+ {
+  "code": "g3-21",
+  "hero": 515,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالي بيضوي منقوش بالآية الكريمة (ومن يتق الله يجعل له مخرجاً)، بكتفين مخددين بخطوط مائلة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الآية نفسها بتكوين مشابه جداً على خاتم JWL-0013 لكن الساق مختلفة (خطوط مائلة هنا ونقش ماسي هناك)، فهما قطعتان. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "ومن يتق الله يجعل له مخرجا ويرزقه من حيث لا يحتسب ومن يتوكل على الله فهو حسبه ان الله بالغ امره قد جعل الله لكل شيء قدرا",
+  "visual": "Horizontal oval orange carnelian with Quran 65:2-3 in two ruled lines; milgrain bezel; shoulders with fine diagonal grooves; silver-tone."
+ },
+ {
+  "code": "g3-25",
+  "hero": 528,
+  "description": "خاتم بديع يحمل حجر عقيق مستطيل منقوش بحروف كبيرة تتوسطها وردة وزخارف نباتية، تمسكه مخالب مزدوجة عند الأركان، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ؛ في الزاوية رقم صغير قد يكون تاريخاً (؟). دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Rectangular carnelian with large calligraphy, a central rosette and floral fillers; notched double claws at the corners with milgrain; fluted shank; silver-tone."
+ },
+ {
+  "code": "g3-28",
+  "hero": 538,
+  "description": "خاتم أنيق يحمل حجر عقيق برتقالي بيضوي منقوش، تحتضنه مخالب على هيئة حلقات كالدموع فوق ساق مضلعة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس كالختم وربما يقرأ «يا حسين» (؟). دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "يا حسين؟",
+  "visual": "Oval orange carnelian seal (mirror-cut, maybe a name), held by teardrop loop claws; fluted tapering shank; silver-tone."
+ },
+ {
+  "code": "g3-30",
+  "hero": 548,
+  "description": "خاتم نادر يحمل حجر عقيق عسلي على هيئة قطرة، منقوش بحروف بارزة على أرضية مشبّكة، على ساق مضلعة ملتوية، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قراءة محتملة للنقش: «الله، محمد، علي» (؟). صورة الدمغات كانت في مجلد أبناء حسين جدي، والمنسق اعتمد الفئة H. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "الله محمد علي؟",
+  "visual": "Pear-shaped honey-brown agate with raised letters on a cross-hatched ground; pointed claws; twisted fluted shank; silver-tone."
+ },
+ {
+  "code": "g3-31",
+  "hero": 551,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر بيضوي منقوش بحروف كبيرة على أرضية نباتية، بمخالب عريضة وكتفين بنقش متدرج كالسلّم، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. لا توجد صورة للدمغات.",
+  "inscription": "",
+  "visual": "Oval carnelian with large calligraphy on a floral ground (unread); broad flat claws; stepped ladder-pattern shoulders; silver-tone."
+ },
+ {
+  "code": "g3-32",
+  "hero": 554,
+  "description": "خاتم فريد يحمل حجراً أحمر وردياً شفافاً محدباً منقوشاً بسطرين بحروف مربعة، في إطار مفصص بالمخالب وكتفين بفتحات مثلثة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (أحمر وردي شفاف). النقش لم يُقرأ. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Oval transparent pinkish-red cabochon engraved with two lines of square script (unread); scalloped claw bezel with milgrain; ribbed shoulders with triangular openings; silver-tone."
+ },
+ {
+  "code": "g3-33",
+  "hero": 557,
+  "description": "خاتم استثنائي يحمل حجراً أبيض حليبياً بيضوياً منقوشاً بحروف كبيرة، على ساق مفرّغة من أسلاك ملتوية كالقفص، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. لا توجد صورة للدمغات.",
+  "inscription": "",
+  "visual": "Oval milky-white translucent stone with a frosted intaglio inscription (unread); milgrain bezel; openwork twisted-wire cage shank; silver-tone."
+ },
+ {
+  "code": "g3-34",
+  "hero": 559,
+  "description": "خاتم رائع يحمل حجراً أحمر داكناً مستديراً عالي القبة، في إطار أملس تحيط به حبيبات دقيقة، وكتفاه بأخاديد عريضة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (أحمر داكن). دمج المنسق ملفي المالك JWL-0045 وJWL-0046. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Round high-domed deep red cabochon in a plain collar bezel with a milgrain ring; shoulders with broad flutes; silver-tone."
+ },
+ {
+  "code": "g3-35",
+  "hero": 563,
+  "description": "خاتم أنيق على هيئة محبس يحمل حجراً شفافاً لامعاً مستديراً مثبتاً في مربع غائر، بكتفين مصقولين بسيطين، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر الشفاف غير مؤكد. طراز حديث خلافاً لبقية الخواتم. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Band ring with one round brilliant-cut colourless stone flush-set in a square plate; plain polished shoulders; white/silver-tone."
+ },
+ {
+  "code": "g3-36",
+  "hero": 566,
+  "description": "خاتم جميل يحمل حجر عقيق برتقالي محمر بيضوي محدب، بإطار مخرز وكتفين محفورين بخطوط دقيقة متوازية، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "",
+  "visual": "Oval orange-red banded carnelian cabochon; milgrain bezel; shoulders engraved with fine parallel lines; silver-tone."
+ },
+ {
+  "code": "g3-37",
+  "hero": 569,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر بيضوي مستطيل محدب، تمسكه مخالب من أعلاه وأسفله، وكتفاه محفوران بأوراق وزخارف مفرغة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Elongated oval red cabochon held by claws at top and bottom; shoulders engraved with leaves and pierced with scrolls; silver-tone."
+ },
+ {
+  "code": "g3-38",
+  "hero": 572,
+  "description": "خاتم استثنائي يحمل حجراً أخضر شفافاً مربعاً بقطع متدرج، في مرصع نجمي مرتفع ذي مخالب مدببة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر الأخضر غير مؤكد (فيه شوائب ظاهرة). دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "",
+  "visual": "Square step-cut transparent green stone with visible inclusions in a tall star-shaped setting of pointed claws; angular shoulders; white/silver-tone."
+ },
+ {
+  "code": "g3-39",
+  "hero": 575,
+  "description": "خاتم رائع يحمل حجر فيروز سماوي بيضوي محدب، بإطار مخرز وكتفين منقوشين بصفوف متدرجة من الأقواس، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "",
+  "visual": "Oval plain sky-blue turquoise cabochon; milgrain bezel; shoulders engraved with rows of stepped scallops; silver-tone."
+ },
+ {
+  "code": "g3-40",
+  "hero": 579,
+  "description": "خاتم بديع يحمل حجر فيروز صغيراً مستديراً منقوشاً بعبارة قصيرة، يحتضنه تاج مرتفع من المخالب المدببة فوق كتفين مضلعين، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قراءة محتملة للنقش: «ما شاء الله» (؟). دمج ملفي المالك JWL-0051-5 وJWL-0052. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "ما شاء الله؟",
+  "visual": "Small round turquoise engraved with a short inscription, in a tall crown of pointed claws; angular faceted shoulders with a milgrain band at the base; silver-tone."
+ },
+ {
+  "code": "g5-19",
+  "hero": 879,
+  "description": "خاتم استثنائي يحمل حجراً أبيض شفافاً مستديراً تتخلله بقعة برتقالية مرقطة من صنع الطبيعة، على ساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر غير منقوش. دمج ملفي المالك JWL-0003 وJWL-0004 (البقعة نفسها). دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "",
+  "visual": "Round white translucent chalcedony/agate cabochon with an orange-brown spotted inclusion, not engraved; diamond-knurled mount with beaded bezel rim; silver-tone."
+ },
+ {
+  "code": "g5-20",
+  "hero": 885,
+  "description": "خاتم نفيس يحمل حجر فيروز سماوي بيضوي محدب، تمسكه مخالب فوق كتفين بأخاديد عميقة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "",
+  "visual": "Oval plain sky-blue turquoise cabochon in a claw mount with deeply fluted shoulders; silver-tone."
+ },
+ {
+  "code": "g5-21",
+  "hero": 888,
+  "description": "خاتم نفيس ذهبي اللون يحمل حجراً أخضر داكناً منقطاً بالأحمر، منقوشاً بحروف كبيرة ووردة معقودة، على ساق بنقش شبكي بارز، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (أخضر بنقاط حمراء). المعدن ذهبي اللون ولم يُتحقق منه. قراءة محتملة: «يا علي» (؟). دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "يا علي؟",
+  "visual": "Oval dark green stone with red flecks (bloodstone-like) engraved with large letters and a knot rosette; raised lattice-pattern mount; gold-tone."
+ },
+ {
+  "code": "g7-03",
+  "hero": 1244,
+  "description": "خاتم نفيس يحمل حجر عقيق كبير بيضوي منقوش بالآية الكريمة (ومن يتق الله يجعل له مخرجاً)، على ساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الآية نفسها بتكوين مشابه جداً على خاتم JWL-0036/0037 لكن الساق مختلفة، فهما قطعتان. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "ومن يتق الله يجعل له مخرجا ويرزقه من حيث لا يحتسب ومن يتوكل على الله فهو حسبه ان الله بالغ امره قد جعل الله لكل شيء قدرا",
+  "visual": "Large oval orange-brown carnelian with Quran 65:2-3 in two lines split by a rule; beaded bezel; diamond-knurled shank; silver-tone."
+ },
+ {
+  "code": "g7-04",
+  "hero": 1247,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر بيضوي منقوش بعبارة (يا حي يا قيوم) داخل إطار مفصص، تمسكه مخالب عالية كالبتلات، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "يا حي يا قيوم",
+  "visual": "Oval red carnelian engraved «يا حي يا قيوم» in a cusped cartouche; tall petal-shaped claws; ribbed, partly openwork shank; silver-tone."
+ },
+ {
+  "code": "g7-05",
+  "hero": 1250,
+  "description": "خاتم نفيس يحمل حجر عقيق عسلي كبير منقوش بسورة الفلق كاملة مع البسملة في أربعة أسطر، على ساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "خاتم واحد في ملفات المالك JWL-0015 وJWL-0016 وJWL-0017. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "بسم الله الرحمن الرحيم قل اعوذ برب الفلق من شر ما خلق ومن شر غاسق اذا وقب ومن شر النفاثات في العقد ومن شر حاسد اذا حسد",
+  "visual": "Large oval honey-brown agate with Surat al-Falaq in four ruled lines; beaded bezel; diamond-knurled shank; silver-tone."
+ },
+ {
+  "code": "g7-06",
+  "hero": 1257,
+  "description": "خاتم جميل يحمل حجراً أبيض حليبياً بيضوياً منقوشاً بحروف كبيرة يرافقها رقم، بإطار مخرز وساق مخددة بخطوط مائلة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس كالختم ولم يُقرأ كاملاً؛ الرقم قد يكون تاريخاً «١٠٤٥» أو «١٠٢٥» (؟). دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "… حسن؟ … الاحد؟ … ١٠٤٥ أو ١٠٢٥؟",
+  "visual": "Oval milky-white chalcedony seal with a few large mirror-cut words and a four-digit number; beaded bezel; diagonally fluted shank; silver-tone."
+ },
+ {
+  "code": "g7-07",
+  "hero": 1259,
+  "description": "خاتم استثنائي يحمل حجر عقيق أحمر بيضوي منقوش بأسماء المعصومين الأربعة عشر عليهم السلام، على ساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "الله محمد علي فاطمة حسن حسين علي محمد جعفر موسى علي محمد علي حسن …",
+  "visual": "Oval deep-red carnelian engraved with the names of the Fourteen Infallibles in rows; beaded bezel; diamond-knurled shank; silver-tone."
+ },
+ {
+  "code": "g7-08",
+  "hero": 1262,
+  "description": "خاتم فاخر يحمل حجر عقيق برتقالي كبير منقوش بسورة النصر كاملة مع البسملة في سبعة أسطر، على ساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "خاتم واحد في ملفات المالك JWL-0020 وJWL-0021 وJWL-0022. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "بسم الله الرحمن الرحيم اذا جاء نصر الله والفتح ورايت الناس يدخلون في دين الله افواجا فسبح بحمد ربك واستغفره انه كان توابا",
+  "visual": "Large oval orange carnelian with Surat an-Nasr in seven lines; beaded bezel; diamond-knurled shank; silver-tone."
+ },
+ {
+  "code": "g7-10",
+  "hero": 1270,
+  "description": "خاتم رائع يحمل حجراً أبيض حليبياً بيضوياً منقوشاً بعبارة (بسم الله الرحمن الرحيم)، بإطار مخرز وساق مخددة بخطوط مائلة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "بسم الله الرحمن الرحيم",
+  "visual": "Oval milky-white chalcedony engraved with the Basmala; beaded bezel; diagonally fluted shank; silver-tone."
+ },
+ {
+  "code": "g7-11",
+  "hero": 1274,
+  "description": "خاتم بديع يحمل حجر عقيق أصفر مائل إلى البرتقالي منقوش بحروف على أرضية نباتية، بمخالب مرتفعة حادة كألسنة اللهب، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "",
+  "visual": "Small oval yellow-to-orange agate engraved with calligraphy over a floral ground (unread); tall angular flame-like claw mount; polished shank; silver-tone."
+ },
+ {
+  "code": "g7-12",
+  "hero": 1276,
+  "description": "خاتم نفيس يحمل حجر عقيق رمادي فاتح بحافة برتقالية منقوش بسطرين، تحيط به مخالب مضلعة كالبتلات فوق ساق مضلعة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قراءة جزئية للنقش: «... الله المحمود في كل فعاله» (؟) مع أرقام صغيرة. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "… الله المحمود في كل فعاله؟",
+  "visual": "Oval grey-white agate with orange edges engraved in two lines with small numerals; beaded bezel held by fluted petal claws; fluted shank; silver-tone."
+ },
+ {
+  "code": "g7-13",
+  "hero": 1279,
+  "description": "خاتم استثنائي يحمل حجر عقيق برتقالي بيضوي منقوش بتكوين خطي معقود تتخلله الورود، على ساق بنقش شبكي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ، وفيه أرقام صغيرة. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Oval orange carnelian with an interlaced knot-style calligraphic composition and rosettes (unread); beaded bezel; lattice-textured shank; silver-tone."
+ },
+ {
+  "code": "g7-14",
+  "hero": 1283,
+  "description": "خاتم فريد يحمل حجر عقيق برتقالي كبير منقوش بسورة الكافرون كاملة مع البسملة، بإطار مخرز وساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "خاتم واحد في ملفات المالك JWL-0030 وJWL-0031. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "بسم الله الرحمن الرحيم قل يا ايها الكافرون لا اعبد ما تعبدون ولا انتم عابدون ما اعبد ولا انا عابد ما عبدتم ولا انتم عابدون ما اعبد لكم دينكم ولي دين",
+  "visual": "Large oval orange carnelian with Surat al-Kafirun in seven lines; beaded bezel; diamond-knurled shank; silver-tone."
+ },
+ {
+  "code": "g7-16",
+  "hero": 1292,
+  "description": "خاتم أنيق على هيئة محبس يحمل حجراً شفافاً مستديراً في مرصع مربع بأربعة مخالب، بين لوحين محفورين بنقوش نجمية، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر الشفاف غير مؤكد. لا توجد صورة للدمغات.",
+  "inscription": "",
+  "visual": "Band ring with one round colourless stone in a square four-claw setting, flanked by panels engraved with geometric star/cross patterns; silver-tone."
+ },
+ {
+  "code": "g7-17",
+  "hero": 1304,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر بيضوي محدب، تحتضنه مخالب عالية مضلعة فوق كتفين مصقولين بطوق مخرز، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Oval red cabochon held by tall faceted claws; polished angular shoulders with a beaded collar; silver-tone."
+ },
+ {
+  "code": "g7-22",
+  "hero": 1327,
+  "description": "خاتم استثنائي يحمل حجراً أخضر شفافاً مستطيلاً بقطع متدرج، تمسكه مخالب مزدوجة وكتفان محفوران بخطوط دقيقة، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر الأخضر غير مؤكد. دمغات داخل الحلقة: «جدي» وحرف F و«تهران».",
+  "inscription": "",
+  "visual": "Rectangular step-cut transparent green stone in a double-claw setting; shoulders with fine linear ribbing; silver-tone."
+ },
+ {
+  "code": "g7-23",
+  "hero": 1333,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر مستدير محدب، تمسكه أربعة مخالب عريضة فوق كتفين مصقولين يتوسطهما ضلع بارز، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "لا توجد صورة للدمغات.",
+  "inscription": "",
+  "visual": "Round red cabochon held by four broad tab claws; broad polished shoulders with a central ridge and beaded grooves; silver-tone."
+ },
+ {
+  "code": "g7-32",
+  "hero": 1373,
+  "description": "خاتم نفيس يحمل حجر عقيق أحمر بيضوي منقوش بالصلوات على المعصومين الأربعة عشر، على ساق مزخرفة بالورود والأوراق، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغتان داخل الحلقة: «جدي» و«تهران».",
+  "inscription": "اللهم صل على محمد المصطفى … والبتول فاطمة … والباقر محمد والصادق جعفر والكاظم موسى والرضا علي … والعسكري الحسن … عليهم السلام",
+  "visual": "Oval red carnelian densely engraved with the salawat on the Fourteen Infallibles in ruled lines; beaded bezel; shoulders chased with flowers and leaves; silver-tone."
+ }
+]

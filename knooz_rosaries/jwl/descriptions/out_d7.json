@@ -1,0 +1,362 @@
+[
+ {
+  "code": "g1-03",
+  "hero": 9,
+  "description": "قلب نفيس يحمل حجر عقيق عسلي منقوش في وسطه لفظ الجلالة ضمن أطر من الكتابة، يحيط به عقد من حبات الفيروز، وظهره مخرّم مرصّع بالفيروز.",
+  "item_category": "Pendant",
+  "notes": "الكلمة تحت لفظ الجلالة لم تُقرأ بثقة (أكبر؟)؛ الحزام الداخلي يبدأ بالبسملة. ختمان صغيران على حافة الظهر قرب العروة لم يُقرآ. يظهر خط عند الحافة اليمنى السفلى للحجر قد يكون شرخاً؟",
+  "inscription": "الوسط: الله … (أكبر؟)؛ الحزام الداخلي: بسم الله الرحمن الرحيم …",
+  "visual": "Oval honey agate, central cartouche with «Allah» on cross-hatched ground inside bands of script, ringed by small turquoise cabochons; fleur bail with granulated flower; openwork back with chased bird panel set with turquoise; gold-tone."
+ },
+ {
+  "code": "g1-05",
+  "hero": 15,
+  "description": "دلّاية على هيئة قلب تحمل حجر عقيق عسلي فاتح منقوشاً بكتابة كبيرة في الوسط تحيط بها كتابات دقيقة، بإطار من الأوراق الملتفة وعروة مخرّمة.",
+  "item_category": "Pendant",
+  "notes": "الكتابة الوسطى لم تُقرأ بثقة (السلام عليك يا أبا عبد الله؟). الظهر صفيحة متموجة الحافة مخرّمة بزخرفة نباتية.",
+  "inscription": "الوسط: السلام عليك يا أبا عبد الله؟",
+  "visual": "Heart-shaped pale honey agate with bold central cartouche on cross-hatching and dense border script; scrolled-leaf frame with cups along the top; pierced fleur bail; back a scalloped plate with pierced arabesque."
+ },
+ {
+  "code": "g1-12",
+  "hero": 48,
+  "description": "قلب رائع يحمل حجر عقيق برتقالي منقوش بخط النستعليق بأسماء الأئمة الأطهار عليهم السلام، في إطار من البتلات المضلّعة وعروة مزخرفة.",
+  "item_category": "Pendant",
+  "notes": "مقروء من الأسماء: محمد، علي، حسن، حسين، جعفر، موسى؛ بعض الكلمات غير مؤكدة.",
+  "inscription": "موسى؟ علي حسن حسين جعفر محمد علي / نبي؟ علي محمد علي حسن محمد",
+  "visual": "Oval orange carnelian engraved in two nastaliq lines with names of the Imams; frame of ribbed cups/petals; fleur-shaped bail; gold-tone."
+ },
+ {
+  "code": "g1-13",
+  "hero": 50,
+  "description": "دلّاية تحمل حجراً شفافاً مستطيلاً مشطوف الزوايا منقوشاً بخط النستعليق بعبارة (نصر من الله وفتح قريب)، في إطار مخرّم بصف من الدوائر.",
+  "item_category": "Pendant",
+  "notes": "صورة واحدة فقط. الحجر يبدو بلّوراً صخرياً ولم يُسمَّ.",
+  "inscription": "نصر من الله وفتح قريب",
+  "visual": "Cut-corner rectangular clear stone (rock-crystal look) engraved in nastaliq «نصر من الله وفتح قريب»; frame pierced with a row of round holes, arched top bar with bail; pale gold-tone."
+ },
+ {
+  "code": "g1-19",
+  "hero": 70,
+  "description": "قلب فاخر يحمل حجر عقيق برتقالي منقوش بكتابة دقيقة في أربعة حقول متقابلة، يحيط به إطار مرصّع بأحجار خضراء صغيرة وعروة مرصّعة.",
+  "item_category": "Pendant",
+  "notes": "صورة واحدة فقط. النقش لم يُقرأ. الأحجار الخضراء الصغيرة وأحجار العروة لم تُحدَّد.",
+  "inscription": "",
+  "visual": "Oval orange carnelian with fine script in four fields divided by diagonals; frame set with small faceted green stones and four rhombus points; pavé teardrop bail; pale gold-tone."
+ },
+ {
+  "code": "g1-26",
+  "hero": 94,
+  "description": "دلّاية استثنائية تحمل حجر عقيق مجزّع بالأبيض والبرتقالي منقوشاً بكتابة موزّعة في مربعات، يعلوها تاج شعاعي وظهرها مخرّم بزخرفة نباتية.",
+  "item_category": "Pendant",
+  "notes": "النقش موزّع في شبكة مربعات (تخطيط وفقي) ولم يُقرأ.",
+  "inscription": "",
+  "visual": "Round banded white-and-orange agate engraved in a 3x3 grid of squares; beaded frame; sunburst crown top with ball-tipped rays; openwork floral back; pale gold/silver-tone."
+ },
+ {
+  "code": "g1-27",
+  "hero": 99,
+  "description": "قلب أنيق يحمل حجراً أسود مثمّن الشكل منقوشاً بخط النستعليق على أرضية مشبّكة ضمن إطار من الكتابة الدقيقة، بعروة مزدوجة ملتفة.",
+  "item_category": "Pendant",
+  "notes": "السطر الأول مقروء (الله الرحمن الرحيم)، والثاني غير مؤكد (إنه من سليمان وإنه بسم؟). نوع الحجر الأسود لم يُحدَّد.",
+  "inscription": "إنه من سليمان وإنه بسم؟ / الله الرحمن الرحيم",
+  "visual": "Octagonal black stone engraved with two nastaliq lines on cross-hatched ground inside a fine border inscription; frame with fluted sides and corner plaques; scrolled double bail; back shows plain stone."
+ },
+ {
+  "code": "g2-20",
+  "hero": 311,
+  "description": "قلب بديع يحمل حجر عقيق عسلي منقوش في وسطه بكتابة كبيرة على أرضية مشبّكة، يحيط به حزام من الكتابة يبدأ بالبسملة، بإطار مخرّم بالمثلثات.",
+  "item_category": "Pendant",
+  "notes": "الكتابة الوسطى لم تُقرأ بثقة (يا الله؟).",
+  "inscription": "الوسط: يا الله؟؛ الحزام: بسم الله الرحمن الرحيم …",
+  "visual": "Oval honey/amber agate with bold central cartouche on cross-hatching and a border inscription; frame of zigzag triangular openwork with beaded inner bezel; fan-ribbed top and ribbed bail."
+ },
+ {
+  "code": "g2-21",
+  "hero": 317,
+  "description": "دلّاية تحمل ديناراً إسلامياً بالخط الكوفي يتوسط وجهه (لا إله إلا الله وحده لا شريك له) وظهره (محمد رسول الله)، بإطار مجدول.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. أصالة الدينار لا يُحكم عليها من الصورة.",
+  "inscription": "الوجه: لا إله إلا الله وحده لا شريك له؛ الظهر: محمد رسول الله؛ الهامش: بسم الله …",
+  "visual": "Gold-tone Kufic dinar-type coin, both faces shown, in a diamond-cut bezel inside a twisted rope ring; diamond-cut bail."
+ },
+ {
+  "code": "g2-34",
+  "hero": 383,
+  "description": "قلب رائع يحمل حجر عقيق برتقالي منقوش بتكوين من الحروف القائمة المتقاطعة يحيط به حزام من الكتابة يبدأ بالبسملة، بإطار مزخرف بالحبيبات والجدائل.",
+  "item_category": "Pendant",
+  "notes": "الوسط لم يُقرأ بثقة (يا قاضي الحاجات يا كافي المهمات؟). يظهر خط قرب الحافة السفلية للحجر قد يكون شرخاً؟",
+  "inscription": "الوسط: يا قاضي الحاجات يا كافي المهمات؟؛ الحزام: بسم الله الرحمن الرحيم …",
+  "visual": "Oval orange carnelian with a central composition of tall upright letters crossed by horizontal strokes, inside a border inscription; beaded and rope-twist frame; plain bail."
+ },
+ {
+  "code": "g2-35",
+  "hero": 389,
+  "description": "قلب نفيس يحمل حجر عقيق منقوش بالصلوات على المعصومين الأربعة عشر عليهم السلام في خمسة أسطر، يحيط بها حزام من الكتابة.",
+  "item_category": "Pendant",
+  "notes": "الحزام الخارجي لم يُقرأ.",
+  "inscription": "اللهم صل على محمد المصطفى وعلي المرتضى … والبتول فاطمة والسبطين الحسن والحسين … والصادق جعفر والكاظم موسى والرضا علي والتقي محمد والنقي علي والزكي العسكري الحسن وصل على … المهدي عليه السلام",
+  "visual": "Large oval carnelian engraved with five lines of salawat on the Fourteen Infallibles plus a border inscription; frame with dimpled scalloped edge; plain bail."
+ },
+ {
+  "code": "g2-36",
+  "hero": 393,
+  "description": "قطعة نفيسة بيضوية كريمية اللون منقوشة بعبارة (ويسبح الرعد بحمده والملائكة من خيفته) يحيط بها حزام من الكتابة، في إطار ذهبي اللون بحلقتين جانبيتين.",
+  "item_category": "Pendant",
+  "notes": "المادة غير مؤكدة (عقيق كريمي أو عظم/عاج؟). في السطح عدة شروخ مثبّتة بمسمارين ذهبيي اللون يحجبان جزءاً من كلمة (بحمده). قطعة وسطية بحلقتين جانبيتين بلا سلسلة، صُنّفت دلّاية تقريباً.",
+  "inscription": "ويسبح الرعد بحمده والملائكة من خيفته",
+  "visual": "Oval cream/beige plaque engraved «ويسبح الرعد بحمده والملائكة من خيفته» with a border inscription; several cracks held by two domed gold-tone rivets; thin gold-tone bezel with a loop on each side."
+ },
+ {
+  "code": "g2-39",
+  "hero": 408,
+  "description": "دلّاية فاخرة تحمل حجراً بنياً مبقّعاً بالبرتقالي منقوشاً بعبارة (ويسبح الرعد بحمده والملائكة من خيفته) على أرضية مشبّكة، بإطار متموّج كألسنة اللهب.",
+  "item_category": "Pendant",
+  "notes": "صورة واحدة فقط. نوع الحجر غير مؤكد (عقيق مبقّع؟).",
+  "inscription": "ويسبح الرعد بحمده والملائكة من خيفته",
+  "visual": "Oval dark brown stone with orange patches engraved with two bold lines on cross-hatching and a border inscription; wavy flame-like frame; ribbed teardrop bail."
+ },
+ {
+  "code": "g4-01",
+  "hero": 582,
+  "description": "قلب استثنائي مفصّص الحواف، منقوش بالطيور والأزهار على أرضية منقّطة، يتوسطه حجر عقيق برتقالي مستطيل مقطّع بأوجه مثبت بالمخالب.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. على الظهر المطروق توقيع محفور لم يُقرأ (حميدي؟)، وهو نفس التوقيع على g4-03.",
+  "inscription": "",
+  "visual": "Lobed arch-shaped silver-tone pendant with crescent cut-outs, finely chased birds and flowers on a stippled ground; long oval faceted orange carnelian in claw setting; hammered back with engraved signature."
+ },
+ {
+  "code": "g4-03",
+  "hero": 588,
+  "description": "قلب نفيس مفصّص الحواف تزيّنه نقوش الطيور والأزهار ولوحة مخرّمة بشجرة وطيور، يتوسطه حجر عقيق أحمر بيضوي مقطّع بأوجه مثبت بالمخالب.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. على الظهر توقيع محفور لم يُقرأ، بنفس يد التوقيع على g4-01.",
+  "inscription": "",
+  "visual": "Lobed silver-tone pendant chased with birds and flowers, pierced tree-and-bird panel above a large oval faceted red carnelian in claw setting; hammered back with engraved signature."
+ },
+ {
+  "code": "g4-17",
+  "hero": 652,
+  "description": "دلّاية مثلثة الشكل تحمل حجراً أخضر رمادياً منقوشاً بأسطر من الكتابة تتخللها نجيمات صغيرة، في إطار رفيع مجدول الحافة.",
+  "item_category": "Pendant",
+  "notes": "يُرجَّح أنه دعاء ناد علي (… يا علي يا علي؟) دون تأكيد. الحجر قد يكون جيداً (يشم) ولم يُسمَّ؛ فيه بقع فاتحة صغيرة.",
+  "inscription": "ناد عليا؟ … عونا لك؟ … يا علي يا علي؟",
+  "visual": "Triangular grey-green waxy stone (nephrite look) engraved with four lines with star fillers; small pale inclusions; thin rope-edged silver-tone bezel; plain bail."
+ },
+ {
+  "code": "g4-18",
+  "hero": 655,
+  "description": "قلب رائع يحمل حجر عقيق أحمر منقوش بخط النستعليق بعبارة (وأفوض أمري إلى الله إن الله بصير بالعباد)، وظهره مخرّم بكتابة كبيرة بين الأزهار.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. ختم على العروة يقرأ (آذری). أرضية الظهر المخرّم ذهبية اللون، وكتابته لم تُقرأ كاملة.",
+  "inscription": "وأفوض أمري إلى الله إن الله بصير بالعباد",
+  "visual": "Oval red carnelian engraved in two nastaliq lines in a cloud cartouche; scalloped sunburst frame; bail stamped «آذری»; back a pierced panel with large calligraphy among flowers on a gold-coloured ground."
+ },
+ {
+  "code": "g4-19",
+  "hero": 656,
+  "description": "قلب استثنائي يحمل حجر عقيق برتقالي محمر منقوش بخط النستعليق بآية الكرسي، بعروة على هيئة بوتة، وظهره منقوش بالطيور والأزهار.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. ختمان على الظهر (شایق) و(طهران).",
+  "inscription": "آية الكرسي: … من ذا الذي يشفع عنده إلا بإذنه … ولا يؤوده حفظهما وهو العلي العظيم",
+  "visual": "Large oval orange-red carnelian engraved with Ayat al-Kursi in fine nastaliq; scalloped silver-tone frame with gilt beaded inner bezel; paisley bail; back chased with birds and flowers, stamps «شایق», «طهران»."
+ },
+ {
+  "code": "g4-20",
+  "hero": 657,
+  "description": "قلب أنيق يحمل حجر عقيق برتقالي منقوش بخط النستعليق بسورة الفلق، بعروة على هيئة فراشة، وظهره مخرّم بنجمة.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. ختمان على الظهر (شایق) و(طهران).",
+  "inscription": "بسم الله الرحمن الرحيم قل أعوذ برب الفلق من شر ما خلق ومن شر غاسق إذا وقب ومن شر النفاثات في العقد ومن شر حاسد إذا حسد",
+  "visual": "Oval orange carnelian engraved with Surat al-Falaq in nastaliq; scalloped silver-tone frame; butterfly bail; plain back pierced with a star, stamps «شایق», «طهران»."
+ },
+ {
+  "code": "g4-44",
+  "hero": 766,
+  "description": "بروش ذهبي اللون يحمل ديناراً إسلامياً بالخط الكوفي محاطاً بطوق من الكرات، تتدلى منه ثلاث سلاسل تنتهي بخرزات فيروزية اللون.",
+  "item_category": "Brooch",
+  "notes": "صورة مركّبة للوجهين. ختم (21K) على قضيبي الظهر. الخرزات فيروزية اللون بعروق وقد تكون مصبوغة. أصالة الدينار لا يُحكم عليها من الصورة.",
+  "inscription": "",
+  "visual": "Gold-tone brooch: Kufic dinar-type coin in a ring of gold beads, three chain drops ending in veined turquoise-coloured beads; pin on the back."
+ },
+ {
+  "code": "g4-45",
+  "hero": 768,
+  "description": "دلّاية فاخرة على هيئة ثمرة المانجو، مكسوّة بالمينا الحمراء والبيضاء والزرقاء، مرصّعة بأحجار مسطّحة شفافة وخضراء، وظهرها مزيّن بالطواويس والأزهار.",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة لأربعة مناظر. الأحجار لم تُحدَّد.",
+  "inscription": "",
+  "visual": "Gold-tone mango-shaped pendant: front red enamel set with flat colourless and green stones in a lotus pattern, back white enamel with peacocks and flowers, blue enamel sides; four views."
+ },
+ {
+  "code": "g4-46",
+  "hero": 770,
+  "description": "بروش ذهبي اللون يحمل ديناراً إسلامياً بالخط الكوفي، يعلوه نصف طوق من الكرات وتزيّنه لفائف مخرّمة على هيئة قلب، تتدلى منه خرزة خضراء مزرقّة.",
+  "item_category": "Brooch",
+  "notes": "صورة مركّبة للوجهين. ختم (21K) على قضيبي الظهر. أصالة الدينار لا يُحكم عليها من الصورة.",
+  "inscription": "",
+  "visual": "Gold-tone brooch: Kufic dinar-type coin under a half-ring of gold beads, filigree scrolls forming a heart below, one green-blue bead drop; pin on the back."
+ },
+ {
+  "code": "g5-18",
+  "hero": 878,
+  "description": "دلّاية مميزة تحمل ديناراً إسلامياً بعبارة (لا إله إلا الله وحده لا شريك له) يتسلقه نمر مرقّط ذهبي اللون، تتدلى منها قطرة خضراء مقطّعة.",
+  "item_category": "Pendant",
+  "notes": "صورة واحدة تُظهر الوجهين (اعتُبرت قطعة واحدة). الوجه الآخر (لله / محمد رسول الله …). الحجر الأخضر لم يُحدَّد. أصالة الدينار لا يُحكم عليها من الصورة.",
+  "inscription": "الوجه: لا إله إلا الله وحده لا شريك له؛ الظهر: لله محمد رسول الله …",
+  "visual": "Gold-tone Kufic dinar-type coin pendant with a cast spotted leopard climbing over the coin and a faceted pear-shaped green stone drop; bail; both faces shown."
+ },
+ {
+  "code": "g5-22",
+  "hero": 894,
+  "description": "قلب فاخر يحمل حجر عقيق بني منقوش بعبارة (ويسبح الرعد بحمده والملائكة من خيفته) يحيط بها حزام يبدأ بالبسملة، وظهره منقوش بخط النستعليق.",
+  "item_category": "Pendant",
+  "notes": "الحزام: (بسم الله الرحمن الرحيم وإن يكاد الذين كفروا …). كتابة الظهر يُرجَّح أنها (نصر من الله وفتح قريب؟). أختام على الظهر: (750) و(ایران) و(محمد).",
+  "inscription": "ويسبح الرعد بحمده والملائكة من خيفته؛ الحزام: بسم الله الرحمن الرحيم وإن يكاد الذين كفروا …؛ الظهر: نصر من الله وفتح قريب؟",
+  "visual": "Oval brown agate with central cartouche on cross-hatching and a border inscription; serrated gold-tone frame with pierced gallery; back plate engraved in nastaliq on a dark ground; triangular bail on black cord."
+ },
+ {
+  "code": "g5-32",
+  "hero": 931,
+  "description": "طقم أنيق من سوار وخاتم وقرطين ودلّاية، تتوسط كل قطعة مسكوكة مربعة نُقش عليها (لا إله إلا الله الأمر كله لله لا قوة إلا بالله).",
+  "item_category": "Jewelry Set",
+  "notes": "محتويات الطقم في علبته: سوار بخمس مسكوكات، خاتم، زوج أقراط، دلّاية. المسكوكات على طراز الدراهم المربعة وقد تكون مقلّدة.",
+  "inscription": "لا إله إلا الله / الأمر كله لله / لا قوة إلا بالله",
+  "visual": "Boxed silver-tone set: bracelet of five square coins on double chains, a ring, a pair of earrings and a pendant, each mounted with a square coin bearing the same legend."
+ },
+ {
+  "code": "g5-38",
+  "hero": 967,
+  "description": "دلّاية تحمل حجراً شفافاً مثمّناً منقوشاً بخط النستعليق بعبارة (اللهم صل على محمد وآل محمد)، وظهرها منقوش (حسبنا الله ونعم الوكيل نعم المولى ونعم النصير).",
+  "item_category": "Pendant",
+  "notes": "أختام أسفل الظهر: (ایران) و(F) و(محمد). الحجر يبدو بلّوراً صخرياً ولم يُسمَّ.",
+  "inscription": "الوجه: اللهم صل على محمد وآل محمد؛ الظهر: حسبنا الله ونعم الوكيل نعم المولى ونعم النصير",
+  "visual": "Cut-corner clear stone engraved in nastaliq «اللهم صل على محمد وآل محمد»; fluted silver-tone frame; fan-shaped bail; back plate engraved in thuluth on a dark ground, stamps «ایران», «F», «محمد»."
+ },
+ {
+  "code": "g5-39",
+  "hero": 970,
+  "description": "دلّاية على شكل قلب تحمل حجر عقيق برتقالي منقوشاً على أرضية مشبّكة يحيط بها حزام من الكتابة، بإطار متموّج وظهر منقوش بطائر بين الأزهار.",
+  "item_category": "Pendant",
+  "notes": "الوسط لم يُقرأ بثقة (يا الله … يا فاطمة؟). أختام على الظهر: (ایران) و(محمد؟) و(F).",
+  "inscription": "الوسط: يا الله … يا فاطمة؟",
+  "visual": "Heart-shaped orange carnelian with central invocation on cross-hatching and a border inscription; ruffled fluted silver-tone frame; teardrop bail chased with foliage; back chased with a bird among flowers, stamps incl. «F»."
+ },
+ {
+  "code": "g5-40",
+  "hero": 972,
+  "description": "قلب مميز يحمل حجراً أخضر فاتحاً مستديراً منقوشاً برموز طلسمية، وظهره منقوش بالبسملة وآية (وإن يكاد) في حلقة دائرية.",
+  "item_category": "Pendant",
+  "notes": "نوع الحجر غير محدد. الحلقة على الظهر: (وإن يكاد الذين كفروا ليزلقونك بأبصارهم …).",
+  "inscription": "الظهر: بسم الله الرحمن الرحيم؛ وإن يكاد الذين كفروا …",
+  "visual": "Round pale yellow-green stone engraved with talismanic signs and letters; scalloped silver-tone frame; fluted leaf bail; back engraved with the basmala in a central roundel ringed by «وإن يكاد» on a dark ground."
+ },
+ {
+  "code": "g5-41",
+  "hero": 978,
+  "description": "قلب بهي يحمل حجر عقيق بني محمر منقوش بعبارة (لا إله إلا أنت سبحانك إني كنت من الظالمين) في أحزمة متتالية، وظهره منقوش بطائرين وزهرة لوتس.",
+  "item_category": "Pendant",
+  "notes": "الصورة #977 مركّبة للوجهين. الأحزمة الخارجية تبدأ بالبسملة ولم تُقرأ كاملة.",
+  "inscription": "لا إله إلا أنت سبحانك إني كنت من الظالمين؛ بسم الله الرحمن الرحيم …",
+  "visual": "Oval brown-red agate engraved in concentric bands around a central cartouche; pierced scroll silver-tone frame; heart-shaped bail chased with a bird; back chased with two birds and a lotus."
+ },
+ {
+  "code": "g5-42",
+  "hero": 980,
+  "description": "دلّاية أنيقة تحمل حجر عقيق برتقالي منقوش بعبارة (لا إله إلا أنت سبحانك إني كنت من الظالمين) ضمن حزام من الكتابة، معلّقة بحبل أسود.",
+  "item_category": "Pendant",
+  "notes": "الحزام لم يُقرأ كاملاً (يبدأ بالبسملة).",
+  "inscription": "لا إله إلا أنت سبحانك إني كنت من الظالمين",
+  "visual": "Oval orange carnelian with central cartouche and border inscription in a dark plain bezel with ribbed edge; leaf-shaped bail; black cord."
+ },
+ {
+  "code": "g6-09",
+  "hero": 1064,
+  "description": "دلّاية بديعة مربعة مرصّعة بأحجار بيضاء مسطّحة حول زهرة لوتس من أحجار حمراء وخضراء، وظهرها مطعّم بالفيروز، تتدلى منها خرزة فيروز.",
+  "item_category": "Pendant",
+  "notes": "قطعة بوجهين (#1068 للظهر). الأحجار البيضاء والحمراء والخضراء لم تُحدَّد.",
+  "inscription": "",
+  "visual": "Square gold-tone pendant set with flat white stones around a lotus of red and green stones, three-stone crown and loop; reverse inlaid with turquoise in a gold trellis; turquoise bead drop with small red bead."
+ },
+ {
+  "code": "g6-16",
+  "hero": 1099,
+  "description": "قلب رائع يحمل حجراً شفافاً محدّباً نُقشت في وسطه أطر بيضوية صغيرة بكتابة دقيقة، بإطار على هيئة بتلات وعروة مرصّعة.",
+  "item_category": "Pendant",
+  "notes": "النقش لم يُقرأ بثقة (في الوسط: علي فاطمة؟). أحجار العروة الصغيرة لم تُحدَّد. الصورة #1103 تُظهر النقش من الجهة الأخرى على خلفية داكنة.",
+  "inscription": "الوسط: علي فاطمة؟",
+  "visual": "Oval clear domed cabochon with small engraved oval cartouches of script at the centre; petal-scalloped silver-tone frame; teardrop bail set with small stones."
+ },
+ {
+  "code": "g6-26",
+  "hero": 1150,
+  "description": "قلب نفيس يحمل حجر عقيق أحمر مربع منقوش بأطر متداخلة من الكتابة، وظهره منقوش بعبارة (ما شاء الله لا حول ولا قوة إلا بالله العلي العظيم).",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. في أحد الأطر (ناد عليا مظهر …). أختام صغيرة أسفل الظهر لم تُقرأ.",
+  "inscription": "الوجه: ناد عليا مظهر …؛ الظهر: ما شاء الله لا حول ولا قوة إلا بالله العلي العظيم",
+  "visual": "Square cut-corner red carnelian engraved with nested square frames of script; scalloped claw frame; tulip-shaped bail; back plate engraved in bold script, small hallmarks."
+ },
+ {
+  "code": "g6-27",
+  "hero": 1152,
+  "description": "قلب أنيق يحمل حجراً شفافاً مشطوف الزوايا منقوشاً بخط النستعليق بعبارة (نصر من الله وفتح قريب)، وظهره منقوش (أليس الله بكاف عبده).",
+  "item_category": "Pendant",
+  "notes": "صورة مركّبة للوجهين. أختام أسفل الظهر: (ایران) و(F) و(محمد). الحجر يبدو بلّوراً صخرياً ولم يُسمَّ.",
+  "inscription": "الوجه: نصر من الله وفتح قريب؛ الظهر: أليس الله بكاف عبده",
+  "visual": "Cut-corner rectangular clear stone engraved in nastaliq; scalloped silver-tone frame; fan-shaped bail; back plate engraved in bold thuluth on a dark ground, stamps «ایران», «F», «محمد»."
+ },
+ {
+  "code": "g6-40",
+  "hero": 1241,
+  "description": "قلب جميل يحمل حجر عقيق برتقالي منقوش بكتابة على أرضية منقّطة، بإطار ذي مخالب وحافة مجدولة، ويظهر الحجر مصقولاً من الخلف.",
+  "item_category": "Pendant",
+  "notes": "النقش لم يُقرأ.",
+  "inscription": "",
+  "visual": "Oval orange carnelian with inscription on a stippled ground and an X-mark border; claw frame with rope-twist edge; ribbed bail; open back showing the polished banded stone."
+ },
+ {
+  "code": "g7-01",
+  "hero": 1242,
+  "description": "قلادة رائعة بصفّين من الخرز المخرّم فضي اللون، تتوزع عليها خمس وردات مخرّمة تتوسط كلاً منها مسكوكة بالخط الكوفي.",
+  "item_category": "Necklace",
+  "notes": "صورة واحدة فقط. المسكوكات على طراز الدراهم، وكتاباتها لم تُقرأ.",
+  "inscription": "",
+  "visual": "Double-strand necklace of silver-tone filigree beads with five flower-shaped filigree medallions, each set with a Kufic dirham-type coin; on a bust stand."
+ },
+ {
+  "code": "g7-02",
+  "hero": 1243,
+  "description": "دلّاية تحمل درهماً إسلامياً يتوسطه بالخط الكوفي (لا إله إلا الله وحده لا شريك له)، في إطار مخرّم بالأقواس وعروة مشطوفة.",
+  "item_category": "Pendant",
+  "notes": "صورة واحدة فقط. الهامش يبدأ (بسم الله ضرب هذا الد…). أصالة الدرهم لا يُحكم عليها من الصورة.",
+  "inscription": "لا إله إلا الله وحده لا شريك له؛ الهامش: بسم الله ضرب هذا الد…",
+  "visual": "Silver-tone Kufic dirham in a faceted bezel within a scalloped openwork frame; diamond-cut bail."
+ },
+ {
+  "code": "g7-18",
+  "hero": 1299,
+  "description": "قلب بديع يحمل حجر عقيق منقوش بعبارة (لا إله إلا أنت سبحانك إني كنت من الظالمين) وآية (وإن يكاد)، وظهره منقوش بغزال بين الأزهار.",
+  "item_category": "Pendant",
+  "notes": "الصورة #1295 مركّبة للوجهين. العروة مخرّمة على هيئة قلب بداخلها غزال.",
+  "inscription": "لا إله إلا أنت سبحانك إني كنت من الظالمين؛ الحزام: وإن يكاد الذين كفروا ليزلقونك بأبصارهم …",
+  "visual": "Oval carnelian with central cartouche and border inscription in a scalloped silver-tone bezel; heart-shaped openwork bail with a gazelle; back chased with a deer among flowers."
+ },
+ {
+  "code": "g7-21",
+  "hero": 1321,
+  "description": "سوار نفيس ذهبي اللون يجمع خمسة أحجار عقيق منقوشة بكتابات مختلفة، في أطر مشغولة بالحبيبات تتدلى منها حليات مخرّمة وحبات بيضاء كاللؤلؤ.",
+  "item_category": "Bracelet",
+  "notes": "يأتي في علبته. أحد الأحجار منقوش (لا إله إلا أنت سبحانك إني كنت من الظالمين) و(ناد عليا مظهر العجائب)، وبقية النقوش لم تُقرأ. رمز المالك القديم R024.",
+  "inscription": "أحد الأحجار: لا إله إلا أنت سبحانك إني كنت من الظالمين؛ ناد عليا مظهر العجائب",
+  "visual": "Gold-tone bracelet of five oval engraved agate plaques (largest at centre) in granulated filigree frames with filigree and pearl-like drops; in a fitted box."
+ },
+ {
+  "code": "g7-28",
+  "hero": 1360,
+  "description": "دلّاية على هيئة قلب من حجر عقيق برتقالي منقوش في وسطه لفظ الجلالة يحيط به حزام من الكتابة، معلّقة بحبل أسود.",
+  "item_category": "Pendant",
+  "notes": "ختم (750) على العروة. الوسط (الله) وقد يكون (يا الله؟).",
+  "inscription": "الله (يا الله؟)",
+  "visual": "Heart-shaped orange agate engraved with a large central «Allah» and a border inscription; gold-tone bail stamped 750; black cord with red knots."
+ }
+]

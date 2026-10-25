@@ -1,0 +1,4831 @@
+[
+ {
+  "code": "JWL-W-001",
+  "final_cat": "W",
+  "hero": 9,
+  "photos": [
+   9,
+   11
+  ],
+  "duplicates": [
+   8,
+   10
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-002",
+  "final_cat": "W",
+  "hero": 15,
+  "photos": [
+   15,
+   17
+  ],
+  "duplicates": [
+   14,
+   16
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-003",
+  "final_cat": "W",
+  "hero": 48,
+  "photos": [
+   48,
+   49,
+   51
+  ],
+  "duplicates": [
+   47
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-004",
+  "final_cat": "W",
+  "hero": 50,
+  "photos": [
+   50
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-005",
+  "final_cat": "W",
+  "hero": 70,
+  "photos": [
+   70
+  ],
+  "duplicates": [
+   69
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-006",
+  "final_cat": "W",
+  "hero": 94,
+  "photos": [
+   93,
+   94,
+   95
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-007",
+  "final_cat": "W",
+  "hero": 99,
+  "photos": [
+   97,
+   99,
+   101
+  ],
+  "duplicates": [
+   96,
+   98,
+   100
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-008",
+  "final_cat": "W",
+  "hero": 311,
+  "photos": [
+   311,
+   313,
+   315
+  ],
+  "duplicates": [
+   310,
+   312,
+   314
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-009",
+  "final_cat": "W",
+  "hero": 317,
+  "photos": [
+   317
+  ],
+  "duplicates": [
+   316
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-010",
+  "final_cat": "W",
+  "hero": 383,
+  "photos": [
+   379,
+   381,
+   383
+  ],
+  "duplicates": [
+   378,
+   380,
+   382
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-011",
+  "final_cat": "W",
+  "hero": 389,
+  "photos": [
+   385,
+   387,
+   389,
+   391
+  ],
+  "duplicates": [
+   384,
+   386,
+   388,
+   390
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-012",
+  "final_cat": "W",
+  "hero": 393,
+  "photos": [
+   393,
+   395
+  ],
+  "duplicates": [
+   392,
+   394
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-013",
+  "final_cat": "W",
+  "hero": 408,
+  "photos": [
+   408
+  ],
+  "duplicates": [
+   407
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-014",
+  "final_cat": "W",
+  "hero": 582,
+  "photos": [
+   582
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-015",
+  "final_cat": "W",
+  "hero": 588,
+  "photos": [
+   588
+  ],
+  "duplicates": [
+   587
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-016",
+  "final_cat": "W",
+  "hero": 652,
+  "photos": [
+   652,
+   654
+  ],
+  "duplicates": [
+   651,
+   653
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-017",
+  "final_cat": "W",
+  "hero": 655,
+  "photos": [
+   655
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-018",
+  "final_cat": "W",
+  "hero": 656,
+  "photos": [
+   656
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-019",
+  "final_cat": "W",
+  "hero": 657,
+  "photos": [
+   657
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-020",
+  "final_cat": "W",
+  "hero": 766,
+  "photos": [
+   766
+  ],
+  "duplicates": [
+   765
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-021",
+  "final_cat": "W",
+  "hero": 768,
+  "photos": [
+   768
+  ],
+  "duplicates": [
+   767
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-022",
+  "final_cat": "W",
+  "hero": 770,
+  "photos": [
+   770
+  ],
+  "duplicates": [
+   769
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-023",
+  "final_cat": "W",
+  "hero": 878,
+  "photos": [
+   878
+  ],
+  "duplicates": [
+   877
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-024",
+  "final_cat": "W",
+  "hero": 894,
+  "photos": [
+   893,
+   894,
+   895,
+   896
+  ],
+  "duplicates": [
+   892
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-025",
+  "final_cat": "W",
+  "hero": 931,
+  "photos": [
+   931,
+   933,
+   935,
+   937,
+   939,
+   941
+  ],
+  "duplicates": [
+   930,
+   932,
+   934,
+   936,
+   938,
+   940
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-026",
+  "final_cat": "W",
+  "hero": 967,
+  "photos": [
+   967,
+   969,
+   976
+  ],
+  "duplicates": [
+   966,
+   968,
+   975
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-027",
+  "final_cat": "W",
+  "hero": 970,
+  "photos": [
+   970,
+   971,
+   974
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-028",
+  "final_cat": "W",
+  "hero": 972,
+  "photos": [
+   972,
+   973
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-029",
+  "final_cat": "W",
+  "hero": 978,
+  "photos": [
+   977,
+   978
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-030",
+  "final_cat": "W",
+  "hero": 980,
+  "photos": [
+   980,
+   982
+  ],
+  "duplicates": [
+   979,
+   981
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-031",
+  "final_cat": "W",
+  "hero": 1064,
+  "photos": [
+   1064,
+   1066,
+   1068
+  ],
+  "duplicates": [
+   1063,
+   1065,
+   1067
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-032",
+  "final_cat": "W",
+  "hero": 1099,
+  "photos": [
+   1099,
+   1101,
+   1103
+  ],
+  "duplicates": [
+   1098,
+   1100,
+   1102
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-033",
+  "final_cat": "W",
+  "hero": 1150,
+  "photos": [
+   1150
+  ],
+  "duplicates": [
+   1149
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-034",
+  "final_cat": "W",
+  "hero": 1152,
+  "photos": [
+   1152
+  ],
+  "duplicates": [
+   1151
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-035",
+  "final_cat": "W",
+  "hero": 1241,
+  "photos": [
+   1239,
+   1241
+  ],
+  "duplicates": [
+   1238,
+   1240
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-036",
+  "final_cat": "W",
+  "hero": 1242,
+  "photos": [
+   1242
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-037",
+  "final_cat": "W",
+  "hero": 1243,
+  "photos": [
+   1243
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-038",
+  "final_cat": "W",
+  "hero": 1299,
+  "photos": [
+   1295,
+   1297,
+   1299
+  ],
+  "duplicates": [
+   1294,
+   1296,
+   1298
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-039",
+  "final_cat": "W",
+  "hero": 1321,
+  "photos": [
+   1320,
+   1321,
+   1322,
+   1324,
+   1325,
+   1326
+  ],
+  "duplicates": [
+   1323
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-040",
+  "final_cat": "W",
+  "hero": 1360,
+  "photos": [
+   1357,
+   1360
+  ],
+  "duplicates": [
+   1356,
+   1358,
+   1359
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-041",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-042",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-043",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-044",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-045",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-046",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-047",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-048",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-W-049",
+  "final_cat": "W",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-B-001",
+  "final_cat": "B",
+  "hero": 4,
+  "photos": [
+   2,
+   4
+  ],
+  "duplicates": [
+   1,
+   3
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-002",
+  "final_cat": "B",
+  "hero": 13,
+  "photos": [
+   12,
+   13
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-003",
+  "final_cat": "B",
+  "hero": 35,
+  "photos": [
+   33,
+   35
+  ],
+  "duplicates": [
+   32,
+   34
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-004",
+  "final_cat": "B",
+  "hero": 44,
+  "photos": [
+   43,
+   44,
+   45,
+   46
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-005",
+  "final_cat": "B",
+  "hero": 52,
+  "photos": [
+   52,
+   53
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-006",
+  "final_cat": "B",
+  "hero": 113,
+  "photos": [
+   113,
+   114,
+   115
+  ],
+  "duplicates": [
+   112
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-007",
+  "final_cat": "B",
+  "hero": 182,
+  "photos": [
+   182,
+   184,
+   185,
+   186
+  ],
+  "duplicates": [
+   183
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-008",
+  "final_cat": "B",
+  "hero": 426,
+  "photos": [
+   426,
+   428,
+   429
+  ],
+  "duplicates": [
+   425,
+   427
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-009",
+  "final_cat": "B",
+  "hero": 431,
+  "photos": [
+   431,
+   433,
+   434
+  ],
+  "duplicates": [
+   430,
+   432
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-010",
+  "final_cat": "B",
+  "hero": 435,
+  "photos": [
+   435,
+   437,
+   439
+  ],
+  "duplicates": [
+   436,
+   438
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-011",
+  "final_cat": "B",
+  "hero": 441,
+  "photos": [
+   441,
+   442,
+   443,
+   444
+  ],
+  "duplicates": [
+   440
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-012",
+  "final_cat": "B",
+  "hero": 446,
+  "photos": [
+   446,
+   448,
+   450
+  ],
+  "duplicates": [
+   445,
+   447,
+   449
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-013",
+  "final_cat": "B",
+  "hero": 455,
+  "photos": [
+   455,
+   457,
+   459
+  ],
+  "duplicates": [
+   454,
+   456,
+   458
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-014",
+  "final_cat": "B",
+  "hero": 494,
+  "photos": [
+   494,
+   496,
+   497
+  ],
+  "duplicates": [
+   495
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-015",
+  "final_cat": "B",
+  "hero": 543,
+  "photos": [
+   543,
+   545,
+   547
+  ],
+  "duplicates": [
+   542,
+   544,
+   546
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-016",
+  "final_cat": "B",
+  "hero": 597,
+  "photos": [
+   597,
+   599,
+   601,
+   603
+  ],
+  "duplicates": [
+   596,
+   598,
+   600,
+   602
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-017",
+  "final_cat": "B",
+  "hero": 632,
+  "photos": [
+   632,
+   634,
+   636
+  ],
+  "duplicates": [
+   631,
+   633,
+   635
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-018",
+  "final_cat": "B",
+  "hero": 637,
+  "photos": [
+   637,
+   639,
+   641,
+   642
+  ],
+  "duplicates": [
+   638,
+   640
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-019",
+  "final_cat": "B",
+  "hero": 647,
+  "photos": [
+   647,
+   649,
+   650
+  ],
+  "duplicates": [
+   646,
+   648
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-020",
+  "final_cat": "B",
+  "hero": 680,
+  "photos": [
+   680,
+   682,
+   683
+  ],
+  "duplicates": [
+   679,
+   681
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-021",
+  "final_cat": "B",
+  "hero": 695,
+  "photos": [
+   695,
+   697,
+   699
+  ],
+  "duplicates": [
+   694,
+   696,
+   698
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-022",
+  "final_cat": "B",
+  "hero": 771,
+  "photos": [
+   771,
+   772,
+   774
+  ],
+  "duplicates": [
+   773
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-023",
+  "final_cat": "B",
+  "hero": 822,
+  "photos": [
+   822,
+   823,
+   825
+  ],
+  "duplicates": [
+   824
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-024",
+  "final_cat": "B",
+  "hero": 830,
+  "photos": [
+   830,
+   831,
+   833
+  ],
+  "duplicates": [
+   829,
+   832
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-025",
+  "final_cat": "B",
+  "hero": 834,
+  "photos": [
+   834,
+   836,
+   838
+  ],
+  "duplicates": [
+   835,
+   837
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-026",
+  "final_cat": "B",
+  "hero": 839,
+  "photos": [
+   839,
+   841,
+   843
+  ],
+  "duplicates": [
+   840,
+   842
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-027",
+  "final_cat": "B",
+  "hero": 844,
+  "photos": [
+   844,
+   846,
+   848
+  ],
+  "duplicates": [
+   845,
+   847
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-028",
+  "final_cat": "B",
+  "hero": 850,
+  "photos": [
+   850,
+   852,
+   853
+  ],
+  "duplicates": [
+   849,
+   851
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-029",
+  "final_cat": "B",
+  "hero": 860,
+  "photos": [
+   860,
+   862,
+   864
+  ],
+  "duplicates": [
+   861,
+   863
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-030",
+  "final_cat": "B",
+  "hero": 866,
+  "photos": [
+   866,
+   868,
+   869
+  ],
+  "duplicates": [
+   865,
+   867
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-031",
+  "final_cat": "B",
+  "hero": 874,
+  "photos": [
+   874,
+   875,
+   876
+  ],
+  "duplicates": [],
+  "existing_code": "R050",
+  "video_only": false
+ },
+ {
+  "code": "JWL-B-032",
+  "final_cat": "B",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-B-033",
+  "final_cat": "B",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-H-001",
+  "final_cat": "H",
+  "hero": 283,
+  "photos": [
+   283,
+   284
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-002",
+  "final_cat": "H",
+  "hero": 285,
+  "photos": [
+   285,
+   286
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-003",
+  "final_cat": "H",
+  "hero": 369,
+  "photos": [
+   369,
+   370,
+   371
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-004",
+  "final_cat": "H",
+  "hero": 478,
+  "photos": [
+   478,
+   479,
+   480,
+   481
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-005",
+  "final_cat": "H",
+  "hero": 503,
+  "photos": [
+   503,
+   504,
+   505
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-006",
+  "final_cat": "H",
+  "hero": 511,
+  "photos": [
+   511,
+   512,
+   513,
+   514
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-007",
+  "final_cat": "H",
+  "hero": 515,
+  "photos": [
+   515,
+   516,
+   517
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-008",
+  "final_cat": "H",
+  "hero": 528,
+  "photos": [
+   528,
+   529,
+   530
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-009",
+  "final_cat": "H",
+  "hero": 538,
+  "photos": [
+   538,
+   539,
+   540,
+   541
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-010",
+  "final_cat": "H",
+  "hero": 548,
+  "photos": [
+   548,
+   549,
+   550
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-011",
+  "final_cat": "H",
+  "hero": 551,
+  "photos": [
+   551,
+   552,
+   553
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-012",
+  "final_cat": "H",
+  "hero": 554,
+  "photos": [
+   554,
+   555,
+   556
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-013",
+  "final_cat": "H",
+  "hero": 557,
+  "photos": [
+   557,
+   558
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-014",
+  "final_cat": "H",
+  "hero": 559,
+  "photos": [
+   559,
+   560,
+   561,
+   562
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-015",
+  "final_cat": "H",
+  "hero": 563,
+  "photos": [
+   563,
+   564,
+   565
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-016",
+  "final_cat": "H",
+  "hero": 566,
+  "photos": [
+   566,
+   567,
+   568
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-017",
+  "final_cat": "H",
+  "hero": 569,
+  "photos": [
+   569,
+   570,
+   571
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-018",
+  "final_cat": "H",
+  "hero": 572,
+  "photos": [
+   572,
+   573,
+   574
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-019",
+  "final_cat": "H",
+  "hero": 575,
+  "photos": [
+   575,
+   576,
+   577
+  ],
+  "duplicates": [
+   578
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-020",
+  "final_cat": "H",
+  "hero": 579,
+  "photos": [
+   579,
+   580,
+   581
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-021",
+  "final_cat": "H",
+  "hero": 879,
+  "photos": [
+   879,
+   880,
+   882,
+   883,
+   884
+  ],
+  "duplicates": [
+   881
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-022",
+  "final_cat": "H",
+  "hero": 885,
+  "photos": [
+   885,
+   886,
+   887
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-023",
+  "final_cat": "H",
+  "hero": 888,
+  "photos": [
+   888,
+   889,
+   890,
+   891
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-024",
+  "final_cat": "H",
+  "hero": 1244,
+  "photos": [
+   1244,
+   1245,
+   1246
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-025",
+  "final_cat": "H",
+  "hero": 1247,
+  "photos": [
+   1247,
+   1248,
+   1249
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-026",
+  "final_cat": "H",
+  "hero": 1250,
+  "photos": [
+   1250,
+   1251,
+   1253,
+   1254
+  ],
+  "duplicates": [
+   1252
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-027",
+  "final_cat": "H",
+  "hero": 1257,
+  "photos": [
+   1255,
+   1256,
+   1257,
+   1258
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-028",
+  "final_cat": "H",
+  "hero": 1259,
+  "photos": [
+   1259,
+   1260,
+   1261
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-029",
+  "final_cat": "H",
+  "hero": 1262,
+  "photos": [
+   1262,
+   1263,
+   1264,
+   1265
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-030",
+  "final_cat": "H",
+  "hero": 1270,
+  "photos": [
+   1270,
+   1271,
+   1272
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-031",
+  "final_cat": "H",
+  "hero": 1274,
+  "photos": [
+   1273,
+   1274,
+   1275
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-032",
+  "final_cat": "H",
+  "hero": 1276,
+  "photos": [
+   1276,
+   1277,
+   1278
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-033",
+  "final_cat": "H",
+  "hero": 1279,
+  "photos": [
+   1279,
+   1280,
+   1281
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-034",
+  "final_cat": "H",
+  "hero": 1283,
+  "photos": [
+   1282,
+   1283,
+   1284,
+   1286
+  ],
+  "duplicates": [
+   1285
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-035",
+  "final_cat": "H",
+  "hero": 1292,
+  "photos": [
+   1291,
+   1292
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-036",
+  "final_cat": "H",
+  "hero": 1304,
+  "photos": [
+   1300,
+   1301,
+   1302,
+   1304,
+   1305,
+   1306,
+   1293,
+   1303,
+   1307
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-037",
+  "final_cat": "H",
+  "hero": 1327,
+  "photos": [
+   1327,
+   1328,
+   1329
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-038",
+  "final_cat": "H",
+  "hero": 1333,
+  "photos": [
+   1330,
+   1331,
+   1332,
+   1333
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-039",
+  "final_cat": "H",
+  "hero": 1373,
+  "photos": [
+   1373,
+   1374,
+   1375,
+   1376
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-H-040",
+  "final_cat": "H",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-R-001",
+  "final_cat": "R",
+  "hero": 401,
+  "photos": [
+   397,
+   400,
+   401,
+   403
+  ],
+  "duplicates": [
+   396,
+   398,
+   399,
+   402
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-002",
+  "final_cat": "R",
+  "hero": 707,
+  "photos": [
+   707,
+   709
+  ],
+  "duplicates": [
+   706,
+   708
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-003",
+  "final_cat": "R",
+  "hero": 711,
+  "photos": [
+   711,
+   714,
+   716
+  ],
+  "duplicates": [
+   710,
+   712,
+   713,
+   715
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-004",
+  "final_cat": "R",
+  "hero": 718,
+  "photos": [
+   718,
+   720,
+   722
+  ],
+  "duplicates": [
+   717,
+   719,
+   721
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-005",
+  "final_cat": "R",
+  "hero": 724,
+  "photos": [
+   724,
+   726,
+   728
+  ],
+  "duplicates": [
+   723,
+   725,
+   727
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-006",
+  "final_cat": "R",
+  "hero": 730,
+  "photos": [
+   730,
+   732,
+   734
+  ],
+  "duplicates": [
+   729,
+   731,
+   733
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-007",
+  "final_cat": "R",
+  "hero": 736,
+  "photos": [
+   736,
+   738,
+   741
+  ],
+  "duplicates": [
+   735,
+   737,
+   739,
+   740
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-008",
+  "final_cat": "R",
+  "hero": 744,
+  "photos": [
+   744,
+   746
+  ],
+  "duplicates": [
+   742,
+   743,
+   745
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-009",
+  "final_cat": "R",
+  "hero": 748,
+  "photos": [
+   748,
+   749
+  ],
+  "duplicates": [
+   747
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-010",
+  "final_cat": "R",
+  "hero": 751,
+  "photos": [
+   751,
+   752
+  ],
+  "duplicates": [
+   750
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-011",
+  "final_cat": "R",
+  "hero": 754,
+  "photos": [
+   754,
+   757
+  ],
+  "duplicates": [
+   753,
+   755,
+   756
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-012",
+  "final_cat": "R",
+  "hero": 762,
+  "photos": [
+   760,
+   762,
+   764
+  ],
+  "duplicates": [
+   758,
+   759,
+   761,
+   763
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-R-013",
+  "final_cat": "R",
+  "hero": 962,
+  "photos": [
+   962,
+   963,
+   964,
+   965
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-001",
+  "final_cat": "RS",
+  "hero": 21,
+  "photos": [
+   19,
+   21
+  ],
+  "duplicates": [
+   18,
+   20
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-002",
+  "final_cat": "RS",
+  "hero": 23,
+  "photos": [
+   23,
+   25
+  ],
+  "duplicates": [
+   22,
+   24
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-003",
+  "final_cat": "RS",
+  "hero": 27,
+  "photos": [
+   27,
+   29,
+   31
+  ],
+  "duplicates": [
+   26,
+   28,
+   30
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-004",
+  "final_cat": "RS",
+  "hero": 58,
+  "photos": [
+   56,
+   58
+  ],
+  "duplicates": [
+   54,
+   55,
+   57
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-005",
+  "final_cat": "RS",
+  "hero": 68,
+  "photos": [
+   64,
+   66,
+   68
+  ],
+  "duplicates": [
+   63,
+   65,
+   67
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-006",
+  "final_cat": "RS",
+  "hero": 103,
+  "photos": [
+   103,
+   104,
+   105,
+   107,
+   263
+  ],
+  "duplicates": [
+   102,
+   106,
+   262
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-007",
+  "final_cat": "RS",
+  "hero": 109,
+  "photos": [
+   109,
+   111
+  ],
+  "duplicates": [
+   108,
+   110
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-008",
+  "final_cat": "RS",
+  "hero": 120,
+  "photos": [
+   116,
+   118,
+   120,
+   122
+  ],
+  "duplicates": [
+   117,
+   119,
+   121
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-009",
+  "final_cat": "RS",
+  "hero": 129,
+  "photos": [
+   127,
+   129
+  ],
+  "duplicates": [
+   126,
+   128
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-010",
+  "final_cat": "RS",
+  "hero": 131,
+  "photos": [
+   131,
+   133,
+   136
+  ],
+  "duplicates": [
+   130,
+   132,
+   134,
+   135
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-011",
+  "final_cat": "RS",
+  "hero": 142,
+  "photos": [
+   138,
+   140,
+   142
+  ],
+  "duplicates": [
+   137,
+   139,
+   141
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-012",
+  "final_cat": "RS",
+  "hero": 146,
+  "photos": [
+   146,
+   148
+  ],
+  "duplicates": [
+   145,
+   147
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-013",
+  "final_cat": "RS",
+  "hero": 150,
+  "photos": [
+   150,
+   152,
+   175
+  ],
+  "duplicates": [
+   149,
+   151,
+   174
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-014",
+  "final_cat": "RS",
+  "hero": 156,
+  "photos": [
+   153,
+   155,
+   156
+  ],
+  "duplicates": [
+   154
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-015",
+  "final_cat": "RS",
+  "hero": 160,
+  "photos": [
+   158,
+   160
+  ],
+  "duplicates": [
+   157,
+   159
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-016",
+  "final_cat": "RS",
+  "hero": 164,
+  "photos": [
+   164,
+   165,
+   173
+  ],
+  "duplicates": [
+   161,
+   162,
+   163,
+   172
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-017",
+  "final_cat": "RS",
+  "hero": 169,
+  "photos": [
+   167,
+   169,
+   171
+  ],
+  "duplicates": [
+   166,
+   168,
+   170
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-018",
+  "final_cat": "RS",
+  "hero": 177,
+  "photos": [
+   177,
+   179,
+   181
+  ],
+  "duplicates": [
+   176,
+   178,
+   180
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-019",
+  "final_cat": "RS",
+  "hero": 192,
+  "photos": [
+   188,
+   190,
+   192,
+   194
+  ],
+  "duplicates": [
+   187,
+   189,
+   191,
+   193
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-020",
+  "final_cat": "RS",
+  "hero": 196,
+  "photos": [
+   196,
+   198,
+   200,
+   202,
+   256
+  ],
+  "duplicates": [
+   195,
+   197,
+   199,
+   201,
+   255
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-021",
+  "final_cat": "RS",
+  "hero": 204,
+  "photos": [
+   204,
+   207,
+   208,
+   250
+  ],
+  "duplicates": [
+   203,
+   205,
+   206,
+   249
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-022",
+  "final_cat": "RS",
+  "hero": 216,
+  "photos": [
+   216,
+   217,
+   219,
+   260
+  ],
+  "duplicates": [
+   215,
+   218,
+   259
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-023",
+  "final_cat": "RS",
+  "hero": 221,
+  "photos": [
+   221,
+   223,
+   225,
+   248
+  ],
+  "duplicates": [
+   220,
+   222,
+   224
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-024",
+  "final_cat": "RS",
+  "hero": 231,
+  "photos": [
+   231,
+   233,
+   234,
+   235,
+   252,
+   254
+  ],
+  "duplicates": [
+   230,
+   232,
+   251,
+   253
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-025",
+  "final_cat": "RS",
+  "hero": 290,
+  "photos": [
+   290,
+   292,
+   294,
+   297,
+   299
+  ],
+  "duplicates": [
+   287,
+   288,
+   289,
+   291,
+   293,
+   295,
+   296,
+   298
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-026",
+  "final_cat": "RS",
+  "hero": 301,
+  "photos": [
+   301,
+   302,
+   304,
+   306
+  ],
+  "duplicates": [
+   300,
+   303,
+   305
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-027",
+  "final_cat": "RS",
+  "hero": 319,
+  "photos": [
+   319,
+   321,
+   323,
+   324,
+   326
+  ],
+  "duplicates": [
+   318,
+   320,
+   322,
+   325
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-028",
+  "final_cat": "RS",
+  "hero": 338,
+  "photos": [
+   338,
+   342,
+   343,
+   345
+  ],
+  "duplicates": [
+   337,
+   339,
+   340,
+   341,
+   344
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-029",
+  "final_cat": "RS",
+  "hero": 354,
+  "photos": [
+   354,
+   356,
+   358,
+   361,
+   363
+  ],
+  "duplicates": [
+   355,
+   357,
+   359,
+   360,
+   362
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-030",
+  "final_cat": "RS",
+  "hero": 372,
+  "photos": [
+   372,
+   373
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-031",
+  "final_cat": "RS",
+  "hero": 377,
+  "photos": [
+   375,
+   377
+  ],
+  "duplicates": [
+   374,
+   376
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-032",
+  "final_cat": "RS",
+  "hero": 406,
+  "photos": [
+   405,
+   406
+  ],
+  "duplicates": [
+   404
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-033",
+  "final_cat": "RS",
+  "hero": 412,
+  "photos": [
+   412,
+   414,
+   416
+  ],
+  "duplicates": [
+   409,
+   410,
+   411,
+   413,
+   415
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-034",
+  "final_cat": "RS",
+  "hero": 418,
+  "photos": [
+   418,
+   420
+  ],
+  "duplicates": [
+   417,
+   419
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-035",
+  "final_cat": "RS",
+  "hero": 422,
+  "photos": [
+   422,
+   424
+  ],
+  "duplicates": [
+   421,
+   423
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-036",
+  "final_cat": "RS",
+  "hero": 470,
+  "photos": [
+   470,
+   473,
+   474
+  ],
+  "duplicates": [
+   469,
+   471,
+   472
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-037",
+  "final_cat": "RS",
+  "hero": 499,
+  "photos": [
+   499,
+   501,
+   502
+  ],
+  "duplicates": [
+   498,
+   500
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-038",
+  "final_cat": "RS",
+  "hero": 584,
+  "photos": [
+   584,
+   586
+  ],
+  "duplicates": [
+   583,
+   585
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-039",
+  "final_cat": "RS",
+  "hero": 590,
+  "photos": [
+   590,
+   591,
+   595
+  ],
+  "duplicates": [
+   589,
+   592,
+   593,
+   594
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-040",
+  "final_cat": "RS",
+  "hero": 607,
+  "photos": [
+   607,
+   609,
+   611
+  ],
+  "duplicates": [
+   604,
+   605,
+   606,
+   608,
+   610
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-041",
+  "final_cat": "RS",
+  "hero": 662,
+  "photos": [
+   662,
+   664,
+   665
+  ],
+  "duplicates": [
+   661,
+   663
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-042",
+  "final_cat": "RS",
+  "hero": 667,
+  "photos": [
+   667,
+   669,
+   671
+  ],
+  "duplicates": [
+   666,
+   668,
+   670
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-043",
+  "final_cat": "RS",
+  "hero": 673,
+  "photos": [
+   673,
+   674,
+   675
+  ],
+  "duplicates": [
+   672
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-044",
+  "final_cat": "RS",
+  "hero": 776,
+  "photos": [
+   776,
+   778,
+   780
+  ],
+  "duplicates": [
+   775,
+   777,
+   779
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-045",
+  "final_cat": "RS",
+  "hero": 782,
+  "photos": [
+   782,
+   784,
+   785
+  ],
+  "duplicates": [
+   781,
+   783
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-046",
+  "final_cat": "RS",
+  "hero": 787,
+  "photos": [
+   787,
+   788,
+   790
+  ],
+  "duplicates": [
+   786,
+   789
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-047",
+  "final_cat": "RS",
+  "hero": 792,
+  "photos": [
+   792,
+   794,
+   796
+  ],
+  "duplicates": [
+   791,
+   793,
+   795
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-048",
+  "final_cat": "RS",
+  "hero": 800,
+  "photos": [
+   800,
+   802,
+   804
+  ],
+  "duplicates": [
+   797,
+   798,
+   799,
+   801,
+   803
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-049",
+  "final_cat": "RS",
+  "hero": 806,
+  "photos": [
+   806,
+   808,
+   810,
+   812
+  ],
+  "duplicates": [
+   805,
+   807,
+   809,
+   811
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-050",
+  "final_cat": "RS",
+  "hero": 814,
+  "photos": [
+   814,
+   816,
+   818
+  ],
+  "duplicates": [
+   813,
+   815,
+   817
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-051",
+  "final_cat": "RS",
+  "hero": 855,
+  "photos": [
+   855,
+   858,
+   859
+  ],
+  "duplicates": [
+   854,
+   856,
+   857
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-052",
+  "final_cat": "RS",
+  "hero": 943,
+  "photos": [
+   943,
+   945,
+   947,
+   949
+  ],
+  "duplicates": [
+   942,
+   944,
+   946,
+   948
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-053",
+  "final_cat": "RS",
+  "hero": 983,
+  "photos": [
+   983,
+   984
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-054",
+  "final_cat": "RS",
+  "hero": 985,
+  "photos": [
+   985,
+   986,
+   987
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-055",
+  "final_cat": "RS",
+  "hero": 989,
+  "photos": [
+   988,
+   989,
+   991
+  ],
+  "duplicates": [
+   990
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-056",
+  "final_cat": "RS",
+  "hero": 1048,
+  "photos": [
+   1048,
+   1050,
+   1051
+  ],
+  "duplicates": [
+   1047,
+   1049
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-057",
+  "final_cat": "RS",
+  "hero": 1056,
+  "photos": [
+   1056,
+   1058
+  ],
+  "duplicates": [
+   1055,
+   1057
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-058",
+  "final_cat": "RS",
+  "hero": 1060,
+  "photos": [
+   1060,
+   1062
+  ],
+  "duplicates": [
+   1059,
+   1061
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-059",
+  "final_cat": "RS",
+  "hero": 1070,
+  "photos": [
+   1070,
+   1071,
+   1073
+  ],
+  "duplicates": [
+   1069,
+   1072
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-060",
+  "final_cat": "RS",
+  "hero": 1075,
+  "photos": [
+   1075,
+   1077,
+   1079
+  ],
+  "duplicates": [
+   1074,
+   1076,
+   1078
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-061",
+  "final_cat": "RS",
+  "hero": 1086,
+  "photos": [
+   1086,
+   1088,
+   1089,
+   1090
+  ],
+  "duplicates": [
+   1083,
+   1084,
+   1085,
+   1087
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-062",
+  "final_cat": "RS",
+  "hero": 1091,
+  "photos": [
+   1091,
+   1092,
+   1093
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-063",
+  "final_cat": "RS",
+  "hero": 1105,
+  "photos": [
+   1105,
+   1106,
+   1107,
+   1108,
+   1109
+  ],
+  "duplicates": [
+   1104
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-064",
+  "final_cat": "RS",
+  "hero": 1110,
+  "photos": [
+   1110,
+   1111,
+   1112
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-065",
+  "final_cat": "RS",
+  "hero": 1114,
+  "photos": [
+   1114,
+   1115,
+   1116
+  ],
+  "duplicates": [
+   1113
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-066",
+  "final_cat": "RS",
+  "hero": 1118,
+  "photos": [
+   1118,
+   1119,
+   1121,
+   1122
+  ],
+  "duplicates": [
+   1117,
+   1120
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-067",
+  "final_cat": "RS",
+  "hero": 1124,
+  "photos": [
+   1124,
+   1125,
+   1127
+  ],
+  "duplicates": [
+   1123,
+   1126
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-068",
+  "final_cat": "RS",
+  "hero": 1128,
+  "photos": [
+   1128,
+   1129,
+   1131
+  ],
+  "duplicates": [
+   1130
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-069",
+  "final_cat": "RS",
+  "hero": 1134,
+  "photos": [
+   1134,
+   1136,
+   1138
+  ],
+  "duplicates": [
+   1132,
+   1133,
+   1135,
+   1137
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-070",
+  "final_cat": "RS",
+  "hero": 1139,
+  "photos": [
+   1139,
+   1140,
+   1141
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-071",
+  "final_cat": "RS",
+  "hero": 1144,
+  "photos": [
+   1143,
+   1144,
+   1146,
+   1148
+  ],
+  "duplicates": [
+   1142,
+   1145,
+   1147
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-072",
+  "final_cat": "RS",
+  "hero": 1154,
+  "photos": [
+   1153,
+   1154,
+   1155,
+   1156
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-073",
+  "final_cat": "RS",
+  "hero": 1158,
+  "photos": [
+   1158,
+   1160,
+   1162
+  ],
+  "duplicates": [
+   1157,
+   1159,
+   1161
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-074",
+  "final_cat": "RS",
+  "hero": 1163,
+  "photos": [
+   1163,
+   1164,
+   1166,
+   1170
+  ],
+  "duplicates": [
+   1165,
+   1167,
+   1168,
+   1169
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-075",
+  "final_cat": "RS",
+  "hero": 1174,
+  "photos": [
+   1174,
+   1176,
+   1177,
+   1179
+  ],
+  "duplicates": [
+   1171,
+   1172,
+   1173,
+   1175,
+   1178
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-076",
+  "final_cat": "RS",
+  "hero": 1180,
+  "photos": [
+   1180,
+   1181,
+   1182,
+   1183
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-077",
+  "final_cat": "RS",
+  "hero": 1185,
+  "photos": [
+   1185,
+   1187,
+   1189,
+   1191
+  ],
+  "duplicates": [
+   1184,
+   1186,
+   1188,
+   1190
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-078",
+  "final_cat": "RS",
+  "hero": 1195,
+  "photos": [
+   1195,
+   1199
+  ],
+  "duplicates": [
+   1192,
+   1193,
+   1194,
+   1196,
+   1197,
+   1198
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-079",
+  "final_cat": "RS",
+  "hero": 1203,
+  "photos": [
+   1201,
+   1203,
+   1205,
+   1207
+  ],
+  "duplicates": [
+   1200,
+   1202,
+   1204,
+   1206
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-080",
+  "final_cat": "RS",
+  "hero": 1213,
+  "photos": [
+   1209,
+   1213,
+   1217
+  ],
+  "duplicates": [
+   1208,
+   1210,
+   1211,
+   1212,
+   1214,
+   1215,
+   1216
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-081",
+  "final_cat": "RS",
+  "hero": 1223,
+  "photos": [
+   1219,
+   1223,
+   1225,
+   1227
+  ],
+  "duplicates": [
+   1218,
+   1220,
+   1221,
+   1222,
+   1224,
+   1226
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-082",
+  "final_cat": "RS",
+  "hero": 1229,
+  "photos": [
+   1228,
+   1229,
+   1231,
+   1233
+  ],
+  "duplicates": [
+   1230,
+   1232
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-083",
+  "final_cat": "RS",
+  "hero": 1235,
+  "photos": [
+   1235,
+   1237
+  ],
+  "duplicates": [
+   1234,
+   1236
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-084",
+  "final_cat": "RS",
+  "hero": 1267,
+  "photos": [
+   1266,
+   1267,
+   1269
+  ],
+  "duplicates": [
+   1268
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-085",
+  "final_cat": "RS",
+  "hero": 1288,
+  "photos": [
+   1288,
+   1290
+  ],
+  "duplicates": [
+   1287,
+   1289
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-086",
+  "final_cat": "RS",
+  "hero": 1309,
+  "photos": [
+   1309,
+   1311,
+   1313
+  ],
+  "duplicates": [
+   1308,
+   1310,
+   1312
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-087",
+  "final_cat": "RS",
+  "hero": 1315,
+  "photos": [
+   1315,
+   1319
+  ],
+  "duplicates": [
+   1314,
+   1316,
+   1317,
+   1318
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-088",
+  "final_cat": "RS",
+  "hero": 1336,
+  "photos": [
+   1334,
+   1336,
+   1338,
+   1339,
+   1341
+  ],
+  "duplicates": [
+   1335,
+   1337,
+   1340
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-089",
+  "final_cat": "RS",
+  "hero": 1348,
+  "photos": [
+   1348,
+   1352
+  ],
+  "duplicates": [
+   1349,
+   1350,
+   1351
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-090",
+  "final_cat": "RS",
+  "hero": 1353,
+  "photos": [
+   1353,
+   1354,
+   1355
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-091",
+  "final_cat": "RS",
+  "hero": 1361,
+  "photos": [
+   1361,
+   1362,
+   1363,
+   1364
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-092",
+  "final_cat": "RS",
+  "hero": 1365,
+  "photos": [
+   1365,
+   1366,
+   1367,
+   1368
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-093",
+  "final_cat": "RS",
+  "hero": 1369,
+  "photos": [
+   1369,
+   1370,
+   1371,
+   1372
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-RS-094",
+  "final_cat": "RS",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-RS-095",
+  "final_cat": "RS",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-RS-096",
+  "final_cat": "RS",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-RS-097",
+  "final_cat": "RS",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-HS-001",
+  "final_cat": "HS",
+  "hero": 6,
+  "photos": [
+   5,
+   6,
+   7
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-002",
+  "final_cat": "HS",
+  "hero": 39,
+  "photos": [
+   37,
+   39,
+   40,
+   41,
+   42
+  ],
+  "duplicates": [
+   36,
+   38
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-003",
+  "final_cat": "HS",
+  "hero": 60,
+  "photos": [
+   59,
+   60
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-004",
+  "final_cat": "HS",
+  "hero": 61,
+  "photos": [
+   61,
+   62
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-005",
+  "final_cat": "HS",
+  "hero": 72,
+  "photos": [
+   72,
+   73,
+   74,
+   75
+  ],
+  "duplicates": [
+   71
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-006",
+  "final_cat": "HS",
+  "hero": 77,
+  "photos": [
+   76,
+   77,
+   78
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-007",
+  "final_cat": "HS",
+  "hero": 79,
+  "photos": [
+   79,
+   80,
+   81
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-008",
+  "final_cat": "HS",
+  "hero": 84,
+  "photos": [
+   82,
+   83,
+   84,
+   85
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-009",
+  "final_cat": "HS",
+  "hero": 86,
+  "photos": [
+   86,
+   87,
+   88,
+   89
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-010",
+  "final_cat": "HS",
+  "hero": 90,
+  "photos": [
+   90,
+   91,
+   92
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-011",
+  "final_cat": "HS",
+  "hero": 125,
+  "photos": [
+   123,
+   124,
+   125
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-012",
+  "final_cat": "HS",
+  "hero": 144,
+  "photos": [
+   143,
+   144
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-013",
+  "final_cat": "HS",
+  "hero": 209,
+  "photos": [
+   209,
+   210,
+   211,
+   261
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-014",
+  "final_cat": "HS",
+  "hero": 212,
+  "photos": [
+   212,
+   213,
+   214
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-015",
+  "final_cat": "HS",
+  "hero": 226,
+  "photos": [
+   226,
+   227,
+   228,
+   229,
+   257
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-016",
+  "final_cat": "HS",
+  "hero": 236,
+  "photos": [
+   236,
+   237,
+   238
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-017",
+  "final_cat": "HS",
+  "hero": 239,
+  "photos": [
+   239,
+   240,
+   241,
+   247
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-018",
+  "final_cat": "HS",
+  "hero": 244,
+  "photos": [
+   242,
+   243,
+   244,
+   246,
+   258
+  ],
+  "duplicates": [
+   245
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-019",
+  "final_cat": "HS",
+  "hero": 264,
+  "photos": [
+   264,
+   265
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-020",
+  "final_cat": "HS",
+  "hero": 267,
+  "photos": [
+   267,
+   268,
+   269
+  ],
+  "duplicates": [
+   266
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-021",
+  "final_cat": "HS",
+  "hero": 270,
+  "photos": [
+   270,
+   271,
+   272
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-022",
+  "final_cat": "HS",
+  "hero": 273,
+  "photos": [
+   273,
+   274,
+   276
+  ],
+  "duplicates": [
+   275
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-023",
+  "final_cat": "HS",
+  "hero": 278,
+  "photos": [
+   277,
+   278,
+   279,
+   280
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-024",
+  "final_cat": "HS",
+  "hero": 281,
+  "photos": [
+   281,
+   282
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-025",
+  "final_cat": "HS",
+  "hero": 307,
+  "photos": [
+   307,
+   308,
+   309
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-026",
+  "final_cat": "HS",
+  "hero": 327,
+  "photos": [
+   327,
+   328,
+   329,
+   330
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-027",
+  "final_cat": "HS",
+  "hero": 332,
+  "photos": [
+   331,
+   332,
+   333
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-028",
+  "final_cat": "HS",
+  "hero": 335,
+  "photos": [
+   334,
+   335,
+   336
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-029",
+  "final_cat": "HS",
+  "hero": 346,
+  "photos": [
+   346,
+   348,
+   349
+  ],
+  "duplicates": [
+   347
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-030",
+  "final_cat": "HS",
+  "hero": 350,
+  "photos": [
+   350,
+   351,
+   352,
+   353
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-031",
+  "final_cat": "HS",
+  "hero": 366,
+  "photos": [
+   366,
+   367,
+   368
+  ],
+  "duplicates": [
+   364,
+   365
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-032",
+  "final_cat": "HS",
+  "hero": 451,
+  "photos": [
+   451,
+   452,
+   453
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-033",
+  "final_cat": "HS",
+  "hero": 460,
+  "photos": [
+   460,
+   462,
+   463,
+   464
+  ],
+  "duplicates": [
+   461
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-034",
+  "final_cat": "HS",
+  "hero": 465,
+  "photos": [
+   465,
+   466,
+   468
+  ],
+  "duplicates": [
+   467
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-035",
+  "final_cat": "HS",
+  "hero": 475,
+  "photos": [
+   475,
+   476,
+   477
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-036",
+  "final_cat": "HS",
+  "hero": 483,
+  "photos": [
+   483,
+   484,
+   485
+  ],
+  "duplicates": [
+   482
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-037",
+  "final_cat": "HS",
+  "hero": 486,
+  "photos": [
+   486,
+   487,
+   488,
+   489
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-038",
+  "final_cat": "HS",
+  "hero": 491,
+  "photos": [
+   491,
+   492,
+   493
+  ],
+  "duplicates": [
+   490
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-039",
+  "final_cat": "HS",
+  "hero": 506,
+  "photos": [
+   506,
+   509,
+   510
+  ],
+  "duplicates": [
+   507,
+   508
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-040",
+  "final_cat": "HS",
+  "hero": 519,
+  "photos": [
+   518,
+   519,
+   520
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-041",
+  "final_cat": "HS",
+  "hero": 521,
+  "photos": [
+   521,
+   522,
+   523
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-042",
+  "final_cat": "HS",
+  "hero": 524,
+  "photos": [
+   524,
+   525,
+   527
+  ],
+  "duplicates": [
+   526
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-043",
+  "final_cat": "HS",
+  "hero": 531,
+  "photos": [
+   531,
+   532,
+   533,
+   534
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-044",
+  "final_cat": "HS",
+  "hero": 535,
+  "photos": [
+   535,
+   536,
+   537
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-045",
+  "final_cat": "HS",
+  "hero": 612,
+  "photos": [
+   612,
+   613,
+   614
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-046",
+  "final_cat": "HS",
+  "hero": 615,
+  "photos": [
+   615,
+   616,
+   617,
+   618
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-047",
+  "final_cat": "HS",
+  "hero": 619,
+  "photos": [
+   619,
+   620,
+   621
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-048",
+  "final_cat": "HS",
+  "hero": 622,
+  "photos": [
+   622,
+   623,
+   624
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-049",
+  "final_cat": "HS",
+  "hero": 625,
+  "photos": [
+   625,
+   626,
+   627
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-050",
+  "final_cat": "HS",
+  "hero": 628,
+  "photos": [
+   628,
+   629,
+   630
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-051",
+  "final_cat": "HS",
+  "hero": 643,
+  "photos": [
+   643,
+   644,
+   645
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-052",
+  "final_cat": "HS",
+  "hero": 658,
+  "photos": [
+   658,
+   659,
+   660
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-053",
+  "final_cat": "HS",
+  "hero": 676,
+  "photos": [
+   676,
+   677,
+   678
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-054",
+  "final_cat": "HS",
+  "hero": 684,
+  "photos": [
+   684,
+   685,
+   686
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-055",
+  "final_cat": "HS",
+  "hero": 688,
+  "photos": [
+   688,
+   689,
+   690
+  ],
+  "duplicates": [
+   687
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-056",
+  "final_cat": "HS",
+  "hero": 691,
+  "photos": [
+   691,
+   692,
+   693
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-057",
+  "final_cat": "HS",
+  "hero": 701,
+  "photos": [
+   700,
+   701,
+   702
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-058",
+  "final_cat": "HS",
+  "hero": 704,
+  "photos": [
+   703,
+   704,
+   705
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-059",
+  "final_cat": "HS",
+  "hero": 819,
+  "photos": [
+   819,
+   820,
+   821
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-060",
+  "final_cat": "HS",
+  "hero": 826,
+  "photos": [
+   826,
+   827,
+   828
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-061",
+  "final_cat": "HS",
+  "hero": 870,
+  "photos": [
+   870,
+   871,
+   872,
+   873
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-062",
+  "final_cat": "HS",
+  "hero": 897,
+  "photos": [
+   897,
+   898,
+   922
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-063",
+  "final_cat": "HS",
+  "hero": 899,
+  "photos": [
+   899,
+   900,
+   923
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-064",
+  "final_cat": "HS",
+  "hero": 903,
+  "photos": [
+   901,
+   902,
+   903,
+   904,
+   921
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-065",
+  "final_cat": "HS",
+  "hero": 905,
+  "photos": [
+   905,
+   906,
+   920
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-066",
+  "final_cat": "HS",
+  "hero": 907,
+  "photos": [
+   907,
+   908,
+   919
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-067",
+  "final_cat": "HS",
+  "hero": 910,
+  "photos": [
+   909,
+   910,
+   911,
+   912,
+   913
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-068",
+  "final_cat": "HS",
+  "hero": 914,
+  "photos": [
+   914,
+   915,
+   916,
+   917,
+   918
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-069",
+  "final_cat": "HS",
+  "hero": 924,
+  "photos": [
+   924,
+   925,
+   926
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-070",
+  "final_cat": "HS",
+  "hero": 927,
+  "photos": [
+   927,
+   928,
+   929
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-071",
+  "final_cat": "HS",
+  "hero": 951,
+  "photos": [
+   950,
+   951,
+   953
+  ],
+  "duplicates": [
+   952
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-072",
+  "final_cat": "HS",
+  "hero": 956,
+  "photos": [
+   954,
+   956,
+   957
+  ],
+  "duplicates": [
+   955
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-073",
+  "final_cat": "HS",
+  "hero": 961,
+  "photos": [
+   958,
+   959,
+   960,
+   961
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-074",
+  "final_cat": "HS",
+  "hero": 992,
+  "photos": [
+   992,
+   993,
+   994,
+   995,
+   996
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-075",
+  "final_cat": "HS",
+  "hero": 997,
+  "photos": [
+   997,
+   998,
+   999,
+   1000
+  ],
+  "duplicates": [],
+  "existing_code": "Ring-4",
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-076",
+  "final_cat": "HS",
+  "hero": 1002,
+  "photos": [
+   1002,
+   1003,
+   1004,
+   1005
+  ],
+  "duplicates": [
+   1001
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-077",
+  "final_cat": "HS",
+  "hero": 1006,
+  "photos": [
+   1006,
+   1007,
+   1008
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-078",
+  "final_cat": "HS",
+  "hero": 1009,
+  "photos": [
+   1009,
+   1010,
+   1012
+  ],
+  "duplicates": [
+   1011
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-079",
+  "final_cat": "HS",
+  "hero": 1013,
+  "photos": [
+   1013,
+   1014,
+   1015
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-080",
+  "final_cat": "HS",
+  "hero": 1016,
+  "photos": [
+   1016,
+   1017,
+   1018
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-081",
+  "final_cat": "HS",
+  "hero": 1019,
+  "photos": [
+   1019,
+   1020,
+   1021
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-082",
+  "final_cat": "HS",
+  "hero": 1022,
+  "photos": [
+   1022,
+   1023,
+   1024
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-083",
+  "final_cat": "HS",
+  "hero": 1025,
+  "photos": [
+   1025,
+   1026,
+   1027
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-084",
+  "final_cat": "HS",
+  "hero": 1028,
+  "photos": [
+   1028,
+   1029,
+   1030
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-085",
+  "final_cat": "HS",
+  "hero": 1031,
+  "photos": [
+   1031,
+   1032,
+   1033
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-086",
+  "final_cat": "HS",
+  "hero": 1034,
+  "photos": [
+   1034,
+   1035,
+   1036
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-087",
+  "final_cat": "HS",
+  "hero": 1038,
+  "photos": [
+   1038,
+   1039,
+   1040
+  ],
+  "duplicates": [
+   1037
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-088",
+  "final_cat": "HS",
+  "hero": 1041,
+  "photos": [
+   1041,
+   1042,
+   1043
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-089",
+  "final_cat": "HS",
+  "hero": 1044,
+  "photos": [
+   1044,
+   1045,
+   1046
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-090",
+  "final_cat": "HS",
+  "hero": 1052,
+  "photos": [
+   1052,
+   1053,
+   1054
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-091",
+  "final_cat": "HS",
+  "hero": 1080,
+  "photos": [
+   1080,
+   1081,
+   1082
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-092",
+  "final_cat": "HS",
+  "hero": 1094,
+  "photos": [
+   1094,
+   1095,
+   1096,
+   1097
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-093",
+  "final_cat": "HS",
+  "hero": 1342,
+  "photos": [
+   1342,
+   1344,
+   1346
+  ],
+  "duplicates": [
+   1343,
+   1345,
+   1347
+  ],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-094",
+  "final_cat": "HS",
+  "hero": 1377,
+  "photos": [
+   1377,
+   1378,
+   1379,
+   1380
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-095",
+  "final_cat": "HS",
+  "hero": 1381,
+  "photos": [
+   1381,
+   1382,
+   1383,
+   1384
+  ],
+  "duplicates": [],
+  "existing_code": "Ring-3",
+  "video_only": false
+ },
+ {
+  "code": "JWL-HS-096",
+  "final_cat": "HS",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ },
+ {
+  "code": "JWL-HS-097",
+  "final_cat": "HS",
+  "hero": null,
+  "photos": [],
+  "duplicates": [],
+  "existing_code": null,
+  "video_only": true
+ }
+]

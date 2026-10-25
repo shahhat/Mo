@@ -1,0 +1,1294 @@
+[
+ {
+  "piece": "g1-01",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   2,
+   4
+  ],
+  "duplicates": [
+   1,
+   3
+  ],
+  "hero": 4,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Large oval red-orange carnelian (visual guess) engraved in three vertical columns of naskh/thuluth script with small flower fillers, in a beaded bezel on a scalloped collar; sunburst fan-rib openwork shoulders. Silver-tone metal, good condition.",
+  "facts_en": "Inscription not read.",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": "Two views (#2 angled, #4 front). #1/#3 are pixel-identical '(1)' copies."
+ },
+ {
+  "piece": "g1-02",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   5,
+   6,
+   7
+  ],
+  "duplicates": [],
+  "hero": 6,
+  "type_en": "men's ring with green jade cabochon",
+  "visual_en": "Bright green translucent oval cabochon, looks like jadeite jade, held by claw prongs; pierced teardrop motifs at the bezel and deeply fluted (ribbed) shoulders. Pale gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": "Same HS mount family as g1-10 (turquoise) and g1-22 (emerald) but a different stone, so a separate ring."
+ },
+ {
+  "piece": "g1-03",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   9,
+   11
+  ],
+  "duplicates": [
+   8,
+   10
+  ],
+  "hero": 9,
+  "type_en": "oval engraved agate pendant with turquoise surround",
+  "visual_en": "Oval honey/yellow agate (visual guess) engraved with a central cartouche and a border inscription, framed by a row of small turquoise cabochons; fleur-shaped bail with a granulated flower. The back (#11) is openwork scrollwork set with small turquoise cabochons, with an engraved flower-and-bird rim. Gold-tone metal.",
+  "facts_en": "Border inscription seems to begin with 'بسم الله الرحمن الرحيم' (?) (#9); small stamps on the back rim near the bail (#11), not read.",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": true,
+  "notes_en": "#9 front and #11 back are consecutive frames (2 min apart) and the fleur bail matches, so I paired them as front/back of one pendant; please confirm. #8/#10 are '(1)' copies."
+ },
+ {
+  "piece": "g1-04",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   12,
+   13
+  ],
+  "duplicates": [],
+  "hero": 13,
+  "type_en": "men's ring with faceted green stone engraved on the table",
+  "visual_en": "Large oval faceted green stone (looks like emerald / green beryl, could be glass) whose table carries an engraved octagonal cartouche of nastaliq script with flowers; ribbed gallery bezel, open fan-ribbed shoulders. Silver-tone metal.",
+  "facts_en": "Inscription not read. File names 'R013.jpg' / 'R013-2.jpg' (#12, #13).",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": false,
+  "notes_en": "File names carry the old code R013 (like the existing folder R050); the lead may want to keep that code."
+ },
+ {
+  "piece": "g1-05",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   15,
+   17
+  ],
+  "duplicates": [
+   14,
+   16
+  ],
+  "hero": 15,
+  "type_en": "heart-shaped engraved agate pendant",
+  "visual_en": "Heart-shaped pale honey agate (visual guess) finely engraved with a central nastaliq cartouche and dense surrounding inscription, in a scrolled frame with a row of cups along the top; pierced fleur bail. Back (#17) is a scalloped cloud-shaped plate with a pierced fleur motif. Silver/pale gold-tone.",
+  "facts_en": "Inscriptions not read.",
+  "sessions": [
+   "S00"
+  ],
+  "unsure": true,
+  "notes_en": "#15 front and #17 back are consecutive frames (44 s apart) and the openwork bail is identical, so paired as one pendant; the back plate outline is rounder than the heart front, please confirm. #14/#16 are '(1)' copies."
+ },
+ {
+  "piece": "g1-06",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   19,
+   21
+  ],
+  "duplicates": [
+   18,
+   20
+  ],
+  "hero": 21,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Large elongated oval carnelian engraved with a central oval cartouche of large script on a cross-hatched ground, surrounded by a border inscription; dark inclusion near the top of the cartouche. Fluted (ribbed) shoulders, beaded bezel. Silver-tone metal.",
+  "facts_en": "Inscriptions not read.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#18/#20 are '(1)' copies."
+ },
+ {
+  "piece": "g1-07",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   23,
+   25
+  ],
+  "duplicates": [
+   22,
+   24
+  ],
+  "hero": 23,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved with a central cartouche containing a tall stacked word and a border inscription; scalloped claw bezel, honeycomb openwork shank. Gold-tone metal.",
+  "facts_en": "Inscriptions not read.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#22/#24 are '(1)' copies."
+ },
+ {
+  "piece": "g1-08",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   27,
+   29,
+   31
+  ],
+  "duplicates": [
+   26,
+   28,
+   30
+  ],
+  "hero": 27,
+  "type_en": "men's ring with engraved rock crystal",
+  "visual_en": "Oval clear rock crystal (visual guess) engraved in three horizontal lines of nastaliq separated by ruled bands; scalloped bezel, broad fluted shoulders. Pale gold-tone metal; surface scratches on the stone.",
+  "facts_en": "Inscription not read.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#26/#28/#30 are '(1)' copies."
+ },
+ {
+  "piece": "g1-09",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   33,
+   35
+  ],
+  "duplicates": [
+   32,
+   34
+  ],
+  "hero": 35,
+  "type_en": "men's ring with engraved agate",
+  "visual_en": "Oval amber-orange agate (visual guess) engraved in three vertical columns of naskh with dotted fillers, in a beaded bezel; shoulders with stepped gridded openwork. Gold-tone metal.",
+  "facts_en": "Inscription not read.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#32/#34 are '(1)' copies."
+ },
+ {
+  "piece": "g1-10",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   37,
+   39,
+   40,
+   41,
+   42
+  ],
+  "duplicates": [
+   36,
+   38
+  ],
+  "hero": 39,
+  "type_en": "ring with turquoise cabochon",
+  "visual_en": "Oval sky-blue turquoise cabochon in claw prongs; shoulders with pierced teardrop/scroll motifs and fluted sides. Yellow gold-tone metal.",
+  "facts_en": "Hallmark close-up #37: F mark flanked by two round Persian-script stamps (typical of this HS group), not read.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#37 (hallmark, shot just before the ring views) assigned to this ring: same folder, same yellow metal. #36/#38 are '(1)' copies."
+ },
+ {
+  "piece": "g1-11",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   43,
+   44,
+   45,
+   46
+  ],
+  "duplicates": [],
+  "hero": 44,
+  "type_en": "men's ring with engraved carnelian (double-sided)",
+  "visual_en": "Large oval red carnelian engraved in a central flower-filled cartouche surrounded by smaller cartouches with script; beaded bezel on a scalloped collar, fan-rib open shoulders. The back of the stone (seen through the shank, #46) is engraved with a two-line cartouche. Pale gold/silver-tone metal.",
+  "facts_en": "Back engraving (#46) appears to read 'يا صاحب الزمان' on the first line (?), second line unclear.",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#46 is a view through the shank of a bright orange stone with an engraved back; assigned here because it follows #45 by one minute and the stone and scalloped bezel match."
+ },
+ {
+  "piece": "g1-12",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   48,
+   49,
+   51
+  ],
+  "duplicates": [
+   47
+  ],
+  "hero": 48,
+  "type_en": "oval carnelian pendant engraved with the names of the Imams",
+  "visual_en": "Oval orange carnelian engraved in two lines of nastaliq, in a gold-tone frame of ribbed petals; bow-shaped bail.",
+  "facts_en": "Names of the Prophet and Imams are legible (e.g. علي، حسن، حسين، محمد، جعفر، موسى) (#48, #49).",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "#47 is a '(1)' copy of #48."
+ },
+ {
+  "piece": "g1-13",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   50
+  ],
+  "duplicates": [],
+  "hero": 50,
+  "type_en": "rectangular engraved rock-crystal pendant",
+  "visual_en": "Rectangular clear rock crystal (visual guess) with cut corners, engraved in nastaliq, in a pierced frame of round holes with an arched top and bail. Pale gold-tone metal.",
+  "facts_en": "Engraving seems to read 'نصر من الله وفتح قريب' (?) (#50).",
+  "sessions": [
+   "S01"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo."
+ },
+ {
+  "piece": "g1-14",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   52,
+   53
+  ],
+  "duplicates": [],
+  "hero": 52,
+  "type_en": "men's ring with engraved agate",
+  "visual_en": "Oval orange agate/carnelian (visual guess) engraved with large nastaliq letters, beaded bezel on a scalloped collar, open fan-rib shoulders. Gold-tone metal.",
+  "facts_en": "Inscription not read. File names 'R043-1' / 'R043-2' (#53, #52).",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": "File names carry the old code R043 (like R013 and the existing folder R050)."
+ },
+ {
+  "piece": "g1-15",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   56,
+   58
+  ],
+  "duplicates": [
+   54,
+   55,
+   57
+  ],
+  "hero": 58,
+  "type_en": "men's ring with turquoise cabochon",
+  "visual_en": "Large oval pale green-blue turquoise cabochon in a beaded bezel; shoulders finely ribbed with a raised central bar. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": "#54/#55 are copies of #56, #57 of #58. Different ring from g1-18 (broad fan shoulders, spotted stone)."
+ },
+ {
+  "piece": "g1-16",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   59,
+   60
+  ],
+  "duplicates": [],
+  "hero": 60,
+  "type_en": "men's ring with engraved black stone",
+  "visual_en": "Oval black stone (looks like jet/onyx) engraved with a large central word on a cross-hatched ground inside an oval, with a border inscription; scrolled and fluted shoulders. Pale gold-tone metal.",
+  "facts_en": "Central word appears to be 'علي' (?) (#60); border not read.",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-17",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   61,
+   62
+  ],
+  "duplicates": [],
+  "hero": 61,
+  "type_en": "men's ring with engraved yellow agate",
+  "visual_en": "Large oval yellow agate (visual guess) engraved in four vertical columns of naskh; gridded (quilted) shoulders, beaded bezel. Gold-tone metal.",
+  "facts_en": "Inscription not read.",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-18",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   64,
+   66,
+   68
+  ],
+  "duplicates": [
+   63,
+   65,
+   67
+  ],
+  "hero": 68,
+  "type_en": "men's ring with turquoise cabochon",
+  "visual_en": "Oval green-blue turquoise cabochon with pale veining and a small brown spot, in a beaded bezel with notches; broad fan-grooved shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": "#63/#65/#67 are '(1)' copies."
+ },
+ {
+  "piece": "g1-19",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   70
+  ],
+  "duplicates": [
+   69
+  ],
+  "hero": 70,
+  "type_en": "oval carnelian pendant with green-stone frame",
+  "visual_en": "Oval orange carnelian engraved with dense script in quadrants divided by diagonals, in a frame set with small green stones (look like emeralds) and diamond-shaped corners; pavé-set bail with small stones. Pale gold-tone metal.",
+  "facts_en": "Inscription not read.",
+  "sessions": [
+   "S02"
+  ],
+  "unsure": false,
+  "notes_en": "#69 is a '(1)' copy."
+ },
+ {
+  "piece": "g1-20",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   72,
+   73,
+   74,
+   75
+  ],
+  "duplicates": [
+   71
+  ],
+  "hero": 72,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval red-orange carnelian engraved with a large vertical calligraphic composition (tall central stroke) with flower fillers; finely ribbed shoulders, beaded bezel. Pale gold-tone metal.",
+  "facts_en": "Hallmark close-up #74: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "#75 is the same stone shot sideways; #71 is a '(1)' copy."
+ },
+ {
+  "piece": "g1-21",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   76,
+   77,
+   78
+  ],
+  "duplicates": [],
+  "hero": 77,
+  "type_en": "men's ring with red-and-white agate cabochon",
+  "visual_en": "Oval domed agate, half white and half red (looks like banded carnelian-agate), lightly engraved; claw prongs and deeply fluted shoulders. Pale gold-tone metal.",
+  "facts_en": "Engraving faint, not read. Hallmark #78: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-22",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   79,
+   80,
+   81
+  ],
+  "duplicates": [],
+  "hero": 79,
+  "type_en": "ring with faceted emerald",
+  "visual_en": "Oval faceted green stone (looks like emerald) in claw prongs; shoulders with pierced teardrop/scroll motifs. Pale gold-tone metal.",
+  "facts_en": "Hallmark #81: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-23",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   82,
+   83,
+   84,
+   85
+  ],
+  "duplicates": [],
+  "hero": 84,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq with five-petal flower fillers inside a scalloped cartouche; beaded bezel, gridded (quilted) shoulders. Pale gold-tone metal.",
+  "facts_en": "Text may read '... على كل شيء قدير' (?) (#84). Hallmark #85: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "#82 is the same stone shot sideways."
+ },
+ {
+  "piece": "g1-24",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   86,
+   87,
+   88,
+   89
+  ],
+  "duplicates": [],
+  "hero": 86,
+  "type_en": "men's ring with engraved brown agate",
+  "visual_en": "Large oval brown-orange agate engraved with a central cartouche and a dense border inscription; scalloped bezel with ball prongs, fluted shoulders with pierced arches. Pale gold-tone metal.",
+  "facts_en": "Border seems to repeat 'يا علي' (?) (#88). Hallmark #89: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-25",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   90,
+   91,
+   92
+  ],
+  "duplicates": [],
+  "hero": 90,
+  "type_en": "ring with engraved yellow agate",
+  "visual_en": "Small round yellow agate (visual guess) engraved in nastaliq, in a fluted (ribbed) mount. Pale gold-tone metal.",
+  "facts_en": "Inscription not read. Hallmark #92: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-26",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   93,
+   94,
+   95
+  ],
+  "duplicates": [],
+  "hero": 94,
+  "type_en": "round engraved banded agate pendant",
+  "visual_en": "Round banded white-and-orange agate engraved with script in a grid of squares (talismanic layout), in a beaded frame under a crown-shaped top with ball finials; back (#95) is openwork floral scrollwork. Pale gold-tone metal.",
+  "facts_en": "Inscription not read.",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "#93 shows front and back together; #94 is a different crop/edit of the same frame (hash distance 123), kept, not a duplicate."
+ },
+ {
+  "piece": "g1-27",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   97,
+   99,
+   101
+  ],
+  "duplicates": [
+   96,
+   98,
+   100
+  ],
+  "hero": 99,
+  "type_en": "octagonal engraved black-stone pendant",
+  "visual_en": "Octagonal black stone (looks like onyx/jet) engraved in two lines of nastaliq with a border inscription, in a frame with ribbed sides; scrolled double bail. Back (#101) is an open frame showing the plain back of the stone. Pale gold-tone metal.",
+  "facts_en": "Main lines appear to read 'إنه من سليمان وإنه بسم الله الرحمن الرحيم' (Q 27:30) (?) (#99).",
+  "sessions": [
+   "S03"
+  ],
+  "unsure": false,
+  "notes_en": "#96, #98, #100 are copies of #97, #99, #101."
+ },
+ {
+  "piece": "g1-28",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   103,
+   104,
+   105,
+   107
+  ],
+  "duplicates": [
+   102,
+   106
+  ],
+  "hero": 103,
+  "type_en": "two-tone seal ring with engraved carnelian",
+  "visual_en": "Oval red carnelian engraved in nastaliq with flower ground and a small line at the bottom, in a plain gold bezel on a chased silver collar; shoulders of chased gold leaves on a silver shank. Gold and silver two-tone.",
+  "facts_en": "Small dated line at the bottom of the stone (12xx?) (#103).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOT outside my range: the same ring (same engraving and leaf shoulders) appears as #262/#263 in S06. #102/#106 are '(1)' copies."
+ },
+ {
+  "piece": "g1-29",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   109,
+   111
+  ],
+  "duplicates": [
+   108,
+   110
+  ],
+  "hero": 109,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval brick-red carnelian engraved in naskh/nastaliq with a date in the field, in a plain bezel with rounded shoulders. Pale gold-tone metal.",
+  "facts_en": "Date in the field, looks like 12xx AH (?) (#109).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#108/#110 are '(1)' copies."
+ },
+ {
+  "piece": "g1-30",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   113,
+   114,
+   115
+  ],
+  "duplicates": [
+   112
+  ],
+  "hero": 113,
+  "type_en": "men's ring with green jade cabochon",
+  "visual_en": "Large oval bright-green cabochon, looks like jadeite jade, in a scalloped bezel of pointed petals; fluted fan shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#112 is a '(1)' copy. Different ring from HS g1-02."
+ },
+ {
+  "piece": "g1-31",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   116,
+   118,
+   120,
+   122
+  ],
+  "duplicates": [
+   117,
+   119,
+   121
+  ],
+  "hero": 120,
+  "type_en": "men's ring with turquoise cabochon",
+  "visual_en": "Large oval pale-blue turquoise cabochon held by a crown of ribbed claws, with a pierced hole on each shoulder. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#117/#119/#121 are '(1)' copies."
+ },
+ {
+  "piece": "g1-32",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   123,
+   124,
+   125
+  ],
+  "duplicates": [],
+  "hero": 125,
+  "type_en": "ring with small turquoise cabochon",
+  "visual_en": "Small oval turquoise cabochon with a brown matrix spot, held by angular pointed petals; plain tapering shank with a beaded band. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-33",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   127,
+   129
+  ],
+  "duplicates": [
+   126,
+   128
+  ],
+  "hero": 129,
+  "type_en": "men's ring with green chalcedony cabochon",
+  "visual_en": "Long narrow oval translucent green cabochon (looks like green chalcedony/chrysoprase) in a mount of overlapping scale-shaped openwork. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#126/#128 are '(1)' copies. Not the same as g1-35 (broader stone, scroll shoulders)."
+ },
+ {
+  "piece": "g1-34",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   131,
+   133,
+   136
+  ],
+  "duplicates": [
+   130,
+   132,
+   134,
+   135
+  ],
+  "hero": 131,
+  "type_en": "men's ring with blue chalcedony cabochon",
+  "visual_en": "Oval translucent sky-blue cabochon (looks like blue chalcedony) in a beaded scalloped bezel with pierced claw prongs; scroll openwork shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#130/#132/#134/#135 are copies."
+ },
+ {
+  "piece": "g1-35",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   138,
+   140,
+   142
+  ],
+  "duplicates": [
+   137,
+   139,
+   141
+  ],
+  "hero": 142,
+  "type_en": "men's ring with green chalcedony cabochon",
+  "visual_en": "Broad oval glowing green cabochon (looks like green chalcedony) set in scale-shaped prongs with scroll openwork shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#137/#139/#141 are '(1)' copies."
+ },
+ {
+  "piece": "g1-36",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   143,
+   144
+  ],
+  "duplicates": [],
+  "hero": 144,
+  "type_en": "ring with lavender chalcedony cabochon",
+  "visual_en": "Round high-domed pale lavender-blue cabochon (looks like chalcedony) in a beaded bezel; fluted shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-37",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   146,
+   148
+  ],
+  "duplicates": [
+   145,
+   147
+  ],
+  "hero": 146,
+  "type_en": "men's ring with green chalcedony cabochon",
+  "visual_en": "Oval opaque deeper-green cabochon (looks like green chalcedony/agate) with spiky claw prongs over a beaded scalloped bezel; scroll openwork shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#145/#147 are '(1)' copies. Different stone from g1-35."
+ },
+ {
+  "piece": "g1-38",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   150,
+   152,
+   175
+  ],
+  "duplicates": [
+   149,
+   151,
+   174
+  ],
+  "hero": 150,
+  "type_en": "men's ring with yellow chalcedony cabochon",
+  "visual_en": "Elongated oval honey-yellow translucent cabochon (looks like yellow chalcedony) in a beaded scalloped bezel with pierced claw prongs; scroll openwork shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#174/#175 (DSC_2144, shot later at 22:50) show the same stone and mount; file number places it with DSC_2135/2139. #149/#151/#174 are '(1)' copies."
+ },
+ {
+  "piece": "g1-39",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   153,
+   155,
+   156
+  ],
+  "duplicates": [
+   154
+  ],
+  "hero": 156,
+  "type_en": "men's ring with domed turquoise",
+  "visual_en": "Tall sugarloaf-domed pale mint-blue turquoise (visual guess) rising from a cup of overlapping scale openwork with pointed claws; scrolled openwork shank. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#154 is a '(1)' copy. Sister ring of g1-40 (same design, white stone)."
+ },
+ {
+  "piece": "g1-40",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   158,
+   160
+  ],
+  "duplicates": [
+   157,
+   159
+  ],
+  "hero": 160,
+  "type_en": "men's ring with domed white stone",
+  "visual_en": "Tall sugarloaf-domed creamy white stone (looks like white agate/chalcedony) rising from a cup of scale openwork with pointed claws; scrolled openwork shank. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#157/#159 are '(1)' copies. Same design as g1-39 but a different stone, so a separate ring."
+ },
+ {
+  "piece": "g1-41",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   164,
+   165,
+   173
+  ],
+  "duplicates": [
+   161,
+   162,
+   163,
+   172
+  ],
+  "hero": 164,
+  "type_en": "ring with step-cut emerald",
+  "visual_en": "Square step-cut green stone (looks like emerald, visible inclusions) in a cup of claw petals; scroll openwork shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#172/#173 (DSC_2184) are the same ring shot later; #161-163 copies of #164, #172 of #173."
+ },
+ {
+  "piece": "g1-42",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   167,
+   169,
+   171
+  ],
+  "duplicates": [
+   166,
+   168,
+   170
+  ],
+  "hero": 169,
+  "type_en": "ring with blue sapphire",
+  "visual_en": "Oval faceted light violet-blue stone (looks like sapphire) in claw prongs; pierced teardrop/scroll shoulders. Gold-tone metal.",
+  "facts_en": "",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#166/#168/#170 are '(1)' copies."
+ },
+ {
+  "piece": "g1-43",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   177,
+   179,
+   181
+  ],
+  "duplicates": [
+   176,
+   178,
+   180
+  ],
+  "hero": 177,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Large oval red carnelian engraved with a central oval cartouche (figure-like calligraphy) inside a border inscription; knurled diamond-pattern shoulders, beaded bezel. Gold-tone metal.",
+  "facts_en": "Central motif may be zoomorphic (lion-shaped?) calligraphy (?) (#177). Hallmark #181: F flanked by two round Persian-script stamps, not read.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#176/#178/#180 are '(1)' copies."
+ },
+ {
+  "piece": "g1-44",
+  "mode": "new",
+  "existing_code": null,
+  "category": "B",
+  "photos": [
+   182,
+   184,
+   185,
+   186
+  ],
+  "duplicates": [
+   183
+  ],
+  "hero": 182,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Large oval red carnelian engraved with a central oval holding a large word plus stars, inside a dense border inscription; beaded bezel on a scalloped collar, fan-rib open shoulders. Silver-tone metal.",
+  "facts_en": "Central word may be 'علي' (?) (#182). Hallmark #186: two round Persian-script stamps, not read.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#183 is a '(1)' copy."
+ },
+ {
+  "piece": "g1-45",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   188,
+   190,
+   192,
+   194
+  ],
+  "duplicates": [
+   187,
+   189,
+   191,
+   193
+  ],
+  "hero": 192,
+  "type_en": "men's ring with engraved green stone",
+  "visual_en": "Rectangular yellow-green transparent stone (looks like peridot, could be glass) engraved in two lines of nastaliq, in a ribbed bezel; pierced openwork shoulders. Silver-tone metal.",
+  "facts_en": "Hallmark #194: oval stamps that seem to include 'نقره' (silver), a letter F, a maker's name (?) and a four-digit number (date?), same stamp set as g1-47. Inscription on stone not read.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "Hallmark #194 assigned here: shot right after the ring views, silver-tone metal. #187/#189/#191/#193 are '(1)' copies."
+ },
+ {
+  "piece": "g1-46",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   196,
+   198,
+   200,
+   202
+  ],
+  "duplicates": [
+   195,
+   197,
+   199,
+   201
+  ],
+  "hero": 196,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval red carnelian engraved in nastaliq with flowers, in a silver bezel edged with a gold twisted-wire border; plain broad shank. Silver with gold accents.",
+  "facts_en": "Hallmarks #200, #202: F and gold flower-shaped stamps.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "PROBABLE RE-SHOOT outside my range: #255/#256 (S06) show the same stone and gold-wire bezel. #195/#197/#199/#201 are '(1)' copies."
+ },
+ {
+  "piece": "g1-47",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   204,
+   207,
+   208
+  ],
+  "duplicates": [
+   203,
+   205,
+   206
+  ],
+  "hero": 204,
+  "type_en": "men's ring with engraved grey-green stone",
+  "visual_en": "Round grey-green speckled stone (looks like moss agate/jasper) engraved with a grid of naskh lines; scalloped claw bezel, fluted shoulders with pierced crescents. Silver-tone metal.",
+  "facts_en": "Hallmark #207: oval stamps, seemingly 'نقره' (silver), F, a maker's name (?) and a four-digit number (date?) (?).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#205-207 (hallmark, DSC_2204) were shot between #204 and #208, so they belong to this ring. #203, #205, #206 are copies."
+ },
+ {
+  "piece": "g1-48",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   209,
+   210,
+   211
+  ],
+  "duplicates": [],
+  "hero": 209,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq with flower ground; knurled diamond-pattern shoulders, beaded bezel. Pale gold-tone metal.",
+  "facts_en": "Hallmark #211: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOT outside my range: the same ring appears as #261 in S06."
+ },
+ {
+  "piece": "g1-49",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   212,
+   213,
+   214
+  ],
+  "duplicates": [],
+  "hero": 212,
+  "type_en": "ring with engraved garnet intaglio",
+  "visual_en": "Oval dark red stone (looks like garnet) carved as a pictorial intaglio: crescent moon, star and an animal/bird figure; scalloped bezel, faceted tapering shoulders. Pale gold-tone metal.",
+  "facts_en": "Hallmark #214: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-50",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   216,
+   217,
+   219
+  ],
+  "duplicates": [
+   215,
+   218
+  ],
+  "hero": 216,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq; shoulders of grooved ribs with a raised central rod, beaded bezel. Gold-tone metal.",
+  "facts_en": "Hallmark #219: two round stamps, not read.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOT outside my range: same ring as #259/#260 (S06). #215/#218 are '(1)' copies."
+ },
+ {
+  "piece": "g1-51",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   221,
+   223,
+   225,
+   248
+  ],
+  "duplicates": [
+   220,
+   222,
+   224
+  ],
+  "hero": 221,
+  "type_en": "men's ring with rectangular engraved carnelian",
+  "visual_en": "Rectangular honey-orange carnelian engraved in nastaliq (row of upright letters over a long stroke), in a beaded rectangular bezel on a pyramid-openwork shank. Gold-tone metal.",
+  "facts_en": "Hallmark #225: F with round stamps.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "#248 (DSC_2355, shot at the very end of the session) shows the same stone and mount; its file number sits between DSC_2354 (#223) and DSC_2357 (#225). #220/#222/#224 are '(1)' copies."
+ },
+ {
+  "piece": "g1-52",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   226,
+   227,
+   228,
+   229
+  ],
+  "duplicates": [],
+  "hero": 226,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq with flowers and a bird-like stroke; beaded bezel, finely grooved shoulders. Pale gold-tone metal.",
+  "facts_en": "Hallmark #229: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOT outside my range: same ring as #257 (S06)."
+ },
+ {
+  "piece": "g1-53",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   231,
+   233,
+   234,
+   235
+  ],
+  "duplicates": [
+   230,
+   232
+  ],
+  "hero": 231,
+  "type_en": "men's ring with rectangular engraved carnelian",
+  "visual_en": "Rectangular orange carnelian engraved in two lines of nastaliq with flowers and a dated line, with a fine crack across the upper left corner; beaded bezel on a pyramid-openwork shank. Gold-tone metal.",
+  "facts_en": "Hallmark #235: F with round stamps.",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOT outside my range: same ring (same crack) as #251-#254 (S06). #230/#232 are '(1)' copies."
+ },
+ {
+  "piece": "g1-54",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   236,
+   237,
+   238
+  ],
+  "duplicates": [],
+  "hero": 236,
+  "type_en": "ring with engraved garnet",
+  "visual_en": "Rectangular cushion-shaped dark red stone (looks like garnet) engraved with a short vertical word; fluted shoulders. Pale gold-tone metal.",
+  "facts_en": "Engraving may be 'علي' (?) (#236). Hallmark #238: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": ""
+ },
+ {
+  "piece": "g1-55",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   239,
+   240,
+   241,
+   247
+  ],
+  "duplicates": [],
+  "hero": 239,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq (a long stroke with stars above, script below); scalloped claw bezel, fluted shoulders with pierced crescents. Pale gold-tone metal.",
+  "facts_en": "Hallmark #241: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "File names DSC_2268/2269/2270/2271 group #239, #240, #247 and #241 together although #247 was shot after g1-56; engraving checked at high resolution."
+ },
+ {
+  "piece": "g1-56",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   242,
+   243,
+   244,
+   246
+  ],
+  "duplicates": [
+   245
+  ],
+  "hero": 244,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval orange carnelian engraved in a bold thuluth composition with flowers and a dated line at the bottom; scalloped claw bezel, fluted shoulders. Pale gold-tone metal.",
+  "facts_en": "Date line at the bottom, looks like 12xx (?) (#242). Hallmark #246: F mark flanked by two round Persian-script stamps (typical of this HS group).",
+  "sessions": [
+   "S04"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOT outside my range: same ring as #258 (S06). Same mount type as g1-55 but a different engraving. #245 is a '(1)' copy."
+ }
+]

@@ -1,0 +1,961 @@
+[
+ {
+  "piece": "g2-01",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   250
+  ],
+  "duplicates": [
+   249
+  ],
+  "hero": 250,
+  "type_en": "men's ring with engraved dark stone (detail view only)",
+  "visual_en": "Single close-up of a dark grey/black engraved stone with three nastaliq lines separated by ruled lines, seen deep inside a gold-tone collar; looks like a view of the stone's reverse/underside through the hoop.",
+  "facts_en": "",
+  "sessions": [
+   "S05"
+  ],
+  "unsure": true,
+  "notes_en": "249/250 are pixel-identical (DSC_2304, d=0). Only a detail shot; no full view of the ring in my range. The file was renamed DSC_2304 so it sorts right after DSC_2303 (#208) and the ring #203-208 in g1's range (round grey-green engraved stone, gold-tone fluted mount), so it probably shows that ring (perhaps a second inscription on the stone's back). The inscription does not match the face of #204, so this is a guess: lead please compare with g1's #203-208 piece and merge if agreed."
+ },
+ {
+  "piece": "g2-02",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   252,
+   254
+  ],
+  "duplicates": [
+   251,
+   253
+  ],
+  "hero": 252,
+  "type_en": "men's ring with engraved rectangular carnelian",
+  "visual_en": "Rectangular orange carnelian engraved in nastaliq on a floral ground, with a hairline crack across the top-left corner; silver-tone mount with beaded frame and scale/honeycomb-pattern shank.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "252 front, 254 the same ring a little further away (crack visible in both)."
+ },
+ {
+  "piece": "g2-03",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   256
+  ],
+  "duplicates": [
+   255
+  ],
+  "hero": 256,
+  "type_en": "men's ring with engraved oval carnelian, two-tone",
+  "visual_en": "Oval red carnelian engraved in nastaliq with floral fill, set across the shank in a silver-tone bezel with a yellow-gold beaded rim; plain silver-tone shank.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "Single view. Looks like g1's #196/198 (gold rim on a silver ring), but there the stone is set lengthwise, so I judge them different rings."
+ },
+ {
+  "piece": "g2-04",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   257
+  ],
+  "duplicates": [],
+  "hero": 257,
+  "type_en": "men's ring with engraved oval carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq with flowers; gold-tone mount with beaded bezel and ribbed/fluted shank.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo (edited file DSC_3766_edit, no frame number)."
+ },
+ {
+  "piece": "g2-05",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   258
+  ],
+  "duplicates": [],
+  "hero": 258,
+  "type_en": "men's ring with engraved oval carnelian",
+  "visual_en": "Oval orange carnelian with a thuluth composition over a floral ground and a separate bottom band holding a date; gold-tone mount with scalloped petal-shaped bezel and fluted shank.",
+  "facts_en": "bottom band looks like a date, «١٢٨١»(?) (#258)",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo. Compared with g1's #239/242 (similar petal bezel): the inscription is different."
+ },
+ {
+  "piece": "g2-06",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   260
+  ],
+  "duplicates": [
+   259
+  ],
+  "hero": 260,
+  "type_en": "men's ring with engraved oval carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq with flowers; pale gold-tone mount with beaded bezel and split, ribbed shoulders.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "Single view."
+ },
+ {
+  "piece": "g2-07",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   261
+  ],
+  "duplicates": [],
+  "hero": 261,
+  "type_en": "men's ring with engraved oval carnelian",
+  "visual_en": "Oval orange carnelian engraved in floral nastaliq, set across the shank; gold-tone mount with beaded bezel edge and knurled diamond-cut shank.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "Single photo. Not the same as g1's #209/210 (same knurled shank style, but there the stone is set lengthwise and the inscription differs)."
+ },
+ {
+  "piece": "g2-08",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   263
+  ],
+  "duplicates": [
+   262
+  ],
+  "hero": 263,
+  "type_en": "men's ring with engraved oval carnelian, foliate shoulders",
+  "visual_en": "Oval red carnelian engraved in nastaliq on a dotted floral ground, with a dated band at the bottom; engraved yellow-gold bezel collar and rose-gold leaf-shaped shoulders.",
+  "facts_en": "date band at the bottom, «١٢٤١»(?) (#263)",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOOT ACROSS RANGES: the same ring as g1's #102-107 (DSC_1955/1971/1984/1992, S04, 2021-05-07). Same layout (long stroke at the top, two big bowls, date band), the same small dark speck at the lower left, and the same rose-gold leaf mount. Lead: merge with that g1 piece."
+ },
+ {
+  "piece": "g2-09",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   264,
+   265
+  ],
+  "duplicates": [],
+  "hero": 264,
+  "type_en": "men's ring with engraved round carnelian",
+  "visual_en": "Round orange carnelian engraved with an interlaced (knotted) thuluth composition, with dark red inclusion flecks at the top and bottom edge; gold-tone mount with scalloped claw bezel and fluted shank with beaded edge.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "264 front, 265 side (10 min later, same knotted layout and flecks)."
+ },
+ {
+  "piece": "g2-10",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   267,
+   268,
+   269
+  ],
+  "duplicates": [
+   266
+  ],
+  "hero": 267,
+  "type_en": "men's ring with engraved talismanic carnelian (grid of divine names)",
+  "visual_en": "Large oval dark-red carnelian engraved with a talismanic grid (jadwal) of small cells holding «يا ...» invocations, inside a border inscription; gold-tone mount with scalloped claws and fluted shank with beaded edge.",
+  "facts_en": "grid cells of «يا ...» invocations / divine names (#267)",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "267 front, 268 and 269 side views (the grid of text is visible in 269)."
+ },
+ {
+  "piece": "g2-11",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   270,
+   271,
+   272
+  ],
+  "duplicates": [],
+  "hero": 270,
+  "type_en": "men's ring with engraved carnelian «الله»",
+  "visual_en": "Oval orange carnelian with a large central «الله» in a cross-hatched cartouche inside a border inscription; gold-tone mount with beaded bezel and cross-hatched diamond-engraved shoulders.",
+  "facts_en": "central word «الله» (#270)",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "270 front, 271 and 272 side views. Not the same as the silver-tone S13 ring #643/644."
+ },
+ {
+  "piece": "g2-12",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   273,
+   274,
+   276
+  ],
+  "duplicates": [
+   275
+  ],
+  "hero": 273,
+  "type_en": "men's ring with engraved pale honey agate",
+  "visual_en": "Round pale honey/beige agate (looks like chalcedony) engraved in thuluth with one long horizontal stroke and a small cross mark; gold-tone mount with scalloped claws and fluted shank.",
+  "facts_en": "",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "273 and 274 front (different lighting), 276 side, 2 min after 274."
+ },
+ {
+  "piece": "g2-13",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   277,
+   278,
+   279,
+   280
+  ],
+  "duplicates": [],
+  "hero": 278,
+  "type_en": "men's ring with engraved pear-shaped agate",
+  "visual_en": "Pear/teardrop-shaped pale honey agate (chalcedony) with an orange vein, a large central thuluth word in a cross-hatched cartouche and a border inscription; gold-tone mount with beaded claw bezel and fluted shank.",
+  "facts_en": "central word looks like «علي»(?) (#277/#278)",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "277 and 278 front, 279 and 280 side views."
+ },
+ {
+  "piece": "g2-14",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   281,
+   282
+  ],
+  "duplicates": [],
+  "hero": 281,
+  "type_en": "men's ring with engraved honey agate",
+  "visual_en": "Oval honey-orange agate engraved in large thuluth; gold-tone mount with C-scroll openwork at the bezel sides and a shank of vertical ribs with rows of drilled dots.",
+  "facts_en": "inscription ends «...على الله», probably «المتوكل على الله»(?) (#281)",
+  "sessions": [
+   "S06"
+  ],
+  "unsure": false,
+  "notes_en": "281 front, 282 side (same dotted ribbed shank). Not the same as the silver-tone S13 ring #676/677."
+ },
+ {
+  "piece": "g2-15",
+  "mode": "new",
+  "existing_code": null,
+  "category": "H",
+  "photos": [
+   283,
+   284
+  ],
+  "duplicates": [],
+  "hero": 283,
+  "type_en": "men's ring with engraved yellow agate (JWL-0054)",
+  "visual_en": "Rectangular yellow agate set across the shank, engraved with «بسم الله الرحمن الرحيم» in a woven grid of elongated letters; silver-tone mount with beaded frame and knurled pyramid-pattern shoulders.",
+  "facts_en": "«بسم الله الرحمن الرحيم» (#283)",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": false,
+  "notes_en": "Loose files JWL-0054-1/-2. Almost the same design as JWL-0055 (#285/286), but the stone and composition differ (here landscape, there portrait), so they are two rings."
+ },
+ {
+  "piece": "g2-16",
+  "mode": "new",
+  "existing_code": null,
+  "category": "H",
+  "photos": [
+   285,
+   286
+  ],
+  "duplicates": [],
+  "hero": 285,
+  "type_en": "men's ring with engraved yellow agate (JWL-0055)",
+  "visual_en": "Rectangular yellow agate with an upright grid composition of tall letters; silver-tone mount with beaded frame and knurled pyramid-pattern shoulders.",
+  "facts_en": "hallmarks inside shank: oval «جدي» + letter F + oval «تهران» (#286)",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": false,
+  "notes_en": "Loose files JWL-0055-1/-2; 286 is the inside of the same knurled shank. A twin design to JWL-0054 (#283/284) with a different stone."
+ },
+ {
+  "piece": "g2-17",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   290,
+   292,
+   294,
+   297,
+   299
+  ],
+  "duplicates": [
+   287,
+   288,
+   289,
+   291,
+   293,
+   295,
+   296,
+   298
+  ],
+  "hero": 290,
+  "type_en": "men's ring with engraved round green stone",
+  "visual_en": "Round dark green stone (looks like jade/nephrite or green agate) engraved with a central roundel and a border inscription; silver-tone mount with lobed petal bezel, a band of tiny pavé stones under the bezel, and a fluted shank.",
+  "facts_en": "hallmarks: oval maker's mark (unread) + F (#299)",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": false,
+  "notes_en": "290 front; 292, 294 and 297 other angles; 299 is the hallmark on the inner shank, shot 2 min later, before the next ring."
+ },
+ {
+  "piece": "g2-18",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   301,
+   302,
+   304,
+   306
+  ],
+  "duplicates": [
+   300,
+   303,
+   305
+  ],
+  "hero": 301,
+  "type_en": "men's ring with engraved rectangular carnelian, star-medallion mount",
+  "visual_en": "Rectangular red carnelian engraved with text inside a mihrab (arch) frame with small flowers in the corners; silver-tone pierced openwork mount with teardrop prongs and a five-pointed star medallion on each shoulder.",
+  "facts_en": "hallmarks: F + oval maker's mark (unread) (#306)",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": false,
+  "notes_en": "301 front, 302 and 304 sides, 306 hallmark (the pierced openwork shows behind it). The same mount style as #318-326 (S10) and similar to S12 #498-501, but the stones differ, so they are different rings."
+ },
+ {
+  "piece": "g2-19",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   307,
+   308,
+   309
+  ],
+  "duplicates": [],
+  "hero": 307,
+  "type_en": "men's ring with engraved oval carnelian",
+  "visual_en": "Oval orange carnelian engraved in nastaliq on a floral ground with a long sweeping stroke; gold-tone claw mount with fluted shoulders and round pierced openwork with beaded rims.",
+  "facts_en": "includes «محمد»(?) (#307)",
+  "sessions": [
+   "S07"
+  ],
+  "unsure": false,
+  "notes_en": "307 front, 308 and 309 sides (same layout, seen rotated in 309)."
+ },
+ {
+  "piece": "g2-20",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   311,
+   313,
+   315
+  ],
+  "duplicates": [
+   310,
+   312,
+   314
+  ],
+  "hero": 311,
+  "type_en": "pendant with engraved honey agate",
+  "visual_en": "Oval honey/amber agate pendant with a large central thuluth line inside a border inscription; silver-tone frame with zigzag triangular openwork, a fan-ribbed top and a bail.",
+  "facts_en": "",
+  "sessions": [
+   "S07",
+   "S08"
+  ],
+  "unsure": false,
+  "notes_en": "RE-SHOOT MERGE: 311 (kj (9), S07 19:34) and 313/315 (kj (10)/(11), S08 20:09) show the same pendant. Folder K&A."
+ },
+ {
+  "piece": "g2-21",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   317
+  ],
+  "duplicates": [
+   316
+  ],
+  "hero": 317,
+  "type_en": "gold coin pendant (early Islamic dinar)",
+  "visual_en": "Gold coin with Kufic legends, in the style of an Umayyad/Abbasid dinar, mounted as a pendant in a gold-tone faceted frame with bail; the photo shows both faces.",
+  "facts_en": "obverse «لا اله الا الله وحده لا شريك له», reverse «محمد رسول الله» (#317)",
+  "sessions": [
+   "S09"
+  ],
+  "unsure": false,
+  "notes_en": "Loose file «36». I count it as one pendant shown front and back in one composite image. Whether the coin is genuine cannot be judged from the photo. Possibly related to the coin pendants at #878 (S18) or #766-770 (S15); lead may check."
+ },
+ {
+  "piece": "g2-22",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   319,
+   321,
+   323,
+   324,
+   326
+  ],
+  "duplicates": [
+   318,
+   320,
+   322,
+   325
+  ],
+  "hero": 319,
+  "type_en": "men's ring with engraved carnelian (Basmala & Shahada), star-medallion mount",
+  "visual_en": "Rectangular red carnelian with cut corners, engraved in three lines; gold-tone pierced mount with teardrop prongs and a five-pointed star medallion with a small yellow stone on each shoulder.",
+  "facts_en": "«بسم الله الرحمن الرحيم / لا اله الا الله / محمد رسول الله» (#321); hallmarks F + oval marks (#326)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "319 front, 321 and 324 sides, 323 the shoulder medallion, 326 the hallmark. Same maker style as #300-306."
+ },
+ {
+  "piece": "g2-23",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   327,
+   328,
+   329,
+   330
+  ],
+  "duplicates": [],
+  "hero": 327,
+  "type_en": "men's ring with engraved octagonal carnelian",
+  "visual_en": "Octagonal (cut-corner) orange carnelian engraved with a large thuluth «يا ...» and small star marks; gold-tone fluted scalloped claw mount with pierced holes at the bezel sides and ribbed shank.",
+  "facts_en": "hallmarks inside shank: oval «جدي» + letter F + oval «تهران» (#330)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "327 front, 328 and 329 sides, 330 hallmark (fluted outside visible)."
+ },
+ {
+  "piece": "g2-24",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   331,
+   332,
+   333
+  ],
+  "duplicates": [],
+  "hero": 332,
+  "type_en": "men's ring with engraved pale green stone",
+  "visual_en": "Oval translucent pale green-grey stone (looks like green chalcedony or prehnite) engraved in nastaliq; pale gold-tone mount with fluted shank and beaded rim.",
+  "facts_en": "hallmarks inside shank: oval «جدي» + letter F + oval «تهران», in rectangular stamps (#333)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "332 front, 331 side; 333 hallmark shot right after 332."
+ },
+ {
+  "piece": "g2-25",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   334,
+   335,
+   336
+  ],
+  "duplicates": [],
+  "hero": 335,
+  "type_en": "men's ring with engraved rectangular carnelian",
+  "visual_en": "Rectangular orange-red carnelian engraved in nastaliq; gold-tone fluted scalloped claw mount with pierced holes at the bezel sides.",
+  "facts_en": "hallmarks inside shank: oval «جدي» + letter F + oval «تهران» (#336)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "335 front, 334 side, 336 hallmark. Not the same as the silver-tone S13 ring #619/620."
+ },
+ {
+  "piece": "g2-26",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   338,
+   342,
+   343,
+   345
+  ],
+  "duplicates": [
+   337,
+   339,
+   340,
+   341,
+   344
+  ],
+  "hero": 338,
+  "type_en": "ornate figural gold ring with engraved carnelian",
+  "visual_en": "Small oval carnelian engraved in three nastaliq lines, in a hexagonal chased bezel; heavy gold-tone ring with repoussé figural shoulders (a face figure between two beasts) and a robed-figure medallion on the shank, all chased with scrolls.",
+  "facts_en": "middle line «لا قوة الا بالله»(?), lower line «استغفر الله»(?) (#338)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "338 front, 342 side, 343 shoulder figure, 345 shank figure."
+ },
+ {
+  "piece": "g2-27",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   346,
+   348,
+   349
+  ],
+  "duplicates": [
+   347
+  ],
+  "hero": 346,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Cushion-oval orange carnelian engraved with a thuluth grid composition of tall upright letters; gold-tone fluted scalloped claw mount with pierced holes.",
+  "facts_en": "hallmarks inside shank: oval «جدي» + letter F + oval «تهران» (#349)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "346 front, 348 side, 349 hallmark."
+ },
+ {
+  "piece": "g2-28",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   350,
+   351,
+   352,
+   353
+  ],
+  "duplicates": [],
+  "hero": 350,
+  "type_en": "men's ring with engraved colourless stone",
+  "visual_en": "Oval colourless/milky stone (looks like rock crystal or white chalcedony) engraved in several nastaliq lines; pale gold-tone mount with quilted diamond-pattern shoulders and beaded edges.",
+  "facts_en": "hallmarks F + oval marks (#353)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "350 front, 351 side, 352 edge-on view of the quilted shank, 353 hallmark."
+ },
+ {
+  "piece": "g2-29",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   354,
+   356,
+   358,
+   361,
+   363
+  ],
+  "duplicates": [
+   355,
+   357,
+   359,
+   360,
+   362
+  ],
+  "hero": 354,
+  "type_en": "ring with engraved oval garnet",
+  "visual_en": "Oval deep-red cabochon (looks like garnet) engraved with a single line in an angular, Kufic-like or pseudo script; silver-tone mount with openwork heart/fleur shoulders and a shank engraved with X-in-diamond pattern; closed back to the bezel.",
+  "facts_en": "inscription not read (#354)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "354 front, 356 wide shot (uncropped 6192x4128 frame), 358 side, 361 top/shoulder, 363 back of the shank."
+ },
+ {
+  "piece": "g2-30",
+  "mode": "new",
+  "existing_code": null,
+  "category": "HS",
+  "photos": [
+   366,
+   367,
+   368
+  ],
+  "duplicates": [
+   364,
+   365
+  ],
+  "hero": 366,
+  "type_en": "men's ring with engraved carnelian",
+  "visual_en": "Oval carnelian densely engraved in nastaliq/thuluth on a floral ground; gold-tone (rosy) mount with lobed bezel and fluted shoulders with beaded edge.",
+  "facts_en": "hallmarks inside shank: oval «جدي» + letter F + oval «تهران» (#368)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "366 front, 367 side, 368 hallmark."
+ },
+ {
+  "piece": "g2-31",
+  "mode": "new",
+  "existing_code": null,
+  "category": "H",
+  "photos": [
+   369,
+   370,
+   371
+  ],
+  "duplicates": [],
+  "hero": 369,
+  "type_en": "men's ring with figural agate intaglio",
+  "visual_en": "Banded brown/white agate (sardonyx) intaglio showing an eagle/falcon on a pedestal and a standing man with a sword holding up an object; gold-tone mount with fluted bezel; small chip at the bezel edge (370).",
+  "facts_en": "intaglio scene: eagle on pedestal + standing man with sword (#369); hallmarks inside shank: oval «جدي» + letter F + oval «تهران» (#371)",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": true,
+  "notes_en": "369 (JWL-0056-1) and 370 (JWL-0057-1) clearly show the same intaglio (370 is a rotated side view), and 371 (JWL-0057-2) is the hallmark inside the fluted shank. The file names suggest two codes (JWL-0056 and JWL-0057), but I see one ring. Flagged for the lead because of the naming."
+ },
+ {
+  "piece": "g2-32",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   372,
+   373
+  ],
+  "duplicates": [],
+  "hero": 372,
+  "type_en": "ring with round turquoise in crown mount",
+  "visual_en": "Round sky-blue turquoise cabochon (no matrix) in a tall crown mount of many fluted, swirled prongs; silver-tone.",
+  "facts_en": "",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "372 front, 373 side."
+ },
+ {
+  "piece": "g2-33",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   375,
+   377
+  ],
+  "duplicates": [
+   374,
+   376
+  ],
+  "hero": 377,
+  "type_en": "men's ring with engraved square carnelian, engraved shoulders",
+  "visual_en": "Square orange carnelian engraved in nastaliq inside a double-ruled frame; silver-tone mount with hand-engraved floral shoulders (flowers and scrolls).",
+  "facts_en": "",
+  "sessions": [
+   "S10"
+  ],
+  "unsure": false,
+  "notes_en": "377 front, 375 side, 12 min apart: same inscription layout (two loops and a long bowl above, upright strokes below)."
+ },
+ {
+  "piece": "g2-34",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   379,
+   381,
+   383
+  ],
+  "duplicates": [
+   378,
+   380,
+   382
+  ],
+  "hero": 383,
+  "type_en": "pendant with engraved carnelian, talismanic composition",
+  "visual_en": "Oval orange carnelian pendant with a central composition of tall upright letters crossed by horizontal strokes (talismanic style), inside a border inscription; silver-tone frame with beaded and rope-twist borders and a bail.",
+  "facts_en": "border appears to start «بسم الله الرحمن الرحيم»(?) (#383)",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "379 and 381 angled views, 383 front. Folder K&A."
+ },
+ {
+  "piece": "g2-35",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   385,
+   387,
+   389,
+   391
+  ],
+  "duplicates": [
+   384,
+   386,
+   388,
+   390
+  ],
+  "hero": 389,
+  "type_en": "pendant with engraved carnelian (salawat on the Fourteen Infallibles)",
+  "visual_en": "Large oval carnelian pendant engraved with five naskh lines in a central cartouche plus a border inscription; silver-tone frame with dimpled/scalloped edge and bail.",
+  "facts_en": "lines include «فاطمة», «الحسن والحسين», «جعفر الصادق», «الحسن العسكري», «عليهم السلام» (#389): a salawat on the Fourteen Infallibles(?)",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "385 angled, 387 on a grey background, 389 front, 391 another edit of the same frame as 389 (kj (22) vs kj (21), same EXIF frame, d=30, visibly different), kept, not a duplicate. Folder K&A."
+ },
+ {
+  "piece": "g2-36",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   393,
+   395
+  ],
+  "duplicates": [
+   392,
+   394
+  ],
+  "hero": 393,
+  "type_en": "engraved stone centrepiece with two side loops",
+  "visual_en": "Oval cream/beige stone (looks like cream agate; could be bone/ivory-like material) with a large central thuluth verse and a border inscription; several cracks, fixed with two domed gold rivets through the face; thin gold-tone bezel with a loop on each side, used as a necklace/bracelet centrepiece.",
+  "facts_en": "«ويسبح الرعد بحمده والملائكة من خيفته» (Q 13:13) (#393)",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "393 front, 395 angled. Folder K&A."
+ },
+ {
+  "piece": "g2-37",
+  "mode": "new",
+  "existing_code": null,
+  "category": "R",
+  "photos": [
+   397,
+   400,
+   401,
+   403
+  ],
+  "duplicates": [
+   396,
+   398,
+   399,
+   402
+  ],
+  "hero": 401,
+  "type_en": "thin band ring with engraved oval carnelian",
+  "visual_en": "Oval carnelian engraved in two nastaliq lines divided by a long stroke; thin plain silver-tone wire band and simple bezel.",
+  "facts_en": "top line «الله محمد علي», lower line «...حسن...»(?) (#401)",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": true,
+  "notes_en": "401 and 400 are two edits of the same frame (d=57, kept both); 398 and 399 are their pixel duplicates. 397 is backlit so the stone looks amber, but the layout matches 401 (top line ending «علي», divider stroke, two big bowls, upright strokes at both ends). 403 is the same thin band with the stone out of focus. All 3 frames fall within 5 min in the R folder; I'm fairly but not fully sure they are one ring."
+ },
+ {
+  "piece": "g2-38",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   405,
+   406
+  ],
+  "duplicates": [
+   404
+  ],
+  "hero": 406,
+  "type_en": "early-style metal seal ring",
+  "visual_en": "Silver/grey metal ring with a rectangular flat bezel engraved directly in the metal with three lines of angular (Kufic-style) script, red deposit in the letters, faceted shoulders; worn surface, looks old (possibly early Islamic).",
+  "facts_en": "middle line looks like «لا اله الا»(?) (#405)",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "406 front, 405 angled. No stone; the bezel itself is the seal."
+ },
+ {
+  "piece": "g2-39",
+  "mode": "new",
+  "existing_code": null,
+  "category": "W",
+  "photos": [
+   408
+  ],
+  "duplicates": [
+   407
+  ],
+  "hero": 408,
+  "type_en": "pendant with engraved banded agate",
+  "visual_en": "Oval brown-and-orange banded agate pendant with a large central two-line thuluth inscription on a cross-hatched ground and a border inscription; silver-tone wavy flame-like frame with a ribbed teardrop bail.",
+  "facts_en": "central lines look like the same verse «ويسبح الرعد بحمده والملائكة من خيفته»(?) (#408)",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "Single view. Folder K&A."
+ },
+ {
+  "piece": "g2-40",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   412,
+   414,
+   416
+  ],
+  "duplicates": [
+   409,
+   410,
+   411,
+   413,
+   415
+  ],
+  "hero": 412,
+  "type_en": "women's cocktail ring with turquoise and diamonds",
+  "visual_en": "Oval turquoise cabochon held by claws inside a double sunburst halo of small round and baguette colourless stones (look like diamonds); white-metal mount with split shank.",
+  "facts_en": "",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "412 front, 414 and 416 sides. A modern women's ring in the RS folder; category kept as RS, but the lead may move it to W."
+ },
+ {
+  "piece": "g2-41",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   418,
+   420
+  ],
+  "duplicates": [
+   417,
+   419
+  ],
+  "hero": 418,
+  "type_en": "ring with spiderweb turquoise",
+  "visual_en": "Oval spiderweb turquoise with brown matrix in a fluted claw bezel; pale silver-tone mount with honeycomb/scale openwork shoulders and scrolls.",
+  "facts_en": "",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "418 front, 420 side."
+ },
+ {
+  "piece": "g2-42",
+  "mode": "new",
+  "existing_code": null,
+  "category": "RS",
+  "photos": [
+   422,
+   424
+  ],
+  "duplicates": [
+   421,
+   423
+  ],
+  "hero": 422,
+  "type_en": "men's ring with turquoise, angular mount",
+  "visual_en": "Elongated oval light-blue turquoise cabochon in an angular faceted 'star' mount with pointed prongs and darkened facets; beaded line along the shank.",
+  "facts_en": "",
+  "sessions": [
+   "S11"
+  ],
+  "unsure": false,
+  "notes_en": "422 front, 424 side. Similar to the S13 ring #583-586 (same angular style), but the stone there is broader, so I judge them different rings; lead may double-check."
+ }
+]

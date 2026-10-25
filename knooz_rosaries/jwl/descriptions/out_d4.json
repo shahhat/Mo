@@ -1,0 +1,416 @@
+[
+ {
+  "code": "g5-02",
+  "hero": 800,
+  "description": "خاتم استثنائي يحمل حجر اللازورد مثمّن الشكل منقوشاً بخط النستعليق داخل إطار مفصّص، في قاعدة مرتفعة مخرّمة بزخارف الأوراق والأغصان.",
+  "item_category": "Ring",
+  "notes": "اسم الحجر بالمعاينة (أزرق بنقاط ذهبية). داخل الحلقة دمغة F بين ختمين دائريين (#804). النقش غير مقروء.",
+  "inscription": "",
+  "visual": "Octagonal lapis lazuli (pyrite flecks) engraved in nastaliq within a lobed medallion; tall openwork leaf-and-scroll mount with prongs."
+ },
+ {
+  "code": "g5-03",
+  "hero": 806,
+  "description": "خاتم رائع يحمل حجراً أحمر قرميدياً منقوشاً بخط النستعليق على أرضية من الورود، في قاعدة ثقيلة محفورة ومخرّمة بزخارف ورقية.",
+  "item_category": "Ring",
+  "notes": "الحجر عقيق أحمر أو يشب (غير مؤكد). على الكتفين اسمان محفوران يدوياً: أحدهما «علي حس…؟» والآخر غير واضح (#810، #812). لا دمغة مصوّرة. النقش غير مقروء.",
+  "inscription": "",
+  "visual": "Oval brick-red stone engraved in nastaliq over flowers; heavy deeply chased, pierced leaf-scroll mount; hand-engraved names on both shoulders."
+ },
+ {
+  "code": "g5-04",
+  "hero": 814,
+  "description": "خاتم نفيس يحمل حجر عقيق بني محمرّ مستديراً منقوشاً بأسطر داخل إطار، في صياغة ملساء بسيطة بحافة مخرّزة.",
+  "item_category": "Ring",
+  "notes": "أسفل النقش تاريخ محفور يُقرأ «١٢٧٢؟». داخل الحلقة ختمان بحافة مسنّنة بخط فارسي غير مقروء (#818). النقش مقروء جزئياً.",
+  "inscription": "… الله … (؟) / التاريخ ١٢٧٢؟",
+  "visual": "Round-oval reddish-brown carnelian with framed multi-line inscription and a date line; plain smooth mount with beaded bezel rim."
+ },
+ {
+  "code": "g5-13",
+  "hero": 855,
+  "description": "خاتم استثنائي يحمل حجر عقيق برتقالي مستديراً منقوشاً بتكوين هندسي مربع من الحروف، بكتفين مضلّعين وجوانب ملساء وحافة مخرّزة.",
+  "item_category": "Ring",
+  "notes": "دمغة F بين ختمين بيضويين (#859، الملف JWL-0053-1 في مجلد حسين جدي). الرمز القديم للمالك JWL-0053؛ أُبقي في الخواتم النادرة فلم يُذكر صانع. النقش غير مقروء.",
+  "inscription": "",
+  "visual": "Round orange carnelian with a square, grid-like (kufic-style) inscription; ribbed shoulders, plain sides, beaded bezel."
+ },
+ {
+  "code": "g5-33",
+  "hero": 943,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر بيضوياً منقوشاً بعدة أسطر، بكتفين على هيئة رقعة شطرنج من مربعات مصقولة وأخرى منقّطة.",
+  "item_category": "Ring",
+  "notes": "دمغة F بين ختمين بيضويين داخل الحلقة (#949). النقش غير مقروء.",
+  "inscription": "",
+  "visual": "Oval red carnelian with multi-line inscription; checkerboard shoulders of polished and stippled squares, beaded bezel."
+ },
+ {
+  "code": "g5-43",
+  "hero": 983,
+  "description": "خاتم مميز يحمل حجراً أبيض مائلاً إلى الرمادي مستديراً منقوشاً بتكوين صليبي من الحروف، تمسكه مخالب عديدة بين كتفين مخدّدين بعمق.",
+  "item_category": "Ring",
+  "notes": "مادة الحجر غير مؤكدة (عقيق أبيض أو يشم فاتح؟). صورتان فقط ولا دمغة مصوّرة. النقش غير مقروء.",
+  "inscription": "",
+  "visual": "Round opaque pale grey-white stone with a cross-shaped (kufic-style) inscription; multi-claw setting, deeply fluted shoulders."
+ },
+ {
+  "code": "g5-44",
+  "hero": 985,
+  "description": "خاتم نفيس يحمل حجر عقيق أبيض شفاف بيضوياً منقوشاً بعبارة (لا إله إلا الله محمد رسول الله)، بأضلاع بارزة وفتحات على هيئة قطرات.",
+  "item_category": "Ring",
+  "notes": "الرمز القديم للمالك R007. لا دمغة مصوّرة.",
+  "inscription": "لا إله إلا الله / محمد رسول الله",
+  "visual": "Oval translucent white agate engraved with the shahada in two lines; heavy ribbed mount with teardrop piercings."
+ },
+ {
+  "code": "g5-45",
+  "hero": 989,
+  "description": "خاتم أنيق يحمل حجراً أبيض حليبياً صغيراً منقوشاً بسطر قصير، في قاعدة مرتفعة مخرّمة بلفائف وفتحات دائرية.",
+  "item_category": "Ring",
+  "notes": "الحجر يبدو عقيقاً أبيض (غير مؤكد). النقش غير مقروء. لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Small oval milky-white stone (chalcedony?) with a short inscription; tall claw-set openwork mount with scrolls and round piercings."
+ },
+ {
+  "code": "g6-05",
+  "hero": 1048,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالي منقوشاً داخل إطار مدبّب بعبارة (ما شاء الله لا قوة إلا بالله)، في صياغة ملساء ثقيلة.",
+  "item_category": "Ring",
+  "notes": "السطر الأخير قد يكون «أستغفر الله؟». داخل الحلقة ثلاث دمغات دائرية: ختم فارسي، F، ختم فارسي (#1051).",
+  "inscription": "ما شاء الله / لا قوة إلا بالله / أستغفر الله؟",
+  "visual": "Orange carnelian engraved inside a pointed cartouche; flush-set in a plain heavy polished signet-type ring."
+ },
+ {
+  "code": "g6-07",
+  "hero": 1056,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر برتقالي بيضوياً طويلاً غير منقوش، في إطار مسنّن مرتفع وكتفين مخرّمين بزخارف نباتية.",
+  "item_category": "Ring",
+  "notes": "لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Long oval deep red-orange carnelian cabochon, unengraved; tall serrated bezel with beaded border, pierced scroll shoulders."
+ },
+ {
+  "code": "g6-08",
+  "hero": 1060,
+  "description": "خاتم أنيق يحمل حجر عقيق أحمر بيضوياً أملس غير منقوش، في إطار بسيط وكتفين محزّزين بنقش معيّني دقيق.",
+  "item_category": "Ring",
+  "notes": "لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Oval red carnelian cabochon, unengraved; plain bezel, diamond-knurled shoulders."
+ },
+ {
+  "code": "g6-10",
+  "hero": 1070,
+  "description": "خاتم نفيس يحمل حجر عقيق عسلي أصفر منقوشاً بأسطر متناظرة على أرضية منقّطة، بكتفين مخدّدين طولياً وحواف مخرّزة.",
+  "item_category": "Ring",
+  "notes": "النقش يحتمل أسماء أهل الكساء (الله، محمد، علي، فاطمة، حسن، حسين؟). داخل الحلقة ختمان فارسيان دائريان وF (#1073).",
+  "inscription": "الله محمد علي؟ / فاطمة؟ حسن / حسين؟",
+  "visual": "Oval honey-yellow agate with symmetrical multi-line inscription on a dotted ground; vertically fluted shoulders, beaded edges."
+ },
+ {
+  "code": "g6-11",
+  "hero": 1075,
+  "description": "خاتم رائع يحمل حجر فيروز سماوي بيضوياً كبيراً في إطار مخرّز، بكتفين مزدانين بنقش هرمي بارز.",
+  "item_category": "Ring",
+  "notes": "داخل الحلقة F وختمان بيضويان بخط فارسي (#1079).",
+  "inscription": "",
+  "visual": "Large oval sky-blue turquoise cabochon in a beaded bezel; pyramid-knurled shoulders."
+ },
+ {
+  "code": "g6-13",
+  "hero": 1086,
+  "description": "خاتم استثنائي يحمل حجراً شفافاً صافياً كبيراً منقوشاً بأسطر عديدة بخط النسخ، منها الآية (وننزل من القرآن ما هو شفاء ورحمة للمؤمنين).",
+  "item_category": "Ring",
+  "notes": "الحجر يبدو بلوراً صخرياً (كوارتز). النقش يبدأ بالبسملة وينتهي «برحمتك يا أرحم الراحمين»، وبقيته مقروءة جزئياً. أرقام على الهامش قد تكون تاريخاً «١٢٨؟». دمغة F وأختام فارسية بين الفتحات (#1090).",
+  "inscription": "بسم الله الرحمن الرحيم … / … وننزل من القرآن ما هو شفاء ورحمة للمؤمنين ولا يزيد الظالمين إلا خسارا … / … برحمتك يا أرحم الراحمين",
+  "visual": "Large oval clear rock crystal engraved with many naskh lines (incl. Qur'an 17:82); beaded bezel, pierced diagonal-bar openwork shank."
+ },
+ {
+  "code": "g6-14",
+  "hero": 1091,
+  "description": "خاتم استثنائي يحمل حجر عقيق بنياً مموّجاً منقوشاً بخط الثلث الجلي على أرضية مشبّكة، بكتفين مخرّمين على هيئة الحراشف.",
+  "item_category": "Ring",
+  "notes": "النقش يُرجّح أنه (أليس الله بكاف عبده) دون تأكيد. علامة F تظهر في انعكاس الحلقة فقط، ولا صورة مقرّبة للدمغة.",
+  "inscription": "أليس الله بكاف عبده؟",
+  "visual": "Oval brown banded agate in bold thuluth on a hatched ground; beaded bezel, scale/arch openwork shoulders."
+ },
+ {
+  "code": "g6-17",
+  "hero": 1105,
+  "description": "خاتم رائع يحمل حجراً أخضر فاتحاً شفافاً منقوشاً بخط النستعليق على أرضية من الأزهار وعناقيد العنب، بكتفين مخدّدين بخطوط متقاطعة.",
+  "item_category": "Ring",
+  "notes": "مادة الحجر غير مؤكدة (بريهنايت أو عقيق أخضر؟). النقش غير مقروء. ختمان بيضويان بخط فارسي غير مقروء (#1109).",
+  "inscription": "",
+  "visual": "Oval pale yellow-green translucent stone in nastaliq over flowers and grapes; chevron-ribbed shoulders, beaded bezel."
+ },
+ {
+  "code": "g6-18",
+  "hero": 1110,
+  "description": "خاتم نفيس يحمل حجر عقيق بنياً برتقالياً منقوشاً بسطرين يتصدّرهما لفظ الجلالة، بكتفين على هيئة رقعة شطرنج وحواف مخرّزة.",
+  "item_category": "Ring",
+  "notes": "النقش مقروء جزئياً. داخل الحلقة أختام فارسية على هيئة سحابة وF (#1112).",
+  "inscription": "… الله … / …؟",
+  "visual": "Oval brown-orange agate with two-line inscription; woven/checkerboard shoulders with beaded borders."
+ },
+ {
+  "code": "g6-19",
+  "hero": 1114,
+  "description": "خاتم أنيق يحمل حجراً أبيض حليبياً منقوشاً بسطرين، تحيط به صياغة مخدّدة طولياً بالكامل كالتاج.",
+  "item_category": "Ring",
+  "notes": "الحجر يبدو عقيقاً أبيض (غير مؤكد). النقش قد يكون «لا إله إلا الله الملك الحق المبين؟». داخل الحلقة F وأختام بيضوية بخط فارسي (#1116).",
+  "inscription": "لا إله إلا الله الملك؟ / الحق المبين؟",
+  "visual": "Oval milky white-grey stone with two-line inscription; mount deeply fluted all round like a crown."
+ },
+ {
+  "code": "g6-20",
+  "hero": 1118,
+  "description": "خاتم استثنائي يحمل حجر عقيق برتقالي بيضوياً طويلاً منقوشاً بتكوين معيّني متداخل، تمسكه مخالب طويلة فوق صياغة مخرّمة كحراشف السمك.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء. F بين ختمين بيضويين بخط فارسي (#1122).",
+  "inscription": "",
+  "visual": "Elongated oval orange carnelian with dense lozenge-pattern inscription; long claws, fish-scale openwork mount."
+ },
+ {
+  "code": "g6-21",
+  "hero": 1124,
+  "description": "خاتم مميز يحمل حجراً أخضر داكناً مستديراً منقوشاً بأسطر متقاطعة، بكتفين مضلّعين وأشرطة مخرّزة وفتحات مربعة صغيرة.",
+  "item_category": "Ring",
+  "notes": "مادة الحجر غير مؤكدة (يشب أخضر أو حجر الدم؟). النقش غير مقروء. الدمغات: ختم بيضوي «ایران» وF مربع وختم بيضوي (#1127).",
+  "inscription": "",
+  "visual": "Round flat dark green opaque stone with interlaced inscription; ribbed shoulders, beaded bands, small square openwork."
+ },
+ {
+  "code": "g6-22",
+  "hero": 1128,
+  "description": "خاتم نفيس يحمل حجر عقيق عسلياً منقوشاً بأربعة أسطر بخط النسخ، أولها (لا إله إلا أنت سبحانك إني كنت من الظالمين).",
+  "item_category": "Ring",
+  "notes": "يلي الآية «يا علي؟» ثم الشهادة «لا إله إلا الله محمد رسول…». F مربع وختم بيضوي فارسي داخل الحلقة (#1131).",
+  "inscription": "لا إله إلا أنت سبحانك إني / كنت من الظالمين يا علي؟ / لا إله إلا الله محمد ر… / …؟",
+  "visual": "Oval honey-brown agate with four naskh lines (Yunus verse, then shahada); pyramid-knurled shoulders."
+ },
+ {
+  "code": "g6-23",
+  "hero": 1134,
+  "description": "خاتم رائع يحمل حجراً أزرق سماوياً شفافاً بيضوياً كبيراً غير منقوش، بإطار مخرّز وكتفين مرصّعين بنتوءات هرمية.",
+  "item_category": "Ring",
+  "notes": "الحجر يبدو عقيقاً أزرق (كالسيدوني) لا فيروزاً. داخل الحلقة F وختم مستطيل بأرقام؟ وأختام بيضوية (#1138).",
+  "inscription": "",
+  "visual": "Large oval translucent light-blue cabochon (blue chalcedony?), unengraved; beaded bezel, pyramid-studded shoulders."
+ },
+ {
+  "code": "g6-24",
+  "hero": 1139,
+  "description": "خاتم نسائي بديع يحمل حجر فيروز بعروق سوداء في إطار تاجي ذهبي اللون، على حلقة مخرّمة مزدانة بزهور ذهبية وفصوص بيضاء صغيرة.",
+  "item_category": "Women's Ring",
+  "notes": "الفصوص البيضاء قد تكون ألماساً (غير مؤكد). القطعة بلونين فضي وذهبي. لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Domed spiderweb turquoise in a gold-tone crown bezel; silver-tone filigree band with gold-tone flowers set with small white stones."
+ },
+ {
+  "code": "g6-25",
+  "hero": 1144,
+  "description": "خاتم جميل يحمل حجر عقيق برتقالي منقوشاً على أرضية من الأزهار، بإطار بسيط وجوانب مخرّمة وحلقة من ثلاثة أسلاك.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء (ربما «علي؟»). الدمغات: ختم بيضوي «ایران» وF وختم دائري (#1148).",
+  "inscription": "علي؟",
+  "visual": "Oval orange carnelian with calligraphy on a floral ground; plain bezel, scroll-pierced sides, split three-wire shank."
+ },
+ {
+  "code": "g6-28",
+  "hero": 1154,
+  "description": "خاتم استثنائي يحمل حجر عقيق بطبقتين منقوشاً بخمسة أسطر تبدأ بالبسملة و(ما شاء الله لا قوة إلا بالله)، بكتفين مخرّمين كالحراشف.",
+  "item_category": "Ring",
+  "notes": "الرمز القديم للمالك R008. بقية الأسطر مقروءة جزئياً (أستغفر الله؟). أختام فارسية نجمية وF (#1156).",
+  "inscription": "بسم الله الرحمن الرحيم / ما شاء الله لا قوة إلا بالله / … أستغفر الله؟ / …؟",
+  "visual": "Oval two-layer agate (white over orange) with five naskh lines; beaded bezel, scale/arch openwork shoulders."
+ },
+ {
+  "code": "g6-29",
+  "hero": 1158,
+  "description": "خاتم نفيس يحمل حجر عقيق عسلياً مموّجاً تتوسطه الشهادتان في خرطوشة يحيط بها نقش دائري، في صياغة ملساء ثقيلة.",
+  "item_category": "Ring",
+  "notes": "النقش الدائري يبدأ بالبسملة على ما يبدو وبقيته غير مقروءة. لا دمغة مصوّرة.",
+  "inscription": "(الوسط) لا إله إلا الله / محمد رسول الله — (الإطار) بسم الله الرحمن الرحيم؟ …",
+  "visual": "Oval honey-yellow banded agate: central cartouche with the shahada and a border inscription; flush in a plain heavy polished ring."
+ },
+ {
+  "code": "g6-30",
+  "hero": 1163,
+  "description": "خاتم رائع يحمل حجر عقيق بنياً فاتحاً منقوشاً بعبارة (لا إله إلا الله محمد رسول الله)، بكتفين مخرّمين على هيئة مروحة وحافة مخرّزة.",
+  "item_category": "Ring",
+  "notes": "الرمز القديم للمالك R002. الدمغات: H وF وختمان فارسيان غير مقروءين (#1170)، مع خط ذهبي اللون عند الحافة الداخلية.",
+  "inscription": "لا إله إلا الله / محمد رسول الله",
+  "visual": "Oval light brown-orange agate with the shahada in two lines; beaded bezel, fan/sunburst openwork shoulders."
+ },
+ {
+  "code": "g6-31",
+  "hero": 1174,
+  "description": "خاتم مميز يحمل حجر عقيق أحمر منقوشاً بالخط الكوفي المربع إلى جانب سطور منحنية، بكتفين محزّزين بنقش معيّني وحافة مخرّزة.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء. F بين ختمين بيضويين فارسيين (#1179).",
+  "inscription": "",
+  "visual": "Oval red carnelian with square-kufic block beside cursive lines; diamond-knurled shoulders, beaded bezel."
+ },
+ {
+  "code": "g6-32",
+  "hero": 1180,
+  "description": "خاتم نفيس يحمل حجر عقيق أصفر منقوشاً بخط النستعليق بعبارة (ومن يتوكل على الله فهو حسبه)، بكتفين مشبّكين وحافة مخرّزة.",
+  "item_category": "Ring",
+  "notes": "الرمز القديم للمالك R009. ختمان سداسيان بخط فارسي داخل الحلقة (#1183).",
+  "inscription": "ومن يتوكل على الله فهو حسبه",
+  "visual": "Oval yellow agate in nastaliq within a lobed cartouche; cross-hatched lattice shoulders, beaded bezel."
+ },
+ {
+  "code": "g6-33",
+  "hero": 1185,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر منقوشاً بحروف عريضة على أرضية منقّطة، بكتفين مخدّدين طولياً وجوانب مخرّمة بلفائف.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء ويبدو معكوساً (ختم)، وبه أرقام قد تكون تاريخاً «١٢٨؟». أختام فارسية نجمية حول F (#1191).",
+  "inscription": "",
+  "visual": "Oval red carnelian with broad calligraphy on a dotted ground; vertically fluted shoulders, scroll-pierced sides, beaded bezel."
+ },
+ {
+  "code": "g6-34",
+  "hero": 1195,
+  "description": "خاتم أنيق يحمل حجر عقيق أحمر صغيراً منقوشاً بحروف متداخلة على أرضية من الأزهار، بإطار مدرّج مسنّن وكتفين محبّبين.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء. لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Small oval red carnelian with interlaced calligraphy on flowers; stepped bezel with serrated edge, granulated shoulders."
+ },
+ {
+  "code": "g6-35",
+  "hero": 1203,
+  "description": "خاتم نفيس يحمل حجر عقيق بطبقة رمادية فوق البرتقالي منقوشاً بعبارة (بسم الله الرحمن الرحيم، نصر من الله وفتح قريب)، في صياغة ملساء مصقولة.",
+  "item_category": "Ring",
+  "notes": "يختلف عن خاتم آخر في الدفعة يحمل العبارة نفسها (الخط والحجر والصياغة مختلفة). لا دمغة مصوّرة.",
+  "inscription": "بسم الله الرحمن الرحيم / نصر من الله وفتح قريب",
+  "visual": "Oval agate (grey surface over orange), two naskh lines with a dividing rule; flush in a plain heavy polished dome ring."
+ },
+ {
+  "code": "g6-36",
+  "hero": 1213,
+  "description": "خاتم رقيق ذهبي اللون يحمل حجر عقيق برتقالي بيضوياً منقوشاً بحروف منسابة على أرضية نباتية، في إطار مغلق على حلقة سلكية رفيعة.",
+  "item_category": "Ring",
+  "notes": "قد يكون خاتماً نسائياً أو صغيراً. لون المعدن ذهبي ونوعه غير مؤكد. النقش غير مقروء. لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Oval orange carnelian with flowing calligraphy over foliage, closed bezel on a very thin gold-tone wire band."
+ },
+ {
+  "code": "g6-37",
+  "hero": 1223,
+  "description": "خاتم بديع يحمل حجر عقيق بنياً عريضاً منقوشاً بعبارة (بسم الله الرحمن الرحيم، نصر من الله وفتح قريب) على أرضية منقّطة، في صياغة بسيطة مشغولة يدوياً.",
+  "item_category": "Ring",
+  "notes": "يختلف عن خاتم آخر في الدفعة يحمل العبارة نفسها. لا دمغة مصوّرة.",
+  "inscription": "بسم الله الرحمن الرحيم / نصر من الله وفتح قريب",
+  "visual": "Wide oval brownish agate, two naskh lines on a dotted (rosette) ground; plain hand-worked ring."
+ },
+ {
+  "code": "g6-38",
+  "hero": 1229,
+  "description": "خاتم استثنائي يحمل حجر عقيق أحمر داكناً منقوشاً بخط النستعليق بعبارة (عز من قنع ذل من طمع)، تمسكه مخالب فوق صياغة مخرّمة كالبتلات.",
+  "item_category": "Ring",
+  "notes": "أرقام صغيرة أسفل النقش قد تكون تاريخاً. F وأختام فارسية بين الفتحات (#1233).",
+  "inscription": "عز من قنع ذل من طمع",
+  "visual": "Oval deep red carnelian in nastaliq within a lobed cartouche with small flowers; claw-set in layered petal/scale openwork."
+ },
+ {
+  "code": "g6-39",
+  "hero": 1235,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر برتقالي منقوشاً بخط النسخ بدعاء (ناد علياً مظهر العجائب)، على قفص من القضبان العمودية المفرّغة.",
+  "item_category": "Ring",
+  "notes": "النقش دعاء ناد علي كاملاً بخمسة أسطر. لا دمغة مصوّرة.",
+  "inscription": "ناد علياً مظهر العجائب / تجده عوناً لك في النوائب / كل هم وغم سينجلي / بنبوتك يا محمد بولايتك يا علي يا علي يا علي",
+  "visual": "Oval orange-red carnelian with the Nad-e Ali prayer in naskh; bezel on a cage shank of vertical bars."
+ },
+ {
+  "code": "g7-09",
+  "hero": 1267,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر داكناً مثمّن الشكل منقوشاً بآية (ما شاء الله لا قوة إلا بالله إن ترن أنا أقل منك مالاً وولداً).",
+  "item_category": "Ring",
+  "notes": "صُوّر ضمن سلسلة حسين جدي لكنه مصنّف في الخواتم النادرة، فلم يُذكر صانع. لا دمغة مصوّرة.",
+  "inscription": "ما شاء الله لا قوة / إلا بالله إن ترن أنا / أقل منك مالا وولدا",
+  "visual": "Octagonal dark-red carnelian, three lines (Qur'an 18:39); beaded bezel, sculpted grooved shoulders."
+ },
+ {
+  "code": "g7-15",
+  "hero": 1288,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر منقوشاً بثلاثة أسطر بعبارة (لا إله إلا أنت سبحانك إني كنت من الظالمين)، في صياغة ملساء ثقيلة.",
+  "item_category": "Ring",
+  "notes": "لا دمغة مصوّرة.",
+  "inscription": "لا إله إلا / أنت سبحانك إني كنت / من الظالمين",
+  "visual": "Oval red carnelian, three lines (Qur'an 21:87); plain heavy polished mount."
+ },
+ {
+  "code": "g7-19",
+  "hero": 1309,
+  "description": "خاتم جميل يحمل حجر عقيق برتقالياً محمرّاً منقوشاً بحروف كبيرة على أرضية من الورود، بإطار محزّز وحلقة مجدولة كالحبل.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء. لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Oval orange-red carnelian with large calligraphy on flowers; chevron-engraved bezel edge, twisted rope shank with ball joints."
+ },
+ {
+  "code": "g7-20",
+  "hero": 1315,
+  "description": "خاتم أنيق يحمل حجر عقيق أصفر برتقالياً منقوشاً بحروف وزخارف زهرية صغيرة، في إطار بسيط على حلقة رفيعة ملساء.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء. صورتان فقط ولا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Oval yellow-orange agate with calligraphy and small floral motifs; plain bezel on a thin plain shank."
+ },
+ {
+  "code": "g7-24",
+  "hero": 1336,
+  "description": "خاتم استثنائي يحمل حجر عقيق عسلياً بيضوياً كبيراً منقوشاً بسطرين، بحافة مخرّزة ذهبية اللون فوق قفص مفرّغ من القضبان المائلة.",
+  "item_category": "Ring",
+  "notes": "النقش غير مقروء. ختمان سداسيان فارسيان وF (#1341)، وهي دمغات خاتم الحجر الداكن ذي القفص نفسها.",
+  "inscription": "",
+  "visual": "Large oval honey-brown agate, two-line inscription; gold-tone beaded rim over an openwork cage of slanted bars."
+ },
+ {
+  "code": "g7-26",
+  "hero": 1348,
+  "description": "خاتم فاخر يحمل حجراً أزرق مربّعاً مقطّعاً تحيط به هالة من الفصوص البيضاء اللامعة في رأس مثمّن، بكتفين بلمسة مطفأة.",
+  "item_category": "Ring",
+  "notes": "يبدو الحجر ياقوتاً أزرق والفصوص ألماساً والمعدن أبيض، وكلها غير مؤكدة. لا دمغة مصوّرة.",
+  "inscription": "",
+  "visual": "Cushion-cut blue stone (sapphire?) claw-set within a halo of small colourless stones in an octagonal head; brushed white-metal shoulders."
+ },
+ {
+  "code": "g7-27",
+  "hero": 1353,
+  "description": "خاتم نفيس يحمل حجراً أخضر زيتونياً بيضوياً مقطّعاً، تمسكه مخالب بين كتفين بزوايا حادة على هيئة الأشعة.",
+  "item_category": "Ring",
+  "notes": "الحجر يبدو زبرجداً (بيريدوت) غير مؤكد. الدمغة: F بين ختمين بيضويين تشبه دمغات حسين جدي (#1355)، لكن القطعة في الخواتم النادرة فلم يُذكر صانع.",
+  "inscription": "",
+  "visual": "Oval faceted yellow-green stone (peridot?) in a claw mount with angular faceted shoulders; warm-toned metal."
+ },
+ {
+  "code": "g7-29",
+  "hero": 1361,
+  "description": "خاتم رائع يحمل حجر عقيق رمادياً بنياً كبيراً منقوشاً بسطرين أولهما البسملة على أرضية مشبّكة، في صياغة مخدّدة طولياً.",
+  "item_category": "Ring",
+  "notes": "السطر الثاني يحتمل «إنه من سليمان وإنه؟». الرمز القديم للمالك R011. ختمان بيضويان فارسيان دون F (#1364).",
+  "inscription": "بسم الله الرحمن الرحيم / إنه من سليمان وإنه؟",
+  "visual": "Large oval grey-brown agate, two lines on a cross-hatched ground; beaded bezel, vertically striped shank."
+ },
+ {
+  "code": "g7-30",
+  "hero": 1365,
+  "description": "خاتم مميز يحمل حجر عقيق برتقالياً منقوشاً بسطرين يفصل بينهما خط، بحافة مخرّزة وكتفين بنقش شبكي مدرّج.",
+  "item_category": "Ring",
+  "notes": "النقش يحتمل «لا إله إلا الله محمد رسول الله / علي ولي الله؟». ختم مستطيل واحد غير مقروء (#1368).",
+  "inscription": "لا إله إلا الله …؟ / … علي ولي الله؟",
+  "visual": "Oval orange carnelian, two lines split by a rule; beaded bezel, stepped grid-textured shank."
+ },
+ {
+  "code": "g7-31",
+  "hero": 1369,
+  "description": "خاتم استثنائي يحمل حجراً داكناً غير لامع منقوشاً بأسطر وسطى يحيط بها نقش دائري، بحافة مخرّزة ذهبية اللون فوق قفص مفرّغ.",
+  "item_category": "Ring",
+  "notes": "مادة الحجر غير مؤكدة. النقش غير مقروء. دمغاته (ختمان سداسيان وF، #1372) هي دمغات خاتم العقيق العسلي ذي القفص نفسها.",
+  "inscription": "",
+  "visual": "Oval matte dark brown/black stone, central ruled lines with border inscription; gold-tone beaded rim over an openwork cage shank."
+ }
+]

@@ -1,0 +1,434 @@
+[
+ {
+  "code": "g1-02",
+  "hero": 6,
+  "description": "خاتم نفيس يحمل حجراً أخضر زاهياً محدّب السطح بين مخالب، بأكتاف مضلعة بعمق وزخارف مفرغة على شكل قطرات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه الجيد ولم يُسمَّ لعدم اليقين. لا صورة للدمغة.",
+  "inscription": "",
+  "visual": "Bright green translucent oval cabochon in claw prongs; pierced teardrop motifs at the bezel, deeply fluted shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-10",
+  "hero": 39,
+  "description": "خاتم رائع يحمل حجر فيروز سماوي بيضاوي محدّب، تحيط به أكتاف بزخارف مفرغة على شكل قطرات ولفائف، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#37): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval sky-blue turquoise cabochon in claws; shoulders with pierced teardrop/scroll motifs; yellow gold-tone."
+ },
+ {
+  "code": "g1-16",
+  "hero": 60,
+  "description": "خاتم استثنائي من صياغة أبناء الأستاذ حسين جدي يحمل حجراً أسود منقوشاً بكلمة جلية على أرضية مشبّكة داخل إطار بيضوي تحيط به كتابة.",
+  "item_category": "Ring",
+  "notes": "الكلمة الوسطى قد تكون «علي»؟ والكتابة المحيطة لم تُقرأ. لا صورة للدمغة.",
+  "inscription": "علي؟ (الوسط)؛ الإطار غير مقروء",
+  "visual": "Oval black stone: large central word on a cross-hatched ground in an oval, border inscription; scrolled fluted shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-17",
+  "hero": 61,
+  "description": "خاتم نفيس يحمل حجر عقيق أصفر بيضاوي منقوش بآية الكرسي في أربعة أعمدة، بأكتاف منقوشة بشبكة معينات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "لا صورة للدمغة.",
+  "inscription": "الله لا إله إلا هو الحي القيوم لا تأخذه سنة ولا نوم له ما في السماوات وما في الأرض … وسع كرسيه … (آية الكرسي)",
+  "visual": "Large vertical oval yellow agate with Ayat al-Kursi in four vertical columns; quilted (gridded) shoulders, beaded bezel; gold-tone."
+ },
+ {
+  "code": "g1-20",
+  "hero": 72,
+  "description": "خاتم بديع يحمل حجر عقيق أحمر برتقالي منقوش بتكوين خطي جلي بحروف قائمة تتخللها زهور، بأكتاف مخططة بخطوط دقيقة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#74): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval red-orange carnelian with a bold upright calligraphic composition and flower fillers; finely ribbed shoulders, beaded bezel; pale gold-tone."
+ },
+ {
+  "code": "g1-21",
+  "hero": 77,
+  "description": "خاتم فريد يحمل حجر عقيق محدّب نصفه أبيض حليبي ونصفه أحمر، عليه نقش خفيف، بين مخالب وأكتاف مضلعة بعمق، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش باهت ولم يُقرأ. دمغة داخل الحلقة (#78): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Domed oval agate, half milky white and half red, faintly engraved with a cross-hatched motif; claws, deeply fluted shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-22",
+  "hero": 79,
+  "description": "خاتم أنيق يحمل حجراً أخضر شفافاً مشطوف الأوجه بين مخالب، تحيط به أكتاف بزخارف مفرغة على شكل قطرات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه الزمرد ولم يُسمَّ لعدم اليقين. دمغة داخل الحلقة (#81): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval faceted transparent green stone in claws; shoulders with pierced teardrop/scroll motifs; pale silver/gold-tone."
+ },
+ {
+  "code": "g1-23",
+  "hero": 84,
+  "description": "خاتم رائع يحمل حجر عقيق برتقالي منقوش بخط النستعليق بين زهيرات خماسية داخل إطار مفصّص، بأكتاف منقوشة بشبكة معينات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قراءة جزئية: «… على كل شيء قدير»؟ دمغة داخل الحلقة (#85): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "… على كل شيء قدير؟",
+  "visual": "Oval orange carnelian, nastaliq with five-petal flowers inside a lobed cartouche; beaded bezel, quilted diamond-grid shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-24",
+  "hero": 86,
+  "description": "خاتم استثنائي يحمل حجر عقيق بني منقوش بخرطوشة وسطى يحيط بها دعاء (ناد علياً مظهر العجائب)، بأكتاف مضلعة مفرغة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قُرئ مطلع الإطار فقط؛ نص الخرطوشة الوسطى لم يُقرأ. دمغة داخل الحلقة (#89): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "الإطار: ناد علياً مظهر العجائب …؛ الوسط غير مقروء",
+  "visual": "Large horizontal oval brown-orange agate: central cartouche inside a Nad-e Ali border; scalloped bezel with ball prongs, fluted shoulders with pierced arches."
+ },
+ {
+  "code": "g1-25",
+  "hero": 90,
+  "description": "خاتم أنيق يحمل حجر عقيق أصفر صغير مستدير منقوش بخط النستعليق، في إطار مخرّم وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#92): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Small round yellow agate engraved in nastaliq, pierced bezel, fluted (ribbed) shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-32",
+  "hero": 125,
+  "description": "خاتم مميز يحمل حجر فيروز بيضاوي صغير تتخلله بقعة بنية، تحتضنه بتلات مدببة حادة الزوايا، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "لا صورة للدمغة.",
+  "inscription": "",
+  "visual": "Small oval turquoise cabochon with a brown matrix spot, held by angular pointed petals; plain tapering shank with a beaded band; gold-tone."
+ },
+ {
+  "code": "g1-36",
+  "hero": 144,
+  "description": "خاتم راقٍ يحمل حجراً مستديراً عالي القبة بلون بنفسجي فاتح، في إطار مخرز بحبيبات وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه الكالسيدوني ولم يُسمَّ. لا صورة للدمغة.",
+  "inscription": "",
+  "visual": "Round high-domed pale lavender cabochon in a beaded bezel; fluted shoulders; gold-tone."
+ },
+ {
+  "code": "g1-48",
+  "hero": 209,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالي منقوش بخط النستعليق على أرضية من الأغصان والزهور، بأكتاف محززة بنقش معيّني بارز، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#211): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval orange carnelian, nastaliq on a vine-and-flower ground; knurled diamond-pattern shoulders, beaded bezel; pale gold-tone."
+ },
+ {
+  "code": "g1-49",
+  "hero": 212,
+  "description": "خاتم نادر يحمل حجراً أحمر داكناً بنقش تصويري يضم هلالاً ونجمة وهيئة حيوانية، في إطار مفصّص وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه الغارنت (garnet) ولم يُسمَّ. دمغة داخل الحلقة (#214): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval dark red stone carved as a pictorial intaglio: crescent, star and an animal/bird figure; scalloped bezel, faceted tapering shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-52",
+  "hero": 226,
+  "description": "خاتم جميل يحمل حجر عقيق برتقالي بيضاوي منقوش بخط النستعليق بين الزهور، في إطار مخرز وأكتاف بخطوط مائلة دقيقة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#229): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Smaller oval orange carnelian, nastaliq among flowers; beaded bezel, finely grooved diagonal shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-54",
+  "hero": 236,
+  "description": "خاتم مميز يحمل حجراً أحمر داكناً شفافاً مستطيلاً مشطوف الزوايا منقوشاً بكلمة قصيرة عمودية، بأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الكلمة غير مؤكدة («علي» أو «حسين»؟). الحجر يشبه الغارنت ولم يُسمَّ. دمغة داخل الحلقة (#238): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "علي؟ / حسين؟",
+  "visual": "Cushion-rectangular transparent dark red stone engraved with one short vertical word; fluted shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-55",
+  "hero": 239,
+  "description": "خاتم رائع يحمل حجر عقيق برتقالي منقوش بخط النستعليق بمدّات طويلة، بإطار مخلبي مفصّص وأكتاف مضلعة بفتحات هلالية، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#241): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Horizontal oval orange carnelian, nastaliq with long sweeping strokes; scalloped claw bezel, fluted shoulders with pierced crescents; pale gold-tone."
+ },
+ {
+  "code": "g1-56",
+  "hero": 244,
+  "description": "خاتم استثنائي يحمل حجر عقيق برتقالي منقوش بخط الثلث بين الزهور يختمه سطر صغير، بإطار مخلبي مفصّص وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "السطر السفلي قد يكون تاريخاً غير مقروء. دمغة داخل الحلقة (#246): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval orange carnelian, bold upright thuluth among flowers with a small line at the bottom; scalloped claw bezel, fluted shoulders; pale gold-tone."
+ },
+ {
+  "code": "g2-09",
+  "hero": 264,
+  "description": "خاتم فريد يحمل حجر عقيق برتقالي مستدير منقوش بتكوين خطي متشابك بين الأوراق، بإطار مخلبي مفصّص وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. بالحجر نقاط حمراء داكنة طبيعية عند الحافة. لا صورة للدمغة.",
+  "inscription": "",
+  "visual": "Round orange carnelian with an interlaced (knotted) script composition among leaves, dark red flecks at the edge; scalloped claw bezel, fluted shank; gold-tone."
+ },
+ {
+  "code": "g2-10",
+  "hero": 267,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر داكن كبير منقوش بجدول من أسماء الله الحسنى بصيغة النداء داخل إطار كتابي، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قُرئت خانات مثل «يا مالك الملك» و«يا ذا الجلال والإكرام» و«يا كافي المهمات»؛ مطلع الإطار يشبه «هو الله الذي لا إله إلا هو …». لا صورة للدمغة.",
+  "inscription": "خانات: يا مالك الملك، يا ذا الجلال والإكرام، يا كافي المهمات …؛ الإطار: هو الله الذي لا إله إلا هو …؟",
+  "visual": "Large oval dark-red carnelian with a talismanic grid of 'Ya …' divine names inside a border inscription; scalloped claws, fluted shank; gold-tone."
+ },
+ {
+  "code": "g2-11",
+  "hero": 270,
+  "description": "خاتم نفيس يحمل حجر عقيق منقوش بلفظ الجلالة (الله) على أرضية مشبّكة يحيط به إطار كتابي، بأكتاف منقوشة بشبكة معينات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الكتابة المحيطة لم تُقرأ. لا صورة للدمغة.",
+  "inscription": "الله (الوسط)؛ الإطار غير مقروء",
+  "visual": "Oval orange carnelian with a large central «الله» in a cross-hatched cartouche and a border inscription; beaded bezel, cross-hatched diamond shoulders; gold-tone."
+ },
+ {
+  "code": "g2-12",
+  "hero": 273,
+  "description": "خاتم رائع يحمل حجر عقيق عسلي فاتح مستدير منقوش بكتابة ذات مدّة أفقية طويلة، بين مخالب مفصّصة وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش باهت ولم يُقرأ. لا صورة للدمغة.",
+  "inscription": "",
+  "visual": "Round pale honey/beige agate engraved with script with one long horizontal stroke; scalloped claws, fluted shank; gold-tone."
+ },
+ {
+  "code": "g2-13",
+  "hero": 278,
+  "description": "خاتم استثنائي يحمل حجر عقيق عسلي على شكل قطرة، منقوش باسم (علي) على أرضية مشبّكة يحيط به دعاء (ناد علياً)، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قُرئ مطلع الإطار فقط. لا صورة للدمغة.",
+  "inscription": "علي (الوسط)؛ الإطار: ناد علياً مظهر العجائب …",
+  "visual": "Pear-shaped pale honey agate with an orange vein: large «علي» in a cross-hatched cartouche inside a Nad-e Ali border; beaded claw bezel, fluted shank; gold-tone."
+ },
+ {
+  "code": "g2-14",
+  "hero": 281,
+  "description": "خاتم بديع يحمل حجر عقيق عسلي منقوش بخط الثلث الجلي بعبارة (المتوكل على الله)، بأكتاف مفرغة بلفائف وأضلاع مثقبة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "لا صورة للدمغة.",
+  "inscription": "المتوكل على الله",
+  "visual": "Oval honey-orange agate in large jali thuluth «المتوكل على الله»; C-scroll openwork at the bezel, ribbed shank with rows of drilled dots; gold-tone."
+ },
+ {
+  "code": "g2-19",
+  "hero": 307,
+  "description": "خاتم رائع يحمل حجر عقيق برتقالي منقوش بخط النستعليق على أرضية زهرية، بإطار مخلبي وأكتاف مضلعة تتخللها فتحات دائرية مخرزة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قد يتضمن اسم «محمد»؟ والباقي لم يُقرأ. لا صورة للدمغة.",
+  "inscription": "محمد؟",
+  "visual": "Oval orange carnelian, nastaliq on a floral ground with a long sweeping stroke; claw mount, fluted shoulders with round pierced openwork and beaded rims; gold-tone."
+ },
+ {
+  "code": "g2-23",
+  "hero": 327,
+  "description": "خاتم مميز يحمل حجر عقيق برتقالي مثمّن الشكل منقوش بخط الثلث مع نجيمات صغيرة، بإطار مخلبي مفصّص وأكتاف مضلعة بفتحات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النص يبدأ على الأرجح بـ«يا …»؟ ولم يُقرأ. دمغة داخل الحلقة (#330): ختم «جدي» وحرف F وختم «تهران».",
+  "inscription": "يا …؟",
+  "visual": "Octagonal (cut-corner) orange carnelian with a large thuluth composition and small star marks; fluted scalloped claw mount with pierced holes, ribbed shank; gold-tone."
+ },
+ {
+  "code": "g2-24",
+  "hero": 332,
+  "description": "خاتم نفيس يحمل حجراً أخضر فاتحاً شفافاً منقوشاً بخط النستعليق داخل إطار مفصّص، بحافة مخرزة وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قراءة جزئية: «… على كل شيء قدير»؟ نوع الحجر غير مؤكد. دمغة داخل الحلقة (#333): ختم مستطيل «جدي» وحرف F وختم «تهران».",
+  "inscription": "… على كل شيء قدير؟",
+  "visual": "Oval translucent pale green stone, nastaliq inside a lobed cartouche; beaded rim, fluted shank; pale gold-tone."
+ },
+ {
+  "code": "g2-25",
+  "hero": 335,
+  "description": "خاتم أنيق يحمل حجر عقيق مستطيل منقوش بتكوين خطي تتخلله وريدات زخرفية، بإطار مخلبي مفصّص وأكتاف مضلعة بفتحات جانبية، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#336): ختم «جدي» وحرف F وختم «تهران».",
+  "inscription": "",
+  "visual": "Rectangular orange-red carnelian with a symmetrical script composition including rosette-like letter heads; fluted scalloped claw mount with pierced holes; gold-tone."
+ },
+ {
+  "code": "g2-27",
+  "hero": 346,
+  "description": "خاتم رائع يحمل حجر عقيق برتقالي منقوش بتكوين شبكي من حروف قائمة متراصة، بإطار مخلبي مفصّص وأكتاف مضلعة بفتحات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#349): ختم «جدي» وحرف F وختم «تهران».",
+  "inscription": "",
+  "visual": "Cushion-oval orange carnelian with an angular grid composition of tall upright letters; fluted scalloped claw mount with pierced holes; gold-tone."
+ },
+ {
+  "code": "g2-28",
+  "hero": 350,
+  "description": "خاتم استثنائي من صياغة أبناء الأستاذ حسين جدي يحمل حجراً شفافاً عديم اللون منقوشاً بخط النستعليق في أسطر داخل إطار مفصّص، بأكتاف منقوشة بشبكة معينات.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه البلور الصخري ولم يُسمَّ. النقش لم يُقرأ بيقين. دمغة داخل الحلقة (#353): حرف F بين ختمين بيضاويين.",
+  "inscription": "",
+  "visual": "Oval colourless/milky stone engraved in several nastaliq lines inside a lobed cartouche; quilted diamond-pattern shoulders with beaded edges; pale gold-tone."
+ },
+ {
+  "code": "g2-30",
+  "hero": 366,
+  "description": "خاتم جميل يحمل حجر عقيق منقوش بخط النستعليق على أرضية كثيفة من الأغصان والزهور، بإطار مفصّص وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#368): ختم «جدي» وحرف F وختم «تهران».",
+  "inscription": "",
+  "visual": "Oval carnelian densely engraved in nastaliq on a floral ground; rosy gold-tone mount with lobed petal bezel and fluted shoulders with beaded edge."
+ },
+ {
+  "code": "g3-06",
+  "hero": 451,
+  "description": "خاتم بديع يحمل حجر عقيق برتقالي مستدير منقوش بكتابة كثيفة بحروف قائمة، بإطار مخلبي مفصّص وأكتاف مضلعة ملتوية، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#453): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Round orange carnelian with dense upright script; scalloped claw bezel, twisted (swirled) ribbed shoulders; silver-tone with a warm cast."
+ },
+ {
+  "code": "g3-08",
+  "hero": 460,
+  "description": "خاتم نفيس يحمل حجر عقيق كمثري منقوش بعبارة (لا إله إلا الله الملك الحق المبين)، بإطار مضلع ممتد، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#464): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "لا إله إلا الله الملك الحق المبين",
+  "visual": "Pear-shaped carnelian with two lines «لا إله إلا الله الملك الحق المبين»; deeply fluted (gadrooned) bezel continuing into the shank; silver-tone."
+ },
+ {
+  "code": "g3-09",
+  "hero": 465,
+  "description": "خاتم أنيق يحمل حجر عقيق بني منقوش بخط الثلث داخل إطار مستطيل الزوايا، بأكتاف مضلعة محاطة بحبيبات، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النص لم يُقرأ بيقين (لفظ الجلالة أو «لا إله إلا الله»؟). دمغة داخل الحلقة (#468): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "الله؟ / لا إله إلا الله؟",
+  "visual": "Oval brown agate with one large thuluth word-group in a rounded-rectangle cartouche; plain bezel, fluted shoulders edged with milgrain; silver-tone."
+ },
+ {
+  "code": "g3-11",
+  "hero": 475,
+  "description": "خاتم رائع يحمل حجر عقيق أصفر منقوش بخط النستعليق بعبارة (ما شاء الله لا قوة إلا بالله)، بأكتاف مروحية مفرغة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قُرئ السطر الأول فقط. دمغة داخل الحلقة (#477): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "ما شاء الله لا قوة إلا بالله؛ السطر الثاني غير مقروء",
+  "visual": "Oval yellow/honey agate, nastaliq «ما شاء الله لا قوة إلا بالله» with dotted fillers in a lobed cartouche; milgrain bezel, openwork fan shoulders; silver-tone."
+ },
+ {
+  "code": "g3-13",
+  "hero": 483,
+  "description": "خاتم مميز يحمل حجر عقيق برتقالي أفقي منقوش بخط الثلث الكثيف بين الأغصان، بإطار مخرز وأكتاف منقوشة بشبكة متقاطعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#485): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Horizontal oval carnelian with dense interlaced thuluth among vines; milgrain bezel, crosshatch-lattice shoulders; silver-tone."
+ },
+ {
+  "code": "g3-14",
+  "hero": 486,
+  "description": "خاتم نفيس يحمل حجر عقيق عسلي فاتح كبير منقوش بآية الكرسي في أسطر دقيقة، بإطار مخرز وأكتاف مضلعة فضية اللون، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#489): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "… السماوات وما في الأرض من ذا الذي يشفع عنده إلا بإذنه يعلم ما بين أيديهم … وسع كرسيه السماوات والأرض … (آية الكرسي)",
+  "visual": "Large horizontal oval pale honey agate finely engraved with Ayat al-Kursi in about six lines; milgrain bezel, ribbed shoulders; silver-tone."
+ },
+ {
+  "code": "g3-15",
+  "hero": 491,
+  "description": "خاتم استثنائي من صياغة أبناء الأستاذ حسين جدي يحمل حجر عقيق مستطيل مشطوف الزوايا منقوش بخط النستعليق بسورة الناس في أسطر تفصلها خطوط.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#493): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "بسم الله الرحمن الرحيم قل أعوذ برب الناس ملك الناس إله الناس من شر الوسواس الخناس الذي يوسوس في صدور الناس من الجنة والناس",
+  "visual": "Rectangular cut-corner carnelian with Surat al-Nas in ruled nastaliq lines, fluted claw bezel; fluted shoulders; silver-tone."
+ },
+ {
+  "code": "g3-19",
+  "hero": 506,
+  "description": "خاتم رائع يحمل حجراً أسود كمثرياً منقوشاً بعبارة (لا إله إلا الله الملك الحق المبين)، بإطار مضلع ممتد في الحلقة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه العقيق الأسود (الأونيكس) ولم يُسمَّ. دمغة داخل الحلقة (#510): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "لا إله إلا الله الملك الحق المبين",
+  "visual": "Pear-shaped black stone (looks like onyx) with two lines «لا إله إلا الله الملك الحق المبين»; deeply fluted bezel and shank; silver-tone."
+ },
+ {
+  "code": "g3-22",
+  "hero": 519,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر أفقي منقوش بأسماء المعصومين الأربعة عشر في ثلاثة أسطر، بإطار مخلبي مخرز وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#520): حرف F بين ختمين مستطيلين بحروف فارسية تشبه «جدي».",
+  "inscription": "الله محمد علي فاطمة … حسن حسين … علي محمد جعفر … موسى علي محمد علي حسن محمد؟",
+  "visual": "Horizontal oval carnelian with the names of the Fourteen Infallibles in three naskh lines; scalloped claw bezel with milgrain, fluted shank; silver-tone."
+ },
+ {
+  "code": "g3-23",
+  "hero": 521,
+  "description": "خاتم استثنائي يحمل حجر عقيق عسلي منقوش بدعاء (ناد علياً مظهر العجائب) في أربعة أسطر، بأكتاف مروحية مفرغة بفتحات مثلثة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#523): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "ناد علياً مظهر العجائب تجده عوناً لك في النوائب كل هم وغم سينجلي … يا محمد … يا علي يا علي يا علي",
+  "visual": "Oval pale honey agate with Nad-e Ali in four naskh lines, claw-set; fan-ribbed shoulders with triangular openings; silver-tone."
+ },
+ {
+  "code": "g3-24",
+  "hero": 524,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالي منقوش بعبارة (بسم الله الرحمن الرحيم نصر من الله وفتح قريب)، بأكتاف مروحية مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة (#527): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "بسم الله الرحمن الرحيم / نصر من الله وفتح قريب",
+  "visual": "Horizontal oval orange-brown agate with two lines «بسم الله الرحمن الرحيم / نصر من الله وفتح قريب», claw-set; fan-ribbed shoulders; silver-tone."
+ },
+ {
+  "code": "g3-26",
+  "hero": 531,
+  "description": "خاتم جميل يحمل حجر عقيق أحمر منقوش بخط النستعليق في تكوين متقاطع مائل، بإطار مخرز وأكتاف مضلعة دقيقة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#534): حرف F بين ختمين مستطيلين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval carnelian engraved in nastaliq in a crossed/diagonal layout; milgrain bezel, finely fluted shoulders; silver-tone."
+ },
+ {
+  "code": "g3-27",
+  "hero": 535,
+  "description": "خاتم رائع يحمل حجراً أبيض حليبياً منقوشاً بعبارة (بسم الله الرحمن الرحيم نصر من الله وفتح قريب)، بأكتاف مروحية مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "الحجر يشبه الكالسيدوني الأبيض ولم يُسمَّ. دمغة داخل الحلقة (#537): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "بسم الله الرحمن الرحيم / نصر من الله وفتح قريب",
+  "visual": "Horizontal oval milky-white stone (looks like chalcedony) with two lines «بسم الله الرحمن الرحيم / نصر من الله وفتح قريب»; milgrain bezel, fan-ribbed shoulders; silver-tone."
+ },
+ {
+  "code": "g4-07",
+  "hero": 612,
+  "description": "خاتم أنيق يحمل حجر عقيق عسلي فاتح مستطيل منقوش بخط النستعليق بين الزهيرات، بأكتاف مضلعة تتخللها فتحات جانبية، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#614): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Rectangular translucent pale honey agate, nastaliq with small flowers; fluted shank with side holes; silver-tone."
+ },
+ {
+  "code": "g4-08",
+  "hero": 615,
+  "description": "خاتم بديع يحمل حجر عقيق برتقالي منقوش بخط النستعليق بين الزهور والأغصان، تمسكه مخالب تاجية مدببة طويلة، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ. دمغة داخل الحلقة (#618): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "",
+  "visual": "Oval orange carnelian, nastaliq among flowers and scrolls, held by tall pointed crown prongs on a fluted shank; silver-tone."
+ },
+ {
+  "code": "g4-09",
+  "hero": 619,
+  "description": "خاتم مميز يحمل حجر عقيق أحمر مستطيل مشطوف الزوايا منقوش بخط النستعليق على أرضية زهرية، بأكتاف مضلعة مثقبة بفتحات دائرية، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ بيقين (قد يتضمن «الحمد لله»؟). دمغة داخل الحلقة (#621): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "الحمد لله …؟",
+  "visual": "Rectangular cut-corner red carnelian, bold nastaliq on a flower-and-branch ground; scalloped bezel, fluted shank pierced with round holes; silver-tone."
+ },
+ {
+  "code": "g4-10",
+  "hero": 622,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر داكن منقوش بخط النستعليق بآية (ومن يتق الله يجعل له مخرجاً)، بأكتاف مضلعة بعمق، من صياغة أبناء الأستاذ حسين جدي.",
+  "item_category": "Ring",
+  "notes": "قُرئت مقاطع: «يجعل له مخرجاً … من حيث لا يحتسب ومن يتوكل … قد جعل الله لكل شيء قدراً». دمغة داخل الحلقة (#624): حرف F بين ختمين دائريين بحروف فارسية.",
+  "inscription": "ومن يتق الله يجعل له مخرجاً ويرزقه من حيث لا يحتسب ومن يتوكل على الله … قد جعل الله لكل شيء قدراً (الطلاق ٢–٣)؟",
+  "visual": "Oval dark red (liver) carnelian with four lines of fine nastaliq (Q 65:2-3); ribbed crown bezel on a strongly fluted shank; silver-tone."
+ }
+]

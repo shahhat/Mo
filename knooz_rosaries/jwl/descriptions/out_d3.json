@@ -1,0 +1,416 @@
+[
+ {
+  "code": "g1-06",
+  "hero": 21,
+  "description": "خاتم نفيس يحمل حجر عقيق بيضاوياً ممدوداً منقوشاً بخرطوشة وسطى على أرضية مشبّكة يحيط بها إطار كتابي، بأكتاف مضلّعة عميقة الأخاديد.",
+  "item_category": "Ring",
+  "notes": "الكتابة في الخرطوشة والإطار لم تُقرأ بثقة.",
+  "inscription": "",
+  "visual": "Elongated oval carnelian, central cartouche on cross-hatched ground with border inscription (straight, not mirrored); deeply fluted shoulders, beaded bezel; silver-tone."
+ },
+ {
+  "code": "g1-07",
+  "hero": 23,
+  "description": "خاتم رائع يحمل حجر عقيق برتقالياً منقوشاً بخرطوشة وسطى ذات حروف متراكبة يحيط بها إطار كتابي، في مخالب مسنّنة على حلقة مخرّمة كخلايا النحل.",
+  "item_category": "Ring",
+  "notes": "الكتابة لم تُقرأ بثقة.",
+  "inscription": "",
+  "visual": "Oval orange carnelian with central cartouche of stacked letters and border inscription; scalloped claw bezel, honeycomb openwork shank; gold-tone."
+ },
+ {
+  "code": "g1-08",
+  "hero": 27,
+  "description": "خاتم استثنائي يحمل حجراً شفافاً عديم اللون منقوشاً بخط النستعليق في ثلاثة أسطر تفصلها خطوط، بإطار مسنّن وأكتاف مضلّعة عريضة.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (يشبه الكريستال الصخري)؛ في السطر الأخير أرقام تشبه تاريخاً لم يُقرأ بثقة؛ خدوش على سطح الحجر.",
+  "inscription": "",
+  "visual": "Clear colourless stone (rock-crystal-like) engraved with three ruled lines of nastaliq; scalloped bezel, broad fluted shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-15",
+  "hero": 58,
+  "description": "خاتم أنيق يحمل حجر فيروز بيضاوياً كبيراً بلون أخضر مزرق، في إطار مخرز وأكتاف مضلّعة بدقة تتوسطها قضبان بارزة.",
+  "item_category": "Ring",
+  "notes": "",
+  "inscription": "",
+  "visual": "Large oval pale green-blue turquoise cabochon, beaded bezel; finely ribbed shoulders with raised central bars; gold-tone."
+ },
+ {
+  "code": "g1-18",
+  "hero": 68,
+  "description": "خاتم نفيس يحمل حجر فيروز بيضاوياً أخضر مزرقاً تسري فيه عروق فاتحة، بإطار مخرز وأكتاف عريضة محزّزة على هيئة مروحة.",
+  "item_category": "Ring",
+  "notes": "",
+  "inscription": "",
+  "visual": "Oval green-blue turquoise with pale veining and a small brown spot; beaded notched bezel; broad fan-grooved shoulders; gold-tone."
+ },
+ {
+  "code": "g1-28",
+  "hero": 103,
+  "description": "خاتم بديع بلونين ذهبي وفضي يحمل حجر عقيق أحمر منقوشاً بخط النستعليق على أرضية مزهرة، تحتضنه أكتاف من أوراق نباتية بارزة.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس (ختم) ولم تُقرأ عبارته بثقة؛ في أسفل الحجر تاريخ يُقرأ بعد القلب ١٢٤٢ (؟).",
+  "inscription": "",
+  "visual": "Two-tone seal ring: oval red carnelian, mirror nastaliq on floral ground with small date line; gold bezel on chased silver collar, chased gold leaf shoulders on silver shank."
+ },
+ {
+  "code": "g1-29",
+  "hero": 109,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر قرميدياً بيضاوياً عريضاً منقوشاً بخط النستعليق، في إطار أملس على حلقة رشيقة.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس (ختم) ولم يُقرأ بثقة، ويبدو فيه «عبده» (؟) وأرقام تاريخ غير واضحة.",
+  "inscription": "… عبده (؟) …",
+  "visual": "Wide horizontal oval brick-red carnelian seal, mirror nastaliq with numerals in the field; plain bezel, slim shank with rounded shoulders; pale gold-tone."
+ },
+ {
+  "code": "g1-31",
+  "hero": 120,
+  "description": "خاتم فاخر يحمل حجر فيروز بيضاوياً كبيراً بلون سماوي فاتح، تحضنه مخالب مضلّعة كالتاج مع فتحة دائرية على كل كتف.",
+  "item_category": "Ring",
+  "notes": "",
+  "inscription": "",
+  "visual": "Large oval pale sky-blue turquoise cabochon in a crown of ribbed claws; round pierced hole on each shoulder; gold-tone."
+ },
+ {
+  "code": "g1-33",
+  "hero": 129,
+  "description": "خاتم فريد يحمل حجراً أخضر شفافاً بيضاوياً ممدوداً، في صياغة مخرّمة من حراشف متراكبة تكسو الأكتاف كلها.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (يشبه الكالسيدوني الأخضر).",
+  "inscription": "",
+  "visual": "Long narrow oval translucent green cabochon (chalcedony-like) in a mount of overlapping scale openwork; gold-tone."
+ },
+ {
+  "code": "g1-34",
+  "hero": 131,
+  "description": "خاتم بديع يحمل حجراً أزرق سماوياً شفافاً بيضاوي الشكل، في إطار مخرز مسنّن بمخالب مثقوبة وأكتاف مخرّمة بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "الحجر شفاف فلا يُسمّى فيروزاً؛ يشبه الكالسيدوني الأزرق.",
+  "inscription": "",
+  "visual": "Oval translucent sky-blue cabochon (blue chalcedony-like); beaded scalloped bezel with pierced claws; scroll openwork shoulders; gold-tone."
+ },
+ {
+  "code": "g1-35",
+  "hero": 142,
+  "description": "خاتم رائع يحمل حجراً أخضر متوهجاً بيضاوياً عريضاً، تمسكه مخالب على هيئة حراشف مع أكتاف مخرّمة بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (يشبه الكالسيدوني الأخضر).",
+  "inscription": "",
+  "visual": "Broad oval glowing translucent green cabochon in scale-shaped prongs; scroll openwork shoulders; gold-tone."
+ },
+ {
+  "code": "g1-37",
+  "hero": 146,
+  "description": "خاتم مميز يحمل حجراً أخضر داكناً بيضاوي الشكل، تعلوه مخالب مدببة فوق إطار مخرز مسنّن، بأكتاف مخرّمة بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (عقيق أو كالسيدوني أخضر؟).",
+  "inscription": "",
+  "visual": "Oval deeper-green, more opaque cabochon; spiky claws over beaded scalloped bezel; scroll openwork shoulders; gold-tone."
+ },
+ {
+  "code": "g1-38",
+  "hero": 150,
+  "description": "خاتم أنيق يحمل حجر عقيق عسلياً شفافاً بيضاوياً ممدوداً، في إطار مخرز مسنّن بمخالب مثقوبة وأكتاف مخرّمة بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر بالمعاينة فقط (عقيق عسلي أو كالسيدوني أصفر).",
+  "inscription": "",
+  "visual": "Elongated oval honey-yellow translucent cabochon; beaded scalloped bezel with pierced claws; scroll openwork shoulders; gold-tone."
+ },
+ {
+  "code": "g1-39",
+  "hero": 156,
+  "description": "خاتم استثنائي يحمل حجر فيروز فاتحاً مقبّباً عالياً كالقبة، ينهض من كأس مخرّمة بحراشف متراكبة ومخالب مدببة فوق حلقة مخرّمة.",
+  "item_category": "Ring",
+  "notes": "لون الحجر فيروزي فاتح؛ النوع بالمعاينة فقط.",
+  "inscription": "",
+  "visual": "Tall sugarloaf-domed pale mint-blue turquoise rising from a cup of overlapping scale openwork with pointed claws; scrolled openwork shank; gold-tone."
+ },
+ {
+  "code": "g1-40",
+  "hero": 160,
+  "description": "خاتم فريد يحمل حجراً أبيض عاجياً مقبّباً عالياً، ينهض من كأس مخرّمة بحراشف متراكبة ومخالب مدببة فوق حلقة مخرّمة بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (عقيق أبيض أو كالسيدوني؟).",
+  "inscription": "",
+  "visual": "Tall sugarloaf-domed creamy white opaque stone in a cup of scale openwork with pointed claws; scrolled openwork shank; gold-tone."
+ },
+ {
+  "code": "g1-41",
+  "hero": 164,
+  "description": "خاتم نفيس يحمل حجراً أخضر مربعاً بقطع متدرّج، في كأس من مخالب كالبتلات وأكتاف مخرّمة بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "يشبه الزمرد لكنه لا يُسمّى دون إثبات؛ شوائب ظاهرة في الحجر.",
+  "inscription": "",
+  "visual": "Square step-cut green stone (emerald-like, visible inclusions) in a cup of claw petals; scroll openwork shoulders; gold-tone."
+ },
+ {
+  "code": "g1-42",
+  "hero": 169,
+  "description": "خاتم بديع يحمل حجراً أزرق بنفسجياً متعدد الأوجه بيضاوي الشكل، تمسكه مخالب وتحيط به أكتاف مخرّمة على هيئة قطرات ملتفة.",
+  "item_category": "Ring",
+  "notes": "يشبه الياقوت الأزرق لكنه لا يُسمّى دون إثبات.",
+  "inscription": "",
+  "visual": "Oval faceted light violet-blue stone (sapphire-like) in claw prongs; pierced teardrop/scroll shoulders; gold-tone."
+ },
+ {
+  "code": "g1-43",
+  "hero": 177,
+  "description": "خاتم نادر يحمل حجر عقيق أحمر كبيراً منقوشاً بخرطوشة وسطى من الحروف المتشكّلة يحيط بها إطار كتابي، بأكتاف محزّزة بنقش ماسي دقيق.",
+  "item_category": "Ring",
+  "notes": "قد يكون الشكل المركزي أسداً مشكّلاً من الحروف (؟)؛ الإطار لم يُقرأ بثقة؛ دمغة داخل الحلقة: F بين ختمين يُقرآن «تاج» و«تهران» (؟).",
+  "inscription": "",
+  "visual": "Large oval red carnelian, central cartouche of figural calligraphy (possibly lion-form) inside a border inscription; knurled diamond-pattern shoulders, beaded bezel; hallmark F + two round stamps."
+ },
+ {
+  "code": "g1-45",
+  "hero": 192,
+  "description": "خاتم مميز يحمل حجراً أخضر مصفرّاً شفافاً مستطيلاً منقوشاً بخط النستعليق في سطرين، بإطار مضلّع وأكتاف مخرّمة.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (يشبه الزبرجد وقد يكون زجاجاً)؛ النقش معكوس ولم يُقرأ؛ دمغات داخل الحلقة: F وختم «نقره» (؟) ورقم «١٣٩؟» وختم آخر غير مقروء.",
+  "inscription": "",
+  "visual": "Rectangular transparent yellow-green stone, mirror nastaliq in two lines; ribbed bezel, pierced openwork shoulders; silver-tone; stamps incl. F and oval marks."
+ },
+ {
+  "code": "g1-46",
+  "hero": 196,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر بيضاوياً منقوشاً بخط النستعليق بين الزهور، في إطار تحفّه حبيبات ذهبية اللون على حلقة عريضة ملساء.",
+  "item_category": "Ring",
+  "notes": "دمغات داخل الحلقة: F وأختام ذهبية اللون لم تُقرأ.",
+  "inscription": "",
+  "visual": "Oval red carnelian engraved in nastaliq with flowers; silver-tone bezel edged with gold-tone beaded wire; plain broad shank; F and gold-tone stamps."
+ },
+ {
+  "code": "g1-47",
+  "hero": 204,
+  "description": "خاتم فريد يحمل حجراً مستديراً رمادياً مخضرّاً منقوشاً بأسطر متقاطعة تمتد فيها الحروف عمودياً، بإطار مسنّن وأكتاف مضلّعة بأهلّة مخرّمة.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد؛ النقش لم يُقرأ؛ دمغات داخل الحلقة: F وختم «نقره» (؟) ورقم «١٣٩٨» (؟) وختم آخر غير مقروء.",
+  "inscription": "",
+  "visual": "Round grey-green mottled stone engraved in a grid of lines with tall vertical letters; scalloped claw bezel, fluted shoulders with pierced crescents; F + oval stamps."
+ },
+ {
+  "code": "g1-50",
+  "hero": 216,
+  "description": "خاتم أنيق يحمل حجر عقيق برتقالياً بيضاوياً منقوشاً بخط النستعليق، في إطار مخرز وأكتاف من أخاديد يتوسطها قضيب بارز.",
+  "item_category": "Ring",
+  "notes": "ختمان مستديران داخل الحلقة، أحدهما يُقرأ «تهران» (؟).",
+  "inscription": "",
+  "visual": "Oval orange carnelian engraved in nastaliq; beaded bezel; shoulders of grooved ribs with a raised central rod; gold-tone; two round stamps."
+ },
+ {
+  "code": "g1-51",
+  "hero": 221,
+  "description": "خاتم بديع يحمل حجر عقيق عسلياً برتقالياً مستطيلاً منقوشاً بخط النستعليق، في إطار مخرز على حلقة مخرّمة بنقوش هرمية.",
+  "item_category": "Ring",
+  "notes": "دمغة داخل الحلقة: F بين ختمين مستديرين، أحدهما يُقرأ «تهران» (؟).",
+  "inscription": "",
+  "visual": "Rectangular honey-orange carnelian, nastaliq (row of upright letters over a long stroke); beaded rectangular bezel on pyramid-openwork shank; gold-tone; F stamps."
+ },
+ {
+  "code": "g1-53",
+  "hero": 231,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالياً مستطيلاً منقوشاً بخط النستعليق في سطرين بين الزهور، في إطار مخرز على حلقة مخرّمة بنقوش هرمية.",
+  "item_category": "Ring",
+  "notes": "شعر دقيق في الزاوية العليا من الحجر؛ النقش معكوس (ختم) وفي أسفله تاريخ لم يُقرأ بثقة؛ دمغة F بين ختمين مستديرين.",
+  "inscription": "",
+  "visual": "Rectangular orange carnelian seal, two lines of mirror nastaliq with flowers and a date line; fine crack at one upper corner; beaded bezel, pyramid-openwork shank; F stamps."
+ },
+ {
+  "code": "g2-17",
+  "hero": 290,
+  "description": "خاتم استثنائي يحمل حجراً أخضر داكناً مستديراً منقوشاً بهيئة فارس على جواد يحيط بها إطار كتابي، فوق صف من الفصوص الصغيرة وحلقة مضلّعة.",
+  "item_category": "Ring",
+  "notes": "نوع الحجر غير مؤكد (جيد أو عقيق أخضر؟)؛ كتابة الإطار لم تُقرأ؛ دمغة F وختم يُقرأ «تهران» (؟).",
+  "inscription": "",
+  "visual": "Round dark green stone engraved with a horseman (rider on horse) in a central roundel with border inscription; lobed petal bezel over a row of tiny pave stones; fluted shank; silver-tone."
+ },
+ {
+  "code": "g2-18",
+  "hero": 301,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر مستطيلاً منقوشاً داخل محراب من سيفين مقوّسين تزيّن زواياه الزهور، وعلى كل كتف نجمة خماسية مخرّمة.",
+  "item_category": "Ring",
+  "notes": "كتابة المحراب لم تُقرأ بثقة؛ دمغة F وختمان أحدهما يُقرأ «تهران» (؟).",
+  "inscription": "",
+  "visual": "Rectangular red carnelian engraved inside an arch formed by two curved swords, flowers in the corners; pierced mount with teardrop prongs and a five-pointed star medallion on each shoulder; silver-tone."
+ },
+ {
+  "code": "g2-22",
+  "hero": 319,
+  "description": "خاتم نفيس يحمل حجر عقيق أحمر مستطيلاً مشطوف الزوايا منقوشاً بالبسملة والشهادتين، وعلى كل كتف نجمة خماسية يتوسطها فص أصفر صغير.",
+  "item_category": "Ring",
+  "notes": "دمغة F وختمان بيضويان لم يُقرآ.",
+  "inscription": "بسم الله الرحمن الرحيم / لا إله إلا الله / محمد رسول الله",
+  "visual": "Rectangular red carnelian with cut corners, three lines (Basmala, Shahada); pierced mount with teardrop prongs, star medallion with small yellow stone on each shoulder; gold-tone."
+ },
+ {
+  "code": "g2-26",
+  "hero": 338,
+  "description": "خاتم استثنائي ذهبي اللون بإطار سداسي محفور يحمل حجر عقيق صغيراً منقوشاً بعبارة (لا قوة إلا بالله)، وأكتافه وحلقته مزدانة بهيئات بشرية وحيوانية بارزة.",
+  "item_category": "Ring",
+  "notes": "قراءة الأسطر الثلاثة: ما شاء الله (؟) / لا قوة إلا بالله / أستغفر الله (؟).",
+  "inscription": "ما شاء الله (؟) / لا قوة إلا بالله / أستغفر الله (؟)",
+  "visual": "Heavy gold-tone ring, hexagonal chased bezel with small oval carnelian in three nastaliq lines; repousse figural shoulders (face figure between beasts) and robed figure on the shank."
+ },
+ {
+  "code": "g2-29",
+  "hero": 354,
+  "description": "خاتم نادر يحمل حجراً أحمر عنابياً بيضاوياً منقوشاً بخط كوفي بعبارة (لا إله إلا الله)، بأكتاف مخرّمة على هيئة قلوب وحلقة محفورة بمعيّنات.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس (ختم) وقُرئ بعد قلبه؛ نوع الحجر غير مؤكد (عقيق أحمر داكن أو غارنيت؟).",
+  "inscription": "لا إله إلا الله",
+  "visual": "Oval deep red translucent stone (garnet-like) with one line of mirror angular Kufic; openwork heart shoulders, shank engraved with X-in-diamond pattern; silver-tone."
+ },
+ {
+  "code": "g2-32",
+  "hero": 372,
+  "description": "خاتم بديع يحمل حجر فيروز سماوياً مستديراً صافي اللون، يرتفع في تاج شاهق من مخالب مضلّعة ملتوية.",
+  "item_category": "Ring",
+  "notes": "",
+  "inscription": "",
+  "visual": "Round sky-blue turquoise cabochon without matrix in a tall crown of fluted swirled prongs; silver-tone."
+ },
+ {
+  "code": "g2-33",
+  "hero": 377,
+  "description": "خاتم رائع يحمل حجر عقيق برتقالياً مربعاً منقوشاً بخط النستعليق داخل إطار مزدوج، بأكتاف محفورة يدوياً بالزهور والأغصان.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ.",
+  "inscription": "",
+  "visual": "Square orange carnelian engraved in nastaliq within a double-ruled frame; hand-engraved floral shoulders; silver-tone."
+ },
+ {
+  "code": "g2-38",
+  "hero": 406,
+  "description": "خاتم نادر فصّه من المعدن نفسه، مستطيل منقوش مباشرة بثلاثة أسطر بخط زاوي، تحتفظ حروفه ببقايا لون أحمر وأكتافه مشطوفة.",
+  "item_category": "Ring",
+  "notes": "لا حجر فيه؛ السطر الأوسط قد يكون «لا إله إلا» (؟)؛ سطح المعدن متآكل؛ المعدن غير مؤكد.",
+  "inscription": "… لا إله إلا (؟) …",
+  "visual": "Grey metal seal ring, flat rectangular bezel engraved directly with three lines of angular script, red deposit in letters; faceted shoulders; worn."
+ },
+ {
+  "code": "g2-40",
+  "hero": 412,
+  "description": "خاتم نسائي فاخر يحمل حجر فيروز بيضاوياً تحيط به هالتان من الفصوص اللامعة المستديرة والمستطيلة، على حلقة مشقوقة فضية اللون.",
+  "item_category": "Women's Ring",
+  "notes": "خاتم نسائي حديث الطراز ضمن فئة الخواتم النادرة، وقد يُنقل إلى القلوب النسائية؛ الفصوص تشبه الألماس دون إثبات.",
+  "inscription": "",
+  "visual": "Women's cocktail ring: oval turquoise in a double sunburst halo of small round and baguette colourless stones; white-metal split shank."
+ },
+ {
+  "code": "g2-41",
+  "hero": 418,
+  "description": "خاتم نفيس يحمل حجر فيروز بيضاوياً تسري فيه شبكة عروق بنية، في مخالب مضلّعة وأكتاف مخرّمة كخلايا النحل بزخارف حلزونية.",
+  "item_category": "Ring",
+  "notes": "",
+  "inscription": "",
+  "visual": "Oval spiderweb turquoise with brown matrix in a fluted claw bezel; honeycomb/scale openwork shoulders with scrolls; pale silver-tone."
+ },
+ {
+  "code": "g2-42",
+  "hero": 422,
+  "description": "خاتم مميز يحمل حجر فيروز بيضاوياً ممدوداً بلون سماوي فاتح، في صياغة نجمية حادة الزوايا بأوجه داكنة وخط من الحبيبات على الحلقة.",
+  "item_category": "Ring",
+  "notes": "",
+  "inscription": "",
+  "visual": "Elongated oval light-blue turquoise in an angular star mount with pointed prongs and darkened facets; beaded line along the shank."
+ },
+ {
+  "code": "g3-10",
+  "hero": 470,
+  "description": "خاتم استثنائي يحمل حجر عقيق مستديراً مقبّباً منقوشاً بخط متناظر يحيط به إكليل من الأوراق، بإطار مخرز وحلقة مضلّعة بدقة.",
+  "item_category": "Ring",
+  "notes": "الخط المتناظر لم يُقرأ؛ ختمان مستطيلان داخل الحلقة لم يُقرآ، بلا حرف F.",
+  "inscription": "",
+  "visual": "Round domed carnelian carved with a symmetrical mirror-script design inside a leafy wreath; milgrain bezel; finely fluted shank; warm silver-tone."
+ },
+ {
+  "code": "g3-17",
+  "hero": 499,
+  "description": "خاتم بديع يحمل حجر عقيق مستطيلاً منقوشاً بخط النستعليق مع دوائر صغيرة، في صياغة مخرّمة بأطواق هلالية مخرزة وفتحات حلزونية.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ؛ دمغة F وختمان بيضويان لم يُقرآ.",
+  "inscription": "",
+  "visual": "Rectangular carnelian engraved in nastaliq with small roundels; elaborate openwork mount with crescent milgrain collars and scrolling cut-outs; silver-tone."
+ },
+ {
+  "code": "g4-02",
+  "hero": 584,
+  "description": "خاتم أنيق يحمل حجر فيروز سماوياً بيضاوياً ممدوداً، في صياغة نجمية بمخالب مدببة وأكتاف تشقّها أخاديد مائلة وخطان محفوران على الحلقة.",
+  "item_category": "Ring",
+  "notes": "لا صورة للدمغة.",
+  "inscription": "",
+  "visual": "Elongated oval light sky-blue turquoise in an angular star mount with pointed prongs; V-grooved shoulders, two incised lines on the shank; warm silver-tone."
+ },
+ {
+  "code": "g4-04",
+  "hero": 590,
+  "description": "خاتم رائع يحمل حجر فيروز سماوياً بيضاوياً، في صياغة نجمية لامعة فضية اللون بمخالب مدببة، يمتد على حلقتها صف من الحبيبات.",
+  "item_category": "Ring",
+  "notes": "ختم بيضوي صغير داخل الحلقة لم يُقرأ.",
+  "inscription": "",
+  "visual": "Oval sky-blue turquoise in a bright silver-tone angular star claw mount; row of beading along the shank; one small oval stamp inside."
+ },
+ {
+  "code": "g4-06",
+  "hero": 607,
+  "description": "خاتم نفيس يحمل حجر عقيق برتقالياً منقوشاً بخط النستعليق بحروف سوداء بعبارة (اللهم صل على محمد وآل محمد)، على حلقة مخرّمة كالسلّم.",
+  "item_category": "Ring",
+  "notes": "دمغة F بين ختمين بيضويين باهتين لم يُقرآ.",
+  "inscription": "اللهم صل على محمد وآل محمد",
+  "visual": "Oval orange carnelian engraved in black-filled nastaliq (salawat); beaded bezel on fluted ladder-openwork shank; silver-tone."
+ },
+ {
+  "code": "g4-23",
+  "hero": 667,
+  "description": "خاتم فاخر يحمل حجر عقيق أحمر مستطيلاً منقوشاً بخط النستعليق بين الزهور، بأكتاف وحلقة محزّزة بنقش ماسي دقيق.",
+  "item_category": "Ring",
+  "notes": "النقش معكوس (ختم) ولم يُقرأ؛ دمغة F بين ختمين يُقرآن «تاج» و«تهران» (؟).",
+  "inscription": "",
+  "visual": "Rectangular red carnelian seal, mirror nastaliq with flowers; shank and shoulders knurled in a fine diamond pattern; silver-tone; F + round stamps."
+ },
+ {
+  "code": "g4-24",
+  "hero": 673,
+  "description": "خاتم استثنائي يحمل حجر عقيق برتقالياً مستطيلاً كبيراً منقوشاً بخط النسخ بالبسملة وسورة الإخلاص كاملة، على حلقة مضلّعة.",
+  "item_category": "Ring",
+  "notes": "دمغة F بين ختمين مستطيلين لم يُقرآ.",
+  "inscription": "بسم الله الرحمن الرحيم / قل هو الله أحد الله الصمد لم يلد / ولم يولد ولم يكن له كفوا أحد",
+  "visual": "Large rectangular orange carnelian engraved in naskh in ruled lines (Basmala and Surat al-Ikhlas); fluted shank; silver-tone."
+ },
+ {
+  "code": "g4-48",
+  "hero": 776,
+  "description": "خاتم رائع يحمل حجر عقيق أحمر مستديراً عالي التقبيب، في إطار مضلّع تزيّنه حلقات حبيبات ذهبية اللون وأكتاف مخرّمة بلمسات ذهبية اللون.",
+  "item_category": "Ring",
+  "notes": "ختم مربع داخل الحلقة لم يُقرأ.",
+  "inscription": "",
+  "visual": "Round high-domed red carnelian cabochon in a ribbed bezel with gold-tone beaded rings; openwork shoulders with gold-tone accents; silver-tone."
+ },
+ {
+  "code": "g4-49",
+  "hero": 782,
+  "description": "خاتم أنيق يحمل حجر عقيق عسلياً بيضاوياً مقبّباً تتدرّج فيه الألوان، في إطار مضلّع وأكتاف مخرّمة بحلقات ملتفة.",
+  "item_category": "Ring",
+  "notes": "ختمان مستديران صغيران داخل الحلقة لم يُقرآ.",
+  "inscription": "",
+  "visual": "Oval domed honey/orange agate cabochon in a ribbed bezel; looped openwork shoulders; silver-tone."
+ },
+ {
+  "code": "g4-50",
+  "hero": 787,
+  "description": "خاتم مميز يحمل حجر عقيق أصفر عسلياً مستديراً عالي التقبيب، في إطار مضلّع بحلقات حبيبات ذهبية اللون وأكتاف مخرّمة بلمسات ذهبية اللون.",
+  "item_category": "Ring",
+  "notes": "ختم مربع داخل الحلقة لم يُقرأ.",
+  "inscription": "",
+  "visual": "Round high-domed honey-yellow agate cabochon; ribbed bezel with gold-tone beaded rings; openwork shoulders with gold-tone accents; silver-tone."
+ },
+ {
+  "code": "g5-01",
+  "hero": 792,
+  "description": "خاتم نادر يحمل حجر عقيق عسلياً فاتحاً بعروق متموجة منقوشاً بخط النستعليق، في صياغة مخرّمة بفتحات كبيرة على هيئة قطرات.",
+  "item_category": "Ring",
+  "notes": "النقش لم يُقرأ؛ دمغة F بين ختمين بيضويين.",
+  "inscription": "",
+  "visual": "Oval pale honey banded agate engraved in nastaliq; pierced mount with large teardrop openings on the shoulders; silver-tone."
+ }
+]

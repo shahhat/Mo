@@ -1,0 +1,292 @@
+{
+ "v01": {
+  "tab": "Phase 01",
+  "row": 13,
+  "score": 1,
+  "name": "10",
+  "col": "F"
+ },
+ "v02": {
+  "tab": "Phase 01",
+  "row": 12,
+  "score": 0.96,
+  "name": "11",
+  "col": "F"
+ },
+ "v03": {
+  "tab": "Phase 01",
+  "row": 11,
+  "score": 1,
+  "name": "3",
+  "col": "F"
+ },
+ "v04": {
+  "tab": "Phase 01",
+  "row": 10,
+  "score": 1.0,
+  "name": "7",
+  "col": "F"
+ },
+ "v05": {
+  "tab": "Phase 01",
+  "row": 9,
+  "score": 1.0,
+  "name": "8",
+  "col": "F"
+ },
+ "v06": {
+  "tab": "Phase 01",
+  "row": 8,
+  "score": 1.0,
+  "name": "9",
+  "col": "F"
+ },
+ "v07": {
+  "tab": "Phase 01",
+  "row": 5,
+  "score": 0.89,
+  "name": "D",
+  "col": "F"
+ },
+ "v08": {
+  "tab": "Phase 01",
+  "row": 4,
+  "score": 0.95,
+  "name": "E",
+  "col": "F"
+ },
+ "v09": {
+  "tab": "Phase 01",
+  "row": 3,
+  "score": 0.9,
+  "name": "F",
+  "col": "F"
+ },
+ "v10": {
+  "tab": "Phase 02- April",
+  "row": 13,
+  "score": 1.0,
+  "name": "02",
+  "col": "E"
+ },
+ "v11": {
+  "tab": "Phase 02- April",
+  "row": 12,
+  "score": 1.0,
+  "name": "04",
+  "col": "E"
+ },
+ "v12": {
+  "tab": "Phase 02- April",
+  "row": 11,
+  "score": 1.0,
+  "name": "05",
+  "col": "E"
+ },
+ "v13": {
+  "tab": "Phase 02- April",
+  "row": 10,
+  "score": 1.0,
+  "name": "06",
+  "col": "E"
+ },
+ "v14": {
+  "tab": "Phase 02- April",
+  "row": 9,
+  "score": 0.99,
+  "name": "13",
+  "col": "E"
+ },
+ "v15": {
+  "tab": "Phase 02- April",
+  "row": 6,
+  "score": 1.0,
+  "name": "C16",
+  "col": "E"
+ },
+ "v16": {
+  "tab": "Phase 02- April",
+  "row": 7,
+  "score": 1.0,
+  "name": "C017",
+  "col": "E"
+ },
+ "v17": {
+  "tab": "Phase 02- April",
+  "row": 8,
+  "score": 0.85,
+  "name": "Guran",
+  "col": "E"
+ },
+ "v18": {
+  "tab": "Phase 02- April",
+  "row": 4,
+  "score": 0.81,
+  "name": "K",
+  "col": "E"
+ },
+ "v19": {
+  "tab": "Phase 06",
+  "row": 9,
+  "score": 1.0,
+  "name": "(Basmala) Ring",
+  "col": "E"
+ },
+ "v20": {
+  "tab": "Phase 06",
+  "row": 7,
+  "score": 1.0,
+  "name": "Brown Ring ",
+  "col": "E"
+ },
+ "v21": {
+  "tab": "Phase 06",
+  "row": 8,
+  "score": 0.95,
+  "name": "ORANG RING",
+  "col": "E"
+ },
+ "v22": {
+  "tab": "Phase 07",
+  "row": 3,
+  "score": 1.0,
+  "name": "BRACELET",
+  "col": "E"
+ },
+ "v23": {
+  "tab": "Phase 07",
+  "row": 4,
+  "score": 1.0,
+  "name": "Orange-Ring (with lobes)",
+  "col": "E"
+ },
+ "v24": {
+  "tab": "Phase 07",
+  "row": 9,
+  "score": 0.89,
+  "name": "Al-Ekhlas Ring",
+  "col": "E"
+ },
+ "v25": {
+  "tab": "Phase 07",
+  "row": 10,
+  "score": 1.0,
+  "name": "Green Ring",
+  "col": "E"
+ },
+ "v26": {
+  "tab": "Phase 07",
+  "row": 11,
+  "score": 1.0,
+  "name": "Yellow Ring",
+  "col": "E"
+ },
+ "v27": {
+  "tab": "Phase 08",
+  "row": 7,
+  "score": 1.0,
+  "name": "R021",
+  "col": "E"
+ },
+ "v28": {
+  "tab": "Phase 08",
+  "row": 9,
+  "score": 1.0,
+  "name": "Heart-Stone",
+  "col": "E"
+ },
+ "v29": {
+  "tab": "Phase 08",
+  "row": 8,
+  "score": 1.0,
+  "name": "Necklaces E01",
+  "col": "E"
+ },
+ "v30": {
+  "tab": "Phase 08",
+  "row": 5,
+  "score": 1.0,
+  "name": "R_ Orange-Ring E02",
+  "col": "E"
+ },
+ "v31": {
+  "tab": null,
+  "row": null,
+  "note": "Phase 08 edit of Orange-Ring E03 has no row; its Phase 09 Final edit is Phase 09 row 13 (v37)"
+ },
+ "v32": {
+  "tab": "Phase 08",
+  "row": 4,
+  "score": 1.0,
+  "name": "R_ Orange-Ring E04",
+  "col": "E"
+ },
+ "v33": {
+  "tab": "Phase 08",
+  "row": 6,
+  "score": 1.0,
+  "name": "R020",
+  "col": "E"
+ },
+ "v34": {
+  "tab": null,
+  "row": null,
+  "note": "Phase 08 edit of Yellow-Ring E02 has no row; its Phase 09 Final edit is Phase 09 row 12 (v38)"
+ },
+ "v35": {
+  "tab": "Phase 08",
+  "row": 3,
+  "score": 1.0,
+  "name": "R_ Yellow Ring 03",
+  "col": "E"
+ },
+ "v36": {
+  "tab": "Phase 08",
+  "row": 2,
+  "score": 1.0,
+  "name": "Yellow Stone E02",
+  "col": "E"
+ },
+ "v37": {
+  "tab": "Phase 09",
+  "row": 13,
+  "score": 0.79,
+  "name": "R_ Orange-Ring E03",
+  "col": "E"
+ },
+ "v38": {
+  "tab": "Phase 09",
+  "row": 12,
+  "score": 1.0,
+  "name": "R_ Yellow-Ring E02",
+  "col": "E"
+ },
+ "v39": {
+  "tab": "Phase 11",
+  "row": 8,
+  "score": 1.0,
+  "name": "8",
+  "col": "D"
+ },
+ "v40": {
+  "tab": "Phase 11",
+  "row": 11,
+  "score": 1.0,
+  "name": "11",
+  "col": "D"
+ },
+ "v41": {
+  "tab": "Phase 12 - photo",
+  "row": 3,
+  "score": 0.93,
+  "name": "خاتم_آية_الكرسي",
+  "col": "E"
+ },
+ "v42": {
+  "tab": "Phase 12 - photo",
+  "row": 4,
+  "score": 1.0,
+  "name": "خاتم بيكلو-حجر تيموري_",
+  "col": "E"
+ }
+}

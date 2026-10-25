@@ -1,0 +1,119 @@
+[
+ {
+  "v": "v09",
+  "piece": "g7-17",
+  "confidence": "high",
+  "evidence": "Unengraved elongated oval red Yemeni-agate cabochon. The mount matches g7-17 part for part: tall faceted claws with double star-shaped claw tips at top and bottom; a pierced scroll gallery with heart-shaped openings at each side of the stone (v09 f009/f010 vs #1304); faceted blade (bud) shoulders made of an upper and a lower blade that end in a vertical beaded collar (f006/f013/f014/f025 vs #1301/#1305/#1306); a stepped band with a raised central ridge (f018-f024 vs #1302/#1303). Stone shape and proportions agree with #1304. This design appears on no other piece in any category. Compared photos #1300-#1306.",
+  "candidates_rejected": "g3-37 (elongated red cabochon, but leaf-engraved and scroll-pierced shoulders); g3-36, g3-34, g7-23, g6-07, g6-08, g4-32 (other red cabochons in different mounts).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   6,
+   10,
+   14
+  ]
+ },
+ {
+  "v": "v31",
+  "piece": "g7-07",
+  "confidence": "high",
+  "evidence": "The engraving is the Fourteen Infallibles in 3 ruled nasta'liq lines: «الله محمد علي فاطمة / محمد علي محمد علي محمد علي / موسى جعفر حسين حسن ...». The same words sit in the same places, with the same line breaks, the same small stars, circles and dots in the field and the same double border line as #1259/#1260. Same mount: polished bezel with beaded rim on a diamond-knurled silver shank. Compared v31 f012/f016 with #1259 and #1260.",
+  "candidates_rejected": "g3-22 (HS, also names the Fourteen Infallibles, but sits in a scalloped claw bezel on a fluted shank); g7-03, g7-05, g7-08, g7-13, g7-14 (same Jeddi knurled-shank family, but different inscriptions: Falaq, Nasr, Kafirun, knot design); g3-21 (Quran 65:2-3, diagonal grooves).",
+  "same_as_video": "v37",
+  "frames_for_folder": [
+   5,
+   12,
+   20
+  ]
+ },
+ {
+  "v": "v37",
+  "piece": "g7-07",
+  "confidence": "high",
+  "evidence": "Same footage as v31; only the burned-in caption differs. Above the caption area the mean pixel difference between matching frames of v31 and v37 is under 1 grey level (frames 5, 9, 13, 18, 22). So it is the same object as v31: the Fourteen Infallibles nasta'liq engraving and the diamond-knurled shank of g7-07 (#1259, #1260).",
+  "candidates_rejected": "See v31.",
+  "same_as_video": "v31",
+  "frames_for_folder": [
+   5,
+   12,
+   20
+  ]
+ },
+ {
+  "v": "v40",
+  "piece": null,
+  "confidence": "none",
+  "evidence": "Red carnelian with a large thuluth jali «يا شفيع المذنبين»: tall uprights across the stone on a dense floral ground, with small numerals (about ١٢٦١?) at the lower centre. Beaded bezel on a shank with plain diagonal flutes. No piece shows this composition. No 'Ring-1' folder exists in the catalog; only Ring-3 and Ring-4 exist (HS). The only Drive file named RING1 is the lead's screenshot P11_RING1.jpg, not a catalog photo.",
+  "candidates_rejected": "g5-05 HS (#819-821: red carnelian, beaded bezel, diagonal fluting, but a two-line inscription); g1-20 HS (#72-75: diagonal fluting and beaded bezel, but a different composition with rows of uprights and a long central stroke); g4-12 HS (#628/629: floral ground, but bold looped nasta'liq, and the ribs carry beaded lines); g3-26 HS (#531/533: crossed nasta'liq, vertical flutes); g5-50 HS (#1009: scalloped claw bezel); g7-13 H (#1279: lattice shank); g7-06/g7-10 H (diagonally fluted, but white chalcedony).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   5,
+   17,
+   21
+  ]
+ },
+ {
+  "v": "v24",
+  "piece": null,
+  "confidence": "none",
+  "evidence": "Cushion-oval honey-grey agate with a dark band at one edge. Composition: a central panel of large stacked letters («...كفوا احد») on a cross-hatched ground with rosettes, framed by a border inscription that opens «بسم الله الرحمن الرحيم قل هو الله احد». Stepped double-beaded bezel; solid shank with broad vertical flutes and no openwork lugs. No catalog piece has this stone or this layout.",
+  "candidates_rejected": "g3-01, g3-05, g3-07 (Ikhlas in 4 plain lines, gold-tone scalloped frame with side tabs); g4-14 (#637-641: Ikhlas in 3 plain lines on an orange-brown stone, scrolled lugs, radiating openwork shank); g5-06 (#822: central panel with a different word); g5-08, g5-10, g5-11, g5-14, g5-15 (different compositions, openwork B mounts); g5-56 HS (#1028: 'يا حافظ', diagonal flutes); g4-24 RS (Ikhlas on a rectangular carnelian); RS g6-22, g7-24, g6-18, g5-04, g6-30, g6-14 and HS g5-54, g5-53 (different stones and texts).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   5,
+   13,
+   24
+  ]
+ },
+ {
+  "v": "v25",
+  "piece": "g1-04",
+  "confidence": "high",
+  "evidence": "Large oval faceted green stone (emerald) whose table is ground into an octagonal panel engraved in nasta'liq «وهو العزيز» with flower fillers. With #13 turned 90 degrees, the layout matches v25 f005/f006: diamonds at upper left, the two loops of «هو» on the right, the tall alif-lam in the centre, the sweeping «عزيز» stroke on the left. Same mount: claw-tipped ribbed gallery bezel with rounded-top ribs, side scroll loops, open fan-ribbed shoulders with teardrop openings (f013/f018 vs #12). The metal looks warmer in the 2021 photos only because of the lighting. Files R013/R013-2 (#12, #13).",
+  "candidates_rejected": "g1-30 B (green jade cabochon, not engraved); g3-38 and g7-22 H (emerald-cut green stones, not engraved); g4-11 HS and g7-25 HS (green cabochons).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   5,
+   13,
+   24
+  ]
+ },
+ {
+  "v": "v30",
+  "piece": null,
+  "confidence": "none",
+  "evidence": "Oval red carnelian engraved in nasta'liq «يا اعز من كل عزيز» on a floral ground with small numerals. Double beaded bezel with scrolled side lugs (Biglou style); fluted shank pierced with round holes. No catalog piece carries this inscription.",
+  "candidates_rejected": "g4-26 (#680/682) and g4-13 (#632): same Biglou mount family, but the inscription is «يا راحم كل شيء...» on honey and yellow-green stones; g4-16 (#647: «ما شاء الله...»); g4-30 (#695: dark stone, angular script); g1-14 (#52/53: gold-tone, different text); g3-29 (#543: claw bezel); g4-12 HS (#628: different text, no lugs); g6-38 RS (#1228: «عز من قنع ذل من طمع», claw mount).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   7,
+   13,
+   20
+  ]
+ },
+ {
+  "v": "v19",
+  "piece": "g7-29",
+  "confidence": "high",
+  "evidence": "Large oval honey-brown agate with raised calligraphy on a cross-hatched ground. Top line «بسم الله الرحمن الرحيم», a long horizontal stroke, lower line «انه من سليمان وانه» (Quran 27:30). The same letters sit in the same places, with the same small rings, dots and the almond motif at the upper left, in v19 f023/f024 and #1361/#1362. Same mount: beaded bezel on a vertically striped (finely fluted) silver shank (f013/f015 vs #1362/#1363). Compared #1361-#1364.",
+  "candidates_rejected": "g6-30 RS (#1163: large thuluth, different text); g6-22 RS (#1128: lattice shank); g7-24 RS (#1336); g7-10 H (Basmala on white chalcedony, diagonal flutes); g2-15 H (Basmala on a rectangular yellow agate).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   6,
+   13,
+   23
+  ]
+ },
+ {
+  "v": "v23",
+  "piece": null,
+  "confidence": "none",
+  "evidence": "Round carnelian with a lobed (multifoil) edge, engraved with a square-naskh composition divided into quarters. Gold-tone claw bezel set with small white stones, on a silver filigree openwork shank with gold-tone quatrefoil panels set with small stones (two-tone). No catalog piece has this stone.",
+  "candidates_rejected": "g6-24 RS (#1139-1141): the same two-tone filigree design with gold quatrefoils and small stones, but it holds a spiderweb turquoise cabochon and is a different, smaller ring (a sister design, not the same object); g1-19 W (quartered carnelian pendant with a green-stone frame); g4-48 and g4-50 RS (silver with gold accents, domed cabochons).",
+  "same_as_video": "",
+  "frames_for_folder": [
+   5,
+   13,
+   23
+  ]
+ }
+]
