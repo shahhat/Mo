@@ -36,8 +36,8 @@ The work covered the steps done for the rosaries:
 ## Codes
 | Category | Codes | Pieces | Notes |
 |---|---|---|---|
-| AMB-ST «أحجار الكهرمان» | AMB-ST-001 … 027, 030 (+028, 029 in «غير مصنف») | 28 + 2 | Amb-S-001 renamed **AMB-ST-001** (same folder); 030 = A009 stone, video only (round 8) |
-| AMB-A «تحف الكهرمان» | AMB-A-001 … 107, 110, 117, 118, 120 (+108, 109, 111 … 116, 119 in «غير مصنف») | 111 + 9 | AMB-A-001 kept; 102–107 are video-only; 110, 117–119 from round 7; 120 split from 001 in round 8 |
+| AMB-ST «أحجار الكهرمان» | AMB-ST-001 … 030 | 30 | Amb-S-001 renamed **AMB-ST-001** (same folder); 028, 029 came out of «غير مصنف» in round 9; 030 = A009 stone, video only (round 8) |
+| AMB-A «تحف الكهرمان» | AMB-A-001 … 120 | 120 | AMB-A-001 kept; 102–107 are video-only; 110, 117–119 from round 7; 120 split from 001 in round 8; 108–116, 119 came out of «غير مصنف» in round 9 |
 | AMB-DEC «تحفيات منحوته» | Amb-dec-001 … 049 | 49 | owner's codes kept; **Amb-dec-049** = Gdańsk 997–1997 carved nugget (was in «كهرمان وانتيكات») |
 
 - Confirmed pieces are numbered in shooting order with no gaps. The video-only pieces follow, then the «غير مصنف»
@@ -246,3 +246,56 @@ design.
 
 **Verification:** all four sheets were exported and compared cell by cell with `data/sheet_payload.json` (0
 mismatches). The new image formulas, text format and row heights were read back. The Drive tree was re-walked.
+
+## Round 9: no «غير مصنف» in the amber catalog; rosary check
+Owner's request:
+- delete the comparison upload folder;
+- the amber catalog must have no «غير مصنف»: stones go to أحجار الكهرمان, carved pieces to تحفيات منحوتة, and
+  anything else to تحف الكهرمان;
+- every amber rosary belongs in the rosary catalog (ROS- مسابح).
+
+**What changed**
+- Upload folder «_من الجهاز - الكهرمان -AMB (للمقارنة)» moved to the trash. Its manifest is kept in
+  `data/round7_pc_manifest.json`.
+- The 11 «غير مصنف» piece folders were moved, keeping their codes:
+
+  | Destination | Pieces |
+  |---|---|
+  | AMB-A | 108, 109, 111, 112, 113, 114, 115, 116, 119 |
+  | AMB-ST | 028, 029 |
+
+  None of them is a carving.
+- Their rows were added to the AMB-A and AMB-ST sheets in code order. AMB-A now runs 001–120 with no gaps, and
+  AMB-ST runs 001–030.
+- In their Notes, the "why unclassified" wording was dropped. Each now ends with «كانت في فولدر «غير مصنف» ونُقلت
+  إلى …» and «سؤال لأبو علي: …».
+- The empty «غير مصنف» folder and its sheet moved to the trash. The sheet's last content is in
+  `data/unclassified_sheet_before_removal.json`.
+
+**Rosary check** (`qc/ROSARY_CHECK.md`, `qc/rosary_check.json`)
+- Nine bead strands were checked: AMB-A-046, 053, 058, 064, 065, 081, 111, 113 and 115.
+- Each was checked for bead count, clasp, graduation, شاهد and spacers. Each was also searched across all six
+  rosary-catalog galleries, the video-only rosaries and the round-6 boards, at high resolution.
+- **None is a confirmed rosary, and none is already in the rosary catalog.**
+
+| Code | Verdict | Why |
+|---|---|---|
+| 053 | necklace | spring-ring clasp |
+| 058 | necklace | strongly graduated, fitting opposite the centre bead |
+| 065 | necklace | 31 + centre + 31, graduated |
+| 081 | necklace | 25 round beads, 2 raw nuggets, raw centrepiece |
+| 113 | necklace | 14 + 14 graduated around a large centre bead |
+| 115 | bead strand | 11 large beads on a green cord |
+| 046 | probably necklace | barrel clasp piece at the back |
+| 064 | unsure | 53+ beads, no clasp seen, but no شاهد or spacers; sizes vary about 1.5× |
+| 111 | unsure | one close-up of three beads only |
+
+- Nothing was moved into the rosary catalog.
+- The Notes of AMB-A-064 and 111 ask the owner whether they are rosaries. If yes: ROS-KS for 064, ROS for 111 (the
+  material may be faturan).
+
+**Verification**
+- The three sheets were exported and compared cell by cell with `data/sheet_payload.json`: 0 mismatches.
+- The new rows' image formulas and row heights were read back.
+- The Drive re-walk found only the three category folders at the top. 553 photos are named CODE-N in their own
+  folder, there are 83 duplicates and 14 videos, and every sheet image sits in its own row's folder.
