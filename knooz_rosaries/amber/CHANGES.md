@@ -432,13 +432,26 @@ Owner's request:
     from the side, in the darkest corner (top corners first), as in his photos.
 - Size: 1080 × 1080, the video's full height. The photographer's originals are 2000–4500 px, so these are smaller and
   softer than real photos.
-- The Drive connector can only upload small files inline, so the 21 images were sent to the owner to upload into
-  «_رفع صور الفيديو (21 صورة)» (1jhv6BSh_2mdK7VlVmmuEsI0FbA-wZMhy) in the amber root. After the upload: move each file
-  into its red folder, replace the 200 px placeholder CODE-1, point the sheet image at CODE-1, and keep the folders red.
+- The Drive connector can only upload small files inline, so the 21 images were sent to the owner, who uploaded them
+  into «_رفع صور الفيديو (21 صورة)» (1jhv6BSh_2mdK7VlVmmuEsI0FbA-wZMhy) in the amber root.
+- After the upload:
+  - all 21 files were downloaded back and matched byte for byte (sha256) with the originals;
+  - the 7 temporary 200 px CODE-1 stills (made in round 7/10 from the video-sheet thumbnails) went to the trash;
+  - the 21 files were moved into their red folders (`videos/frames/move_plan.json`);
+  - the sheet image of AMB-A rows 103–108 and AMB-ST row 31 now points at the new CODE-1;
+  - the Notes of the 7 pieces now say the three photos are video frames (1080 × 1080, photographer's logo), softer
+    than real photos;
+  - the 7 folders were set red again;
+  - the empty upload folder went to the trash.
 
 **Count after matching Drive with the PC**: 198 pieces = AMB-ST 30 + AMB-A 119 + AMB-DEC 49 (191 photographed, 7
 video-only).
 
 **Verification**
-- The three amber sheets were exported and compared cell by cell with `data/sheet_payload.json` (= r11): 0
-  mismatches in 198 rows.
+- The three amber sheets were exported and compared cell by cell with `data/sheet_payload.json` (= r12): 0
+  mismatches in 198 rows; the 7 new IMAGE formulas were read back and their thumbnails load.
+- Drive re-walk:
+  - 566 photos named CODE-N in their own folder (AMB-ST 116, AMB-A 254, AMB-DEC 196);
+  - all 198 sheet images sit in their own row's folder;
+  - 15 piece videos, 83 duplicates;
+  - each of the 7 red folders holds CODE-1..3 and CODE-video.mp4.
