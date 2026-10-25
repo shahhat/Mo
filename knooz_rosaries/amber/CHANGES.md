@@ -463,3 +463,12 @@ video-only).
   carry the old spelling. The video sheet itself was not changed.
 - AMB-A-107: the extra clause from the video sheet stays out; the Notes record the owner's decision.
 - Re-checked cell by cell against `data/sheet_payload.json` (= r13): 0 mismatches in 198 rows.
+- Then, at the owner's request («صححهم في شيت الفيديو كمان»), the same two names were corrected in the video sheet
+  (1hO-BJKp1qb1Usf2MjUXmEgG0zwVVCMRfRxLjeZxQQ5U):
+  - Phase 06 C5: «josef osterman» → «Josef Ostermann»;
+  - Phase 04 C13: «اغدانسك» → «غدانسك».
+  - The rest of Abu Ali's text in both cells is untouched, including his own spelling. A before/after export of both
+    tabs showed only these two cells changed (`videos/video_sheet_name_fixes.json` keeps the old values).
+  - The Notes of AMB-A-050 and Amb-dec-049 now say the video sheet was corrected too, and only the burned-in text on the
+    videos still has the old spelling.
+  - The three amber sheets were re-checked against `data/sheet_payload.json` (= r14): 0 mismatches.
