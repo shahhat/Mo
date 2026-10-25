@@ -37,7 +37,7 @@ The work covered the steps done for the rosaries:
 | Category | Codes | Pieces | Notes |
 |---|---|---|---|
 | AMB-ST «أحجار الكهرمان» | AMB-ST-001 … 030 | 30 | Amb-S-001 renamed **AMB-ST-001** (same folder); 028, 029 came out of «غير مصنف» in round 9; 030 = A009 stone, video only (round 8) |
-| AMB-A «تحف الكهرمان» | AMB-A-001 … 120 | 120 | AMB-A-001 kept; 102–107 are video-only; 110, 117–119 from round 7; 120 split from 001 in round 8; 108–116, 119 came out of «غير مصنف» in round 9 |
+| AMB-A «تحف الكهرمان» | AMB-A-001 … 119 | 119 | AMB-A-001 kept; 102–107 are video-only. Round 10 deleted the old 111 (one photo of a rosary) and renumbered 112–120 → 111–119. |
 | AMB-DEC «تحفيات منحوته» | Amb-dec-001 … 049 | 49 | owner's codes kept; **Amb-dec-049** = Gdańsk 997–1997 carved nugget (was in «كهرمان وانتيكات») |
 
 - Confirmed pieces are numbered in shooting order with no gaps. The video-only pieces follow, then the «غير مصنف»
@@ -299,3 +299,71 @@ Owner's request:
 - The new rows' image formulas and row heights were read back.
 - The Drive re-walk found only the three category folders at the top. 553 photos are named CODE-N in their own
   folder, there are 83 duplicates and 14 videos, and every sheet image sits in its own row's folder.
+
+## Round 10: AMB-A-111 deleted and renumbered; amber videos gathered (AMB - VID)
+Owner's request:
+- 064 is not a rosary;
+- 111 is one photo of a rosary that already exists in the rosary catalog, so delete it and fix the numbering;
+- in the videos folder, gather every amber video from the 12 phases into one folder, without moving anything from
+  the phases;
+- every amber video must have a code, and the code in the video sheet must equal the code in the amber sheet;
+- a piece with photos and a video is green and holds the video; a video-only piece has a code and a sheet row, and is
+  red.
+
+**AMB-A-111 and the renumbering**
+- Folder AMB-A-111 (one photo) moved to the trash. Its row was deleted from the AMB-A sheet.
+- AMB-A-112 … 120 were renamed to 111 … 119: 9 folders and 37 photos (`videos/renumber_ops.json`).
+  - Columns A and D of rows 112–120 were updated.
+  - The one Note that cited a moved code (AMB-A-001 → AMB-A-119) was updated.
+  - None of these codes appears in the video sheet.
+- AMB-A now runs 001–119 with no gaps.
+- The 064 Notes now say the owner confirmed it is not a rosary.
+
+**Amber videos in the 12 phases** («_Knooz Videos (Full-edit)»)
+
+| Video | Phase | Code | Folder |
+|---|---|---|---|
+| A020 | 01 | AMB-A-107 | red (video only) |
+| A021 | 01 | AMB-A-015 | green |
+| A009 | 04 | AMB-ST-030 | red |
+| A012 | 04 | Amb-dec-007 | green |
+| A013 | 04 | AMB-A-105 | red |
+| A014 | 04 | AMB-A-084 + AMB-A-086 (clock and thermometer set) | both green |
+| A015 | 04 | AMB-A-106 | red |
+| A016 | 04 | Amb-dec-008 | green |
+| A017 | 04 | Amb-dec-049 | green |
+| A002 | 06 | AMB-A-103 | red |
+| A003 | 06 | AMB-A-050 | green |
+| A004 | 06 | AMB-A-104 | red |
+| A001 | 07 | AMB-A-102 | red |
+| من_تحف_الكهرمان_المنحوتة | 12 | Amb-dec-003 | green |
+
+- Amber Faces (Phase 05) = AMB-A-057. It has a sheet row but no video file, so it has no colour.
+- The phase-12 amber rosary videos belong to the rosary catalog (ROS-K-005, ROS-Amb-G-086, …).
+- None of the other phase videos is an amber catalog piece:
+  - rings, coins, banknotes, swords and daggers, Qurans and pottery;
+  - engraved agate/jade stones and necklaces (Phases 08, 09, 11);
+  - Phase 11's «AMB1» row is an engraved agate (عقيق), not amber.
+- Drafts (ANTIQUE MERMAID, Broush (Rosary)) were not copied, matching how «ROS - VID» was done.
+
+**What changed**
+- New folder «AMB - VID» in the videos root, next to «ROS - VID». It holds 14 videos named by code, e.g.
+  `AMB-A-107.mp4` and `AMB-A-084 + AMB-A-086.mp4` (`videos/amb_vid_plan.json`).
+  - The owner's «ROS - VID» holds real Drive shortcuts. The Drive connector cannot create shortcuts (it refuses the
+    shortcut MIME type), so these are server-side copies.
+  - Nothing in the phases was moved or renamed.
+- AMB-A-086 got `AMB-A-086-video.mp4` (a copy of A014) and turned green. Its Notes say so.
+- All 15 video piece folders were recoloured: 8 green (015, 050, 084, 086, dec-003, 007, 008, 049) and 7 red (102–107,
+  ST-030).
+- **Video sheet:**
+  - Phase 04 E10 now reads «AMB-A-084 + AMB-A-086».
+  - Phase 12 had no row for the carving video, so row 7 was added: file name, a note, «Amb-dec-003» and «Amber
+    Carving».
+
+**Verification**
+- The three amber sheets were exported and compared cell by cell with `data/sheet_payload.json`: 0 mismatches.
+- Every amber code in the video sheet exists in an amber sheet.
+- The Drive re-walk:
+  - 552 photos named CODE-N in their own folder, and every sheet image in its own row's folder;
+  - 15 piece folders hold `CODE-video.mp4`;
+  - 14 files in «AMB - VID».
