@@ -175,9 +175,21 @@ inscriptions were confirmed. Accepted fixes (`tools/build_final.py`, `data/r2_ch
 Kept as written, with reasons: JWL-RS-048 «اللازورد» (blue with gold flecks, unmistakable); JWL-R-005 «أوبال أسود
 طبيعي» (from the GFCO report photographed with the ring). Flag only: JWL-W-039 «قلادة» vs bracelet.
 
+## Owner rule of 29 Oct: Abu Ali's texts are the authority; our texts as close as possible to his way
+- **Which Abu Ali text:** for the 40 video pieces the on-screen text (what was published) stays the description. It was
+  compared with his text in the video sheet's Description column (`videos/vsheet_vs_onscreen.json`): 24/40 identical,
+  the rest differ only in word order, except three with an extra fact, now in Notes: JWL-W-043 «لمطلع القرن الثالث هجري»,
+  JWL-H-028 «على الأغلب» (12th century), JWL-B-032 «خاتم متحفي … قطعة بمتحف». Phase 01 «Product (10)» has a template in
+  the sheet, not a text.
+- The owner's index sheet «فهرس خواتم ومجوهرات - JWL» has generic visual names, not Abu Ali's wording; not used for
+  descriptions (pending the owner's confirmation).
+- **Restyle of the other 289 descriptions** (`restyle/RESTYLE_JWL.md`, corpus = his 40 captions): same facts, his voice —
+  «خاتم نفيس/استثنائي/نادر (بموديل استثنائي) يحمل حجر … منقوش بخط … بعبارة (…)، صياغة …». The itemised mount details
+  (claws, bezels, shoulders, shanks, metal colour) were removed; «بموديل استثنائي/رائع» marks an unusual mount (about 1
+  ring in 3). Verified inscriptions kept; nothing added. 8–24 words (average 14); no two descriptions identical.
+  The 13 QC fixes are included. Written to the six sheets as `data/sheet_payload_r3.json`.
+
 ## Still open
-- **The 13 QC-corrected rows are not yet in the sheets** (`data/sheet_payload_r2.json` is the target; `data/r2_changes.json`
-  lists the rows). The Google Sheets connector asked to be signed in again on 29 Oct before the write.
 - **Stills for the 18 red folders**: `JWL_video_stills_54.zip` was sent to the owner; once uploaded to the JWL upload
   folder (12z5FGqgqOQYOBNn_rIL3BwRGGbVy9OBM) they go into the red folders and their CODE-1 into the sheets.
 - «Allow access» on the six new sheets (owner, desktop browser).

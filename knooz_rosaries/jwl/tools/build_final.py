@@ -22,6 +22,7 @@ SPECIAL={'g7-21':'تنبيه: النص على الفيديو يقول «قلاد
  'g1-54':'الفيديو يسمّي الحجر تورمالين؛ من الصور يبدو أحمر داكناً ولم يُتحقق من نوعه.',
  'g2-40':'خاتم نسائي حديث الطراز؛ مُبقى في قسم RS كما صنّفه المالك.',
  'g6-12':'',
+ 'g7-07':'نص أبو علي في شيت الفيديو (Phase 09) يذكر القرن الثاني عشر «على الأغلب»؛ النص على الفيديو حذف كلمة «على الأغلب».',
  'g7-25':'صور القطعة كانت في مجلدَي HS وRS (ملفات R005)، واعتُمد قسم HS لأن فيديو الخاتم ينسبه للأستاذ مهدي جدي.'}
 SPECIAL={k:v for k,v in SPECIAL.items() if v}
 REPL=[('ولم يُسمَّ لعدم اليقين','ولم يُتحقق من نوعه'),('ولم يُسمَّ','ولم يُتحقق من نوعه'),('فلا يُسمّى فيروزاً','فليس فيروزاً'),
@@ -105,7 +106,9 @@ QC_FIX={}
 for e in QC:
     if (e['code'],e['field']) in ACCEPT and e['fix']: QC_FIX[(e['code'],e['field'])]=e['fix']
 assert len(QC_FIX)==len(ACCEPT),(len(QC_FIX),ACCEPT-set(QC_FIX))
-VO_EXTRA={'v39':'رمز المالك لهذا الفيديو في شيت الفيديو: AMB1 (حجر عقيق، ليس كهرماناً).','v40':'رمز المالك لهذا الفيديو في شيت الفيديو: RING-1.',
+VO_EXTRA={'v17':'نص أبو علي في شيت الفيديو يضيف: «لمطلع القرن الثالث هجري».',
+          'v24':'نص أبو علي في شيت الفيديو يبدأ «خاتم متحفي» ويضيف «قطعة بمتحف»؛ المعتمد هنا هو النص على الفيديو.',
+          'v39':'رمز المالك لهذا الفيديو في شيت الفيديو: AMB1 (حجر عقيق، ليس كهرماناً).','v40':'رمز المالك لهذا الفيديو في شيت الفيديو: RING-1.',
           'v33':'اسم الفيديو في شيت الفيديو: R020.','v27':'اسم الفيديو في شيت الفيديو: R021.'}
 for r in rows:
     for fld,key in (('desc','desc'),('notes','notes')):
@@ -116,6 +119,13 @@ for r in rows:
                 if oc: new+=' الأكواد القديمة: '+'، '.join(oc)+'.'
             r[key]=new
     if r['video_only'] and r['piece'] in VO_EXTRA: r['notes']+=' '+VO_EXTRA[r['piece']]
+# Restyle round (29 Oct): owner rule - our texts as close as possible to Abu Ali's way (restyle/out_r1..3.json)
+RESTYLE={}
+for k in ('r1','r2','r3'):
+    for e in json.load(open(f'{J}/restyle/out_{k}.json')): RESTYLE[e['code']]=e['description']
+for r in rows:
+    if not r['videos']: r['desc']=RESTYLE[r['code']]
+assert len(RESTYLE)==sum(1 for r in rows if not r['videos'])
 B030='قراءة جزئية للنقش: «… على الله» مؤكدة، والكلمة الأولى قد تكون «التوكل» أو «توكلت» (؟).'
 for r in rows:
     if r['code']=='JWL-B-030' and B030 not in r['notes']: r['notes']=(B030+' '+r['notes']).strip()
