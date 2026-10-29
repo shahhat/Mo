@@ -190,8 +190,16 @@ Kept as written, with reasons: JWL-RS-048 «اللازورد» (blue with gold f
   The 13 QC fixes are included. Written to the six sheets as `data/sheet_payload_r3.json` and verified by CSV export:
   329 rows, 1974 cells, 0 mismatches. The sheets' images now render (the owner opened them in Chrome).
 
+## Stills for the 18 red folders (29 Oct)
+- The owner uploaded the 54 stills to the JWL upload folder; all 54 are byte-identical to the originals (sha256 vs
+  `videos/frames/final_sha256.json`).
+- After the connector was signed in again it no longer offers the move/rename tool, so the stills were **copied**
+  server-side into their red folders (`videos/frames/copy_ids.json`; the copies' sha256 also match). Every red folder
+  now holds CODE-1..3.jpg + CODE-video.mp4 (re-listed: 18/18).
+- The 54 uploaded originals are still in the upload folder «_من الجهاز - JWL (للمقارنة)»; they can be deleted there.
+- The sheet image of the 18 video-only rows now shows CODE-1 (`data/sheet_payload_r4.json` = live state); the formulas
+  were read back and all 18 render.
+
 ## Still open
-- **Stills for the 18 red folders**: `JWL_video_stills_54.zip` was sent to the owner; once uploaded to the JWL upload
-  folder (12z5FGqgqOQYOBNn_rIL3BwRGGbVy9OBM) they go into the red folders and their CODE-1 into the sheets.
 - PC comparison (`pc/knooz_compare_jwl.ps1`): waiting for the owner to run it and upload `_missing_on_drive` into the JWL
   upload folder.
