@@ -187,11 +187,11 @@ Kept as written, with reasons: JWL-RS-048 «اللازورد» (blue with gold f
   «خاتم نفيس/استثنائي/نادر (بموديل استثنائي) يحمل حجر … منقوش بخط … بعبارة (…)، صياغة …». The itemised mount details
   (claws, bezels, shoulders, shanks, metal colour) were removed; «بموديل استثنائي/رائع» marks an unusual mount (about 1
   ring in 3). Verified inscriptions kept; nothing added. 8–24 words (average 14); no two descriptions identical.
-  The 13 QC fixes are included. Written to the six sheets as `data/sheet_payload_r3.json`.
+  The 13 QC fixes are included. Written to the six sheets as `data/sheet_payload_r3.json` and verified by CSV export:
+  329 rows, 1974 cells, 0 mismatches. The sheets' images now render (the owner opened them in Chrome).
 
 ## Still open
 - **Stills for the 18 red folders**: `JWL_video_stills_54.zip` was sent to the owner; once uploaded to the JWL upload
   folder (12z5FGqgqOQYOBNn_rIL3BwRGGbVy9OBM) they go into the red folders and their CODE-1 into the sheets.
-- «Allow access» on the six new sheets (owner, desktop browser).
 - PC comparison (`pc/knooz_compare_jwl.ps1`): waiting for the owner to run it and upload `_missing_on_drive` into the JWL
   upload folder.
