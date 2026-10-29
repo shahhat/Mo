@@ -826,17 +826,38 @@
   "code": "JWL-W-044",
   "cat": "W",
   "piece": "v27",
-  "hero": null,
+  "hero": "DSC_7816 copy.jpg",
   "desc": "قلادة من حجر الجيد ترجع للعهد الزندي، نقشت بخط الثلث بأسلوب رائع… قطعة متحفية بامتياز.",
   "ic": "Pendant",
-  "notes": "قطعة معروفة من الفيديو فقط ولا توجد لها صور في جلسة التصوير. الوصف هو النص المكتوب على فيديو أبو علي (Phase 08 – Forest-Green Necklaces E02) حرفياً، بتصحيح إملائي فقط. الصور JWL-W-044-1..3 لقطات من الفيديو، ونسخة الفيديو JWL-W-044-video.mp4. اسم الفيديو في شيت الفيديو: R021.",
-  "photos": [],
+  "notes": "الوصف هو النص المكتوب على فيديو أبو علي (Phase 08 – Forest-Green Necklaces E02) حرفياً، بتصحيح إملائي فقط. نسخة الفيديو في فولدر القطعة: JWL-W-044-video.mp4. الصور JWL-W-044-1..4 من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف، وهي نفس القطعة التي في الفيديو (نفس اللوح ونفس توزيع الكتابة). الظهر سادة. اسم الفيديو في شيت الفيديو: R021.",
+  "photos": [
+   {
+    "id": "1hhbLvBqsdPircKrhs-rPODjWncdm1jpk",
+    "name": "JWL-W-044-1.jpg",
+    "pc_name": "DSC_7816 copy.jpg"
+   },
+   {
+    "id": "1OU4VlFQYykUqFUw7rfdB8LpB64F4Va2P",
+    "name": "JWL-W-044-2.jpg",
+    "pc_name": "DSC_7825 copy.jpg"
+   },
+   {
+    "id": "1B_odJ9t5sWO63DDeOlZmhqG2owDn5vUm",
+    "name": "JWL-W-044-3.jpg",
+    "pc_name": "DSC_7827 copy..jpg"
+   },
+   {
+    "id": "1Q8k5R-e_UFPq1zV8l7XRq4Znu2cH0Az_",
+    "name": "JWL-W-044-4.jpg",
+    "pc_name": "DSC_7827 copy.jpg"
+   }
+  ],
   "duplicates": [],
   "existing_code": null,
   "videos": [
    "v27"
   ],
-  "video_only": true
+  "video_only": false
  },
  {
   "code": "JWL-W-045",
@@ -874,17 +895,38 @@
   "code": "JWL-W-047",
   "cat": "W",
   "piece": "v33",
-  "hero": null,
+  "hero": "DSC_7647 copy.jpg",
   "desc": "قلادة استثنائية شديدة الندرة تعود للقرن الحادي عشر، تمثل مدرستين من مدارس الإبداع في عالم النقش.",
   "ic": "Pendant",
-  "notes": "قطعة معروفة من الفيديو فقط ولا توجد لها صور في جلسة التصوير. الوصف هو النص المكتوب على فيديو أبو علي (Phase 08 – Orange-Stone E01) حرفياً، بتصحيح إملائي فقط. الصور JWL-W-047-1..3 لقطات من الفيديو، ونسخة الفيديو JWL-W-047-video.mp4. اسم الفيديو في شيت الفيديو: R020.",
-  "photos": [],
+  "notes": "الوصف هو النص المكتوب على فيديو أبو علي (Phase 08 – Orange-Stone E01) حرفياً، بتصحيح إملائي فقط. نسخة الفيديو في فولدر القطعة: JWL-W-047-video.mp4. الصور JWL-W-047-1..4 من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف، وهي نفس القطعة التي في الفيديو (نفس توزيع النقش والإطار بعروتين). الظهر صفيحة سادة متموجة الحافة. اسم الفيديو في شيت الفيديو: R020.",
+  "photos": [
+   {
+    "id": "1OBRwB33Ewrm76xE8B8W0UFC-QCaJYB5H",
+    "name": "JWL-W-047-1.jpg",
+    "pc_name": "DSC_7647 copy.jpg"
+   },
+   {
+    "id": "1sXW9WtUc4JzSwUyQ6BTZYGKtUmqRqSmZ",
+    "name": "JWL-W-047-2.jpg",
+    "pc_name": "DSC_7648 copy.jpg"
+   },
+   {
+    "id": "17QFseTa9tb--vvoTOS52znFkpMg3alXQ",
+    "name": "JWL-W-047-3.jpg",
+    "pc_name": "DSC_7650 copy.jpg"
+   },
+   {
+    "id": "1YXCLs--5-qJNdmVwuOVEw-dDnEUQg1p0",
+    "name": "JWL-W-047-4.jpg",
+    "pc_name": "DSC_7659 copy.jpg"
+   }
+  ],
   "duplicates": [],
   "existing_code": null,
   "videos": [
    "v33"
   ],
-  "video_only": true
+  "video_only": false
  },
  {
   "code": "JWL-W-048",
@@ -6554,5 +6596,160 @@
    "v32"
   ],
   "video_only": true
+ },
+ {
+  "code": "JWL-W-050",
+  "cat": "W",
+  "piece": "pc-7687",
+  "hero": "DSC_7687 copy.jpg",
+  "desc": "قلب نفيس بموديل استثنائي يحمل حجراً شفافاً منقوشاً بهيئة شجرة تتوسطها عبارة (ويسبح الرعد بحمده والملائكة من خيفته)، وتحيط بها آية الكرسي.",
+  "ic": "Pendant",
+  "notes": "الصور من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف. أوراق الشجرة منقوشة بأدعية وأسماء حسنى لم تُقرأ كلها بثقة، ومنها (المتوكل على الله). الحزام يبدأ بالبسملة ثم آية الكرسي. الظهر سادة.",
+  "photos": [
+   {
+    "id": "1oUl4uFctX_uXj7Xv3B5w-HXec9J6G_GZ",
+    "name": "JWL-W-050-1.jpg",
+    "pc_name": "DSC_7687 copy.jpg"
+   },
+   {
+    "id": "1zGVsq0lcTvx-Qmhko_KzwBBE3W1I9UXG",
+    "name": "JWL-W-050-2.jpg",
+    "pc_name": "DSC_7695 copy.jpg"
+   },
+   {
+    "id": "1Taz-QAjXorQ2FW7l4NHFV-ESQ6wverjn",
+    "name": "JWL-W-050-3.jpg",
+    "pc_name": "DSC_7705 copy.jpg"
+   },
+   {
+    "id": "1W_wdkNCOaBNilJw7-T0Qjtdsm9HNIZEE",
+    "name": "JWL-W-050-4.jpg",
+    "pc_name": "DSC_7710 copy.jpg"
+   }
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "videos": [],
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-051",
+  "cat": "W",
+  "piece": "pc-7725",
+  "hero": "DSC_7725 copy.jpg",
+  "desc": "قلب نفيس يحمل حجر عقيق برتقالي بنقش استثنائي.",
+  "ic": "Pendant",
+  "notes": "الصور من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف. النقش بخط كبير لم يُقرأ بثقة؛ القراءة المرجّحة (لا إله إلا الله الملك الحق المبين)، ولم تُكتب في الوصف حتى تتأكد. الظهر صفيحة سادة.",
+  "photos": [
+   {
+    "id": "1Pc30jfwhy11TYeE4PBzutWz__su2faPv",
+    "name": "JWL-W-051-1.jpg",
+    "pc_name": "DSC_7725 copy.jpg"
+   },
+   {
+    "id": "1zFK7OKtFTwUisMShchDGRQwxGURNirMz",
+    "name": "JWL-W-051-2.jpg",
+    "pc_name": "DSC_7726 copy.jpg"
+   },
+   {
+    "id": "1S1BbWfEXZ0prl9KilIUtuTYdhlkWOLS5",
+    "name": "JWL-W-051-3.jpg",
+    "pc_name": "DSC_7735 copy.jpg"
+   }
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "videos": [],
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-052",
+  "cat": "W",
+  "piece": "pc-7760",
+  "hero": "DSC_7760 copy.jpg",
+  "desc": "بروش نفيس بموديل استثنائي يحمل حجر عقيق أحمر منقوشاً بخط النستعليق بالبسملة وسورة الناس كاملة.",
+  "ic": "Brooch",
+  "notes": "الصور من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف. الإطار مرصّع بأحجار بيضاء وزرقاء لم يُذكر نوعها في الوصف. الظهر منقوش بالزهور وفي وسطه لوحة كتابة لم تُقرأ، مع دبوس البروش.",
+  "photos": [
+   {
+    "id": "1U6lLH2YOQ9ar5BKqdfepz8CAmb7R6nLV",
+    "name": "JWL-W-052-1.jpg",
+    "pc_name": "DSC_7760 copy.jpg"
+   },
+   {
+    "id": "1DgjUt-4YXGU7eWg6ctsp-bYBaEhiIm-i",
+    "name": "JWL-W-052-2.jpg",
+    "pc_name": "DSC_7739 copy.jpg"
+   },
+   {
+    "id": "1CbbAzpkwtt0ED2GQsiYxrjsjKEg-tbGc",
+    "name": "JWL-W-052-3.jpg",
+    "pc_name": "DSC_7761 copy.jpg"
+   }
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "videos": [],
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-053",
+  "cat": "W",
+  "piece": "pc-7772",
+  "hero": "DSC_7772 copy.jpg",
+  "desc": "دلّاية نفيسة تحمل حجراً شفافاً منقوشاً بعبارة (الله ولي التوفيق) تحيط بها آية الكرسي.",
+  "ic": "Pendant",
+  "notes": "الصور من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف. السطر السفلي من الحزام حروف وأرقام طلسمية. الظهر سادة.",
+  "photos": [
+   {
+    "id": "171UddP9AsvAzh5JDgxJDH8EXZdECh-ua",
+    "name": "JWL-W-053-1.jpg",
+    "pc_name": "DSC_7772 copy.jpg"
+   },
+   {
+    "id": "1lB0QeKOhdqIzS95RoAb41SJjCB5Ghn8w",
+    "name": "JWL-W-053-2.jpg",
+    "pc_name": "DSC_7775 copy.jpg"
+   },
+   {
+    "id": "1fw9rYU_LNmvxPYbwCY544QYIXqJ92Q1C",
+    "name": "JWL-W-053-3.jpg",
+    "pc_name": "DSC_7780 copy.jpg"
+   }
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "videos": [],
+  "video_only": false
+ },
+ {
+  "code": "JWL-W-054",
+  "cat": "W",
+  "piece": "pc-7784",
+  "hero": "DSC_7784 copy.jpg",
+  "desc": "دلّاية نفيسة بموديل استثنائي تحمل حجراً بنياً منقوشاً بعبارة (المتوكل على الله) تحيط بها سورة الإخلاص وآية الكرسي.",
+  "ic": "Pendant",
+  "notes": "الصور من جهاز التصوير (جلسة 29 يناير 2025)، لم تكن مرفوعة على الدرايف ووُجدت بمقارنة الجهاز بالدرايف. الحزام الداخلي يبدأ بالبسملة ثم سورة الإخلاص، والخارجي آية الكرسي، والسطر السفلي حروف وأرقام طلسمية. الإطار والعروة بزخرفة محفورة، والظهر سادة.",
+  "photos": [
+   {
+    "id": "1VgLT-4yUnqCJbLjVMLMk35BKwdplZOBR",
+    "name": "JWL-W-054-1.jpg",
+    "pc_name": "DSC_7784 copy.jpg"
+   },
+   {
+    "id": "1v9ABGNV1ez80u91o61RmxtKIgVjdcA4D",
+    "name": "JWL-W-054-2.jpg",
+    "pc_name": "DSC_7795 copy.jpg"
+   },
+   {
+    "id": "1HeC4KwZnZSfbSAOo79_TPvCJg-mpz5et",
+    "name": "JWL-W-054-3.jpg",
+    "pc_name": "DSC_7804 copy.jpg"
+   }
+  ],
+  "duplicates": [],
+  "existing_code": null,
+  "videos": [],
+  "video_only": false
  }
 ]

@@ -200,6 +200,44 @@ Kept as written, with reasons: JWL-RS-048 «اللازورد» (blue with gold f
 - The sheet image of the 18 video-only rows now shows CODE-1 (`data/sheet_payload_r4.json` = live state); the formulas
   were read back and all 18 render.
 
+## PC comparison and the 24 photos that were only on the PC (29 Oct)
+- The owner ran `pc/knooz_compare_jwl.ps1` on «JWL - خواتم ومجوهرات» and uploaded `_missing_on_drive` (manifest copied
+  to `pc/_manifest_from_owner.csv`). Result for 1040 files: **961 ON_DRIVE, 24 MISSING, 54 NO_EXIF** (the 54 in
+  «New folder» are our own video stills, downloaded by the owner), 1 = the script.
+- All 24 missing photos are from the W folder, session 29 Jan 2025 16:55–17:47 (DSC_7647…7827). Contact sheet:
+  `pc/new_pieces/missing_24_contact_sheet.jpg`. They are 7 pieces:
+| Photos | Piece | Evidence |
+|---|---|---|
+| 7647, 7648, 7650, 7659 | **JWL-W-047** (video v33, was video-only) | same inscription layout and frame with two loops (`pc/new_pieces/c_v33_v27.jpg`) |
+| 7816, 7825, 7827 copy., 7827 | **JWL-W-044** (video v27, was video-only) | same jade plaque, same text layout |
+| 7687, 7695, 7705, 7710 | new **JWL-W-050** heart, tree + (ويسبح الرعد…) | not v28 (`c_v28_v36.jpg`), not any W piece |
+| 7725, 7726, 7735 | new **JWL-W-051** heart, orange carnelian | — |
+| 7760, 7739, 7761 | new **JWL-W-052** brooch, Surat an-Nas | — |
+| 7772, 7775, 7780 | new **JWL-W-053** oval, (الله ولي التوفيق) | not v36 |
+| 7784, 7795, 7804 | new **JWL-W-054** oval, (المتوكل على الله) | — |
+  The five new pieces were checked against all 40 photographed W pieces (descriptions + hero board) and the 9 W
+  video-only pieces (`pc/new_pieces/vo_board.jpg`: coins, loose stones and a necklace); none matches. They get the next
+  free W codes (050–054) rather than renumbering 041–049.
+- Drive (the connector offers move/rename again): the 24 uploaded photos were **moved** from the upload folder into
+  their piece folders and renamed CODE-N.jpg (hero = -1) (`data/pc_file_ops.json`). In W-044 and W-047 the three
+  video stills were moved out to the upload folder as `CODE-frame-1..3.jpg` (their originals are there too), so these
+  two folders now hold real photos + video and were recoloured **green**. 5 new folders (no video, no colour).
+  Re-walk: all 7 folders hold exactly the planned files; 54 W piece folders.
+- Sheet JWL-W (`data/sheet_payload_r5.json`): rows 45 (W-044) and 48 (W-047) show the real photo; their description is
+  still Abu Ali's video text, Notes updated. 5 rows added (51–55), same format, 330 px. Descriptions in his style,
+  facts only from what was read at full resolution:
+  - W-050 «قلب نفيس بموديل استثنائي يحمل حجراً شفافاً منقوشاً بهيئة شجرة تتوسطها عبارة (ويسبح الرعد بحمده والملائكة من خيفته)، وتحيط بها آية الكرسي.»
+  - W-051 «قلب نفيس يحمل حجر عقيق برتقالي بنقش استثنائي.» — the large inscription is not read with certainty; likely
+    reading (لا إله إلا الله الملك الحق المبين) is in Notes only.
+  - W-052 «بروش نفيس بموديل استثنائي يحمل حجر عقيق أحمر منقوشاً بخط النستعليق بالبسملة وسورة الناس كاملة.»
+  - W-053 «دلّاية نفيسة تحمل حجراً شفافاً منقوشاً بعبارة (الله ولي التوفيق) تحيط بها آية الكرسي.»
+  - W-054 «دلّاية نفيسة بموديل استثنائي تحمل حجراً بنياً منقوشاً بعبارة (المتوكل على الله) تحيط بها سورة الإخلاص وآية الكرسي.»
+  CSV export: 55 rows, 0 mismatches, nothing beyond row 55; the 7 hero thumbnails load.
+- New totals: **334 rows** (318 with photos + 16 video-only), 982 photos in piece folders, 24 green + 16 red folders.
+
 ## Still open
-- PC comparison (`pc/knooz_compare_jwl.ps1`): waiting for the owner to run it and upload `_missing_on_drive` into the JWL
-  upload folder.
+- The upload folder «_من الجهاز - JWL (للمقارنة)» now holds only redundant files: the 54 stills (originals of the
+  copies in the red folders), the 6 W-044/W-047 frames, `_missing_on_drive/New folder` (54 stills again), the manifest
+  and the empty W subfolder. It can be deleted when the owner agrees.
+- For Abu Ali: JWL-W-051 inscription; JWL-W-052 the stones around the brooch (not named in the description);
+  JWL-HS-016 tourmaline vs garnet-like stone.
