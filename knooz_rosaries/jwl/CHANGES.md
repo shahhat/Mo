@@ -123,7 +123,7 @@ row of their own. Verified by CSV export: 40/40.
 
 ## Risks flagged in Notes
 - **JWL-W-039:** the video text says «قلادة» (necklace); the piece is a bracelet (the video file is named BRACELET).
-  Kept as Abu Ali wrote it; the owner may want to correct the word.
+  Kept as Abu Ali wrote it; the owner confirmed on 29 Oct: keep the text as it is.
 - **JWL-HS-016:** the video calls the stone tourmaline; in the photos it looks dark red (garnet-like). Not verified.
 - **JWL-B-002:** the video says Colombian emerald; not verifiable from photos.
 - Coin pieces (JWL-W-009, 020, 022, 023, 025, 036, 037): authenticity not judged; the coins in the sets W-025 and W-036
