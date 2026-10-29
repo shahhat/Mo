@@ -46,7 +46,7 @@ for pc,lst in owner.items():
     for o in lst: oc2code.setdefault(o,[]).append(codes[pc])
 def src_label(v):
     s=re.sub(r'\s*\+\s*Logo( v2| 02)?','',pick[v]['src'].replace('.mp4',''))
-    s=re.sub(r'\s+',' ',s).replace('/',' – ',1).strip()
+    s=re.sub(r'\s+',' ',s).replace('/',' – ',1).replace(' – -',' – ').strip()
     return s
 def fix_refs(txt,self_piece):
     def rp(m):
@@ -96,6 +96,29 @@ for v,c in VONLY.items():
     notes=[f'قطعة معروفة من الفيديو فقط ولا توجد لها صور في جلسة التصوير. الوصف هو النص المكتوب على فيديو أبو علي ({src_label(v)}) حرفياً، بتصحيح إملائي فقط. الصور {code}-1..3 لقطات من الفيديو، ونسخة الفيديو {code}-video.mp4.']
     if len(vids)>1: notes.append('للقطعة نسختان من الفيديو: '+'، '.join(src_label(x) for x in sorted(vids))+'؛ الوصف من نسخة Phase 09 (Final).')
     rows.append({'code':code,'cat':c,'piece':v,'hero':None,'desc':CAP[v],'ic':VONLY_IC[v],'notes':' '.join(notes),'photos':[],'duplicates':[],'existing_code':None,'videos':sorted(vids),'video_only':True})
+# QC round (qc/qc_qc1..3.json): accepted fixes, applied by code
+QC=[]
+for f in ('qc_qc1','qc_qc2','qc_qc3'): QC+=json.load(open(f'{J}/qc/{f}.json'))
+ACCEPT={('JWL-W-014','desc'),('JWL-W-032','desc'),('JWL-W-032','notes'),('JWL-H-029','desc'),('JWL-B-008','desc'),('JWL-B-030','desc'),
+        ('JWL-HS-037','desc'),('JWL-HS-082','desc'),('JWL-HS-076','notes'),('JWL-HS-079','notes')}
+QC_FIX={}
+for e in QC:
+    if (e['code'],e['field']) in ACCEPT and e['fix']: QC_FIX[(e['code'],e['field'])]=e['fix']
+assert len(QC_FIX)==len(ACCEPT),(len(QC_FIX),ACCEPT-set(QC_FIX))
+VO_EXTRA={'v39':'رمز المالك لهذا الفيديو في شيت الفيديو: AMB1 (حجر عقيق، ليس كهرماناً).','v40':'رمز المالك لهذا الفيديو في شيت الفيديو: RING-1.',
+          'v33':'اسم الفيديو في شيت الفيديو: R020.','v27':'اسم الفيديو في شيت الفيديو: R021.'}
+for r in rows:
+    for fld,key in (('desc','desc'),('notes','notes')):
+        if (r['code'],fld) in QC_FIX:
+            new=QC_FIX[(r['code'],fld)]
+            if fld=='notes':
+                oc=[o for o in owner.get(r['piece'],[]) if o not in new and r['code'] not in ('JWL-HS-076','JWL-HS-079')]
+                if oc: new+=' الأكواد القديمة: '+'، '.join(oc)+'.'
+            r[key]=new
+    if r['video_only'] and r['piece'] in VO_EXTRA: r['notes']+=' '+VO_EXTRA[r['piece']]
+B030='قراءة جزئية للنقش: «… على الله» مؤكدة، والكلمة الأولى قد تكون «التوكل» أو «توكلت» (؟).'
+for r in rows:
+    if r['code']=='JWL-B-030' and B030 not in r['notes']: r['notes']=(B030+' '+r['notes']).strip()
 rows.sort(key=lambda r:(list(PREF).index(r['cat']),r['code']))
 json.dump(rows,open(f'{J}/catalog_rows.json','w'),ensure_ascii=False,indent=1)
 json.dump(codes,open(f'{J}/codes.json','w'),ensure_ascii=False,indent=1)

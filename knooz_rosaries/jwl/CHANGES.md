@@ -141,8 +141,45 @@ row of their own. Verified by CSV export: 40/40.
 | Knooz (Desc._) Sheet - JWL-HS | 17h0kItsnE-_DKKzJf-R856Q8TssiuseOJQU_749Nai8 | 97 |
 
 Columns: [no., IMAGES (=IMAGE of CODE-1, w800), Description, Item Name (code), Item Category, Price (empty), Notes];
-column A text; rows 330 px. `data/sheet_payload*.json` is the live state.
+column A text; rows 330 px.
+- `data/sheet_payload_r1.json` was written to all six sheets and verified by CSV export: 329 rows, 1974 cells, 0
+  mismatches.
+- New spreadsheets block IMAGE() of external URLs until an owner/editor clicks «Allow access» once in a desktop browser;
+  until then column B shows #REF! (the amber sheets were already allowed).
+
+## Drive execution and verification
+- 6 executor batches (`tools/EXEC_JWL.md`, logs in `data/exec/`): 326 folders created, 3 renamed in place, 958 photos
+  moved and renamed, 426 duplicates moved; 0 failures.
+- 40 video copies `CODE-video.mp4` made in the piece folders; 22 folders coloured green, 18 red; the 42 copies in
+  «JWL - VID» renamed to codes (`tools/EXEC_VIDEOS.md`, `data/exec/exec_videos_log.json`).
+- Re-walk of the JWL root (`data/drive_tree_after.json`): every one of the 958 photos is CODE-N.jpg in its own folder,
+  all 426 duplicates are in «_Duplicates (مكرر)», no loose photo, no duplicate folder, nothing lost; the only other files
+  are the six new sheets and the owner's index sheet. «JWL - VID» re-listed: 42/42 names correct.
+
+## QC round (independent check of every description against the photos)
+Three reviewers re-checked all 311 photographed rows (`qc/QC_JWL.md`, `qc/qc_qc1..3.json`): object type, stone colour
+and shape, every quoted inscription re-read at high resolution, mount details, maker phrase, hero photo. All quoted
+inscriptions were confirmed. Accepted fixes (`tools/build_final.py`, `data/r2_changes.json`):
+| Code | Fix |
+|---|---|
+| JWL-W-014 | stone is a long oval, not rectangular |
+| JWL-W-032 | bail is plain (no stones); notes record the two stamps + F |
+| JWL-H-029 | Surat an-Nasr is in six lines, not seven |
+| JWL-B-008 | «ذهبي اللون» removed (metal tone doubtful) |
+| JWL-B-030 | «(توكلت على الله)» removed from the description: only «على الله» is certain; reading moved to Notes |
+| JWL-HS-037 | «فضية اللون» removed (the ring is gold-coloured) |
+| JWL-HS-082 | «منقّطاً» removed (the dots are the letters' dots) |
+| JWL-HS-076, JWL-HS-079 | Notes: old codes R010/R012 come only from a hallmark photo's file name and are uncertain |
+| JWL-W-044, 047, 049, JWL-H-040 | Notes: the owner's video-sheet names R021, R020, AMB1, RING-1 |
+
+Kept as written, with reasons: JWL-RS-048 «اللازورد» (blue with gold flecks, unmistakable); JWL-R-005 «أوبال أسود
+طبيعي» (from the GFCO report photographed with the ring). Flag only: JWL-W-039 «قلادة» vs bracelet.
 
 ## Still open
+- **The 13 QC-corrected rows are not yet in the sheets** (`data/sheet_payload_r2.json` is the target; `data/r2_changes.json`
+  lists the rows). The Google Sheets connector asked to be signed in again on 29 Oct before the write.
+- **Stills for the 18 red folders**: `JWL_video_stills_54.zip` was sent to the owner; once uploaded to the JWL upload
+  folder (12z5FGqgqOQYOBNn_rIL3BwRGGbVy9OBM) they go into the red folders and their CODE-1 into the sheets.
+- «Allow access» on the six new sheets (owner, desktop browser).
 - PC comparison (`pc/knooz_compare_jwl.ps1`): waiting for the owner to run it and upload `_missing_on_drive` into the JWL
-  upload folder (12z5FGqgqOQYOBNn_rIL3BwRGGbVy9OBM).
+  upload folder.

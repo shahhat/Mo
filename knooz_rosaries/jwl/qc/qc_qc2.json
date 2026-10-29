@@ -1,0 +1,9 @@
+[
+  {
+    "code": "JWL-RS-048",
+    "field": "desc",
+    "problem": "The description names the stone «اللازورد». DESCRIBE_JWL.md only allows a stone name for عقيق / فيروز / جيد; any other stone is to be described by colour. In #800 the stone looks very much like lapis (deep blue with gold-coloured pyrite flecks), so this is a rule deviation, not a visual error. The owner can keep the name or switch to the colour wording below. Everything else checks out at high resolution: cut-corner (octagonal) shape, engraving inside a lobed frame, raised openwork base, F hallmark in #804.",
+    "fix": "خاتم استثنائي يحمل حجراً أزرق داكناً تتناثر فيه نقاط ذهبية اللون، مثمّن الشكل منقوشاً بخط النستعليق داخل إطار مفصّص، في قاعدة مرتفعة مخرّمة بزخارف الأوراق والأغصان.",
+    "severity": "flag"
+  }
+]

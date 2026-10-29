@@ -1,0 +1,108 @@
+[
+ {
+  "cat": "W",
+  "row": 15,
+  "code": "JWL-W-014",
+  "cols": [
+   2
+  ]
+ },
+ {
+  "cat": "W",
+  "row": 33,
+  "code": "JWL-W-032",
+  "cols": [
+   2,
+   6
+  ]
+ },
+ {
+  "cat": "W",
+  "row": 45,
+  "code": "JWL-W-044",
+  "cols": [
+   6
+  ]
+ },
+ {
+  "cat": "W",
+  "row": 48,
+  "code": "JWL-W-047",
+  "cols": [
+   6
+  ]
+ },
+ {
+  "cat": "W",
+  "row": 50,
+  "code": "JWL-W-049",
+  "cols": [
+   6
+  ]
+ },
+ {
+  "cat": "B",
+  "row": 9,
+  "code": "JWL-B-008",
+  "cols": [
+   2
+  ]
+ },
+ {
+  "cat": "B",
+  "row": 31,
+  "code": "JWL-B-030",
+  "cols": [
+   2,
+   6
+  ]
+ },
+ {
+  "cat": "H",
+  "row": 30,
+  "code": "JWL-H-029",
+  "cols": [
+   2
+  ]
+ },
+ {
+  "cat": "H",
+  "row": 41,
+  "code": "JWL-H-040",
+  "cols": [
+   6
+  ]
+ },
+ {
+  "cat": "HS",
+  "row": 38,
+  "code": "JWL-HS-037",
+  "cols": [
+   2
+  ]
+ },
+ {
+  "cat": "HS",
+  "row": 77,
+  "code": "JWL-HS-076",
+  "cols": [
+   6
+  ]
+ },
+ {
+  "cat": "HS",
+  "row": 80,
+  "code": "JWL-HS-079",
+  "cols": [
+   6
+  ]
+ },
+ {
+  "cat": "HS",
+  "row": 83,
+  "code": "JWL-HS-082",
+  "cols": [
+   2
+  ]
+ }
+]

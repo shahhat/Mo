@@ -1,0 +1,58 @@
+[
+ {
+  "code": "JWL-W-014",
+  "field": "desc",
+  "problem": "Stone shape wrong: the description calls the stone «مستطيل» (rectangular), but in the composite hero #582 (front, left half) the faceted orange stone is a long oval with fully rounded ends, set in claws. Rest of the description is correct.",
+  "fix": "قلب استثنائي مفصّص الحواف، منقوش بالطيور والأزهار على أرضية منقّطة، يتوسطه حجر عقيق برتقالي بيضوي طويل مقطّع بأوجه مثبت بالمخالب.",
+  "severity": "error"
+ },
+ {
+  "code": "JWL-W-032",
+  "field": "desc",
+  "problem": "«عروة مرصّعة» (bail set with stones) is not supported: the bail is a plain polished metal teardrop (#1103 front, #1101); in the hero #1099 the back of the same teardrop shows only small hallmark stamps (two round Persian stamps + «F»), no stones.",
+  "fix": "قلب رائع يحمل حجراً شفافاً محدّباً نُقشت في وسطه أطر بيضوية صغيرة بكتابة دقيقة، بإطار على هيئة بتلات وعروة ملساء على هيئة قطرة.",
+  "severity": "error"
+ },
+ {
+  "code": "JWL-W-032",
+  "field": "notes",
+  "problem": "Notes say «أحجار العروة الصغيرة لم تُحدَّد», but the bail has no stones (#1103); the marks on its back in #1099 are hallmark stamps and should be recorded as such.",
+  "fix": "النقش لم يُقرأ بثقة (في الوسط: علي فاطمة؟). على ظهر العروة دمغتان مستديرتان بحروف فارسية وحرف F (#1099) لم تُقرآ. الصورة #1103 تُظهر النقش من الجهة الأخرى على خلفية داكنة.",
+  "severity": "error"
+ },
+ {
+  "code": "JWL-H-029",
+  "field": "desc",
+  "problem": "Line count wrong: «في سبعة أسطر». At high resolution (#1263, #1262) the stone has six lines: بسم الله الرحمن الرحيم / إذا جاء نصر الله والفتح / ورأيت الناس يدخلون / في دين الله أفواجاً فسبح / بحمد ربك واستغفره إنه / كان تواباً. The surah reading itself is correct.",
+  "fix": "خاتم فاخر يحمل حجر عقيق برتقالي كبير منقوش بسورة النصر كاملة مع البسملة في ستة أسطر، على ساق بنقش ماسي، صياغة أسطورة المجوهرات الأستاذ حسين جدي.",
+  "severity": "error"
+ },
+ {
+  "code": "JWL-B-008",
+  "field": "desc",
+  "problem": "«ذهبي اللون» is doubtful: the mount in #426/#428 has the same warm-white tone as the other Bikloo rings described without a colour (e.g. B-009 #431, B-011 #441; same measured colour balance), and it is clearly less yellow than B-003 (#33, #35), which really looks gold-coloured. Saying gold-coloured here risks misleading; drop it.",
+  "fix": "خاتم نفيس يحمل حجر عقيق بني عريض منقوش بالبسملة وسورة الإخلاص في أربعة أسطر، صياغة الأستاذ الكبير بيكلو.",
+  "severity": "flag"
+ },
+ {
+  "code": "JWL-B-030",
+  "field": "desc",
+  "problem": "Quoted centre text «(توكلت على الله)» is not confirmed. At high resolution (#866, #868) the composition opens on the right with two tall uprights (alif + lam) followed by waw/kaf, which reads more like «التوكل على الله». «على الله» is certain; the first word is not. Under the rules an uncertain quote should move to notes.",
+  "fix": "خاتم نادر يحمل حجر عقيق عسلي برتقالي منقوش في وسطه بحروف جلية على أرضية مشبّكة، يحيط بها شريط من الكتابة، صياغة الأستاذ الكبير بيكلو.",
+  "severity": "flag"
+ },
+ {
+  "code": "JWL-R-005",
+  "field": "desc",
+  "problem": "«أوبال أسود طبيعي» is taken from the lab report photographed in #728 (Natural Opal / trade name Black Opal). DESCRIBE_JWL puts lab-report facts in notes, not in the description, and the notes already quote the report in full. The stone in #724/#726 is visibly an opal cabochon with play of colour, so «أوبال» can stay; «أسود طبيعي» should go. (Alternatively the owner may approve the lab wording.)",
+  "fix": "خاتم فاخر يحمل حجر أوبال بيضوياً محدّباً بألوان متلألئة، تحيط به هالة من الأحجار البيضاء الصغيرة على حلقة عريضة مرصّعة.",
+  "severity": "flag"
+ },
+ {
+  "code": "JWL-W-039",
+  "field": "desc",
+  "problem": "Video row (v22): Abu Ali's video text calls the piece «قلادة» (necklace), but every photo (#1321 hero, #1320 in its box, #1322, #1324-#1326) shows a bracelet: five engraved stones in gold-coloured filigree links with a box clasp and pearl/filigree drops. The text must stay verbatim; flagging the contradiction for the owner (the notes already mention it). Item Category «Bracelet» is correct.",
+  "fix": "",
+  "severity": "flag"
+ }
+]

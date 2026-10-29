@@ -1,0 +1,30 @@
+[
+ {
+  "code": "JWL-HS-037",
+  "field": "desc",
+  "problem": "Description says the shoulders are «فضية اللون», but the metal is clearly yellow/gold-coloured in #486, #487, #488 (compared side by side with the silver ring JWL-HS-039 #506 from the same session). The inscription (Ayat al-Kursi, checked at high resolution on #486) and everything else are correct.",
+  "fix": "خاتم نفيس يحمل حجر عقيق عسلي فاتح كبير منقوش بآية الكرسي في أسطر دقيقة، بإطار مخرز وأكتاف مضلعة، من صياغة أبناء الأستاذ حسين جدي.",
+  "severity": "error"
+ },
+ {
+  "code": "JWL-HS-082",
+  "field": "desc",
+  "problem": "«حجر عقيق برتقالي منقّطاً» calls the stone spotted, but at high resolution (#1022) the dark dots are the drilled letter dots of the five-line inscription. The stone itself has no spots. The rest is correct (five lines of salawat on the Fourteen Infallibles).",
+  "fix": "خاتم نادر يحمل حجر عقيق برتقالي منقوشاً بخمسة أسطر دقيقة بالصلوات على المعصومين الأربعة عشر، في إطار مسنن، من صياغة أبناء الأستاذ حسين جدي.",
+  "severity": "error"
+ },
+ {
+  "code": "JWL-HS-076",
+  "field": "notes",
+  "problem": "Notes give old owner code R010 only because hallmark photo #1005 is named R010-4. But R010-1/2/5 (#1006-1008) are the separate ring JWL-HS-077, whose notes also say R010. #1005 shows the broad-ribbed shank of HS-076 (matches #1004, not HS-077's fine dense ribs), so the photo grouping looks right but the owner code cannot belong to both rings. The owner should confirm which ring is R010.",
+  "fix": "تاريخ صغير أسفل النقش غير واضح؛ صورة العلامة (#1005) اسم ملفها R010-4 وتُظهر حلقة هذا الخاتم، بينما صور R010 الأخرى للخاتم JWL-HS-077، فرمز المالك القديم غير مؤكد؛ علامات داخل الحلقة: حرف F بين ختمين بيضاويين بكتابة فارسية (أحدهما يشبه «جدی»؟) (#1005).",
+  "severity": "flag"
+ },
+ {
+  "code": "JWL-HS-079",
+  "field": "notes",
+  "problem": "Same issue as HS-076. The notes give old owner code R012 because hallmark photo #1015 is named R012-3, but R012-1/2/4 (#1016-1018) are JWL-HS-080, whose notes also say R012. #1015 matches HS-079's shank (beaded band and openings like #1014), so the code cannot belong to both. The owner should confirm.",
+  "fix": "النقش لم يُقرأ بثقة؛ صورة العلامة (#1015) اسم ملفها R012-3 وتُظهر حلقة هذا الخاتم، بينما صور R012 الأخرى للخاتم JWL-HS-080، فرمز المالك القديم غير مؤكد؛ علامات داخل الحلقة: حرف F بين ختمين بيضاويين بكتابة فارسية (أحدهما يشبه «جدی»؟) (#1015).",
+  "severity": "flag"
+ }
+]
