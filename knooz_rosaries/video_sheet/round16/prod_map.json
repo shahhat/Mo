@@ -1,0 +1,290 @@
+[
+ {
+  "row": 3,
+  "name": "R001",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-H-036",
+  "score": 1.0,
+  "desc": "نفائس الخواتم\nمن معدن الفديوم ومديل استثنائي \nيحمل حجر من ال"
+ },
+ {
+  "row": 4,
+  "name": "RP_E - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-RS-074",
+  "score": 1.0,
+  "desc": "خاتم نفيس\n من معدن الفديوم\nبمديل استثنائي\nيحمل حجر من العصر "
+ },
+ {
+  "row": 5,
+  "name": "RP_D - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-RS-001",
+  "score": 1.0,
+  "desc": "نفائس الخواتم \n معدن الفديوم \n تحمل حجر من العقيق اليماني\nمن"
+ },
+ {
+  "row": 8,
+  "name": "RP_10 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "",
+  "score": 0.56,
+  "desc": "خاتم من معدن الفديوم\n(خليط بين الفضه والبلاتين)\n\nيحمل حجر عق"
+ },
+ {
+  "row": 9,
+  "name": "RP_03 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "",
+  "score": 0.56,
+  "desc": "خاتم من معدن الفديوم\n( خليط بين الفضه والبلاتين)\n\nيحمل حجر ع"
+ },
+ {
+  "row": 10,
+  "name": "RP_08 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-HS-091",
+  "score": 1.0,
+  "desc": "خاتم نفيس من معدن الفديوم\nيحمل حجر فيروز نيشابوري \nبلون استث"
+ },
+ {
+  "row": 11,
+  "name": "RP_11 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-HS-008",
+  "score": 1.0,
+  "desc": "خاتم نفيس من معدن الفديوم\n\nيحمل حجر نفيس منقوش بخط النستعليق"
+ },
+ {
+  "row": 12,
+  "name": "RP_07 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-RS-033",
+  "score": 1.0,
+  "desc": "خاتم نسائي نادر جدا\n من الذهب والالماس \n\nيحمل حجر فيروز \nبلو"
+ },
+ {
+  "row": 13,
+  "name": "RP_09 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 01",
+  "code": "JWL-HS-093",
+  "score": 1.0,
+  "desc": "خاتم نادر جدا\n من معدن الفديوم\n\nيحمل حجر جيد بورمي\nصياغه الا"
+ },
+ {
+  "row": 14,
+  "name": "R007",
+  "cat": "Rings",
+  "phase": "Phase 02",
+  "code": "JWL-RS-054",
+  "score": 1.0,
+  "desc": "خاتم من الفضه يحمل حجر عقيق\nمنقوش منذ العهد المغولي\nويرجع لل"
+ },
+ {
+  "row": 15,
+  "name": "RP_06 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 02",
+  "code": "JWL-HS-006",
+  "score": 1.0,
+  "desc": "خاتم من معدن الفديوم \nيحمل حجر عقيق رائع منذ العهد المغولي\n "
+ },
+ {
+  "row": 16,
+  "name": "R008",
+  "cat": "Rings",
+  "phase": "Phase 02",
+  "code": "JWL-RS-072",
+  "score": 1.0,
+  "desc": "خاتم من معدن الفديوم بموديل رائع يحمل حجر منقوش من العهد الص"
+ },
+ {
+  "row": 17,
+  "name": "RP_04 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 02",
+  "code": "JWL-HS-096",
+  "score": 1.0,
+  "desc": "خاتم من معدن الفديوم\nيحمل حجر عقيق يماني بلون استثنائي\nمنقوش"
+ },
+ {
+  "row": 18,
+  "name": "RP_02 - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 02",
+  "code": "JWL-RS-076",
+  "score": 1.0,
+  "desc": "خاتم من الفضه يحمل حجر عقيق يماني\nبلون استثنائي منقوش بخط ال"
+ },
+ {
+  "row": 19,
+  "name": "Rsry_Z - Rosary ",
+  "cat": "Rosaries",
+  "phase": "Phase 02",
+  "code": "ROS-Amb-G-038",
+  "score": 1.0,
+  "desc": "مسباح كهرمان الماني شجري"
+ },
+ {
+  "row": 20,
+  "name": "Rsry_Y - Rosary ",
+  "cat": "Rosaries",
+  "phase": "Phase 02",
+  "code": "ROS-Amb-G-062",
+  "score": 1.0,
+  "desc": "مسباح كهرمان الماني منمش شديد الندره\nبوزن ٢٠٠ غرام"
+ },
+ {
+  "row": 21,
+  "name": "RP_K - Ring ",
+  "cat": "Rings",
+  "phase": "Phase 02",
+  "code": "JWL-HS-077",
+  "score": 1.0,
+  "desc": "خاتم نفيس من معدن الفديوم\nيحمل حجر عقيق منقوش بـ (ياصادق الو"
+ },
+ {
+  "row": 22,
+  "name": "Cns_I - Coin ",
+  "cat": "Currencies",
+  "phase": "Phase 02",
+  "code": "JWL-W-041",
+  "score": 1.0,
+  "desc": "قلب من الفضه يحمل درهم اسلامي عباسي من القرن الثاني هجري"
+ },
+ {
+  "row": 23,
+  "name": "Cns_H - Coin ",
+  "cat": "Currencies",
+  "phase": "Phase 02",
+  "code": "JWL-W-042",
+  "score": 1.0,
+  "desc": "قلب من الذهب يحمل دينار عباسي يرجع للقرن الثالث هجري"
+ },
+ {
+  "row": 24,
+  "name": "Goaran - Stone ",
+  "cat": "Stones",
+  "phase": "Phase 02",
+  "code": "JWL-W-043",
+  "score": 1.0,
+  "desc": "حجر عقيق باقراني يرجع للعهد العباسي الاول\nلمطلع القرن الثالث"
+ },
+ {
+  "row": 39,
+  "name": "Amber Rosary - Orange (Mesbah) ",
+  "cat": "Rosaries",
+  "phase": "Phase 04",
+  "code": "ROS-Amb-G-037",
+  "score": 1.0,
+  "desc": "مسباح كهرمان الماني شجري نادر جدا"
+ },
+ {
+  "row": 40,
+  "name": "Amber_Rosary Orange2Gold (Mesbah) ",
+  "cat": "Rosaries",
+  "phase": "Phase 04",
+  "code": "ROS-KS-151",
+  "score": 1.0,
+  "desc": "مسباح كهرمان هندي  شجري نادر جدا"
+ },
+ {
+  "row": 41,
+  "name": "Amber_Rosary - Yellow_C (Mesbah) ",
+  "cat": "Rosaries",
+  "phase": "Phase 04",
+  "code": "ROS-KS-019",
+  "score": 1.0,
+  "desc": "مسباح كهرمان بولندي رائع"
+ },
+ {
+  "row": 42,
+  "name": "Amber Rosary - Yellow2Daimond (Mesbah) ",
+  "cat": "Rosaries",
+  "phase": "Phase 04",
+  "code": "ROS-KS-019",
+  "score": 1.0,
+  "desc": "مسباح كهرمان بولندي رائع"
+ },
+ {
+  "row": 43,
+  "name": "Amber_Rosary - Yellow_A (Mesbah) ",
+  "cat": "Rosaries",
+  "phase": "Phase 04",
+  "code": "ROS-KS-082",
+  "score": 1.0,
+  "desc": "مسباح كهرمان بولندي نادر من الزمن الجميل"
+ },
+ {
+  "row": 44,
+  "name": "Amber_Rosary Orange2Red (Mesbah) ",
+  "cat": "Rosaries",
+  "phase": "Phase 04",
+  "code": "ROS-Amb-G-037",
+  "score": 1.0,
+  "desc": "مسباح كهرمان الماني شجري نادر جدا"
+ },
+ {
+  "row": 70,
+  "name": "(Basmala) Ring ",
+  "cat": "Rings",
+  "phase": "Phase 06",
+  "code": "JWL-RS-091",
+  "score": 1.0,
+  "desc": "خاتم نفيس من معدن الفديوم\nيحمل حجر استثنائي من العهد المغولي"
+ },
+ {
+  "row": 71,
+  "name": "ORANG RING ",
+  "cat": "Rings",
+  "phase": "Phase 06",
+  "code": "JWL-HS-080",
+  "score": 1.0,
+  "desc": "خاتم نفيس من معدن الفديوم بمديل استثنائي صياغه الاستاذ الكبي"
+ },
+ {
+  "row": 72,
+  "name": "Brown Ring  ",
+  "cat": "Rings",
+  "phase": "Phase 06",
+  "code": "JWL-HS-016",
+  "score": 1.0,
+  "desc": "خاتم استثنائي من معدن الفديوم  صياغه الاستاذ الكبير مهدي جدي"
+ },
+ {
+  "row": 80,
+  "name": "R Yellow Ring ",
+  "cat": "Rings",
+  "phase": "Phase 07",
+  "code": "JWL-HS-064",
+  "score": 0.85,
+  "desc": "خاتم نفيس عمل الاستاذ مهدي جدي من معدن الفديوم يحمل حجر استث"
+ },
+ {
+  "row": 81,
+  "name": "R Al-Ekhlas Ring ",
+  "cat": "Rings",
+  "phase": "Phase 07",
+  "code": "JWL-B-032",
+  "score": 0.83,
+  "desc": "خاتم متحفي صياغه الاستاذ ( بيكلو) يحمل حجر متحفي بامتياز يرج"
+ },
+ {
+  "row": 82,
+  "name": "R13",
+  "cat": "Rings",
+  "phase": "Phase 07",
+  "code": "JWL-B-002",
+  "score": 0.81,
+  "desc": "خاتم نفيس عمل الاستاذ ( بيكلو) يحمل حجر من الزمرد الكولمبي ب"
+ }
+]

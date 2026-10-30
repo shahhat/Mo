@@ -24,3 +24,15 @@ Applied to the other 11 tabs (Phase 01–10, 12):
 Verification: all 12 tabs exported; the 11 changed tabs match the plan cell for cell (0 mismatches), headers equal
 Phase 11's, nothing below the last row or beyond column F; Phase 11 byte-identical to before; images confirmed in
 column B on the moved rows.
+
+# Round 16 (30 Oct, in progress): codes for rosary and jewelry videos everywhere
+- Phase 11 renumbered 1–10.
+- JWL: the 42 jewelry videos in the phases renamed to their codes (`round16/jwl_phase_ops.json`); in «JWL - VID»
+  JWL-H-040.mp4 → JWL-H-002.mp4 (another editor renumbered H-040 to H-002 in the JWL-H sheet on 30 Oct). Video sheet:
+  every JWL row's description = the live JWL catalog sheet; «JWL-H-040 (RING-1)» → «JWL-H-002 (RING-1)»; old-name notes
+  dropped where the phase file now carries the code (`round16/vs_log_jwl.json`). Products sheet: 24 JWL rows → code +
+  catalog description (`round16/prod_log_jwl.json`). Re-export: 64 JWL cells checked, 0 mismatches.
+- ROS: 17 rosary videos in the phases renamed to codes; «ROS - VID»: 8 shortcuts renamed, 5 missing videos copied
+  (ROS-KS-082, ROS-KS-151, ROS-K-005, ROS-KS-002, ROS-Amb-G-086). Products rows 39–44 identified by screenshot vs catalog
+  photos (39 = ROS-Amb-G-053, 41 = ROS-KS-106, 42 = ROS-KS-019, 44 = ROS-Amb-G-037). Rosary descriptions pending the
+  on-screen captions.
