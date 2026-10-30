@@ -472,3 +472,30 @@ video-only).
   - The Notes of AMB-A-050 and Amb-dec-049 now say the video sheet was corrected too, and only the burned-in text on the
     videos still has the old spelling.
   - The three amber sheets were re-checked against `data/sheet_payload.json` (= r14): 0 mismatches.
+
+## Round 15: one code and one description for every amber video piece, everywhere (30 Oct)
+Owner's request: rename the amber pieces with their amber-catalog code in «AMB - VID», in the videos folder
+(«_Knooz Videos (Full-edit)»), in the video sheet «Knooz (Desc._) Sheet» and in the products sheet «_Knooz Video
+Products» (1NJBCz8ZxSJ_imIJarMRuoGLR2PwTPn9lKK5oKVPf7zA), and make sure each piece has the same code and description in
+every place. Old and new values: `videos/round15_codes_everywhere.json`.
+- **«AMB - VID»**: already named by code (14 files); re-checked, unchanged.
+- **Videos folder (phases)**: 17 files renamed (nothing moved), the same way the owner had already named the rosary
+  videos (ROS-Amb-G-038.mp4 …): A020→AMB-A-107, A021→AMB-A-015, A009→AMB-ST-030, A012→Amb-dec-007, A013→AMB-A-105,
+  A014→«AMB-A-084 + AMB-A-086», A015→AMB-A-106, A016→Amb-dec-008, A017→Amb-dec-049, A002→AMB-A-103, A003→AMB-A-050,
+  A004→AMB-A-104, A001→AMB-A-102. Phase 12 holds two edits of the frog carving: «من_تحف_الكهرمان_المنحوتة» (4K
+  landscape, the one in AMB - VID) → Amb-dec-003.mp4, and «من_تحف_الكهرمان المنحوتة» (1080×1920 vertical, same 36 s,
+  same carving; frames checked) → «Amb-dec-003 - vertical.mp4». The two drafts in Phase 06/Drafts → «AMB-A-103 -
+  Draft», «AMB-A-104 - Draft».
+- **Video sheet**: for the 15 amber rows (Phases 01, 04, 05, 06, 07, 12) Video File Name = the code (= the new file
+  name; Item Name already held it) and Description = the amber sheet's description. AMB-A-057 (Amber Faces) has no video
+  file; its row was renamed too. Phase 12 row 7 got the description and a new note on the two copies.
+- **Products sheet**: 14 amber rows (6, 7, 46–53, 73, 74, 77, 79): File name = the code, Descriptions = the amber
+  sheet's description. Mapping by the video sheet's text: Antq_B→AMB-A-107, Antq_A→AMB-A-015, Amber B→Amb-dec-008,
+  Amber A→Amb-dec-049, Amber Stone→AMB-ST-030, Amber Faces→AMB-A-057, Amber Dragon→Amb-dec-007, Amber
+  Compass→AMB-A-105, Amber Clock→AMB-A-084 + AMB-A-086, Amber Box→AMB-A-106, Rosary (Broush Mesbah)→AMB-A-104,
+  Pipe→AMB-A-050, ANTIQUE - MERMAID→AMB-A-103, Antique (Alkwait)→AMB-A-102. The carving (Amb-dec-003) has no row there.
+- The description used everywhere is the amber sheet's: the on-screen video text with spelling fixes and the owner's
+  decisions (Josef Ostermann, غدانسك, AMB-A-107 without the extra clause). Abu Ali's raw wording is kept in the JSON.
+- **Verification**: both sheets re-exported and compared with the before-export cell by cell: only the planned cells
+  changed (0 mismatches), Item Name = Video File Name on all 15 rows; the phases re-walk shows every code file and no
+  A0xx amber name left; AMB - VID = the same 14 codes.
