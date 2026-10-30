@@ -499,3 +499,7 @@ every place. Old and new values: `videos/round15_codes_everywhere.json`.
 - **Verification**: both sheets re-exported and compared with the before-export cell by cell: only the planned cells
   changed (0 mismatches), Item Name = Video File Name on all 15 rows; the phases re-walk shows every code file and no
   A0xx amber name left; AMB - VID = the same 14 codes.
+- Follow-up (owner: «حدّث خانة الـ Notes وسمّي A007 بالكود»): Phase 07 D13 (Notes of AMB-A-102) now holds the same
+  description as C13 (old value: Abu Ali's raw text, as in `videos/round15_codes_everywhere.json`); the rosary video
+  Phase 04/A007.mp4 (1Pp7IvrzYtCF9o32mMCEZzsoU6wd1is3V) renamed **ROS-KS-151.mp4** (its code since round 5). Re-export of
+  Phase 07: only D13 changed.
