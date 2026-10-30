@@ -1,0 +1,58 @@
+[
+ {
+  "row": 19,
+  "code": "ROS-Amb-G-038",
+  "old_B": "Rsry_Z - Rosary ",
+  "old_E": "مسباح كهرمان الماني شجري",
+  "new_E": "مسباح كهرمان ألماني شجري."
+ },
+ {
+  "row": 20,
+  "code": "ROS-Amb-G-062",
+  "old_B": "Rsry_Y - Rosary ",
+  "old_E": "مسباح كهرمان الماني منمش شديد الندره\nبوزن ٢٠٠ غرام",
+  "new_E": "مسباح كهرمان ألماني (منمش شديد الندرة) بوزن ٢٠٠ غرام."
+ },
+ {
+  "row": 39,
+  "code": "ROS-Amb-G-053",
+  "old_B": "Amber Rosary - Orange (Mesbah) ",
+  "old_E": "مسباح كهرمان الماني شجري نادر جدا",
+  "new_E": "مسباح كهرمان ألماني نادر جداً."
+ },
+ {
+  "row": 40,
+  "code": "ROS-KS-151",
+  "old_B": "Amber_Rosary Orange2Gold (Mesbah) ",
+  "old_E": "مسباح كهرمان هندي  شجري نادر جدا",
+  "new_E": "مسباح كهرمان هندي شجري نادر جداً."
+ },
+ {
+  "row": 41,
+  "code": "ROS-KS-106",
+  "old_B": "Amber_Rosary - Yellow_C (Mesbah) ",
+  "old_E": "مسباح كهرمان بولندي رائع",
+  "new_E": "مسباح كهرمان بولندي رائع."
+ },
+ {
+  "row": 42,
+  "code": "ROS-KS-019",
+  "old_B": "Amber Rosary - Yellow2Daimond (Mesbah) ",
+  "old_E": "مسباح كهرمان بولندي رائع",
+  "new_E": "مسباح كهرمان بولندي رائع."
+ },
+ {
+  "row": 43,
+  "code": "ROS-KS-082",
+  "old_B": "Amber_Rosary - Yellow_A (Mesbah) ",
+  "old_E": "مسباح كهرمان بولندي نادر من الزمن الجميل",
+  "new_E": "مسباح كهرمان بولندي نادر من الزمن الجميل."
+ },
+ {
+  "row": 44,
+  "code": "ROS-Amb-G-037",
+  "old_B": "Amber_Rosary Orange2Red (Mesbah) ",
+  "old_E": "مسباح كهرمان الماني شجري نادر جدا",
+  "new_E": "مسباح كهرمان ألماني شجري نادر جداً."
+ }
+]

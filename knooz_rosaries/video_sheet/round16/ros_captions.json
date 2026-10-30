@@ -1,0 +1,223 @@
+[
+ {
+  "label": "ROS-Amb-G-038",
+  "id": "13_E0NRfAt3X0KGSL6PVOUaGCpCa6HcgR",
+  "caption": "مسباح كهرمان الماني شجري",
+  "lines": [
+   "مسباح كهرمان الماني شجري"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-Amb-G-062",
+  "id": "1ZLr-lbHoe3UQVW5-Zl3gWznXa4XCnscJ",
+  "caption": "مسباح كهرمان الماني (منمش شديد الندره)\nبوزن ٢٠٠ غرام",
+  "lines": [
+   "مسباح كهرمان الماني (منمش شديد الندره)\nبوزن ٢٠٠ غرام"
+  ],
+  "unsure": "third letter of منمش is a small loop read as medial م (could superficially look like ح); rest clear"
+ },
+ {
+  "label": "ROS-Amb-G-037",
+  "id": "13EYqEKT8z23aNgdmnLGCSdz7dhLlLSJt",
+  "caption": "مسباح كهرمان ألماني شجري نادر جداً",
+  "lines": [
+   "مسباح كهرمان ألماني شجري نادر جداً"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-Amb-G-053",
+  "id": "1ujpUIzZILFT3ePsTvQNmXQq5aegS9Gkh",
+  "caption": "مسباح كهرمان ألماني نادر جداً",
+  "lines": [
+   "مسباح كهرمان ألماني نادر جداً"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-KS-019",
+  "id": "1NNHAbZTXEF59A3g5bJGksLPBT1-vZJW2",
+  "caption": "مسباح كهرمان بولندي رائع",
+  "lines": [
+   "مسباح كهرمان بولندي رائع"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-KS-082",
+  "id": "1e9fkjNSbG-9vP7nmZqY_ZcgYeGrL7Ka6",
+  "caption": "مسباح كهرمان بولندي نادر من الزمن الجميل",
+  "lines": [
+   "مسباح كهرمان بولندي نادر من الزمن الجميل"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-KS-151",
+  "id": "1Pp7IvrzYtCF9o32mMCEZzsoU6wd1is3V",
+  "caption": "مسباح كهرمان هندي شجري نادر جداً",
+  "lines": [
+   "مسباح كهرمان هندي شجري نادر جداً"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-KS-106",
+  "id": "1E0yEzaLTsHXEi5p44SpapEm4hjVB2tDO",
+  "caption": "مسباح كهرمان بولندي رائع",
+  "lines": [
+   "مسباح كهرمان بولندي رائع"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "ROS-Amb-G-080",
+  "id": "1pqyFWlJukRabn9F_nMBTenCmlHz8uVmc",
+  "caption": "مسباح كهرمان ألماني أنتيك ”ملتي كلر“\nمنمش متحفي مع طقم ذهب عيار ٢٢",
+  "lines": [
+   "مسباح كهرمان ألماني أنتيك ”ملتي كلر“\nمنمش متحفي مع طقم ذهب عيار ٢٢"
+  ],
+  "unsure": "quote marks rendered as ” before ملتي and “ after كلر (exact Unicode quote chars not certain)"
+ },
+ {
+  "label": "P09-Maroon-Sprkl-Crcls",
+  "id": "1RpMAecH_ySa4WH-VI4ofwXOiCU35JYdq",
+  "caption": "مسباح متحفي ”فاتوران“ ألماني أنتيك خراطه عثمانيه\nبخام (منجم) إستثنائي مع طقم من الذهب عيار ٢٢",
+  "lines": [
+   "مسباح متحفي ”فاتوران“ ألماني أنتيك خراطه عثمانيه\nبخام (منجم) إستثنائي مع طقم من الذهب عيار ٢٢"
+  ],
+  "unsure": "quote marks rendered as ” before فاتوران and “ after it (exact Unicode quote chars not certain)"
+ },
+ {
+  "label": "P09-Orange-to-glow-Yellow",
+  "id": "1aPijL2ZejPA_0BggwwkRmJ3StYrrWxqK",
+  "caption": "مسباح كهرمان ألماني منمش إستثنائي أنتيك",
+  "lines": [
+   "مسباح كهرمان ألماني منمش إستثنائي أنتيك"
+  ],
+  "unsure": ""
+ },
+ {
+  "label": "P09-Brown-to-yellow",
+  "id": "1ObU2cuAODktygMYXz8cLczl3W2ytcHNv",
+  "caption": "مسباح كهرمان ألماني أنتيك\n”ملتي كلر“ متحفي",
+  "lines": [
+   "مسباح كهرمان ألماني أنتيك\n”ملتي كلر“ متحفي"
+  ],
+  "unsure": "quote marks rendered as ” before ملتي and “ after كلر (exact Unicode quote chars not certain)"
+ },
+ {
+  "label": "P09-Green",
+  "id": "1A_Kn9wpjVZ61WWDAEJ6ZAJMYc5mtWFsI",
+  "caption": "مسباح كهرمان ألماني منمش شديد الندره متحفي\n\"خراطة المبدع عبدالعزيزكرم\"",
+  "lines": [
+   "مسباح كهرمان ألماني منمش شديد الندره متحفي\n\"خراطة المبدع عبدالعزيزكرم\""
+  ],
+  "unsure": "on screen there is no visible space between عبدالعزيز and كرم (name = عبدالعزيز كرم); quotes are straight double quotes; video read from the real file 1lBgEnaXxB0tgxsueLy8k7UIWJT6gH5vt (listed id is a Drive shortcut)",
+  "source_id": "1lBgEnaXxB0tgxsueLy8k7UIWJT6gH5vt"
+ },
+ {
+  "label": "ROS-Amb-G-081",
+  "id": "17P-yBVUP4swkJodBIPsDacUPPmvNO7dR",
+  "caption": "مسباح كهرمان متحفي منمش أنتيك ”ملتي كلر“ استثنائي",
+  "lines": [
+   "مسباح كهرمان متحفي منمش أنتيك ”ملتي كلر“ استثنائي"
+  ],
+  "unsure": "quote marks rendered as ” before ملتي and “ after كلر (exact Unicode quote chars not certain); video read from real file 1wF57uil5IuNA7rB1TEUfw3n4KRvoEidu (listed id is a Drive shortcut)",
+  "source_id": "1wF57uil5IuNA7rB1TEUfw3n4KRvoEidu"
+ },
+ {
+  "label": "ROS-Amb-G-082",
+  "id": "1ZTSDPauJYJdWf4vXmrhRA4VbPRTDiE_u",
+  "caption": "مسباح كهرمان الماني منمش انتيك استثنائي متحفي",
+  "lines": [
+   "مسباح كهرمان الماني منمش انتيك استثنائي متحفي"
+  ],
+  "unsure": "video read from real file 1vXFQkKeWkT17wXRL24FheZBtRk0GnJFN (listed id is a Drive shortcut); no hamzas on الماني/انتيك here, as on screen",
+  "source_id": "1vXFQkKeWkT17wXRL24FheZBtRk0GnJFN"
+ },
+ {
+  "label": "ROS-021",
+  "id": "1YsAKCvgXmqpSYqQtjS8Gu5INLWZFhsXI",
+  "caption": "مسباح فاتوران ألماني أنتيك متحفي خام\n”منجم مكحل“ بمقاس إستثنائي مع طقم من الذهب عيار ٢٢",
+  "lines": [
+   "مسباح فاتوران ألماني أنتيك متحفي خام\n”منجم مكحل“ بمقاس إستثنائي مع طقم من الذهب عيار ٢٢"
+  ],
+  "unsure": "quote marks rendered as ” before منجم and “ after مكحل (exact Unicode quote chars not certain); video read from real file 1RRvhhPFasQLNK5Atf43ncrUtdO8qcJ5C (listed id is a Drive shortcut)",
+  "source_id": "1RRvhhPFasQLNK5Atf43ncrUtdO8qcJ5C"
+ },
+ {
+  "label": "ROS-057",
+  "id": "1uMysD2uZPwxM5SivebFDRxN5g4enJu_Z",
+  "caption": "مسباح ”فاتوران“ ألماني متحفي خام ”منجم“\nخراطة الأسطورة العثمانيه ”غالب“",
+  "lines": [
+   "مسباح ”فاتوران“ ألماني متحفي خام ”منجم“\nخراطة الأسطورة العثمانيه ”غالب“"
+  ],
+  "unsure": "quote marks rendered as ” at start and “ at end of each quoted word (exact Unicode quote chars not certain)"
+ },
+ {
+  "label": "ROS-Amb-G-083",
+  "id": "1roIFiWBbl5bNS2VyZZbbJivYZQVeYUl6",
+  "caption": "مسباح كهرمان ألماني أنتيك منمش ”ملتي كلر“ متحفي",
+  "lines": [
+   "مسباح كهرمان ألماني أنتيك منمش ”ملتي كلر“ متحفي"
+  ],
+  "unsure": "quote marks rendered as ” before ملتي and “ after كلر (exact Unicode quote chars not certain)"
+ },
+ {
+  "label": "ROS-Amb-G-084",
+  "id": "11smxTLbqn729LYlvWEqCGR6W5ir4QaAr",
+  "caption": "NO CAPTION",
+  "lines": [],
+  "unsure": "no burned-in caption anywhere (checked all 40 frames); only the shop logo watermark and Islamic Treasures end card"
+ },
+ {
+  "label": "ROS-B-004",
+  "id": "1Xz9cQF1AIne5UnbFP5kxz8AnmcSDrMTC",
+  "caption": "NO CAPTION",
+  "lines": [],
+  "unsure": "no bottom caption; only a calligraphic title card at start and end (frames 2-5, 33-36): عالم الكهرمان الحشري",
+  "title_card": "عالم الكهرمان الحشري"
+ },
+ {
+  "label": "ROS-Amb-G-085",
+  "id": "1gspJMPw243G4_Vx8gu5_m13hhELleyaK",
+  "caption": "مسباح كهرمان\nالماني منمش\n( ملتي كلر )\nنادر جدا",
+  "lines": [
+   "مسباح كهرمان\nالماني منمش\n( ملتي كلر )\nنادر جدا"
+  ],
+  "unsure": "no bottom caption; this text is a side title panel (right side) shown at start (frames 2-5) and end (frames 35-39); header مسباح كهرمان is ornamental calligraphy with decorative marks",
+  "title_card": "مسباح كهرمان / الماني منمش ( ملتي كلر ) نادر جدا"
+ },
+ {
+  "label": "ROS-Amb-G-086",
+  "id": "11bFsnXg_np3WHJrKFBwh-i6tJBuDG1I5",
+  "caption": "كهرمان ألماني\n(منمش) مثالي",
+  "lines": [
+   "كهرمان ألماني\n(منمش) مثالي"
+  ],
+  "unsure": "no bottom caption; this text is a left-side title panel shown only at the start (frames 2-7), ornamental calligraphy with decorative marks — the mark over the alif of ألماني reads as a hamza but the font scatters decorative marks",
+  "title_card": "كهرمان ألماني / (منمش) مثالي"
+ },
+ {
+  "label": "ROS-K-005",
+  "id": "1FaJUR2328K7R_UfiOzcJObpyavapp_eI",
+  "caption": "مسباح كهرمان\nدمنكاني\nخراطة المبدع صايم",
+  "lines": [
+   "مسباح كهرمان\nدمنكاني\nخراطة المبدع صايم"
+  ],
+  "unsure": "no bottom caption; this text is a left-side title panel shown only at the start (frames 2-7) in ornamental calligraphy (960px frames); spelling دمنكاني as seen (not دومنيكاني)",
+  "title_card": "مسباح كهرمان دمنكاني / خراطة المبدع صايم"
+ },
+ {
+  "label": "ROS-KS-002",
+  "id": "1j-_aQi907MVf8xjheVgc0h2VE4ijejkK",
+  "caption": "مسباح كهرمان\nرائع",
+  "lines": [
+   "مسباح كهرمان\nرائع"
+  ],
+  "unsure": "no bottom caption; this text is a left-side title panel shown only at the start (frames 2-7), ornamental calligraphy",
+  "title_card": "مسباح كهرمان رائع"
+ }
+]
