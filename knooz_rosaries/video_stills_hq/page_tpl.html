@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>صور المسابيح المحسّنة</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Amiri:wght@700&display=swap" rel="stylesheet">
+<style>
+:root{
+  /* Single dark world: the photos are shot on black velvet, so the page is black too. Layout: one band per piece, grid of squares. */
+  --bg:#0b0a09; --panel:#151311; --line:#2a2622; --ink:#ece6dc; --muted:#a39a8d; --amber:#d9932f; --teal:#2a9d8f;
+  --ok:#5fb37a; --bad:#e0725f;
+  --display:"Amiri",serif; --body:"IBM Plex Sans Arabic",system-ui,sans-serif;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.6}
+header{max-width:1200px;margin:0 auto;padding:28px 16px 8px;display:grid;gap:10px}
+h1{font-family:var(--display);font-size:34px;margin:0;text-wrap:balance;color:var(--amber)}
+.lede{max-width:70ch;color:var(--muted);margin:0}
+.facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.chip{border:1px solid var(--line);border-radius:999px;padding:3px 12px;font-size:13px;color:var(--ink);background:var(--panel);font-variant-numeric:tabular-nums}
+.chip b{color:var(--amber);font-weight:600}
+.warn{border-inline-start:3px solid var(--amber);background:var(--panel);padding:10px 14px;border-radius:6px;max-width:80ch;color:var(--ink);font-size:14px}
+main{max-width:1200px;margin:0 auto;padding:8px 16px 48px;display:grid;gap:28px}
+section{border-top:1px solid var(--line);padding-top:18px;display:grid;gap:12px}
+.head{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;justify-content:space-between}
+.code{font-size:20px;font-weight:600;direction:ltr;letter-spacing:.02em}
+.code a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+button{font:inherit;font-size:14px;border-radius:8px;padding:7px 14px;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink)}
+button.primary{background:var(--teal);border-color:var(--teal);color:#fff}
+button:disabled{opacity:.5;cursor:default}
+button:focus-visible,a:focus-visible,.tile:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+.status{font-size:13px;color:var(--muted);min-height:1.4em}
+.status.ok{color:var(--ok)} .status.bad{color:var(--bad)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.tile{position:relative;padding:0;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#000;aspect-ratio:1}
+.tile img{width:100%;height:100%;object-fit:cover;display:block}
+.tile span{position:absolute;inset-inline-start:6px;bottom:6px;font-size:11px;background:rgba(0,0,0,.65);padding:1px 7px;border-radius:999px;direction:ltr}
+.tile.done::after{content:"✓";position:absolute;top:6px;inset-inline-end:6px;background:var(--ok);color:#000;border-radius:999px;width:20px;height:20px;font-size:13px;display:grid;place-items:center}
+dialog{border:0;padding:0;background:#000;max-width:min(96vw,96vh);width:96vw}
+dialog img{width:100%;height:auto;display:block}
+dialog .bar{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:8px 12px;background:var(--panel);color:var(--ink);font-size:13px}
+dialog::backdrop{background:rgba(0,0,0,.85)}
+@media (prefers-reduced-motion:no-preference){.tile img{transition:transform .25s}.tile:hover img{transform:scale(1.04)}}
+</style>
+</head>
+<body>
+<header>
+  <h1>صور المسابيح المحسّنة من الفيديو</h1>
+  <p class="lede">صور جديدة للقطع اللي صورها الوحيدة كانت لقطة من الفيديو. كل صورة كادر حقيقي من فيلم أبو علي، اتختار أوضح كادر فيه، واتقصّ مربع من غير كتابة الفيديو، واتكبّر ×4، وعليها لوجو Islamic Treasures زي صور ROS-Amb-G-013.</p>
+  <div class="facts">
+    <span class="chip"><b>__N__</b> قطع</span>
+    <span class="chip"><b>__TOTAL__</b> صورة</span>
+    <span class="chip">3600 × 3600 px</span>
+    <span class="chip">JPEG q92</span>
+  </div>
+  <p class="warn">المصدر فيديو 1920×1080. التكبير بينضّف الصورة ويوضّحها، لكنه ما بيضيفش تفاصيل مش موجودة في الفيديو. اللقطات اللي كانت خارج الفوكس في الفيديو هتفضل ناعمة. وصورة الكاميرا (D850) بتفضل أدق.</p>
+</header>
+<main id="list"></main>
+<dialog id="lb"><div class="bar"><span id="lbName"></span><span><button id="lbSave" type="button">حفظ الصورة</button> <button id="lbClose" type="button">إغلاق</button></span></div><img id="lbImg" alt=""></dialog>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+const PIECES=__DATA__;
+const SERVER="Google Drive";
+let mcpP=null, dlP=null;
+function mcp(){ if(!mcpP) mcpP=(window.claude&&window.claude.use)?window.claude.use("mcp"):Promise.resolve(null); return mcpP; }
+function dl(){ if(!dlP) dlP=(window.claude&&window.claude.use)?window.claude.use("downloads"):Promise.resolve(null); return dlP; }
+const list=document.getElementById('list');
+function el(t,a={},...kids){const e=document.createElement(t);for(const[k,v]of Object.entries(a)){if(k==='class')e.className=v;else if(k.startsWith('on'))e.addEventListener(k.slice(2),v);else e.setAttribute(k,v);}kids.forEach(c=>e.append(c));return e;}
+PIECES.forEach(p=>{
+  const st=el('div',{class:'status',id:'st-'+p.code,'aria-live':'polite'});
+  const grid=el('div',{class:'grid'});
+  p.imgs.forEach((im,i)=>{
+    const b=el('button',{class:'tile',type:'button',id:'t-'+im.name.replace('.jpg',''),'aria-label':im.name,onclick:()=>openLb(im)},
+      el('img',{src:im.th,alt:im.name+(im.kind==='whole'?' القطعة كاملة':' تفصيل'),loading:'lazy'}),el('span',{},String(i+1)));
+    grid.append(b);
+  });
+  const up=el('button',{class:'primary',type:'button',onclick:()=>upload(p,up)},'ارفع الصور على فولدر القطعة');
+  const zip=el('button',{type:'button',onclick:()=>saveZip(p,zip)},'تحميل ZIP');
+  list.append(el('section',{id:p.code},
+    el('div',{class:'head'},el('div',{class:'code'},el('a',{href:'https://drive.google.com/drive/folders/'+p.folder},p.code)),el('div',{class:'actions'},up,zip)),
+    grid,st));
+});
+function setSt(code,msg,cls){const s=document.getElementById('st-'+code);s.textContent=msg;s.className='status'+(cls?' '+cls:'');}
+async function blobOf(path){const r=await fetch(path);if(!r.ok)throw new Error('fetch '+path);return r.blob();}
+const MSG={needs_reauth:'اربط Google Drive من جديد من claude.ai ← Settings ← Connectors، وبعدين دوس ارفع تاني.',
+  server_not_connected:'Google Drive مش متوصّل. ضيفه من claude.ai ← Settings ← Connectors.',
+  selection_required:'عندك أكتر من اتصال Google Drive. اختار واحد من الرسالة اللي ظهرت، وبعدين دوس ارفع تاني.',
+  not_in_manifest:'الصفحة مش مسموح لها تستخدم Google Drive. فعّلها من إعدادات الصفحة، أو استخدم تحميل ZIP.',
+  approval_required:'الرفع محتاج موافقتك. افتح الصفحة على claude.ai ودوس ارفع.',
+  blocked_by_policy:'إعدادات المؤسسة مانعة الرفع. استخدم تحميل ZIP.'};
+async function upload(p,btn){
+  const m=await mcp();
+  if(!m){setSt(p.code,'الرفع مش متاح هنا. استخدم تحميل ZIP واسحب الصور على فولدر القطعة.','bad');return;}
+  let fileArgs=false; try{fileArgs=!!(await m.listTools()).fileArgs;}catch(e){}
+  if(!fileArgs){setSt(p.code,'العرض ده مش بيدعم رفع الملفات الكبيرة. استخدم تحميل ZIP.','bad');return;}
+  btn.disabled=true; let ok=0;
+  for(const im of p.imgs){
+    const tile=document.getElementById('t-'+im.name.replace('.jpg',''));
+    if(tile.classList.contains('done')){ok++;continue;}
+    setSt(p.code,`بيرفع ${im.name} (${ok+1} من ${p.imgs.length})…`);
+    try{
+      const blob=await blobOf(im.full);
+      await m.callTool(SERVER,'create_file',{title:im.name,parentId:p.folder,contentMimeType:'image/jpeg',disableConversionToGoogleType:true,
+        base64Content:{$file:{data:blob,name:im.name,type:'image/jpeg'}}},{cache:false});
+      tile.classList.add('done'); ok++;
+    }catch(e){
+      const code=e&&e.code; let msg=MSG[code];
+      if(!msg) msg=(code==='server_unavailable'||code==='upstream_error')?`الرفع وقف عند ${im.name}. ممكن يكون اترفع، فراجع الفولدر قبل ما تدوس ارفع تاني.`:`فشل رفع ${im.name}: ${(e&&e.message)||code}`;
+      setSt(p.code,msg,'bad'); btn.disabled=false; return;
+    }
+  }
+  setSt(p.code,`اترفعت ${ok} صورة على فولدر ${p.code}.`,'ok'); btn.textContent='اترفعت';
+}
+async function saveZip(p,btn){
+  const d=await dl(); if(!d){setSt(p.code,'التحميل مش متاح في العرض ده. افتح الصفحة على claude.ai.','bad');return;}
+  btn.disabled=true; setSt(p.code,'بيجهّز الـ ZIP…');
+  try{
+    const z=new JSZip(); for(const im of p.imgs){z.file(im.name,await blobOf(im.full));}
+    const blob=await z.generateAsync({type:'blob',compression:'STORE'});
+    await d.save({filename:p.code+'-HQ.zip',data:blob}); setSt(p.code,'اتحفظ الـ ZIP. اسحب الصور على فولدر القطعة في الدرايف.','ok');
+  }catch(e){ setSt(p.code,e&&e.code==='declined'?'التحميل اتلغى.':'التحميل فشل: '+((e&&e.message)||e),'bad'); }
+  btn.disabled=false;
+}
+const lb=document.getElementById('lb'); let cur=null;
+function openLb(im){cur=im;document.getElementById('lbImg').src=im.full;document.getElementById('lbName').textContent=im.name;lb.showModal();}
+document.getElementById('lbClose').onclick=()=>lb.close();
+lb.addEventListener('click',e=>{if(e.target===lb)lb.close();});
+document.getElementById('lbSave').onclick=async()=>{const d=await dl();if(!d)return;try{await d.save({filename:cur.name,data:await blobOf(cur.full)});}catch(e){}};
+</script>
+</body>
+</html>

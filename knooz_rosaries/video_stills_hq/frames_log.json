@@ -1,0 +1,717 @@
+{
+ "ROS-Amb-G-080_1": {
+  "video_frame": 87,
+  "time_s": 2.9,
+  "mode": "obj",
+  "box": [
+   383,
+   0,
+   1080
+  ],
+  "sharpness": 544.8
+ },
+ "ROS-Amb-G-080_2": {
+  "video_frame": 121,
+  "time_s": 4.04,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 57.7
+ },
+ "ROS-Amb-G-080_3": {
+  "video_frame": 223,
+  "time_s": 7.44,
+  "mode": "top",
+  "box": [
+   479,
+   0,
+   770
+  ],
+  "sharpness": 89.4
+ },
+ "ROS-Amb-G-080_4": {
+  "video_frame": 433,
+  "time_s": 14.45,
+  "mode": "top",
+  "box": [
+   479,
+   0,
+   770
+  ],
+  "sharpness": 51.2
+ },
+ "ROS-Amb-G-080_5": {
+  "video_frame": 552,
+  "time_s": 18.42,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 21.1
+ },
+ "ROS-Amb-G-080_6": {
+  "video_frame": 950,
+  "time_s": 31.7,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 17.8
+ },
+ "ROS-Amb-G-080_7": {
+  "video_frame": 1020,
+  "time_s": 34.03,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 18.2
+ },
+ "ROS-Amb-G-081_1": {
+  "video_frame": 85,
+  "time_s": 2.84,
+  "mode": "obj",
+  "box": [
+   582,
+   120,
+   778
+  ],
+  "sharpness": 218.1
+ },
+ "ROS-Amb-G-081_2": {
+  "video_frame": 121,
+  "time_s": 4.04,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 67.5
+ },
+ "ROS-Amb-G-081_3": {
+  "video_frame": 178,
+  "time_s": 5.94,
+  "mode": "full",
+  "box": [
+   612,
+   0,
+   1080
+  ],
+  "sharpness": 489.5
+ },
+ "ROS-Amb-G-081_4": {
+  "video_frame": 720,
+  "time_s": 24.02,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 29.1
+ },
+ "ROS-Amb-G-081_5": {
+  "video_frame": 602,
+  "time_s": 20.09,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 21.0
+ },
+ "ROS-Amb-G-081_6": {
+  "video_frame": 926,
+  "time_s": 30.9,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 20.2
+ },
+ "ROS-Amb-G-081_7": {
+  "video_frame": 1017,
+  "time_s": 33.93,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 12.3
+ },
+ "ROS-Amb-G-082_1": {
+  "video_frame": 63,
+  "time_s": 2.1,
+  "mode": "obj",
+  "box": [
+   414,
+   79,
+   862
+  ],
+  "sharpness": 481.9
+ },
+ "ROS-Amb-G-082_2": {
+  "video_frame": 178,
+  "time_s": 5.94,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 326.6
+ },
+ "ROS-Amb-G-082_3": {
+  "video_frame": 238,
+  "time_s": 7.94,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 158.4
+ },
+ "ROS-Amb-G-082_4": {
+  "video_frame": 333,
+  "time_s": 11.11,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 13.2
+ },
+ "ROS-Amb-G-082_5": {
+  "video_frame": 660,
+  "time_s": 22.02,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 39.4
+ },
+ "ROS-Amb-G-082_6": {
+  "video_frame": 540,
+  "time_s": 18.02,
+  "mode": "top",
+  "box": [
+   767,
+   0,
+   770
+  ],
+  "sharpness": 15.5
+ },
+ "ROS-Amb-G-082_7": {
+  "video_frame": 927,
+  "time_s": 30.93,
+  "mode": "full",
+  "box": [
+   228,
+   0,
+   1080
+  ],
+  "sharpness": 48.5
+ },
+ "ROS-Amb-G-083_1": {
+  "video_frame": 78,
+  "time_s": 2.6,
+  "mode": "obj",
+  "box": [
+   523,
+   80,
+   962
+  ],
+  "sharpness": 92.5
+ },
+ "ROS-Amb-G-083_2": {
+  "video_frame": 122,
+  "time_s": 4.07,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 15.5
+ },
+ "ROS-Amb-G-083_3": {
+  "video_frame": 264,
+  "time_s": 8.81,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 154.6
+ },
+ "ROS-Amb-G-083_4": {
+  "video_frame": 373,
+  "time_s": 12.45,
+  "mode": "top",
+  "box": [
+   767,
+   0,
+   770
+  ],
+  "sharpness": 176.1
+ },
+ "ROS-Amb-G-083_5": {
+  "video_frame": 551,
+  "time_s": 18.39,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 11.9
+ },
+ "ROS-Amb-G-083_6": {
+  "video_frame": 600,
+  "time_s": 20.02,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 44.3
+ },
+ "ROS-Amb-G-083_7": {
+  "video_frame": 926,
+  "time_s": 30.9,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 22.5
+ },
+ "ROS-Amb-G-085_1": {
+  "video_frame": 124,
+  "time_s": 4.14,
+  "mode": "obj",
+  "box": [
+   410,
+   0,
+   1080
+  ],
+  "sharpness": 112.2
+ },
+ "ROS-Amb-G-085_2": {
+  "video_frame": 151,
+  "time_s": 5.04,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 97.9
+ },
+ "ROS-Amb-G-085_3": {
+  "video_frame": 211,
+  "time_s": 7.04,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 49.7
+ },
+ "ROS-Amb-G-085_4": {
+  "video_frame": 297,
+  "time_s": 9.91,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 30.0
+ },
+ "ROS-Amb-G-085_5": {
+  "video_frame": 455,
+  "time_s": 15.18,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 55.5
+ },
+ "ROS-Amb-G-085_6": {
+  "video_frame": 551,
+  "time_s": 18.39,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 40.1
+ },
+ "ROS-Amb-G-085_7": {
+  "video_frame": 685,
+  "time_s": 22.86,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 37.8
+ },
+ "ROS-Amb-G-085_8": {
+  "video_frame": 909,
+  "time_s": 30.33,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 50.8
+ },
+ "ROS-Amb-G-098_1": {
+  "video_frame": 63,
+  "time_s": 2.1,
+  "mode": "obj",
+  "box": [
+   258,
+   0,
+   1080
+  ],
+  "sharpness": 114.1
+ },
+ "ROS-Amb-G-098_2": {
+  "video_frame": 177,
+  "time_s": 5.91,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 20.1
+ },
+ "ROS-Amb-G-098_3": {
+  "video_frame": 251,
+  "time_s": 8.38,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 27.6
+ },
+ "ROS-Amb-G-098_4": {
+  "video_frame": 301,
+  "time_s": 10.04,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 28.8
+ },
+ "ROS-Amb-G-098_5": {
+  "video_frame": 590,
+  "time_s": 19.69,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 40.2
+ },
+ "ROS-Amb-G-098_6": {
+  "video_frame": 837,
+  "time_s": 27.93,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 25.4
+ },
+ "ROS-Amb-G-098_7": {
+  "video_frame": 976,
+  "time_s": 32.57,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 26.0
+ },
+ "ROS-Amb-G-099_1": {
+  "video_frame": 78,
+  "time_s": 2.6,
+  "mode": "obj",
+  "box": [
+   467,
+   46,
+   962
+  ],
+  "sharpness": 237.1
+ },
+ "ROS-Amb-G-099_2": {
+  "video_frame": 121,
+  "time_s": 4.04,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 48.4
+ },
+ "ROS-Amb-G-099_3": {
+  "video_frame": 153,
+  "time_s": 5.11,
+  "mode": "full",
+  "box": [
+   228,
+   0,
+   1080
+  ],
+  "sharpness": 47.5
+ },
+ "ROS-Amb-G-099_4": {
+  "video_frame": 325,
+  "time_s": 10.84,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 73.7
+ },
+ "ROS-Amb-G-099_5": {
+  "video_frame": 422,
+  "time_s": 14.08,
+  "mode": "top",
+  "box": [
+   767,
+   0,
+   770
+  ],
+  "sharpness": 17.9
+ },
+ "ROS-Amb-G-099_6": {
+  "video_frame": 660,
+  "time_s": 22.02,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 44.8
+ },
+ "ROS-Amb-G-099_7": {
+  "video_frame": 782,
+  "time_s": 26.09,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 33.5
+ },
+ "ROS-Amb-G-099_8": {
+  "video_frame": 1005,
+  "time_s": 33.53,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 28.6
+ },
+ "ROS-Amb-G-100_1": {
+  "video_frame": 82,
+  "time_s": 2.74,
+  "mode": "obj",
+  "box": [
+   509,
+   0,
+   972
+  ],
+  "sharpness": 95.6
+ },
+ "ROS-Amb-G-100_2": {
+  "video_frame": 162,
+  "time_s": 5.41,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 12.5
+ },
+ "ROS-Amb-G-100_3": {
+  "video_frame": 321,
+  "time_s": 10.71,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 24.8
+ },
+ "ROS-Amb-G-100_4": {
+  "video_frame": 540,
+  "time_s": 18.02,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 126.8
+ },
+ "ROS-Amb-G-100_5": {
+  "video_frame": 676,
+  "time_s": 22.56,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 68.1
+ },
+ "ROS-Amb-G-100_6": {
+  "video_frame": 780,
+  "time_s": 26.03,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 25.9
+ },
+ "ROS-Amb-G-100_7": {
+  "video_frame": 1045,
+  "time_s": 34.87,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 111.0
+ },
+ "ROS-KS-151_1": {
+  "video_frame": 79,
+  "time_s": 2.64,
+  "mode": "obj",
+  "box": [
+   462,
+   18,
+   1052
+  ],
+  "sharpness": 46.8
+ },
+ "ROS-KS-151_2": {
+  "video_frame": 140,
+  "time_s": 4.67,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 7.9
+ },
+ "ROS-KS-151_3": {
+  "video_frame": 292,
+  "time_s": 9.74,
+  "mode": "top",
+  "box": [
+   767,
+   0,
+   770
+  ],
+  "sharpness": 7.6
+ },
+ "ROS-KS-151_4": {
+  "video_frame": 402,
+  "time_s": 13.41,
+  "mode": "top",
+  "box": [
+   383,
+   0,
+   770
+  ],
+  "sharpness": 54.9
+ },
+ "ROS-KS-151_5": {
+  "video_frame": 525,
+  "time_s": 17.52,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 9.1
+ },
+ "ROS-KS-151_6": {
+  "video_frame": 834,
+  "time_s": 27.83,
+  "mode": "top",
+  "box": [
+   575,
+   0,
+   770
+  ],
+  "sharpness": 7.9
+ },
+ "ROS-KS-151_7": {
+  "video_frame": 982,
+  "time_s": 32.77,
+  "mode": "full",
+  "box": [
+   420,
+   0,
+   1080
+  ],
+  "sharpness": 6.5
+ }
+}
