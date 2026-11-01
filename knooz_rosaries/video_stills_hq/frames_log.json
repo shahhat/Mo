@@ -176,15 +176,15 @@
   "sharpness": 326.6
  },
  "ROS-Amb-G-082_3": {
-  "video_frame": 238,
-  "time_s": 7.94,
-  "mode": "full",
+  "video_frame": 227,
+  "time_s": 7.57,
+  "mode": "top",
   "box": [
-   420,
+   575,
    0,
-   1080
+   770
   ],
-  "sharpness": 158.4
+  "sharpness": 71.1
  },
  "ROS-Amb-G-082_4": {
   "video_frame": 333,
