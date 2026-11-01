@@ -38,3 +38,8 @@ photos and were left alone.)
 - All 65 finals were re-encoded to ≤ 730 KB: highest JPEG quality that fits, 4:4:4 first then 4:2:0
   (`quality.json`). 61 stay at 3600 px (q80–92); ROS-Amb-G-082-2 and 098-1 at 3600 q76/q72; 081-2 at 3300 px;
   081-3 (dense silver detail) at 2400 px q72.
+
+## 1 Nov: upload verified
+Owner uploaded from the gallery. Each of the 9 folders re-listed and every image downloaded back: 65/65 files present
+as CODE-1 … CODE-7/8.jpg, byte-identical (sha256) to the local finals, no duplicates, no missing or extra images.
+Old frames remain in each folder's `صور-قديمة-من-الفيلم` (7 files for 080/081/082/083/085/151, 6 for 098/099/100).
