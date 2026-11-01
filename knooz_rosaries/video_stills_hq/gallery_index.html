@@ -89,6 +89,7 @@ PIECES.forEach(p=>{
     grid,st));
 });
 function setSt(code,msg,cls){const s=document.getElementById('st-'+code);s.textContent=msg;s.className='status'+(cls?' '+cls:'');}
+async function b64Of(path){const blob=await blobOf(path);return await new Promise((res,rej)=>{const r=new FileReader();r.onload=()=>res(String(r.result).split(',')[1]);r.onerror=()=>rej(r.error);r.readAsDataURL(blob);});}
 async function blobOf(path){const r=await fetch(path);if(!r.ok)throw new Error('fetch '+path);return r.blob();}
 const MSG={needs_reauth:'اربط Google Drive من جديد من claude.ai ← Settings ← Connectors، وبعدين دوس ارفع تاني.',
   server_not_connected:'Google Drive مش متوصّل. ضيفه من claude.ai ← Settings ← Connectors.',
@@ -99,17 +100,15 @@ const MSG={needs_reauth:'اربط Google Drive من جديد من claude.ai ← 
 async function upload(p,btn){
   const m=await mcp();
   if(!m){setSt(p.code,'الرفع مش متاح هنا. افتح الصفحة على claude.ai، أو استخدم تحميل ZIP.','bad');return false;}
-  let fileArgs=false; try{fileArgs=!!(await m.listTools()).fileArgs;}catch(e){}
-  if(!fileArgs){setSt(p.code,'العرض ده مش بيدعم رفع الملفات الكبيرة. افتح الصفحة على claude.ai، أو استخدم تحميل ZIP.','bad');return false;}
   btn.disabled=true; let ok=0;
   for(const im of p.imgs){
     const tile=document.getElementById('t-'+im.name.replace('.jpg',''));
     if(tile.classList.contains('done')){ok++;continue;}
     setSt(p.code,`بيرفع ${im.name} (${ok+1} من ${p.imgs.length})…`);
     try{
-      const blob=await blobOf(im.full);
+      const b64=await b64Of(im.full);
       await m.callTool(SERVER,'create_file',{title:im.name,parentId:p.folder,contentMimeType:'image/jpeg',disableConversionToGoogleType:true,
-        base64Content:{$file:{data:blob,name:im.name,type:'image/jpeg'}}},{cache:false});
+        base64Content:b64},{cache:false});
       tile.classList.add('done'); ok++;
     }catch(e){
       const code=e&&e.code; let msg=MSG[code];

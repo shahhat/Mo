@@ -31,3 +31,10 @@ photos and were left alone.)
 - Source is 1920×1080 H.264. Upscaling cleans and sharpens but cannot add detail the video does not hold; frames that
   were out of focus in the film (ROS-KS-151, parts of 099/100) stay soft. A D850 shoot is still needed for the catalog.
 - Higgsfield (offered by the owner for generative re-shoots) was disconnected in this session.
+
+## 1 Nov: upload fix
+- The page's first upload route (`$file` staging) accepts only pptx/docx/xlsx, so JPEGs were refused
+  ("$file.type must be one of …"). The page now sends each image inline as base64, which has a 1 MiB request limit.
+- All 65 finals were re-encoded to ≤ 730 KB: highest JPEG quality that fits, 4:4:4 first then 4:2:0
+  (`quality.json`). 61 stay at 3600 px (q80–92); ROS-Amb-G-082-2 and 098-1 at 3600 q76/q72; 081-2 at 3300 px;
+  081-3 (dense silver detail) at 2400 px q72.
