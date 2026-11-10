@@ -21,3 +21,8 @@ Logs: `logs/` (plan, groups, done_A/B/C, sheet rows).
 - Each photo copied into its piece folder under the code name; the original in the sessions folder renamed to the same name (not moved).
 - Drive now: 109 pieces, 573 photos (verified by walk). Sheet: 109 rows.
 - PC scripts updated to 573 shots (multi-target keys for different exports of one frame). Copies on Drive root for download.
+
+## Round 3 – weapon videos
+- 21 weapon videos → copies in «S - VID» (1eHYW70hVssgVRFFqS-SjEEjm3NXNC31x); originals renamed in place to the code.
+- Copy `CODE-video.mp4` placed in each of the 20 piece folders (S-J-010 has two: v1 + v2). Folders coloured green #16a765 (photos + video); S-KJ-028 red #f83a22 (video only, 3 frames from the video).
+- Video sheet «_Knooz Video Products» column B now holds codes for the weapon rows. Weapons sheet Notes list each video.
