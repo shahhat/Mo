@@ -1,0 +1,1072 @@
+[
+{
+"shots": [
+0,
+1,
+2,
+3,
+12
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, black horn hilt, gilt cross guard, green leather scabbard with gilt mounts",
+"confidence": "high",
+"note": "12 (3/12) is a mirrored re-shoot of 3",
+"t0": "2021:02:26 20:05:03"
+},
+{
+"shots": [
+4,
+5,
+6,
+7,
+8
+],
+"type": "sword",
+"old": null,
+"desc_en": "Fluted ivory hilt, steel inscribed guard, black tooled leather scabbard, orange belt",
+"confidence": "high",
+"note": "",
+"t0": "2021:02:26 20:42:54"
+},
+{
+"shots": [
+9,
+10,
+11
+],
+"type": "sword",
+"old": null,
+"desc_en": "Riveted ivory hilt with chain, gilt guard, black scabbard with gold cords",
+"confidence": "high",
+"note": "",
+"t0": "2021:02:26 21:13:00"
+},
+{
+"shots": [
+13,
+14,
+15,
+16
+],
+"type": "sword",
+"old": null,
+"desc_en": "Silver hilt, silver guard, tan leather scabbard with silver mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 19:11:45"
+},
+{
+"shots": [
+17,
+18,
+19
+],
+"type": "sword",
+"old": null,
+"desc_en": "Ivory hilt, silver guard, blade cartouche, dark silver-mounted scabbard",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 19:36:34"
+},
+{
+"shots": [
+20,
+21,
+22,
+23
+],
+"type": "sword",
+"old": null,
+"desc_en": "Horn hilt, gold-inlaid cross guard, inscribed blade, gilt engraved scabbard",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 19:50:25"
+},
+{
+"shots": [
+24,
+25,
+26,
+27,
+28
+],
+"type": "sword",
+"old": null,
+"desc_en": "Wavy wooden grip, silver cross guard, silver repousse scabbard",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 20:02:38"
+},
+{
+"shots": [
+29,
+30,
+31,
+32
+],
+"type": "sword",
+"old": null,
+"desc_en": "Ivory hilt, steel guard, black ribbed leather scabbard, silver chape",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 20:13:12"
+},
+{
+"shots": [
+33,
+34,
+35,
+36,
+37
+],
+"type": "sword",
+"old": null,
+"desc_en": "Ivory hilt, gold-koftgari guard, gold-inlaid inscriptions, black scabbard with gilt mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 20:21:48"
+},
+{
+"shots": [
+38,
+39,
+40,
+41
+],
+"type": "sword",
+"old": null,
+"desc_en": "Black horn hilt, gilt guard, black scabbard with long engraved gilt locket and chape",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 20:31:32"
+},
+{
+"shots": [
+42,
+43,
+44,
+45
+],
+"type": "sword",
+"old": null,
+"desc_en": "Dark horn hilt, gilt cross guard, black tooled leather scabbard, gilt oval mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 20:48:41"
+},
+{
+"shots": [
+46,
+47,
+48,
+49,
+50
+],
+"type": "sword",
+"old": null,
+"desc_en": "Riveted ivory hilt, silver guard, silver niello floral scabbard",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 21:01:12"
+},
+{
+"shots": [
+51,
+52,
+53
+],
+"type": "sword",
+"old": null,
+"desc_en": "Ivory and gilt hilt, hooked quillon, gold-damascened blade, gilt floral scabbard",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 21:12:23"
+},
+{
+"shots": [
+54,
+55,
+56
+],
+"type": "sword",
+"old": null,
+"desc_en": "Near-straight blade, ivory/gilt hilt, brown leather scabbard with gilt mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 21:21:06"
+},
+{
+"shots": [
+57,
+58,
+59,
+65
+],
+"type": "sword",
+"old": null,
+"desc_en": "Bone hilt, curled silver quillons, white-silver repousse scabbard",
+"confidence": "high",
+"note": "65 (DSC_8842) shot later but follows DSC_8841",
+"t0": "2021:03:12 21:38:55"
+},
+{
+"shots": [
+60,
+61,
+62,
+63,
+64
+],
+"type": "sword",
+"old": null,
+"desc_en": "Horn hilt, gilt guard, blue leather scabbard with gilt mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 21:56:48"
+},
+{
+"shots": [
+66,
+67,
+68,
+69
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Curved dagger, silver hilt and repousse scabbard with turquoise band",
+"confidence": "medium",
+"note": "69 is pommel close-up with inscription; assigned by sequence",
+"t0": "2021:03:12 22:19:25"
+},
+{
+"shots": [
+70,
+71,
+72,
+73
+],
+"type": "sword",
+"old": null,
+"desc_en": "Ivory hilt, gilt guard, dark green scabbard gilt diamond mounts, tassels",
+"confidence": "high",
+"note": "",
+"t0": "2021:03:12 22:28:33"
+},
+{
+"shots": [
+74,
+75,
+76,
+81
+],
+"type": "dagger",
+"old": "S001",
+"desc_en": "Curved dagger, bronze hilt, shagreen scabbard with gilt mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:22 22:45:49"
+},
+{
+"shots": [
+77,
+78,
+79,
+80
+],
+"type": "dagger",
+"old": "S002",
+"desc_en": "Pesh-kabz, wooden hilt, blue scabbard with pierced silver mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:22 22:58:29"
+},
+{
+"shots": [
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Jade-hilted knife, gold-inlaid blade, engraved silver scabbard with green stones",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:23 17:34:50"
+},
+{
+"shots": [
+91,
+92,
+93,
+94
+],
+"type": "dagger",
+"old": "S009",
+"desc_en": "Silver hilt, black scabbard with turquoise-studded mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:23 18:14:58"
+},
+{
+"shots": [
+95,
+96,
+97,
+98
+],
+"type": "dagger",
+"old": "S010",
+"desc_en": "Kard, wooden hilt, gold-damascened blade, black scabbard gilt mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:23 18:23:23"
+},
+{
+"shots": [
+99,
+100,
+101,
+102
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Ivory-hilted curved dagger, black scabbard with jewelled silver mounts",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:23 18:37:22"
+},
+{
+"shots": [
+103,
+104,
+105,
+106,
+107
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Silver-hilted dagger, engraved silver scabbard",
+"confidence": "high",
+"note": "",
+"t0": "2021:08:23 18:46:38"
+},
+{
+"shots": [
+108,
+109,
+110
+],
+"type": "dagger",
+"old": "S011",
+"desc_en": "Horn hilt, gilt repousse scabbard with enamel medallion",
+"confidence": "high",
+"note": "S011 may continue past index 109 | merged across ranges",
+"t0": "2021:09:24 19:25:19"
+},
+{
+"shots": [
+111,
+112,
+113
+],
+"type": "dagger",
+"old": "S012",
+"desc_en": "Curved dagger, dark hilt with red stones, black scabbard with gilt mounts",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 19:41:03"
+},
+{
+"shots": [
+114,
+115,
+116
+],
+"type": "dagger",
+"old": "S013",
+"desc_en": "Knife with banded bone pistol-grip hilt, tan leather scabbard",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 19:47:21"
+},
+{
+"shots": [
+117,
+118,
+119,
+120
+],
+"type": "sword",
+"old": null,
+"desc_en": "Short straight sword, wooden hilt, gold cartouche, black scabbard with silver mounts",
+"confidence": "high",
+"note": "Short sword/large knife; type could be dagger. No S### number (S014 absent from old list)",
+"t0": "2021:09:24 19:55:41"
+},
+{
+"shots": [
+121,
+122,
+123
+],
+"type": "sword",
+"old": "S015",
+"desc_en": "Short curved sword, jewelled hilt with amber stones, brown scabbard with jewelled mounts",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 20:08:56"
+},
+{
+"shots": [
+124,
+125,
+126
+],
+"type": "dagger",
+"old": "S016",
+"desc_en": "Kard knife, light wood/bone grip with pins, brown wood scabbard",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 20:19:07"
+},
+{
+"shots": [
+127,
+128,
+129,
+130,
+131
+],
+"type": "dagger",
+"old": "S017",
+"desc_en": "Curved khanjar, engraved steel hilt and scabbard with gold details",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 20:26:39"
+},
+{
+"shots": [
+132,
+133
+],
+"type": "dagger",
+"old": "S076",
+"desc_en": "Omani khanjar, silver hilt, silver belt with brown leather, accessories",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 20:42:00"
+},
+{
+"shots": [
+134,
+135
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Jambiya, wooden hilt with silver filigree collar, broad ribbed curved blade",
+"confidence": "medium",
+"note": "134/135 show the two faces of one jambiya (pommel silver-faced on one side); not the jambiya in 138",
+"t0": "2021:09:24 20:52:32"
+},
+{
+"shots": [
+136,
+137
+],
+"type": "dagger",
+"old": "S018",
+"desc_en": "Omani khanjar, silver hilt, cream embroidered belt, knife and tweezers",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 21:00:16"
+},
+{
+"shots": [
+138
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Jambiya with dark wood hilt, silver bands; plus small silver-hilted knife",
+"confidence": "medium",
+"note": "Shot shows two objects: this jambiya (different from 134-135) and a small knife with engraved silver handle that resembles the accessory knife of S018 (136-137)",
+"t0": "2021:09:24 21:04:31"
+},
+{
+"shots": [
+139,
+140,
+141,
+142
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, wooden grip with engraved silver pommel cap, long gold inscription, black tooled scabbard",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 21:26:15"
+},
+{
+"shots": [
+143,
+144,
+145,
+146,
+147,
+148
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, plain ivory grip with pins, fabric sword-knot, single gold teardrop cartouche, fullered blade, black scabbard",
+"confidence": "high",
+"note": "Distinct from 153-157, 158-161 and S004 (cartouche/lockets differ)",
+"t0": "2021:09:24 21:39:00"
+},
+{
+"shots": [
+149,
+150,
+151,
+152
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, walnut pistol grip with brass ferrule, two gold cartouches, black scabbard",
+"confidence": "high",
+"note": "151 is blade inscription close-up taken between 150 and 152",
+"t0": "2021:09:24 21:53:41"
+},
+{
+"shots": [
+153,
+154,
+155,
+156,
+157
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, ivory grip with steel backstrap, calligraphy-engraved guard, black scabbard with calligraphic silver lockets",
+"confidence": "high",
+"note": "Similar to 158-161 but guard engraved with calligraphy (158-161 guard plain) and blade cartouches differ",
+"t0": "2021:09:24 22:05:16"
+},
+{
+"shots": [
+158,
+159,
+160,
+161
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, ivory grip with cream sword-knot, plain guard, fullered blade, calligraphic lockets",
+"confidence": "high",
+"note": "Not same as 153-157 (compared guard and cartouche close-ups)",
+"t0": "2021:09:24 22:28:37"
+},
+{
+"shots": [
+162,
+163,
+164,
+165
+],
+"type": "sword",
+"old": "S024",
+"desc_en": "Shamshir, brass/bronze pistol grip, black scabbard, calligraphic lockets with fabric straps",
+"confidence": "high",
+"note": null,
+"t0": "2021:09:24 22:39:28"
+},
+{
+"shots": [
+166,
+167,
+168
+],
+"type": "sword",
+"old": "S003",
+"desc_en": "Shamshir, dark wood grip, silver-mounted repousse scabbard, gold-inscribed blade",
+"confidence": "high",
+"note": null,
+"t0": "2021:11:16 17:39:24"
+},
+{
+"shots": [
+169,
+170,
+171
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Pair of kard knives, bone/ivory grips, black scabbards, in glass case",
+"confidence": "medium",
+"note": "Every shot shows two knives together (a pair/set); split if they are catalogued separately",
+"t0": "2021:11:16 18:11:58"
+},
+{
+"shots": [
+172,
+173,
+174,
+175,
+176,
+177,
+178
+],
+"type": "sword",
+"old": "S004",
+"desc_en": "Shamshir, ivory grip, lion roundel and gold cartouche, black scabbard with floral silver lockets",
+"confidence": "high",
+"note": "Checked against 143-148, 153-161, 217-219: different lockets/hilt",
+"t0": "2021:11:17 20:15:31"
+},
+{
+"shots": [
+179,
+180,
+181,
+182
+],
+"type": "sword",
+"old": "S005",
+"desc_en": "Shamshir, ivory grip with round gold pins, gilt guard, brown scabbard with gilt mounts, red cord",
+"confidence": "high",
+"note": "182 (DSC (17)) is hilt/scabbard-throat close-up of S005, same red/blue cord",
+"t0": "2021:11:17 20:31:07"
+},
+{
+"shots": [
+183,
+184,
+185,
+186
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, ivory grip with gilt pommel cap and guard, gilt-mounted black scabbard, gold strap",
+"confidence": "high",
+"note": null,
+"t0": "2021:11:17 20:45:53"
+},
+{
+"shots": [
+187,
+188,
+189,
+190
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, ivory grip, silver guard, silver-mounted scabbard, silver cords and tassels",
+"confidence": "high",
+"note": "189 is blade close-up between 188 and 190",
+"t0": "2021:11:17 20:58:46"
+},
+{
+"shots": [
+191,
+192,
+193,
+194
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, wooden pistol grip, gilt cross guard, black scabbard with long gilt throat and chape",
+"confidence": "high",
+"note": null,
+"t0": "2021:11:17 21:14:45"
+},
+{
+"shots": [
+195,
+196,
+197,
+198
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, ivory grip with raised gilt pins, fully gilt scabbard, gold cord",
+"confidence": "high",
+"note": "Differs from S005 (179-182): pins, cord colour, scabbard fully gilt. 198 is blade close-up",
+"t0": "2021:11:17 21:31:52"
+},
+{
+"shots": [
+199,
+200,
+201,
+202
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, carved ivory grip with steel backstrap, gold sword-knot, calligraphic silver lockets",
+"confidence": "high",
+"note": "Different from 203-208 (no gold on lockets) and from 143-161",
+"t0": "2021:11:17 21:42:50"
+},
+{
+"shots": [
+203,
+204,
+205,
+206,
+207,
+208
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, carved ivory grip, gold-outlined calligraphic guard and lockets, inscribed tang",
+"confidence": "high",
+"note": "207-208 show grip removed exposing inscribed tang",
+"t0": "2021:12:28 02:46:05"
+},
+{
+"shots": [
+209,
+210,
+211,
+212,
+213,
+214,
+215,
+216
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, orange-stained carved bone grip with flowers, brown tooled scabbard, inscribed tang",
+"confidence": "high",
+"note": "215 is edited version of 216",
+"t0": "2022:02:22 00:47:46"
+},
+{
+"shots": [
+217,
+218,
+219,
+220,
+221
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, finger-grooved ivory grip, lion roundel on blade, scabbard with silver chape",
+"confidence": "high",
+"note": "Lion roundel like S004 but grip (finger grooves), lockets and silver chape differ; separate piece | merged across ranges",
+"t0": "2022:02:22 01:02:51"
+},
+{
+"shots": [
+222,
+223,
+224,
+225
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, bone grip with dark pommel cap, ridged brown leather scabbard, silver lockets and chape",
+"confidence": "high",
+"note": "",
+"t0": "2022:02:22 01:14:20"
+},
+{
+"shots": [
+226,
+227,
+228,
+229,
+230,
+231
+],
+"type": "sword",
+"old": "S070",
+"desc_en": "Shamshir, wooden pistol grip, gilt cross guard, turquoise brocade scabbard with gilt mounts",
+"confidence": "high",
+"note": "230-231 (DSC, ladder-pattern watered blade close-ups) assigned by timing right after S070-4; medium confidence for those two.",
+"t0": "2022:02:22 01:22:26"
+},
+{
+"shots": [
+232,
+233,
+234,
+235,
+236,
+237,
+238
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, ivory grip with bands, steel cross guard, black tooled scabbard, belt with brass bosses, gold cartouche",
+"confidence": "high",
+"note": "236-238 show the hilt dismantled (same ivory banded grip, plain steel cross guard).",
+"t0": "2022:02:22 01:31:01"
+},
+{
+"shots": [
+239,
+240,
+241,
+242,
+249,
+250,
+251,
+252,
+253,
+254,
+255,
+256
+],
+"type": "dagger",
+"old": "S043",
+"desc_en": "Gold-wire-wrapped jambiya, gem-set wooden hilt, gold scabbard with rings",
+"confidence": "high",
+"note": "239-242 (jj series, Apr 2022) match S043 (Jul 2022) in every detail: gem-set pommel plaque, pearl bands, gold koftgari at blade root, same small rust spot near spine.",
+"t0": "2022:04:04 17:57:25"
+},
+{
+"shots": [
+243,
+244,
+245,
+246,
+247,
+248
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, jewelled ivory pistol grip, silver gem-studded scabbard, inscribed blade",
+"confidence": "high",
+"note": "",
+"t0": "2022:07:01 23:31:54"
+},
+{
+"shots": [
+257,
+258
+],
+"type": "other",
+"old": "S075",
+"desc_en": "Round steel shield (dhal) with gold-damascened bosses, red cushion lining",
+"confidence": "high",
+"note": "",
+"t0": "2023:02:25 01:40:54"
+},
+{
+"shots": [
+259,
+264,
+265
+],
+"type": "other",
+"old": "S074",
+"desc_en": "Helmet with mail aventail and polished steel cuirass set",
+"confidence": "high",
+"note": "264 is close-up of the cuirass with engraved inscription and mail rings.",
+"t0": "2023:02:25 02:58:04"
+},
+{
+"shots": [
+260,
+261,
+262,
+263
+],
+"type": "other",
+"old": "S073",
+"desc_en": "Gold-and-silver damascened helmet (khula khud), inscribed band, mail, bird-engraved nasal",
+"confidence": "high",
+"note": "263 DSC_7126 is the nasal-bar terminal close-up.",
+"t0": "2023:02:25 02:58:37"
+},
+{
+"shots": [
+266,
+267,
+268
+],
+"type": "other",
+"old": null,
+"desc_en": "Spearhead with fluted watered blade and silver-inlaid octagonal socket",
+"confidence": "high",
+"note": "",
+"t0": "2023:04:04 15:55:51"
+},
+{
+"shots": [
+269,
+270,
+271,
+272,
+273,
+274
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Jambiya with ivory and gilt hilt, shagreen scabbard with gilt mounts and rings",
+"confidence": "high",
+"note": "",
+"t0": "2023:04:04 16:05:00"
+},
+{
+"shots": [
+275,
+276,
+277,
+278
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, wooden pistol grip, blue-enamelled chevron silver guard and scabbard mounts",
+"confidence": "high",
+"note": "",
+"t0": "2023:08:16 20:15:58"
+},
+{
+"shots": [
+279,
+280,
+281,
+282
+],
+"type": "sword",
+"old": "S026",
+"desc_en": "Shamshir, ivory grip, gilt cross guard, black tooled leather scabbard with gilt lockets",
+"confidence": "high",
+"note": "",
+"t0": "2023:08:16 20:35:21"
+},
+{
+"shots": [
+283,
+284,
+285,
+286
+],
+"type": "dagger",
+"old": "S027",
+"desc_en": "Straight qama-style dagger, carved ivory hilt, silver scabbard with ivory panels",
+"confidence": "high",
+"note": "",
+"t0": "2023:08:16 20:50:29"
+},
+{
+"shots": [
+287,
+288,
+289,
+290,
+291
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, carved bone pistol grip, steel cross guard, black scabbard with silver mounts",
+"confidence": "high",
+"note": "",
+"t0": "2023:10:13 18:53:40"
+},
+{
+"shots": [
+292,
+293,
+294,
+295
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, wooden grip, dragon-head quillons, fully engraved steel scabbard",
+"confidence": "high",
+"note": "295 (watered blade close-up) assigned by timing; could be blade of 296 group, medium for that shot.",
+"t0": "2023:12:29 17:36:28"
+},
+{
+"shots": [
+296,
+297,
+298,
+299,
+300,
+301
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, fluted ivory grip, black leather scabbard with inscribed steel lockets, leather strap",
+"confidence": "high",
+"note": "",
+"t0": "2023:12:29 17:44:59"
+},
+{
+"shots": [
+302,
+303,
+304,
+305,
+306,
+307,
+308,
+309,
+310,
+311
+],
+"type": "other",
+"old": null,
+"desc_en": "Char-aina armour plates, watered steel with gold-damascened borders and leather straps",
+"confidence": "high",
+"note": "308-310 are surface/border/buckle close-ups.",
+"t0": "2025:02:16 19:32:02"
+},
+{
+"shots": [
+312,
+313,
+314,
+315,
+316
+],
+"type": "dagger",
+"old": null,
+"desc_en": "Kard knife, wooden/bone grip, straight watered steel blade",
+"confidence": "high",
+"note": "",
+"t0": "2025:02:16 20:02:16"
+},
+{
+"shots": [
+317,
+318,
+319,
+320,
+321,
+322
+],
+"type": "sword",
+"old": null,
+"desc_en": "All-steel shamshir, engraved pistol grip, slotted fuller, inscribed blade panels",
+"confidence": "high",
+"note": "",
+"t0": "2025:02:16 20:22:28"
+},
+{
+"shots": [
+323,
+324,
+325,
+326,
+327,
+328,
+329
+],
+"type": "sword",
+"old": null,
+"desc_en": "Shamshir, wooden pistol grip, brass cross guard, black scabbard with brass mounts, watered blade",
+"confidence": "high",
+"note": "",
+"t0": "2025:02:16 20:50:29"
+}
+]
