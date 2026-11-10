@@ -1,0 +1,374 @@
+[
+ {
+  "ns": [
+   87,
+   88,
+   89,
+   90,
+   91,
+   92
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Ivory grip with inlaid dot/rosette pins, gold-koftgari pommel cap, wire-bound ferrule, plain steel cross guard; black tooled leather scabbard with silver lockets (pierced tops) and pierced gilt chape; gold lobed cartouche at forte",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Closest S-J-021 (ivory, pins, black tooled scabbard, gold cartouche) rejected: S-J-021 has plain grip with steel cap, engraved guard, copper-toned chape; S-J-002 rejected (fluted ivory).",
+  "cover_n": 89
+ },
+ {
+  "ns": [
+   93,
+   94,
+   95,
+   96,
+   97,
+   98
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Wooden pistol grip with carved rosette pommel, silver floral cross guard with knob finials; dark scabbard with engraved silver locket, mounts and chape; slotted gold-decorated fullers, gold pear-shaped cartouche and 'amal' cartouche",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "96 cartouche shows the fuller slot seen in 94/97 (DSC 5738 between 5725 and 5740). S-J-007 rejected (finger-grooved wavy grip with star inlay, different guard); S-J-026 rejected (dark wood grip, horse-head steel guard, full repousse scabbard).",
+  "cover_n": 95
+ },
+ {
+  "ns": [
+   99,
+   100,
+   101,
+   102,
+   103
+  ],
+  "cat": "S-J",
+  "type": "shamshir (broad yelman blade)",
+  "desc_en": "All-steel hilt with silver-inlaid pistol grip, steel cross guard; broad curved blade with false edge, gold-koftgari forte panel with central lion/roundel medallion and inscriptions; no scabbard",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-046 (all-steel shamshir) rejected: narrow blade with engraved (not gold) panels and slotted fuller.",
+  "cover_n": 99
+ },
+ {
+  "ns": [
+   104,
+   105,
+   106,
+   107,
+   108
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Carved floral ivory grip with gold-koftgari pommel cap, wire-bound ferrule, plain steel guard; black leather scabbard with diamond-lattice tooling, embossed copper/silver lockets and long brown leather/copper chape; watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "No catalog piece has the diamond-tooled scabbard with embossed copper lockets; S-J-037 (ridged brown scabbard, bone grip) rejected.",
+  "cover_n": 104
+ },
+ {
+  "ns": [
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Ivory grip painted/inlaid with orange-red floral scrolls, steel pommel cap, wire ferrule, steel cross guard; black tooled scabbard with leaf-shaped steel lockets and pinkish chape; engraved (non-gold) double cartouche; strong watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-035 (orange carved bone grip) rejected: carved flowers on orange ground, gold-outlined guard, brown scabbard with calligraphic lockets.",
+  "cover_n": 116
+ },
+ {
+  "ns": [
+   119,
+   120,
+   121,
+   122
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Ivory grip with pins and gilt pommel cap, steel cross guard; black tooled scabbard with polished silver teardrop lockets and pierced silver chape; watered blade (no hilt close-up in set)",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Similar to 158-163 and 87-92 but lockets/chape differ and no cartouche visible on blade; S-J-021/S-J-024 rejected (copper chapes, different mounts). Low certainty on uniqueness within folder.",
+  "cover_n": 119
+ },
+ {
+  "ns": [
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Fully silver repousse hilt with ball pommel and silver cross guard; red embroidered/velvet scabbard with large chased silver locket, mounts and scalloped chape; engraved gold-outlined cartouches, watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-004 (silver hilt, tan leather scabbard), S-J-012 and S-J-030 (ivory grips) rejected.",
+  "cover_n": 128
+ },
+ {
+  "ns": [
+   131,
+   132,
+   133
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Carved floral ivory grip with gold-koftgari pommel cap, plain steel guard; black leather scabbard with longitudinal grooved lines, steel lockets with pierced tops and pierced silver chape; watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-008 (grooved black scabbard) rejected: plain banded ivory grip, diamond guard, engraved lion roundel blade.",
+  "cover_n": 131
+ },
+ {
+  "ns": [
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140
+  ],
+  "cat": "S-J",
+  "type": "straight sword",
+  "desc_en": "Straight double-fullered blade, carved ivory pistol grip with silver pommel cap, long steel cross guard with trefoil ends; scabbard fully covered in chased silver floral work with silver lockets; gold cartouche on blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-014 (near-straight, ivory/gilt hilt, brown leather scabbard) rejected.",
+  "cover_n": 138
+ },
+ {
+  "ns": [
+   141,
+   142,
+   143,
+   144,
+   145,
+   146
+  ],
+  "cat": "S-J",
+  "type": "straight sword with knuckle guard",
+  "desc_en": "Steel hilt with horse-head quillon and horse-head knuckle-guard terminal; straight double-edged blade with gold-damascened medallions and wavy line; red embroidered scabbard with chased silver mounts and chape",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "No horse-head hilted piece in catalog (S-J-044 dragon-head quillons on curved blade with steel scabbard rejected).",
+  "cover_n": 144
+ },
+ {
+  "ns": [
+   147,
+   148,
+   149,
+   150
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Pinkish-orange stained ivory grip with white rosettes, gilt pommel cap, wire ferrule, steel guard; black tooled scabbard with plain steel locket; gold cartouches plus long gold inscription lines; watered blade (no overview in set)",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Grouped by DSC 6104-6123. S-J-035 rejected (carved orange grip, no cap, brown scabbard); S-J-020 rejected (wooden grip).",
+  "cover_n": 150
+ },
+ {
+  "ns": [
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Honey/amber-coloured ivory grip with gold-koftgari pommel, wire ferrule, steel guard with gold speckling; black tooled scabbard, silver lockets, gilt chape; three gold cartouches; watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-020 rejected (wooden grip with silver cap, long linear inscription).",
+  "cover_n": 157
+ },
+ {
+  "ns": [
+   158,
+   159,
+   160,
+   161,
+   162,
+   163
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Ivory grip with dot-inlay pins and gilt pommel cap, plain steel guard; black floral-tooled scabbard with silver lockets and pierced silver chape; three black-ground cartouches with gold outlines",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-021/S-J-024 rejected (different chapes, sword-knot, single cartouche).",
+  "cover_n": 161
+ },
+ {
+  "ns": [
+   164,
+   165,
+   166,
+   167,
+   171,
+   172
+  ],
+  "cat": "S-KJ",
+  "type": "kard",
+  "desc_en": "All-steel kard: faceted steel grip, straight single-edged blade with engraved floral forte panel",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "171 and 172 are two exports of DSC_6215. Catalog kards S-KJ-006/012/018/022 have wood or bone grips - rejected.",
+  "cover_n": 164
+ },
+ {
+  "ns": [
+   168,
+   169,
+   170
+  ],
+  "cat": "S-KJ",
+  "type": "jambiya",
+  "desc_en": "Carved pale-green jade hilt, pierced gilt collar with foliage, sharply curved double-edged blade; no scabbard",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-KJ-004 (jade-hilted straight knife in engraved silver scabbard) rejected: straight blade, different hilt.",
+  "cover_n": 168
+ },
+ {
+  "ns": [
+   173,
+   174,
+   175
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Carved floral ivory grip with pins and gold-koftgari pommel, steel cross guard with calligraphic medallion on dark ground; gold cartouches; watered blade (no overview in set)",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-034 and S-J-023 (calligraphic guards) rejected: plain ivory grips, different guard outlines.",
+  "cover_n": 173
+ },
+ {
+  "ns": [
+   176,
+   177,
+   178,
+   179
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Orange-red ivory/bone grip inlaid with small white floral pattern and pins, gilt pommel cap, steel guard; three gold cartouches incl. square magic grid; watered blade; no scabbard shown",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-035 rejected (carved flower relief, no pommel cap, gold-outlined guard).",
+  "cover_n": 176
+ },
+ {
+  "ns": [
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Smooth white ivory grip, gilt pommel cap, steel diamond guard with gold-koftgari border; black floral-tooled scabbard with silver lockets and gilt calligraphic chape; two gold cartouches 'La fata illa Ali / la sayf illa Dhu'l-faqar' with dated maker cartouche",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-009 rejected despite similar gilt-bordered guard: S-J-009 grip has gold pins, three cartouches, pale stone locket on scabbard.",
+  "cover_n": 187
+ },
+ {
+  "ns": [
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Carved floral ivory grip with gold-koftgari pommel, plain steel guard; black tooled scabbard with blackened lockets decorated with gold flowers and crowned suspension rings, pierced silver chape; strongly watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-042 (black-and-gold lockets) rejected: gilt-outlined cross guard and different chape; S-J-011 rejected (horn grip).",
+  "cover_n": 195
+ },
+ {
+  "ns": [
+   198,
+   199,
+   200,
+   201,
+   202,
+   203
+  ],
+  "cat": "S-KJ",
+  "type": "qama (kindjal)",
+  "desc_en": "Black horn grip with silver rosette rivets; long straight double-edged blade with offset fuller and stamped mark; red leather scabbard with silver repousse mounts and chape",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-KJ-021 (carved ivory qama, silver scabbard) and S-J-018 rejected.",
+  "cover_n": 203
+ },
+ {
+  "ns": [
+   204,
+   205,
+   206,
+   207,
+   208,
+   209
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Ivory grip with silver pommel cap, pierced gilt cross guard; gold inscription band along blade back and gold cartouches; black tooled scabbard with copper/gilt repousse locket and gilt chape",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-013/S-J-031/S-J-032 rejected (different hilts/scabbards).",
+  "cover_n": 208
+ },
+ {
+  "ns": [
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216
+  ],
+  "cat": "S-J",
+  "type": "shamshir",
+  "desc_en": "Ivory grip with dot-inlay pins and gold-koftgari pommel, long straight-quillon steel cross guard; black grooved/tooled scabbard with calligraphic steel lockets and gilt chape; two gold-outlined black cartouches ('Ali...', 'amal Muhammad...')",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-J-023/024/025/033/034/045 (calligraphic lockets) rejected: diamond/engraved guards and plain grips.",
+  "cover_n": 214
+ }
+]

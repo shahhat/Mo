@@ -13,3 +13,11 @@ Old → new: S001 S-KJ-002 · S002 S-KJ-003 · S003 S-J-026 · S004 S-J-027 · S
 
 Described in old sheet but no photos found: S006, S007, S008, S019, S021, S066, S071. No photos for S014.
 Logs: `logs/` (plan, groups, done_A/B/C, sheet rows).
+
+## Round 2 – raw sessions folder (1LdNIl3uwQaTZOGnzXkX8oeEJ9EsvtKP6)
+- 1,128 photos scanned; 299 are weapons (ISLAMIC TRESURES 73/75/76, جلسة 79, 25 nov 25). None existed in the weapons folder (all old photos are 2021–Feb 2025).
+- «25 nov 25» (56 photos) = exact copies of ISLAMIC TRESURES 75 → folder moved to «للحذف».
+- 243 unique shots → 36 pieces: 35 new (S-J-048..068, S-KJ-023..027, S-X-006..014) + 8 extra photos for S-J-046.
+- Each photo copied into its piece folder under the code name; the original in the sessions folder renamed to the same name (not moved).
+- Drive now: 109 pieces, 573 photos (verified by walk). Sheet: 109 rows.
+- PC scripts updated to 573 shots (multi-target keys for different exports of one frame). Copies on Drive root for download.

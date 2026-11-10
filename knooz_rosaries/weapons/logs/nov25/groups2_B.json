@@ -1,0 +1,269 @@
+[
+ {
+  "ns": [
+   329,
+   330,
+   331,
+   332,
+   333,
+   334,
+   335,
+   336,
+   337,
+   338,
+   339,
+   340
+  ],
+  "cat": "S-X",
+  "type": "shield (dhal)",
+  "desc_en": "Qajar steel shield, gold-and-silver damascened; central sun-face boss and four rosette bosses on six-lobed panels engraved with seated courtly figures and musicians; outer band of cartouches with chiselled (pseudo-)inscriptions alternating with bird/animal roundels; brass rim. 340 = plain iron inside with central rivet and four boss rivets",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-X-001 has four small bosses only, no sun face, all-over arabesque damascening and a red cushion inside — different shield. 340 (plain iron interior) assigned here: shot 2 min after 339, the four rivets in a square around the centre match the four bosses + sun boss; medium certainty since the inside rim edge looks rougher than the brass-rimmed front",
+  "cover_n": 337
+ },
+ {
+  "ns": [
+   341,
+   342,
+   343,
+   344,
+   345
+  ],
+  "cat": "S-X",
+  "type": "hide shield (dhal)",
+  "desc_en": "Hide (buffalo/rhino) shield, translucent orange-brown, gilt sunburst rosette at centre and six gilt lotus-flower bosses on red felt washers; back with red felt cushion, rope/cord handles and iron rings",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "No hide shield in catalog; S-X-001 is steel with 4 bosses (back shows dark steel with bright-red cushion and leather straps, not orange hide with faded felt cushion and cord)",
+  "cover_n": 342
+ },
+ {
+  "ns": [
+   346,
+   347,
+   348,
+   349,
+   350,
+   351,
+   352,
+   353,
+   354
+  ],
+  "cat": "S-X",
+  "type": "shield (dhal)",
+  "desc_en": "Steel shield with gold-line koftgari, sixteen-point radiating star/sunburst design, central sun-face boss and four rosette bosses; outer bands densely engraved with nasta'liq inscriptions and animal/hunting scrolls; back lined with red felt with four rings",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-X-001 front lacks the radiating star and sun-face boss and its back has a separate red cushion with straps, not a full red felt lining with rings; no other shield in catalog",
+  "cover_n": 346
+ },
+ {
+  "ns": [
+   355,
+   356,
+   357,
+   358,
+   359,
+   360,
+   361,
+   362,
+   363
+  ],
+  "cat": "S-X",
+  "type": "helmet (kulah khud)",
+  "desc_en": "Qajar steel kulah khud with mail aventail, engraved with seated figures/courtly scenes, gold koftgari cruciform panels, cartouche band with chiselled inscription round the rim, sliding nasal with heart-shaped terminal, two plume holders and central spike",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-X-003 is an arabesque/calligraphic silver-gold damascened helmet with nasta'liq band and bird-engraved nasal (no figural scenes); S-X-002 is a plain polished steel helmet with cuirass. This helmet (or a very similar one) is also worn by the mannequin in the mail-shirt shots 375/380/383/384",
+  "cover_n": 359
+ },
+ {
+  "ns": [
+   364,
+   365,
+   366,
+   367,
+   368,
+   369,
+   370,
+   371,
+   372,
+   373,
+   374
+  ],
+  "cat": "S-J",
+  "type": "sword (shamshir)",
+  "desc_en": "Shamshir with pistol grip of carved bone/ivory (peach-toned, strapwork and quatrefoil arabesques) fixed by two brass pins, plain steel cross guard with ball finials, watered blade with two chiselled cartouches, tang chiselled 'Allah'; black relief-tooled leather scabbard with oval steel lockets and wooden(?) chape",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Rejected S-J-035 (orange flower-carved grip, gilt cartouche guard, tooled brown scabbard) and S-J-043 (carved tan grip with rosette pommel, silver-engraved scabbard locket) after side-by-side comparison; S-J-033/034 have plain ivory grips",
+  "cover_n": 364
+ },
+ {
+  "ns": [
+   375,
+   376,
+   377,
+   378,
+   379,
+   380,
+   381,
+   382,
+   383,
+   384,
+   385,
+   386,
+   387,
+   388
+  ],
+  "cat": "S-X",
+  "type": "mail shirt (zereh)",
+  "desc_en": "Short-sleeved riveted mail shirt, open front closing with two leather-and-iron hook clasps, split/scalloped hem; displayed on mannequin with the figural kulah khud and an arm guard",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "No mail shirt in catalog (S-X-002 is a plate cuirass). 375/384 fronts and 380/383 backs show identical two-clasp closure, sleeve length and hem split -> treated as one shirt photographed in two passes (18:45 and 19:07); 378/385 clasp close-ups match",
+  "cover_n": 375
+ },
+ {
+  "ns": [
+   389,
+   390,
+   391,
+   392
+  ],
+  "cat": "S-X",
+  "type": "mail shirt (zereh)",
+  "desc_en": "Long mail shirt with elbow-length sleeves and tall standing mail collar, rust-brown patina, front slit",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Distinct from other shirts: standing mail collar, longer body/sleeves, no clasps visible; no mail shirt in catalog",
+  "cover_n": 389
+ },
+ {
+  "ns": [
+   393,
+   394,
+   395,
+   396,
+   397
+  ],
+  "cat": "S-X",
+  "type": "mail shirt (zereh)",
+  "desc_en": "Short-sleeved mail shirt with leather-lined collar, front closing with three iron flower-shaped hook clasps",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Leather collar and three rosette clasps distinguish it; 397 ring close-up shot 15 s after clasp close-ups 395/396 (next shirt starts 6 min later); no mail shirt in catalog",
+  "cover_n": 394
+ },
+ {
+  "ns": [
+   398,
+   399,
+   400,
+   401,
+   402
+  ],
+  "cat": "S-X",
+  "type": "mail shirt (zereh)",
+  "desc_en": "Long mail shirt with three-quarter sleeves, keyhole neck opening without collar, ragged hem",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Keyhole neck, no collar or clasps -> different from 375/389/393 shirts; 399-401 close-ups shot within 1 min of 398; no mail shirt in catalog",
+  "cover_n": 398
+ },
+ {
+  "ns": [
+   403,
+   404,
+   405,
+   406,
+   407,
+   408,
+   409,
+   410,
+   411,
+   412,
+   413
+  ],
+  "cat": "S-X",
+  "type": "arm guard (bazuband)",
+  "desc_en": "Qajar steel arm guard engraved with figural panels (seated musicians, princes, ladies) under gold-koftgari arches, cartouche with chiselled inscription; plain iron inside (413)",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-X-005 is a set of char-aina rectangular plates with gold borders and leather straps, not a bazuband; probably the arm guard worn on the mannequin in 375/384",
+  "cover_n": 403
+ },
+ {
+  "ns": [
+   547,
+   548,
+   549,
+   550,
+   551,
+   552
+  ],
+  "cat": "S-J",
+  "type": "sword (shamshir)",
+  "desc_en": "Shamshir with ivory grip and steel pommel cap, silver-and-gold koftgari cross guard, watered blade with one teardrop chiselled cartouche with gold outline; plain black leather scabbard with two oval koftgari lockets (floral, gold centre) and long koftgari chape",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "Rejected S-J-009 (gold-inlaid nasta'liq on blade, long gilt throat locket), S-J-021/024/027 (tooled leather, steel lockets, no koftgari), S-J-042 (gilt guard, tooled scabbard), S-J-029 (gilt grip mounts)",
+  "cover_n": 547
+ },
+ {
+  "ns": [
+   553,
+   554,
+   555,
+   556,
+   557,
+   558,
+   559,
+   560
+  ],
+  "cat": "S-J",
+  "type": "sword (shamshir)",
+  "desc_en": "All-steel shamshir, engraved steel pistol grip and cross guard, blade with figural cartouche at forte, long interlaced-calligraphy panel and teardrop cartouche, slotted fuller; black tooled leather scabbard with steel lockets",
+  "match": "S-J-046",
+  "match_conf": "high",
+  "evidence": "Same blade decoration sequence (figure panel at forte, interlaced calligraphic panel, teardrop cartouche, slotted fuller ending) and same engraved steel hilt with conical finials as S-J-046; scabbard not shown in old photos",
+  "cover_n": 555
+ },
+ {
+  "ns": [
+   734,
+   735,
+   736,
+   737,
+   738
+  ],
+  "cat": "S-KJ",
+  "type": "knife (kard)",
+  "desc_en": "Kard with straight single-edged watered blade and dark iron grip with gold-speckled koftgari; no scabbard",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "S-KJ-022 and S-KJ-012 have light wood/bone grips; S-KJ-006 wooden hilt with gilt scabbard; no dark iron-grip kard in catalog",
+  "cover_n": 734
+ },
+ {
+  "ns": [
+   752,
+   753,
+   754,
+   755,
+   756,
+   757,
+   758,
+   759,
+   760
+  ],
+  "cat": "S-KJ",
+  "type": "dagger (kard)",
+  "desc_en": "Kard with silver hilt and scabbard decorated with blue and green enamel (floral scrolls and inscription), bud-shaped chape finial, straight watered blade",
+  "match": null,
+  "match_conf": "none",
+  "evidence": "No enamelled dagger in catalog (S-KJ-008 is plain engraved silver; S-J-041 enamel is a sword)",
+  "cover_n": 758
+ }
+]
