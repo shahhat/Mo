@@ -15,7 +15,7 @@ The PC folder must hold exactly what Drive holds: nothing more, nothing less, wi
 ## 2. Current state (verified 2026-11-10)
 | Item | State |
 |---|---|
-| Drive weapons folder | **109 pieces / 573 photos**. S-J 001–068 (swords), S-KJ 001–027 (daggers/knives), S-X 001–014 (other). Every file is named `<code>-<n>.jpg` inside `<category>/<code>/`. Verified by walk + EXIF. |
+| Drive weapons folder | **110 pieces / 576 photos**. S-J 001–068 (swords), S-KJ 001–028 (daggers/knives), S-X 001–014 (other). Every file is named `<code>-<n>.jpg` inside `<category>/<code>/`. Verified by walk + EXIF. |
 | Category folders | `S-J - سيوف جوهر` (1vsCi6cf2yy8981gDaik7MqEoUpU7A_Sn), `S-KJ - خناجر وسكاكين جوهر` (1Vk-r6ZV8lrfT7AytIW4BRmK2r9OwarKr), `S-X - أسلحة أخرى` (18N8W46Yt8Z5oPV7UrQtmQT5fZzH6Ybio) |
 | `للحذف` on Drive | 1zyM__oVHaaCbNdbzfBDto4-n84C7fMDm. Holds the old folders (204 exact duplicates), «25 nov 25» (56 duplicates of ISLAMIC TRESURES 75) and 8 temporary shortcuts. |
 | Raw sessions folder | 1LdNIl3uwQaTZOGnzXkX8oeEJ9EsvtKP6. Its 243 weapons originals were **renamed in place** to the same code names; copies are in the weapons folder. Non-weapon photos were left untouched. |
@@ -49,7 +49,7 @@ Ready-made scripts are in `pc/` (also on the Drive weapons root). A local Claude
    - Target end state: it prints `PERFECT`.
 4. **If NOT_ON_DRIVE photos exist (the PC has more than Drive):**
    1. Look at them.
-   2. If a photo is a weapon, assign it to an existing piece (next index) or a new code: next free codes are S-J-069, S-KJ-028, S-X-015.
+   2. If a photo is a weapon, assign it to an existing piece (next index) or a new code: next free codes are S-J-069, S-KJ-029, S-X-015.
    3. Upload it into the piece folder on Drive (Google Drive MCP `create_file` with a file reference, or the owner drags it in).
    4. Rename it on the PC to match.
    5. Add or update the sheet row: columns no. / IMAGES `=IMAGE("https://drive.google.com/thumbnail?id=<id>&sz=w800")` / Description (leave empty) / Item Name / Item Category (Sword | Dagger / Knife | Other) / Price / Notes.
@@ -82,3 +82,9 @@ identical to the Drive weapons folder (same photos, same codes), using pc/drive_
 Back up first, show me the preview numbers before changing anything, never delete, duplicates to للحذف.
 Reply in Egyptian Arabic with tables.
 ```
+
+## 8. Update – weapon videos (2026-11-10)
+- 21 weapon videos from «_Knooz Videos (Full-edit)» copied to the new folder **«S - VID»** (1eHYW70hVssgVRFFqS-SjEEjm3NXNC31x). The originals were renamed in place to the same code (see `logs/videos/vplan.json`).
+- **New piece S-KJ-028** (Moroccan silver dagger) exists only as a video. Its folder 11l4JhPYRaVQHM6sdYAwNtVY2Oxjjyag9 holds 3 frames extracted from the 4K video. Those frames have no EXIF, so the PC check matches them by path. `drive_map_full.txt` now has 576 lines.
+- **Use the repo copy of `pc/knooz_verify_weapons.ps1`.** The copy on the Drive root is the older 573-photo version.
+- The video sheet «_Knooz Video Products» now uses weapon codes in column B (rows 30–37, 67–69, 83–87).
